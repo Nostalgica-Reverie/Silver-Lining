@@ -1,0 +1,13 @@
+name = "Nostalgica Reverie"
+author = "omo50, Adrenix, Bluestaggo"
+version = "1.0.0+mc1.21.1+neoforged"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c9de265010e2e49e21781f6bca9ee3fc822cd6c587b39a0b6cebd6058ef4ae74"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.174"
