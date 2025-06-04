@@ -389,11 +389,6 @@ hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
 
 [[files]]
-file = "mods/remapped.pw.toml"
-hash = "c6d065400201339ef97a2925595170b034d71f4acbf185591b48ca5d1511ebff"
-metafile = true
-
-[[files]]
 file = "mods/resolution-control-plus-plus.pw.toml"
 hash = "49b4b01eb3aae1cd5c78da42945be2635d4adfe525404fdc046c8bf73d9f8b34"
 metafile = true
