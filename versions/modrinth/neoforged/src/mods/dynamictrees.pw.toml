@@ -1,0 +1,13 @@
+name = "Dynamic Trees"
+filename = "dynamictrees-neoforge-1.21.1-1.5.0-BETA07.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vdjF5PL5/versions/wsGaCWOx/dynamictrees-neoforge-1.21.1-1.5.0-BETA07.jar"
+hash-format = "sha512"
+hash = "c61767723d4f7267289b78b2a93ab5d128c822213016d02693fd016ea85b8bc07828921086d6e539ad6dfd8e30b805a5bf8792c6424a0d936f9e6490b4d6278b"
+
+[update]
+[update.modrinth]
+mod-id = "vdjF5PL5"
+version = "wsGaCWOx"

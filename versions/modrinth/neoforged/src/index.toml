@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "aac3264b90df2d5233cf095b3280f9f458ac47e087ef7fe64facef1c4180032c"
+hash = "8bb06b2a708c361caf9b9390a71146454399107b26af47b37e6e83c6be71b927"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -71,6 +71,14 @@ hash = "22caf99f6531254b612c35bc12aff9c2b6d121b038b2e418a1a429049d16c9e0"
 [[files]]
 file = "config/yosbr/config/modmenu.json"
 hash = "ee8d1a6f11ea009f37abba6325d97766910e1786b0de848aa307771d8a87ed72"
+
+[[files]]
+file = "config/yosbr/config/nostalgic_tweaks/backup/nostalgic_tweaks-client-startup_backup.json"
+hash = "ac482bda9fdf75291c9276970daa3b467186b2e683f603848281c29c09f6f6f7"
+
+[[files]]
+file = "config/yosbr/config/nostalgic_tweaks/nostalgic_tweaks.json"
+hash = "b50a7b6ce45d537d3a98e411ba4a63a10a86318548d43804b357ae4f749ac006"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
@@ -154,6 +162,11 @@ hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
+file = "mods/configured-defaults.pw.toml"
+hash = "edccf044df3d6519c3f8cb35e1044687d1b5bdc676fdce919d0844a4d2515685"
+metafile = true
+
+[[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "52e2cb54ee2933bf00e9b7886f47938a2dce1bf998293be2b38552083ffa5f9a"
 metafile = true
@@ -176,6 +189,11 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "8e5f6550359e71ecbea95705ec61fb03313550e6f481cabf48043929909aabae"
+metafile = true
+
+[[files]]
+file = "mods/dynamictrees.pw.toml"
+hash = "fbe6fdfc4d7c36954991196d3d77eab45d7edd48afdb62120e3928a662051ad1"
 metafile = true
 
 [[files]]
@@ -226,11 +244,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
-metafile = true
-
-[[files]]
-file = "mods/fabricbettergrass.pw.toml"
-hash = "01408d3b2272f7b7c4d5c0496541940c189b852cc0290694a3a8fef7d6750965"
 metafile = true
 
 [[files]]
@@ -374,11 +387,6 @@ hash = "788152e1859ca0137bebdb9cdd770a4e3f0d12f9f6c23a6788092033d7cd3f85"
 metafile = true
 
 [[files]]
-file = "mods/puzzle.pw.toml"
-hash = "708b91626dd1582effcd39c97c6f2edab0421a96097a94f26bb9a12bb54c637d"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "b27fedf73ce2b829db06bf18fea5afd33f0a001b75465301c7f5bafe7e3c04d8"
 metafile = true
@@ -416,11 +424,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "90956e69d35ea7658d5a674b68662f51b09ba11596877170e5c01b2aaa3dcd49"
-metafile = true
-
-[[files]]
-file = "mods/threadtweak.pw.toml"
-hash = "e77fe4473df0685a27bdc27f9a50c0dced4d298a2765301c2b1f0b11e078a887"
 metafile = true
 
 [[files]]
@@ -486,4 +489,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "1a33e6d64e88ad59b65d126c6457d582e62724167349ea184eb237435298985e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/golden-days.pw.toml"
+hash = "387b644d037fc780957540afd3fcf6889aa3c6be8f895fbe6eef41dd8772762c"
 metafile = true
