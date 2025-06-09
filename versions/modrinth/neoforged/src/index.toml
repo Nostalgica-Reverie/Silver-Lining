@@ -17,62 +17,6 @@ file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
 hash = "69b2e8613a2e3084367295c7b74cb598957f97bb9b9cfe56eb7b7a3187d86b66"
 
 [[files]]
-file = "config/yosbr/config/badoptimizations.txt"
-hash = "f043b31a1fd029cbcd999a9ba184a1f66b4a8a8f020881c59b870436d8de1103"
-
-[[files]]
-file = "config/yosbr/config/bettergrass.json5"
-hash = "5ba4ad8c50ca8715fe648e7e68e8b5df0fe05acac0f9b152cedd93a6250ae386"
-
-[[files]]
-file = "config/yosbr/config/capes.json5"
-hash = "dda5b7b8f667e02c239390c96f2a6f84d2224c7be2449e2a75a2a7fc5a96e636"
-
-[[files]]
-file = "config/yosbr/config/citresewn.json"
-hash = "080ec08b7754723a3fa7c45cc0c37f251cc69ff5a07c06bb0f9cb40596373bbe"
-
-[[files]]
-file = "config/yosbr/config/controlify.json"
-hash = "bc7cfadfe7121fdbd356c7992705ea6f484de518d3fd473eb8c59ea93e79a04d"
-
-[[files]]
-file = "config/yosbr/config/dynamic_fps.json"
-hash = "b75ccc24ddb7fdd8e91f16a568885abd88b00876e9ffe40578d1cf0ce6d7371d"
-
-[[files]]
-file = "config/yosbr/config/enhanced_bes.properties"
-hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
-
-[[files]]
-file = "config/yosbr/config/entityculling.json"
-hash = "3955e3822546d7193b0432b91ba89e233a7b4aaf88cbf2883d1931c77bbc9fdb"
-
-[[files]]
-file = "config/yosbr/config/fastquit.toml"
-hash = "4c7872ece540160831d0c17e505336ffa2fba0748f3f32f137af1958272e200c"
-
-[[files]]
-file = "config/yosbr/config/ferritecore.mixin.properties"
-hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
-
-[[files]]
-file = "config/yosbr/config/immediatelyfast.json"
-hash = "fe6551b3aa77d3b624acff41ed6bf65b3d6d5c8821b7bda8875ff7b6b75e0c43"
-
-[[files]]
-file = "config/yosbr/config/iris.properties"
-hash = "4b404c16b82563e05e0cc8dc1218eb6194b2aa4473f348ff0c0c7a8655d9b5ff"
-
-[[files]]
-file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "22caf99f6531254b612c35bc12aff9c2b6d121b038b2e418a1a429049d16c9e0"
-
-[[files]]
-file = "config/yosbr/config/modmenu.json"
-hash = "ee8d1a6f11ea009f37abba6325d97766910e1786b0de848aa307771d8a87ed72"
-
-[[files]]
 file = "config/yosbr/config/nostalgic_tweaks/backup/nostalgic_tweaks-client-startup_backup.json"
 hash = "ac482bda9fdf75291c9276970daa3b467186b2e683f603848281c29c09f6f6f7"
 
@@ -81,40 +25,116 @@ file = "config/yosbr/config/nostalgic_tweaks/nostalgic_tweaks.json"
 hash = "b50a7b6ce45d537d3a98e411ba4a63a10a86318548d43804b357ae4f749ac006"
 
 [[files]]
-file = "config/yosbr/config/puzzle.json"
+file = "config/yosbr/options.txt"
+hash = "a737dd82279403a1a22b4dcd1fa3f99915f4feac38879042a8b1da6a4ccac199"
+
+[[files]]
+file = "configureddefaults/README.md"
+hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
+
+[[files]]
+file = "configureddefaults/config/badoptimizations.txt"
+hash = "f043b31a1fd029cbcd999a9ba184a1f66b4a8a8f020881c59b870436d8de1103"
+
+[[files]]
+file = "configureddefaults/config/bettergrass.json5"
+hash = "5ba4ad8c50ca8715fe648e7e68e8b5df0fe05acac0f9b152cedd93a6250ae386"
+
+[[files]]
+file = "configureddefaults/config/capes.json5"
+hash = "dda5b7b8f667e02c239390c96f2a6f84d2224c7be2449e2a75a2a7fc5a96e636"
+
+[[files]]
+file = "configureddefaults/config/citresewn.json"
+hash = "080ec08b7754723a3fa7c45cc0c37f251cc69ff5a07c06bb0f9cb40596373bbe"
+
+[[files]]
+file = "configureddefaults/config/controlify.json"
+hash = "bc7cfadfe7121fdbd356c7992705ea6f484de518d3fd473eb8c59ea93e79a04d"
+
+[[files]]
+file = "configureddefaults/config/dynamic_fps.json"
+hash = "b75ccc24ddb7fdd8e91f16a568885abd88b00876e9ffe40578d1cf0ce6d7371d"
+
+[[files]]
+file = "configureddefaults/config/enhanced_bes.properties"
+hash = "6ef9e4a1132e7aeab97f6829893124078b95be3c9a5b247754c2ccc9deb423ce"
+
+[[files]]
+file = "configureddefaults/config/entityculling.json"
+hash = "3955e3822546d7193b0432b91ba89e233a7b4aaf88cbf2883d1931c77bbc9fdb"
+
+[[files]]
+file = "configureddefaults/config/fastquit.toml"
+hash = "4c7872ece540160831d0c17e505336ffa2fba0748f3f32f137af1958272e200c"
+
+[[files]]
+file = "configureddefaults/config/ferritecore.mixin.properties"
+hash = "1fbbea658d8af2a751857e70cf2d5930a24490cc4c24f8db9b49630a818b895c"
+
+[[files]]
+file = "configureddefaults/config/immediatelyfast.json"
+hash = "fe6551b3aa77d3b624acff41ed6bf65b3d6d5c8821b7bda8875ff7b6b75e0c43"
+
+[[files]]
+file = "configureddefaults/config/iris.properties"
+hash = "4b404c16b82563e05e0cc8dc1218eb6194b2aa4473f348ff0c0c7a8655d9b5ff"
+
+[[files]]
+file = "configureddefaults/config/modernfix-mixins.properties"
+hash = "22caf99f6531254b612c35bc12aff9c2b6d121b038b2e418a1a429049d16c9e0"
+
+[[files]]
+file = "configureddefaults/config/modmenu.json"
+hash = "ee8d1a6f11ea009f37abba6325d97766910e1786b0de848aa307771d8a87ed72"
+
+[[files]]
+file = "configureddefaults/config/nostalgic_tweaks/backup/nostalgic_tweaks-client-startup_backup.json"
+hash = "dfdf5baa539e214d24ed6f504aabbb43856b5b27ea42913857aca84e24ca2b4c"
+
+[[files]]
+file = "configureddefaults/config/nostalgic_tweaks/nostalgic_tweaks.json"
+hash = "50f752f08c69ced40c304b24c2d44df8fbdf26daab64ba26e6ed122b15143f23"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "configureddefaults/config/paxi/resourcepack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "configureddefaults/config/puzzle.json"
 hash = "f546f5a9367d113277de4051e3c14b898dea9490d9bd9f8240f222e0ea062c22"
 
 [[files]]
-file = "config/yosbr/config/ryoamiclights.toml"
+file = "configureddefaults/config/ryoamiclights.toml"
 hash = "d6afc19db2764da5ae94c735f9544987a5a4686305d1478d31fdca800a94444c"
 
 [[files]]
-file = "config/yosbr/config/servercore/config.yml"
+file = "configureddefaults/config/servercore/config.yml"
 hash = "7ed78d3273aebb454ea062b841297b6a498364b997596383354402487e0e0434"
 
 [[files]]
-file = "config/yosbr/config/servercore/optimizations.yml"
+file = "configureddefaults/config/servercore/optimizations.yml"
 hash = "c1347aa983b02f5e59fcbd4f931501e2705330c5cf25e723d3239b85e6b6e262"
 
 [[files]]
-file = "config/yosbr/config/sodium-options.json"
+file = "configureddefaults/config/sodium-options.json"
 hash = "1570d389b7f47caa8256fcf023243cd510d37eda62a611c8e27936c12d93d806"
 
 [[files]]
-file = "config/yosbr/config/threadtweak.json"
+file = "configureddefaults/config/threadtweak.json"
 hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
 
 [[files]]
-file = "config/yosbr/config/vmp.properties"
-hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
+file = "configureddefaults/config/vmp.properties"
+hash = "9119e990f7bf6d27b9761144fa9a8ed9168a575f3c54d83815aedbbb3c594a49"
 
 [[files]]
-file = "config/yosbr/config/world-host.json5"
+file = "configureddefaults/config/world-host.json5"
 hash = "024ab81167c90c77a81797fdc769b7d4b96c2d2be076b5f94ce28c289c05cd1d"
-
-[[files]]
-file = "config/yosbr/options.txt"
-hash = "a737dd82279403a1a22b4dcd1fa3f99915f4feac38879042a8b1da6a4ccac199"
 
 [[files]]
 file = "mods/aether.pw.toml"
