@@ -58,7 +58,7 @@ hash = "b75ccc24ddb7fdd8e91f16a568885abd88b00876e9ffe40578d1cf0ce6d7371d"
 
 [[files]]
 file = "configureddefaults/config/enhanced_bes.properties"
-hash = "6ef9e4a1132e7aeab97f6829893124078b95be3c9a5b247754c2ccc9deb423ce"
+hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
 
 [[files]]
 file = "configureddefaults/config/entityculling.json"
@@ -90,19 +90,151 @@ hash = "ee8d1a6f11ea009f37abba6325d97766910e1786b0de848aa307771d8a87ed72"
 
 [[files]]
 file = "configureddefaults/config/nostalgic_tweaks/backup/nostalgic_tweaks-client-startup_backup.json"
-hash = "dfdf5baa539e214d24ed6f504aabbb43856b5b27ea42913857aca84e24ca2b4c"
+hash = "50f752f08c69ced40c304b24c2d44df8fbdf26daab64ba26e6ed122b15143f23"
 
 [[files]]
 file = "configureddefaults/config/nostalgic_tweaks/nostalgic_tweaks.json"
-hash = "50f752f08c69ced40c304b24c2d44df8fbdf26daab64ba26e6ed122b15143f23"
+hash = "d49285fe38b556a6a16b2e717550d42b5a4f8fefc1678f18a5110b5a047ce763"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "configureddefaults/config/paxi/datapacks/structuregen/data/minecraft/structures/village/plains/houses/blacksmith_1.nbt"
+hash = "7af9b33f81819f2bd07be49011c2fd2a2a0b5d9e58e65dc8850a9ab79b4a09f8"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/structuregen/data/minecraft/structures/village/plains/houses/butcher_1.nbt"
+hash = "60210479f8c304675933525068afb5c370a71d11e008787d4dd09f023d03f605"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/structuregen/data/minecraft/structures/village/plains/houses/church_1.nbt"
+hash = "5609d8a2fbc6ac2400037dfba2685860c4a655dff6cb437f9184b30debab38fd"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/structuregen/data/minecraft/structures/village/plains/houses/hut_1.nbt"
+hash = "dfebe67ec3aa1ad348d088a203c6bff4136ce1fbefa0b9e72995dd13d4f5e3d6"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/structuregen/data/minecraft/structures/village/plains/houses/hut_2.nbt"
+hash = "18d681142498ae9df957ab7a6928ed29ff864d9d27402f863e0838f40841838d"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/structuregen/data/minecraft/structures/village/plains/houses/hut_3.nbt"
+hash = "b171f86476dcecf519123cd4e6919da45befc5d20b26780193fc9156b8cc673f"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/structuregen/data/minecraft/structures/village/plains/houses/hut_4.nbt"
+hash = "ee96893760d057ff9baf2fecd766ca2e59012e8613377c402c22073a445c65ab"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/structuregen/data/minecraft/structures/village/plains/houses/hut_5.nbt"
+hash = "1af8e98714d1e87a3bfb730ce14cf53fb1b4752745eaa7153635f714e43f19e6"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/structuregen/data/minecraft/structures/village/plains/houses/hut_6.nbt"
+hash = "3c2c3014b9d0c1e75540230b0c9ce8d19c1236b041e2f35d319564137ee91121"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/structuregen/data/minecraft/structures/village/plains/houses/large_farm_1.nbt"
+hash = "a26ba403563dd9117faec342501f4b3857619c476110c7d74f026638cbf2ba04"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/structuregen/data/minecraft/structures/village/plains/houses/large_house_1.nbt"
+hash = "5b0ee9a02a31912a591363f127d60a0f5e2d8c75cdcfe8c3c9cd399968de5b7c"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/structuregen/data/minecraft/structures/village/plains/houses/library_1.nbt"
+hash = "44880cb131016035ccc3242c4b11e3f6624fb43b10570b6c043c3e9cca390fe3"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/structuregen/data/minecraft/structures/village/plains/houses/small_farm_1.nbt"
+hash = "26688969b719833a72096ec6760ec24c78c0eb4f25c4c38856da787ab48a9e8b"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/structuregen/data/minecraft/structures/village/plains/houses/small_house_1.nbt"
+hash = "30651a56750bca61323b78d0f28114e9ed7fa98348daa8cc2ec9d8cacb3fa706"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/structuregen/data/minecraft/structures/village/plains/houses/small_house_2.nbt"
+hash = "ca0ff2a7fcd6c2885ebf26cdd509a7319745dbf40befee1ea57fce34b1d3c714"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/structuregen/data/minecraft/structures/village/plains/lamp_post_1.nbt"
+hash = "c49d91616b2e092ccbfbd31ee97b1ac2ea5654dae9163a942f669b57ed28a0ca"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/structuregen/data/minecraft/structures/village/plains/streets/straight_1.nbt"
+hash = "57259a3445119bab19df110f8c171ba3c75cf6e08a420b6ecd7c2ec621011903"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/structuregen/data/minecraft/structures/village/plains/streets/straight_2.nbt"
+hash = "20a85d503c9a191b95b82df96c5ead4bb97a90080fb788967104e48122cd1fe9"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/structuregen/data/minecraft/structures/village/plains/streets/straight_3.nbt"
+hash = "13eb14de222b34754b1a0e3efa55b77354accba9d23d4e8c769ab00cba51d695"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/structuregen/data/minecraft/structures/village/plains/town_centers/well_1.nbt"
+hash = "6eb1229987e99f59733bbcffa04352f7135d3d78f0ab2ef4f514cdc5f2416e62"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/structuregen/data/minecraft/structures/village/plains/town_centers/well_bottom_1.nbt"
+hash = "268d3f1f1ec8f46e41bb832c6eecb58d58ead5463ad8c80f60339f4c5788a350"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/structuregen/pack.mcmeta"
+hash = "3151b84bca1b996a7f79b0ded5c659477616fd1018c4b307258f4e23d7f80257"
+
+[[files]]
 file = "configureddefaults/config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "configureddefaults/config/paxi/resourcepacks/wowassets/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "7ddc50fd1769e25f80b097dfecce18b7c4672d0ee2769efac4bcb8095a9b9422"
+
+[[files]]
+file = "configureddefaults/config/paxi/resourcepacks/wowassets/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "3dc7dc88934875d401d50a9117e498746d865c3bcd3e9ee12d6e8a37dfb646e6"
+
+[[files]]
+file = "configureddefaults/config/paxi/resourcepacks/wowassets/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "666edacf07606a8c17dbed9ff563ca44b960c362640a2db58af65b759a43f066"
+
+[[files]]
+file = "configureddefaults/config/paxi/resourcepacks/wowassets/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "a365dbfe08bf07b2f03485b2c447e2f797db5a78c56a2a3ac567e179eacfd743"
+
+[[files]]
+file = "configureddefaults/config/paxi/resourcepacks/wowassets/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "36d1a86ab48d0b6e7d47e0ff568acec8a5e0b0f5a4cf3008af30a1a034f3953e"
+
+[[files]]
+file = "configureddefaults/config/paxi/resourcepacks/wowassets/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "5a94f402c7b5d7a9070476734b6900adf1d39047ed999006c85a6a720fe2b6ce"
+
+[[files]]
+file = "configureddefaults/config/paxi/resourcepacks/wowassets/assets/minecraft/textures/gui/title/background/panorama_overlay.png"
+hash = "6c30f7a19b0663b8cfbe94b933f09f1d2db83acd58f9af1526d569ab779be748"
+
+[[files]]
+file = "configureddefaults/config/paxi/resourcepacks/wowassets/assets/minecraft/textures/gui/title/edition.png"
+hash = "0730e9b420686a7f85ee721d3660d3650d19685a762e85fb09d27a005c4eef04"
+
+[[files]]
+file = "configureddefaults/config/paxi/resourcepacks/wowassets/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "77c87607042c96535ca5c1631b77864ccc4af9163dad431bbf2b4e1059560646"
+
+[[files]]
+file = "configureddefaults/config/paxi/resourcepacks/wowassets/pack.mcmeta"
+hash = "31b40e797816c09b7b3d6eb854e8dd7f2fc43685caac7fb7691c90f78aa1f68c"
+
+[[files]]
+file = "configureddefaults/config/paxi/resourcepacks/wowassets/pack.png"
+hash = "575580a59b0c1e2da2f80deb66cf64c4390e979147bcbcbda1092fb2a43145fd"
 
 [[files]]
 file = "configureddefaults/config/puzzle.json"
@@ -130,7 +262,7 @@ hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
 
 [[files]]
 file = "configureddefaults/config/vmp.properties"
-hash = "9119e990f7bf6d27b9761144fa9a8ed9168a575f3c54d83815aedbbb3c594a49"
+hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
 
 [[files]]
 file = "configureddefaults/config/world-host.json5"
@@ -502,6 +634,6 @@ hash = "1a33e6d64e88ad59b65d126c6457d582e62724167349ea184eb237435298985e"
 metafile = true
 
 [[files]]
-file = "resourcepacks/golden-days.pw.toml"
-hash = "387b644d037fc780957540afd3fcf6889aa3c6be8f895fbe6eef41dd8772762c"
+file = "resourcepacks/pacp.pw.toml"
+hash = "1b2ee42699e928ceaedd271ef9e64d87057518b84f90d25c21d2b616f1cb8209"
 metafile = true
