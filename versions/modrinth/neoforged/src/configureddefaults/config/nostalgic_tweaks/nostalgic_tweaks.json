@@ -297,7 +297,7 @@
     "removeTitleLanguageButton": false,
     "removeExtraTitleButtons": true,
     "addQuitButton": true,
-    "titleVersionText": "Minecraft Alpha 1_21_01",
+    "titleVersionText": "Minecraft Alpha 1.21_01",
     "titleBottomLeftText": false,
     "titleTopRightDebugText": false,
     "removeTitleModLoaderText": true,
