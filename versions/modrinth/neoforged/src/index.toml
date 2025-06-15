@@ -273,6 +273,11 @@ file = "configureddefaults/options.txt"
 hash = "a08c2e1795c3e4061a3a90bdb948bca847cf4224fd0d35928769117699b21e5f"
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "3c70305d3401c5078b27c6b2b9eeb910dec0d908a5753bd062868add6d2ca1cb"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "1fa5075c1ebd310416d705674d6ae90975fa8971ce6cf04478f548a18c58d0da"
 metafile = true
@@ -290,6 +295,11 @@ metafile = true
 [[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "b065522e317aa748182d8a549db134331c3dbb1486e78f4178e2a6d0299eac25"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "4251cec80cb5687d2b0b2c2fe063b1ea9a7511c83ed22824342770919ea91feb"
 metafile = true
 
 [[files]]
@@ -333,6 +343,11 @@ hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "b8c42b048fde7533ade848f5e4fba86f50fae57c760c932fd8de6daece0a598a"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "8e5f6550359e71ecbea95705ec61fb03313550e6f481cabf48043929909aabae"
 metafile = true
@@ -360,6 +375,11 @@ metafile = true
 [[files]]
 file = "mods/ebe.pw.toml"
 hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "0b380e24e46e328c362bda7cff892c5b0e471789ca8c429fd2a588eaf63b8712"
 metafile = true
 
 [[files]]
@@ -533,6 +553,11 @@ hash = "788152e1859ca0137bebdb9cdd770a4e3f0d12f9f6c23a6788092033d7cd3f85"
 metafile = true
 
 [[files]]
+file = "mods/prickle.pw.toml"
+hash = "a69a8ba0d9e52361b1853cf59b2cf2a38b668b1d508a565f315f2fa30407f546"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "b27fedf73ce2b829db06bf18fea5afd33f0a001b75465301c7f5bafe7e3c04d8"
 metafile = true
@@ -585,6 +610,16 @@ metafile = true
 [[files]]
 file = "mods/world-host.pw.toml"
 hash = "b844c10676b5911a4d2af32710d21fa22eafafcb6e1e3505fb8651b643cd99f7"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "874e30e629a4d32dc35b37fae6ab6996f63a9f5f6fa3acb10a89d96a7ac6f740"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "4853035723ad5005425f408601ad878b1a6c28bf20ca9ab9c1ec0997e60c348e"
 metafile = true
 
 [[files]]
