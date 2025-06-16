@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": "silver_lining:oak_cherry_checked",
+    "features": [
+      {
+        "chance": 0.2,
+        "feature": "silver_lining:birch_tall_checked"
+      },
+      {
+        "chance": 0.2,
+        "feature": "minecraft:fancy_oak_bees_0002"
+      }
+    ]
+  }
+}

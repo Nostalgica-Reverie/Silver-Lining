@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": {
+    "minecraft:swamp": "minecraft:swamp_oak",
+    "moderner_beta:early_release_swampland": "minecraft:swamp_oak",
+    "moderner_beta:late_beta_swampland": "minecraft:swamp_oak",
+    "silver_lining:parched_forest": "silver_lining:trees_parched_oak"
+  }
+}

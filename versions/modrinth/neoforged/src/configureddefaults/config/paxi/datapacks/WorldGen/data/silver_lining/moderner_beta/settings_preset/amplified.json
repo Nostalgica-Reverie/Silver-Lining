@@ -1,0 +1,42 @@
+{
+  "chunkSettings": {
+    "moderner_beta:preset": "silver_lining:normal",
+    "moderner_beta:forced_biome_height": {
+      "depthWeight": 2.0,
+      "depthOffset": 1.0,
+      "scaleWeight": 4.0,
+      "scaleOffset": 1.0,
+      "heightOverrides": {
+        "moderner_beta:early_release_extreme_hills": "0.2;1.8",
+        "moderner_beta:late_beta_ice_plains*hills": "0.3;1.3",
+        "minecraft:jungle*hills": "1.8;0.5",
+        "minecraft:desert*hills": "0.3;0.8",
+        "moderner_beta:late_beta_taiga*hills": "0.3;1.0",
+        "moderner_beta:early_release_taiga*hills": "0.3;1.0",
+        "minecraft:forest*hills": "0.3;1.2",
+        "moderner_beta:early_release_swampland": "-0.2;0.2",
+        "moderner_beta:late_beta_swampland": "-0.1;0.6",
+        "silver_lining:parched_forest": "0.2;0.8",
+        "silver_lining:parched_forest*hills": "0.3;1.5",
+        "silver_lining:rainforest": "0.3;1.5",
+        "silver_lining:savanna": "0.2;0.5",
+        "silver_lining:savanna*hills": "1.8;0.5",
+        "silver_lining:highlands": "1.8;0.8",
+        "silver_lining:highlands*edge": "1.0;0.6",
+        "minecraft:badlands": "0.6;1.8",
+        "minecraft:wooded_badlands": "1.8;1.5",
+        "minecraft:windswept_hills": "1.5;1.5",
+        "minecraft:windswept_forest": "1.5;1.5",
+        "minecraft:river": "-0.75;0.25",
+        "minecraft:frozen_river": "-0.75;0.25",
+        "minecraft:ocean": "-1.0;-0.15"
+      }
+    }
+  },  
+  "biomeSettings": {
+    "moderner_beta:preset": "silver_lining:normal"
+  },
+  "caveBiomeSettings": {
+    "moderner_beta:preset": "silver_lining:normal"
+  }
+}
