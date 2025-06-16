@@ -58,7 +58,7 @@ hash = "b75ccc24ddb7fdd8e91f16a568885abd88b00876e9ffe40578d1cf0ce6d7371d"
 
 [[files]]
 file = "configureddefaults/config/enhanced_bes.properties"
-hash = "6ef9e4a1132e7aeab97f6829893124078b95be3c9a5b247754c2ccc9deb423ce"
+hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
 
 [[files]]
 file = "configureddefaults/config/entityculling.json"
@@ -594,7 +594,7 @@ hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/silver_lining/assets/minecraft/blockstates/bedrock.json"
-hash = "0e19d0a43ab662dab051d76677636f745128bd35c762f5c4b0bee87743ec00c6"
+hash = "b5bfb882369549d57e5c3335cd2503f85df960247a5fb831510126270a30798c"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/silver_lining/assets/minecraft/blockstates/black_stained_glass_pane.json"
@@ -618,11 +618,11 @@ hash = "9f03270dd931fb08aab819b9a7b626f3e7b0ec06aebf9b8665a3603fed8122ac"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/silver_lining/assets/minecraft/blockstates/dirt.json"
-hash = "8711bed9722ffc88b5d37f7243f0fd60ebfcff2f7fd311e7f6aadc02feabaafc"
+hash = "796d05314280fcdaae7d611d73762334a40b817da26774ee1f30935c08a6fc41"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/silver_lining/assets/minecraft/blockstates/dirt_path.json"
-hash = "1abaa00f144994f84adfa7fbc08f1577cca64fff0b115e46f8b5f6898308f0c3"
+hash = "a9095c1732669b779fb2e24a504642582556928e570ee97b1ef22d449fa7c62e"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/silver_lining/assets/minecraft/blockstates/glass_pane.json"
@@ -630,7 +630,7 @@ hash = "7e7b2e681ae7d38fc7bf8cdc6f698e2e7ad05799f08124837cee453121de0fa1"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/silver_lining/assets/minecraft/blockstates/grass_block.json"
-hash = "83bb8a0b708c4a8f100764a20ad0a58d5e43fe03e82f18ce4fdd7f4776b77076"
+hash = "77cdcfe1723edbf04fe28a75ace6c60be682f0f9110acdd82b5b0b8139189145"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/silver_lining/assets/minecraft/blockstates/gray_stained_glass_pane.json"
@@ -642,11 +642,11 @@ hash = "d99d6450b1f0d0b6af2ae882559a75899d001b348fb951d17beeec17827fddf3"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/silver_lining/assets/minecraft/blockstates/infested_deepslate.json"
-hash = "9f03270dd931fb08aab819b9a7b626f3e7b0ec06aebf9b8665a3603fed8122ac"
+hash = "c57f126a4434cb04ccf921af354dbbbdaf245aeac476391a0aac91569a434192"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/silver_lining/assets/minecraft/blockstates/infested_stone.json"
-hash = "a42f3d1e99301f10218a45cc261c67c960a2c44b4f52beb0a0e8ea46ccd5b58e"
+hash = "80302abd75390d1ad9ee2ef1d93a6863788dd163b579f11b2645d49d3eea6bbc"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/silver_lining/assets/minecraft/blockstates/iron_bars.json"
@@ -670,11 +670,11 @@ hash = "60294c00910cb3b2928cc672dc913c8a8ab5e9f51ffde62bfd56933ef63a7049"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/silver_lining/assets/minecraft/blockstates/mycelium.json"
-hash = "5521ad308f89171bb6d1c12360618e682bf8d4e32ab2db04cb05642e7be5b47b"
+hash = "caa66f712b23c4c6faaec2eda51d1bed71d309f490ed961b55253fb691e77e66"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/silver_lining/assets/minecraft/blockstates/netherrack.json"
-hash = "32cc32e5fa2b56dfa4f6fb81049526405cdd87b0e6fccc3c7dbaa0fa9c75cb06"
+hash = "b4ad3aca0949466b99a846f2bbaad670825688fa34ce7e810b4d9de59f994753"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/silver_lining/assets/minecraft/blockstates/orange_stained_glass_pane.json"
@@ -686,7 +686,7 @@ hash = "39fb73a79b1c3ad8bdbd833e9cd2e0379c75a55cb081a269433fc0eeb495ff79"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/silver_lining/assets/minecraft/blockstates/podzol.json"
-hash = "34ff5c4e186c43055a99168ebea0d6dace9cf83c08af5190d2eeb0bfe883817b"
+hash = "7c20630692fe7c44fede6b74af844bab0e9b8dd8fcabc3dfb0982dee9f9f05d8"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/silver_lining/assets/minecraft/blockstates/purple_stained_glass_pane.json"
@@ -694,7 +694,7 @@ hash = "1c1ce1a7f56e2dd254764570e6229ad57f8bfec1323abaf6ebda87dfd1db6f20"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/silver_lining/assets/minecraft/blockstates/red_sand.json"
-hash = "eae95333eb945b505167e45e962f4b3aa8a3b22ce817569bc79c85ec523ae593"
+hash = "ae10c705d64e355b3c1ca2f3ce9c3207274c5a10066d8b01b2577c67ee40e505"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/silver_lining/assets/minecraft/blockstates/red_stained_glass_pane.json"
@@ -702,15 +702,15 @@ hash = "c3f9d28481e47dac2f36c2843b968039e88db462dee467762b3ab19e2172849a"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/silver_lining/assets/minecraft/blockstates/sand.json"
-hash = "2e6566a59fcc17039046b9d6751d8540d76dce573dd954c89aad94d6c306a757"
+hash = "1fbfbddf84551c454aaf9ae645def9542e5e7a2c81ea931aa60a4d276ef41bec"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/silver_lining/assets/minecraft/blockstates/sculk.json"
-hash = "f021d46960c00f6fc1a92a69e57c806688f46089a8befee21fc35996f7369d38"
+hash = "eac89d897b8a00e28ddd5ba16ba5f3bae1e26d7231b6f47f4c524c95aa7789a8"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/silver_lining/assets/minecraft/blockstates/stone.json"
-hash = "a42f3d1e99301f10218a45cc261c67c960a2c44b4f52beb0a0e8ea46ccd5b58e"
+hash = "80302abd75390d1ad9ee2ef1d93a6863788dd163b579f11b2645d49d3eea6bbc"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/silver_lining/assets/minecraft/blockstates/white_stained_glass_pane.json"
@@ -1242,7 +1242,7 @@ hash = "400376bf32fb49a3587f67d9d1d9bd33c50054eb7bc3a2ab25cbe576d3fb36c8"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/silver_lining/assets/minecraft/textures/block/water_flow.png.mcmeta"
-hash = "802acdb8f55f30146d5ed18414b21ba35650d4e550f81825ea104131c12dc4fc"
+hash = "4a5dad045d1c6172b28dca8eda5ee036ecf966137cda30c64770bf48689c92d4"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/silver_lining/assets/minecraft/textures/block/water_overlay.png"
@@ -1258,7 +1258,7 @@ hash = "4a50e74a64231a691489d3927af9502f80d70c17bb1b49c9e13fdc78b6301106"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/silver_lining/assets/minecraft/textures/block/water_still.png.mcmeta"
-hash = "802acdb8f55f30146d5ed18414b21ba35650d4e550f81825ea104131c12dc4fc"
+hash = "4a5dad045d1c6172b28dca8eda5ee036ecf966137cda30c64770bf48689c92d4"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/silver_lining/assets/minecraft/textures/block/white_tulip.png"
@@ -1598,7 +1598,7 @@ hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
 
 [[files]]
 file = "configureddefaults/config/vmp.properties"
-hash = "9119e990f7bf6d27b9761144fa9a8ed9168a575f3c54d83815aedbbb3c594a49"
+hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
 
 [[files]]
 file = "configureddefaults/config/world-host.json5"
@@ -1606,7 +1606,7 @@ hash = "024ab81167c90c77a81797fdc769b7d4b96c2d2be076b5f94ce28c289c05cd1d"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "a08c2e1795c3e4061a3a90bdb948bca847cf4224fd0d35928769117699b21e5f"
+hash = "e83b3d6b240f079e847b3934c7888b101dcee810573fe54e16459a9effc9f50f"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
@@ -1810,7 +1810,7 @@ metafile = true
 
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
-hash = "fa3e6df3d222c94014c840673aa92455210d404eadceb05dd5ab3ae5a3eab6db"
+hash = "bb039470d6643b00dca912699715ba1c7264c2e7f5a617c4417b0aee53bf24a8"
 metafile = true
 
 [[files]]
@@ -1930,7 +1930,7 @@ metafile = true
 
 [[files]]
 file = "mods/villagerconfig.pw.toml"
-hash = "a26fbcaf43b63ede9488aa43de4c311151a0a96498c12a58a04e5ca8fa1ebe3b"
+hash = "6ff8300e0a6430cbf781e44dff8208c4fab55c5b173686d692eee21309915898"
 metafile = true
 
 [[files]]
