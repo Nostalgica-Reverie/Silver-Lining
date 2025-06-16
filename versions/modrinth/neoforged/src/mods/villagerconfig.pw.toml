@@ -1,0 +1,13 @@
+name = "Villager Config"
+filename = "villagerconfig-4.3.5+1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/OClpEDe3/versions/svHWCYBe/villagerconfig-4.3.5%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "68e291bb7d9bb931944147c1a2cae9c899c00c700ee002361cf2e9e242a84e1a14bbdd0f6fe91ad2383866ae5b468b5449aa92d83cc0856e483baa2e031454c4"
+
+[update]
+[update.modrinth]
+mod-id = "OClpEDe3"
+version = "svHWCYBe"

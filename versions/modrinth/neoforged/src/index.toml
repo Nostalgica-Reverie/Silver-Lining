@@ -1810,7 +1810,7 @@ metafile = true
 
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
-hash = "732e3a5fb7d7c41c380d1ba92118293db75d5a7f2c05a6df6ac04c54c4bd1a22"
+hash = "fa3e6df3d222c94014c840673aa92455210d404eadceb05dd5ab3ae5a3eab6db"
 metafile = true
 
 [[files]]
@@ -1926,6 +1926,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "90956e69d35ea7658d5a674b68662f51b09ba11596877170e5c01b2aaa3dcd49"
+metafile = true
+
+[[files]]
+file = "mods/villagerconfig.pw.toml"
+hash = "a26fbcaf43b63ede9488aa43de4c311151a0a96498c12a58a04e5ca8fa1ebe3b"
 metafile = true
 
 [[files]]
