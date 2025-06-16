@@ -1,0 +1,24 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:oak_boat"
+      },
+      "title": "Boatload!",
+      "description": "Make a boat.",
+      "frame": "task"
+    },
+    "parent": "minecraft:story/build_work_bench",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "tag": "minecraft:boats"
+            }
+          ]
+        }
+      }
+    }
+  }
+  

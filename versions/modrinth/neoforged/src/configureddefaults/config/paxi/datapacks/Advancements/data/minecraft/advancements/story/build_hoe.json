@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:wooden_hoe"
+    },
+    "title": "Time to Farm!",
+    "description": "Make a hoe",
+    "frame": "task"
+  },
+  "parent": "minecraft:story/build_work_bench",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "minecraft:hoes"
+          }
+        ]
+      }
+    }
+  }
+}

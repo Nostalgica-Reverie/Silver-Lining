@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "xercapaint:item_palette"
+    },
+    "title": "Time to Paint!",
+    "description": "Make a Palette using three planks and any dye",
+    "frame": "task"
+  },
+  "parent": "minecraft:story/build_work_bench",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "xercapaint:item_palette"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
