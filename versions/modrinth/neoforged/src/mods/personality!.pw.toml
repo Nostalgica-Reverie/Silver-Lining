@@ -1,0 +1,13 @@
+name = "Personality"
+filename = "personality-1.21.1-5.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zrAMu1nt/versions/ZRSpZ2fc/personality-1.21.1-5.0.0.jar"
+hash-format = "sha512"
+hash = "361ec3904f519aeb2e0eeca44a6aef236db2883efe4123a123ae4e43217521e8c9814f8c15dfdbd35d88fb87c731a8dd48a7522dd12bd07068ce9172ea768eec"
+
+[update]
+[update.modrinth]
+mod-id = "zrAMu1nt"
+version = "ZRSpZ2fc"

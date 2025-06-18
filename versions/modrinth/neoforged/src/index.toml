@@ -2969,6 +2969,11 @@ file = "configureddefaults/options.txt"
 hash = "e83b3d6b240f079e847b3934c7888b101dcee810573fe54e16459a9effc9f50f"
 
 [[files]]
+file = "mods/allurement!.pw.toml"
+hash = "3a65ac0f45561e694b85eee0c03af5d237d70abe12168986c1f853abac08fbfc"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "1fa5075c1ebd310416d705674d6ae90975fa8971ce6cf04478f548a18c58d0da"
 metafile = true
@@ -2989,6 +2994,16 @@ hash = "b065522e317aa748182d8a549db134331c3dbb1486e78f4178e2a6d0299eac25"
 metafile = true
 
 [[files]]
+file = "mods/blueprint.pw.toml"
+hash = "02c2891e2548adf5c59d0ef237ed01ffd89632b4908290269b513c4958ca9043"
+metafile = true
+
+[[files]]
+file = "mods/boatload.pw.toml"
+hash = "a72ca3dbb17810f9d3193fe9b0fffa94be0fa5f30f5bcb409e21746cfe17f741"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "1c503d79c08b71115d02ad4546b1a509fd2ee687a6e30017c1d90d59daaef590"
 metafile = true
@@ -3006,6 +3021,11 @@ metafile = true
 [[files]]
 file = "mods/capes.pw.toml"
 hash = "df21d4923d61c8d9199e602cca45695b7d17295fa8555f072d8d83045946ef3e"
+metafile = true
+
+[[files]]
+file = "mods/chunks-fade-in.pw.toml"
+hash = "8167495862ab369dc2dbc651ccedd74c14bd99691713aab6517c4353116fba25"
 metafile = true
 
 [[files]]
@@ -3041,6 +3061,11 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "8e5f6550359e71ecbea95705ec61fb03313550e6f481cabf48043929909aabae"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "632743d54d410c8b78fb92c94d8f3bb6a7a3faed45171f91e554877f94f82163"
 metafile = true
 
 [[files]]
@@ -3149,6 +3174,11 @@ hash = "a5dbb701e3c7e377cfbd6a595a0e743eee8471f07962712ac89ae34874f6b65d"
 metafile = true
 
 [[files]]
+file = "mods/iron-furnaces.pw.toml"
+hash = "e4b51a1521e59d80c6f291a871893d0de627610425543a2a6abac6d1580c27b9"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "2b699ec9fd674b493af0e52bc3ecbbdb3dc890a6d70f132dc146d5331c0d5b28"
 metafile = true
@@ -3226,6 +3256,11 @@ metafile = true
 [[files]]
 file = "mods/paxi.pw.toml"
 hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
+metafile = true
+
+[[files]]
+file = "mods/personality!.pw.toml"
+hash = "286eda3d98d0ede715cbb29c5f4845781bbc45b5a9982b5417e81f84dfd99a3e"
 metafile = true
 
 [[files]]
