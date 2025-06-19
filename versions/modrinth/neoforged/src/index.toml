@@ -3244,11 +3244,6 @@ hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
 metafile = true
 
 [[files]]
-file = "mods/personality!.pw.toml"
-hash = "286eda3d98d0ede715cbb29c5f4845781bbc45b5a9982b5417e81f84dfd99a3e"
-metafile = true
-
-[[files]]
 file = "mods/polytone.pw.toml"
 hash = "788152e1859ca0137bebdb9cdd770a4e3f0d12f9f6c23a6788092033d7cd3f85"
 metafile = true
