@@ -58,7 +58,7 @@ hash = "b75ccc24ddb7fdd8e91f16a568885abd88b00876e9ffe40578d1cf0ce6d7371d"
 
 [[files]]
 file = "configureddefaults/config/enhanced_bes.properties"
-hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
+hash = "6ef9e4a1132e7aeab97f6829893124078b95be3c9a5b247754c2ccc9deb423ce"
 
 [[files]]
 file = "configureddefaults/config/entityculling.json"
@@ -126,7 +126,7 @@ hash = "5143e6596e98b703e4fd38e985083d789a769f4754dfd69eec81d941b77980d2"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/end/find_end_city.json"
-hash = "756318ad96090e8a592df9d71a7579cc949c792604f98af299868297ec9142e5"
+hash = "2aa9b98dada10cc8e73a2958221ed883e3d336e96abebb43cb82cc158167a91e"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/end/kill_dragon.json"
@@ -270,7 +270,7 @@ hash = "b9be9d86f109f3242b7c6d8a446551f9db74c193052374383067296accef03ae"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/bake_cake.json"
-hash = "a41814d65857771afb68c10502da5ca881b7fd9d9ed7101d14cad65da2a14c81"
+hash = "4f0272ce64be81ff8be0e284ea9d98fc5bd0280ba853b4519518439040a7514b"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/bred_all_animals.json"
@@ -282,51 +282,51 @@ hash = "069b10b38e8b913af1a7ef2acb1136f751bf0f1bf5dd7b64a452223d086b4984"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/build_blast_furnace.json"
-hash = "7d9f786a588db8bf1b3444e44ba3b05df3f8325e6fe869bb1c8182f403bbbc78"
+hash = "18ad1433252b5efbb03d6ea1186e19efefe5318b75228b445010a761d512f054"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/build_boat.json"
-hash = "5e57adc0df2578c159d98943b769d2301926951a5cc0b4bdc157b58a82cef0e1"
+hash = "7c8fd8677b80fdf237aa1e6edef0993a8f3da08f933d06f47ddb5318f898284a"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/build_dispenser.json"
-hash = "449f904c6f8bd3be2c402391d8aa90162bc7db44a5172988dd3fc567fd4c5311"
+hash = "091c0475a86c84b6749fa60e246546f59f1d5ad5f5aaea7389f5056abc83d48a"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/build_furnace.json"
-hash = "61394c993172f3922b64ffe87d496a6900d34b3051d6bbd181472daa0ef1ad1e"
+hash = "f89f32892f36c190ffe645084c8db1d81e66b548fa4314d09b178459bec8d1c0"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/build_hoe.json"
-hash = "a096235b2b14b1d24494a2962819868b19c4e0b62776088e17610575b31836d1"
+hash = "f06503a38fda15f3d0d4121606dd46083bef8852a9d4cd6344c9e59776b0b4b6"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/build_kiln.json"
-hash = "30f6f222b801870bfeac4825d55e64742801378611801e58e64c404dd873e426"
+hash = "1a13e795d9bef73ac4bf5a7fa95cee8259afb606225f0855a9a2d1c39cdd1b6f"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/build_palette.json"
-hash = "742b3810798c26a96d458c7c7eb42854d1ddc75e2407653f1b528c769d1a727b"
+hash = "df2106e2ca4929f68d1b60060f3374df7d7fa37aedeb0f38a79a822d894dd798"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/build_pickaxe.json"
-hash = "ca81ecf7e050ac996243937d9b912a706719b92e42f4945e192694e8452df76a"
+hash = "bfb9a99117c9c336ff2888033fdafa544175c0ffc3a5ad24fce50656aab7e733"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/build_repeater.json"
-hash = "252488f66e54dfd2948c889b296b723aecf4933119f6b8b186e7199128abcb3c"
+hash = "0af8dfd1df9e01b92626018c50f571c0653746601b84363605b2c59f8c2dd305"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/build_smoker.json"
-hash = "e290a32644710d47d384587474759c0d06a63d982f0959ee543ce7910940952e"
+hash = "f1c68ab2cc23c15b02c421b7fc6ad2b9968322e4f7e814cc5076274f56a57aff"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/build_sword.json"
-hash = "406f031d5c096ad141034f8593ec0cd11de6f35ab55f47ecf5ea349e255f476a"
+hash = "cba65441ad415e7eceb54851751efa3b9cb8b04ea41098114dfe83d8b9416b4d"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/build_work_bench.json"
-hash = "3c3c4cc0d22d7d4793bc6f721c4cc6ff4ff2bb4ba6288c2d1c6ac05671c5fefa"
+hash = "4c46c3aa285c13bc368b40859e28e8d8e0fc9caefbe736189432afc5858e3bf7"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/bullseye.json"
@@ -418,7 +418,7 @@ hash = "6d45e7ef5539d298e707b18721a5f92503a5d6e7b669c0444eb62fc8ca5252ba"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/kill_cow.json"
-hash = "7ae102cf208aef24ad3be2b13c330ca0baa3f348fd11f8cc223f214dfaea22e3"
+hash = "508eacf12250d777d3f871d37f9d6399c9fbbf54e8b4008f2ad803f8f1683874"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/kill_mob_near_sculk_catalyst.json"
@@ -442,11 +442,11 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/make_bread.json"
-hash = "847d026a4ed81b4935408156311213450a846cb85fe63420b1b7c4233e16e192"
+hash = "b38408e8cfa349ff0586817cae353a0443ef72196036fd056df25a7b6ec63947"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/max_palette.json"
-hash = "90bf884430049432f255fdbc2ec8868fb2ea0ba198d61c3d840d88302c44bd8a"
+hash = "a67bfe136e0c515283a41f9936c25a0916dcdb2485b4f42683f90e22cc8bad3d"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/mine_diamond.json"
@@ -462,7 +462,7 @@ hash = "c19890bc3cbac5d9434cc007d59f859741de8c9b8cdc69b420dd807f30fd32c9"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/mine_wood.json"
-hash = "d8137d90f0122f558188019bbce8c708e509ac8e3391fa35bda368fb711b2a37"
+hash = "1b727c146dfbd675e124ff59fdf29aa38f381dcaa8191b36fc050c292b45af32"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/moar_tools.json"
@@ -570,7 +570,7 @@ hash = "dd965a8d909ac564bc28f54ae0ab1c564ad52336cff854313705746f278f490f"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/use_lodestone.json"
-hash = "9c84c6398a7bb9a0d838a8896bb59e33968c98ec2af6051dac2e94a4fb5780ce"
+hash = "8d3c452d1b5306020c16a05638498baef9d08dcd91dda31e953849bb81c4b3a9"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/walk_on_powder_snow_with_leather_boots.json"
@@ -1642,7 +1642,7 @@ hash = "426dc99d906bd50977360bb566518526a3535ef268d7bb12ca13698b4bcb56b6"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/WorldGen/data/rosegoldequipment/recipe/raw_rose_gold.json"
-hash = "b663b48db117df9ea638368a13e8f38eace48b76b20a9df87970cd8ef7a5a144"
+hash = "2cc36bacb5ac7a53676bee3eb3e109f3f225cdb6a886ec8ea8f9dafcc599ad25"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/WorldGen/data/silver_lining/advancement/recipes/building_blocks/calcite.json"
@@ -1982,7 +1982,7 @@ hash = "575580a59b0c1e2da2f80deb66cf64c4390e979147bcbcbda1092fb2a43145fd"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/bedrock.json"
-hash = "b5bfb882369549d57e5c3335cd2503f85df960247a5fb831510126270a30798c"
+hash = "0e19d0a43ab662dab051d76677636f745128bd35c762f5c4b0bee87743ec00c6"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/black_stained_glass_pane.json"
@@ -2006,11 +2006,11 @@ hash = "9f03270dd931fb08aab819b9a7b626f3e7b0ec06aebf9b8665a3603fed8122ac"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/dirt.json"
-hash = "796d05314280fcdaae7d611d73762334a40b817da26774ee1f30935c08a6fc41"
+hash = "8711bed9722ffc88b5d37f7243f0fd60ebfcff2f7fd311e7f6aadc02feabaafc"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/dirt_path.json"
-hash = "a9095c1732669b779fb2e24a504642582556928e570ee97b1ef22d449fa7c62e"
+hash = "1abaa00f144994f84adfa7fbc08f1577cca64fff0b115e46f8b5f6898308f0c3"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/glass_pane.json"
@@ -2018,7 +2018,7 @@ hash = "7e7b2e681ae7d38fc7bf8cdc6f698e2e7ad05799f08124837cee453121de0fa1"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/grass_block.json"
-hash = "77cdcfe1723edbf04fe28a75ace6c60be682f0f9110acdd82b5b0b8139189145"
+hash = "83bb8a0b708c4a8f100764a20ad0a58d5e43fe03e82f18ce4fdd7f4776b77076"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/gray_stained_glass_pane.json"
@@ -2030,11 +2030,11 @@ hash = "d99d6450b1f0d0b6af2ae882559a75899d001b348fb951d17beeec17827fddf3"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/infested_deepslate.json"
-hash = "c57f126a4434cb04ccf921af354dbbbdaf245aeac476391a0aac91569a434192"
+hash = "9f03270dd931fb08aab819b9a7b626f3e7b0ec06aebf9b8665a3603fed8122ac"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/infested_stone.json"
-hash = "80302abd75390d1ad9ee2ef1d93a6863788dd163b579f11b2645d49d3eea6bbc"
+hash = "a42f3d1e99301f10218a45cc261c67c960a2c44b4f52beb0a0e8ea46ccd5b58e"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/iron_bars.json"
@@ -2058,11 +2058,11 @@ hash = "60294c00910cb3b2928cc672dc913c8a8ab5e9f51ffde62bfd56933ef63a7049"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/mycelium.json"
-hash = "caa66f712b23c4c6faaec2eda51d1bed71d309f490ed961b55253fb691e77e66"
+hash = "5521ad308f89171bb6d1c12360618e682bf8d4e32ab2db04cb05642e7be5b47b"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/netherrack.json"
-hash = "b4ad3aca0949466b99a846f2bbaad670825688fa34ce7e810b4d9de59f994753"
+hash = "32cc32e5fa2b56dfa4f6fb81049526405cdd87b0e6fccc3c7dbaa0fa9c75cb06"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/orange_stained_glass_pane.json"
@@ -2074,7 +2074,7 @@ hash = "39fb73a79b1c3ad8bdbd833e9cd2e0379c75a55cb081a269433fc0eeb495ff79"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/podzol.json"
-hash = "7c20630692fe7c44fede6b74af844bab0e9b8dd8fcabc3dfb0982dee9f9f05d8"
+hash = "34ff5c4e186c43055a99168ebea0d6dace9cf83c08af5190d2eeb0bfe883817b"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/purple_stained_glass_pane.json"
@@ -2082,7 +2082,7 @@ hash = "1c1ce1a7f56e2dd254764570e6229ad57f8bfec1323abaf6ebda87dfd1db6f20"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/red_sand.json"
-hash = "ae10c705d64e355b3c1ca2f3ce9c3207274c5a10066d8b01b2577c67ee40e505"
+hash = "eae95333eb945b505167e45e962f4b3aa8a3b22ce817569bc79c85ec523ae593"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/red_stained_glass_pane.json"
@@ -2090,15 +2090,15 @@ hash = "c3f9d28481e47dac2f36c2843b968039e88db462dee467762b3ab19e2172849a"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/sand.json"
-hash = "1fbfbddf84551c454aaf9ae645def9542e5e7a2c81ea931aa60a4d276ef41bec"
+hash = "2e6566a59fcc17039046b9d6751d8540d76dce573dd954c89aad94d6c306a757"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/sculk.json"
-hash = "eac89d897b8a00e28ddd5ba16ba5f3bae1e26d7231b6f47f4c524c95aa7789a8"
+hash = "f021d46960c00f6fc1a92a69e57c806688f46089a8befee21fc35996f7369d38"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/stone.json"
-hash = "80302abd75390d1ad9ee2ef1d93a6863788dd163b579f11b2645d49d3eea6bbc"
+hash = "a42f3d1e99301f10218a45cc261c67c960a2c44b4f52beb0a0e8ea46ccd5b58e"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/white_stained_glass_pane.json"
@@ -2630,7 +2630,7 @@ hash = "400376bf32fb49a3587f67d9d1d9bd33c50054eb7bc3a2ab25cbe576d3fb36c8"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/block/water_flow.png.mcmeta"
-hash = "4a5dad045d1c6172b28dca8eda5ee036ecf966137cda30c64770bf48689c92d4"
+hash = "802acdb8f55f30146d5ed18414b21ba35650d4e550f81825ea104131c12dc4fc"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/block/water_overlay.png"
@@ -2646,7 +2646,7 @@ hash = "4a50e74a64231a691489d3927af9502f80d70c17bb1b49c9e13fdc78b6301106"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/block/water_still.png.mcmeta"
-hash = "4a5dad045d1c6172b28dca8eda5ee036ecf966137cda30c64770bf48689c92d4"
+hash = "802acdb8f55f30146d5ed18414b21ba35650d4e550f81825ea104131c12dc4fc"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/block/white_tulip.png"
@@ -2946,7 +2946,7 @@ hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
 
 [[files]]
 file = "configureddefaults/config/vmp.properties"
-hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
+hash = "9119e990f7bf6d27b9761144fa9a8ed9168a575f3c54d83815aedbbb3c594a49"
 
 [[files]]
 file = "configureddefaults/config/world-host.json5"
@@ -2954,11 +2954,11 @@ hash = "024ab81167c90c77a81797fdc769b7d4b96c2d2be076b5f94ce28c289c05cd1d"
 
 [[files]]
 file = "configureddefaults/config/xaerominimap-common.txt"
-hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
+hash = "b410746ddef0f7dd5f1d860ef3fcd6ad29c10988abbf6281181cb9c3acb628ca"
 
 [[files]]
 file = "configureddefaults/config/xaerominimap.txt"
-hash = "ca4b9cc1a5f5e06e0c71770ebf066a95d90a49a418af92adce41f9e62a5e1c12"
+hash = "ed2549f8a52da4f43d5950d432aced1ad292f58639aadc7515a4b8e2cc57d15f"
 
 [[files]]
 file = "configureddefaults/config/xaerominimap_entities.json"
@@ -2966,12 +2966,7 @@ hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "e83b3d6b240f079e847b3934c7888b101dcee810573fe54e16459a9effc9f50f"
-
-[[files]]
-file = "mods/allurement!.pw.toml"
-hash = "3a65ac0f45561e694b85eee0c03af5d237d70abe12168986c1f853abac08fbfc"
-metafile = true
+hash = "a781540cb8a7a8008555955a7484c133622922d881706d54926520cc04b3ad99"
 
 [[files]]
 file = "mods/amendments.pw.toml"
@@ -2994,18 +2989,8 @@ hash = "b065522e317aa748182d8a549db134331c3dbb1486e78f4178e2a6d0299eac25"
 metafile = true
 
 [[files]]
-file = "mods/blueprint.pw.toml"
-hash = "02c2891e2548adf5c59d0ef237ed01ffd89632b4908290269b513c4958ca9043"
-metafile = true
-
-[[files]]
-file = "mods/boatload.pw.toml"
-hash = "a72ca3dbb17810f9d3193fe9b0fffa94be0fa5f30f5bcb409e21746cfe17f741"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "1c503d79c08b71115d02ad4546b1a509fd2ee687a6e30017c1d90d59daaef590"
+hash = "2cd33b2219d6549ff7937b008299247201fbc6944889cf3be19e8c6553160585"
 metafile = true
 
 [[files]]
@@ -3055,7 +3040,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "c14f51386abbd5044ac0cdbc7bb2ab50e7298134ecd23c680c336bad8e00e4b3"
+hash = "4c4f1147928056651c4e92e20a510556053447776c322381bc0bd5d1f0f738e3"
 metafile = true
 
 [[files]]
@@ -3170,7 +3155,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "a5dbb701e3c7e377cfbd6a595a0e743eee8471f07962712ac89ae34874f6b65d"
+hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
 
 [[files]]
@@ -3200,7 +3185,7 @@ metafile = true
 
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
-hash = "bb039470d6643b00dca912699715ba1c7264c2e7f5a617c4417b0aee53bf24a8"
+hash = "fa3e6df3d222c94014c840673aa92455210d404eadceb05dd5ab3ae5a3eab6db"
 metafile = true
 
 [[files]]
@@ -3320,7 +3305,7 @@ metafile = true
 
 [[files]]
 file = "mods/villagerconfig.pw.toml"
-hash = "6ff8300e0a6430cbf781e44dff8208c4fab55c5b173686d692eee21309915898"
+hash = "a26fbcaf43b63ede9488aa43de4c311151a0a96498c12a58a04e5ca8fa1ebe3b"
 metafile = true
 
 [[files]]
@@ -3350,7 +3335,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "61357585c224dc0b58263e794ac7ddb5dbe013f2bb6390bae12f17e14958140a"
+hash = "077124b4342695ede01668748f99a6819576f64cc3b61fb59387c1a189c221c7"
 metafile = true
 
 [[files]]
