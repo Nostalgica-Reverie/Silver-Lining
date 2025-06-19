@@ -1077,8 +1077,84 @@ file = "configureddefaults/config/paxi/datapacks/ClassicVillages/pack.png"
 hash = "575580a59b0c1e2da2f80deb66cf64c4390e979147bcbcbda1092fb2a43145fd"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Recipes/data/wow/recipe/draft-1.json"
+file = "configureddefaults/config/paxi/datapacks/Recipes/data/wow/recipe/activator_rail.json"
+hash = "124b5bade920ebaaf5198ebbf06d799fda4305a7b65314422261afad255eb8d6"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Recipes/data/wow/recipe/amethyst_block.json"
+hash = "d93f62470257fe41c4b72fcbc9e4736ad6bb6e8d756e607608d8caf9b336b90b"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Recipes/data/wow/recipe/barrel.json"
+hash = "4e75c23f61276481139662b62f6a0d4fb455a10510223f262b92eb61fb731f8e"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Recipes/data/wow/recipe/blast_furnace.json"
+hash = "8b940bb3fc43ab93f4a94e5839e67f76e3c448f90c4c86b9141106ec4e9f7eb0"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Recipes/data/wow/recipe/chainmail_boots.json"
+hash = "603b3c5f9762611b019e2d8f857c22794e37ab22694095169039c3b5c30ae81a"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Recipes/data/wow/recipe/chainmail_chestplate.json"
+hash = "79f1604170bd80a2d9762f852d66515aff71d6c840884b7e8a22955c610551c1"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Recipes/data/wow/recipe/chainmail_helmet.json"
+hash = "0be3cedce840cb1e9e0733699f07a8ebfc6827c8383c6f691cdc49613322cf4f"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Recipes/data/wow/recipe/chainmail_leggings.json"
+hash = "4e9673fe90be681849e685f907a29e4887f884a5543bfd4315580004846d1a0a"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Recipes/data/wow/recipe/detector_rail.json"
+hash = "7f549189b72369678a7de4e85c65703d8fc8497470b94f5ac368ff60c8012aeb"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Recipes/data/wow/recipe/diamond_horse_armor.json"
+hash = "a6d473408a6eb4a86f2fca6fb204213edc87d8c7ff264263485d2d2da0ec1e43"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Recipes/data/wow/recipe/gold_horse_armor.json"
+hash = "2e79c216e6a0fc4bd1e581a07b1e44f427bbfd50446daf00d1ba466865356287"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Recipes/data/wow/recipe/iron_horse_armor.json"
+hash = "06c9f22d41d37716af2fd5bd5dba5b6c83d44b47bce0edc92b42335d7cc0dd01"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Recipes/data/wow/recipe/leather_horse_armor.json"
+hash = "5cc648abd461887d036ee5d3d3d109cfe8e3a745404fb6b2033e80f1b2fce837"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Recipes/data/wow/recipe/notch_apple.json"
 hash = "d128a62260f54f8ea15341e309dd1ae35fe54459f4983c7c7e27d01c2fa06bff"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Recipes/data/wow/recipe/powered_rail.json"
+hash = "786ee653dd32e069db3f396cefc9bc950ae98191a6a5b8dac4e12e8316f82bc3"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Recipes/data/wow/recipe/rail.json"
+hash = "08aafb178fa0e22fc1b82297fa511a3dbc7c0905ccc4d962f4dea4c52a458121"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Recipes/data/wow/recipe/saddle.json"
+hash = "711d476e2a866ab52a0481d727738345c95dab67a10b3c708ce2d2ac93dd0caa"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Recipes/data/wow/recipe/smoker.json"
+hash = "df0fca73dcd44cc49127e7926f7117d6aedc0d43a03abcb3e350086cf105967d"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Recipes/data/wow/recipe/smooth_stone.json"
+hash = "b030df278149f1dd7c3af8a2e855b4bf77618c08a877cb5c9518de2bff6e7bc0"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Recipes/data/wow/recipe/wool_recipe.json"
+hash = "5dcf906ec4e89b44c4ab84d2318be81095c35517e6ba6f8d08291dc32388a7a4"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/Recipes/pack.mcmeta"
@@ -3065,11 +3141,6 @@ hash = "8e5f6550359e71ecbea95705ec61fb03313550e6f481cabf48043929909aabae"
 metafile = true
 
 [[files]]
-file = "mods/cut-through.pw.toml"
-hash = "4c16ee75d3b04443e96d854eec79344293963e9f4beaaf8e7215023e8ef53b88"
-metafile = true
-
-[[files]]
 file = "mods/diagonal-fences.pw.toml"
 hash = "632743d54d410c8b78fb92c94d8f3bb6a7a3faed45171f91e554877f94f82163"
 metafile = true
@@ -3182,11 +3253,6 @@ metafile = true
 [[files]]
 file = "mods/infinite-music.pw.toml"
 hash = "f5afb2456a9d6809d335f84882fb8a944c52fa22510866b048f54f9c870fe90e"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "a5dbb701e3c7e377cfbd6a595a0e743eee8471f07962712ac89ae34874f6b65d"
 metafile = true
 
 [[files]]
