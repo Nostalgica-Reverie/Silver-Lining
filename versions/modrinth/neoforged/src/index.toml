@@ -3141,6 +3141,11 @@ hash = "8e5f6550359e71ecbea95705ec61fb03313550e6f481cabf48043929909aabae"
 metafile = true
 
 [[files]]
+file = "mods/darcenos-minecarts.pw.toml"
+hash = "cdb20a3f1ebe1014d65b19d33357a9ac5f93e06b497b62a1ee7978e3e517cc7a"
+metafile = true
+
+[[files]]
 file = "mods/diagonal-fences.pw.toml"
 hash = "632743d54d410c8b78fb92c94d8f3bb6a7a3faed45171f91e554877f94f82163"
 metafile = true
@@ -3292,7 +3297,7 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "53fdec0a0ece049e29d32aba04e28745bd2ba013b5b3eb3f02dedc0f7d17ef69"
+hash = "70c5976d74cdb3c0279185656acbf2f681999fb1f3b2126495c75ef9e891fd8d"
 metafile = true
 
 [[files]]
@@ -3333,6 +3338,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "b30bf3e10fdb43cb451091d4cc8ff88081895686c492c1bbff50ce0c74a3e85b"
+metafile = true
+
+[[files]]
+file = "mods/pack-analytics.pw.toml"
+hash = "1a356ed7ca04340624df47d61cb00def49ecce1fa8cfd0fc9ef9d0fd9944260d"
 metafile = true
 
 [[files]]
@@ -3398,6 +3408,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "90956e69d35ea7658d5a674b68662f51b09ba11596877170e5c01b2aaa3dcd49"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
 metafile = true
 
 [[files]]
