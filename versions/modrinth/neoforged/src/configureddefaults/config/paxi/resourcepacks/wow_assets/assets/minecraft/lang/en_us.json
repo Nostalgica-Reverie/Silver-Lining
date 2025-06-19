@@ -11,6 +11,6 @@
     "item.minecraft.compass.description": "§r§7Shows coordinates when held",
     "item.minecraft.clock.description": "§r§7Shows time when held",
     "generator.minecraft.medium_biomes": "Medium Biomes",
-    "generator.minecraft.classic": "Classic",
+    "generator.minecraft.classic": "Classic Terrain (1.6.4)",
     "generator.moderner_beta.moderner_beta": "Customized"
 }
