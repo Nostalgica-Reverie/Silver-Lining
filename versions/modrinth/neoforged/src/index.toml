@@ -2018,27 +2018,27 @@ hash = "f54b4040e9758821214c1bfd8c820590f26b7c84c23f81ce26483ce6d893d3ce"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/wow_assets/assets/minecraft/textures/gui/title/background/panorama_0.png"
-hash = "7ddc50fd1769e25f80b097dfecce18b7c4672d0ee2769efac4bcb8095a9b9422"
+hash = "25b261a7e759fa8ceca2e3a8f831da0c25f8e950a57b2f12a712b3315cfec682"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/wow_assets/assets/minecraft/textures/gui/title/background/panorama_1.png"
-hash = "3dc7dc88934875d401d50a9117e498746d865c3bcd3e9ee12d6e8a37dfb646e6"
+hash = "eaaff03dbe1f25e3d4f3d90aee96fe76d5730978b5989298c4a55c9e04afa7fd"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/wow_assets/assets/minecraft/textures/gui/title/background/panorama_2.png"
-hash = "666edacf07606a8c17dbed9ff563ca44b960c362640a2db58af65b759a43f066"
+hash = "a1d8a0c0ec0347c684b388248ae0e97b38f56f4bcdbab29c293b274363a61f5b"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/wow_assets/assets/minecraft/textures/gui/title/background/panorama_3.png"
-hash = "a365dbfe08bf07b2f03485b2c447e2f797db5a78c56a2a3ac567e179eacfd743"
+hash = "6c10fef1e6f866dc163492ba80b4e0d68ed7f6c58a6234e5872c55dcf99ba0b6"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/wow_assets/assets/minecraft/textures/gui/title/background/panorama_4.png"
-hash = "36d1a86ab48d0b6e7d47e0ff568acec8a5e0b0f5a4cf3008af30a1a034f3953e"
+hash = "3f5a35413f2674b9172406eae9a47760569807fce556558505f2d56f7423e063"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/wow_assets/assets/minecraft/textures/gui/title/background/panorama_5.png"
-hash = "5a94f402c7b5d7a9070476734b6900adf1d39047ed999006c85a6a720fe2b6ce"
+hash = "d56f048dce8e948430a21ad58f077ef7efb73cec9909cde9a6b9148aa1520d58"
 
 [[files]]
 file = "configureddefaults/config/paxi/resourcepacks/wow_assets/assets/minecraft/textures/gui/title/background/panorama_overlay.png"
@@ -3402,7 +3402,7 @@ metafile = true
 
 [[files]]
 file = "mods/villagerconfig.pw.toml"
-hash = "6ff8300e0a6430cbf781e44dff8208c4fab55c5b173686d692eee21309915898"
+hash = "b3df1bb4b6a7446ec567c76955658917d77dc09acbceb0a6d4f449c2f54af506"
 metafile = true
 
 [[files]]
@@ -3482,5 +3482,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/pacp.pw.toml"
-hash = "1b2ee42699e928ceaedd271ef9e64d87057518b84f90d25c21d2b616f1cb8209"
+hash = "602dc2d397d32d198b5ac905ad62eafa1af30351101ec16c67179aa6e7ad095b"
 metafile = true
