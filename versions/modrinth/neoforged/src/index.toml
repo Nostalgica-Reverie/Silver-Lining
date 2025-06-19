@@ -3321,6 +3321,11 @@ hash = "5b81cd94da55977b3fd23ae3cf6cb2f2b09d1c1194b81065a79f1e3e6c725f48"
 metafile = true
 
 [[files]]
+file = "mods/mutant-monsters.pw.toml"
+hash = "caa3e2282daef2c96ca71b329e07453d904aa338026e274c362432512b0129ca"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "b3e831b3e4d6ddbf23806b0fec6087eca264af1ebc04e747c89024972aaa8607"
 metafile = true
@@ -3368,6 +3373,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "b27fedf73ce2b829db06bf18fea5afd33f0a001b75465301c7f5bafe7e3c04d8"
+metafile = true
+
+[[files]]
+file = "mods/redirected.pw.toml"
+hash = "b0038c775e22fa883d474eb1ef0f686cc544091844e24a8a4b5774838059e808"
 metafile = true
 
 [[files]]
@@ -3422,7 +3432,7 @@ metafile = true
 
 [[files]]
 file = "mods/villagerconfig.pw.toml"
-hash = "b3df1bb4b6a7446ec567c76955658917d77dc09acbceb0a6d4f449c2f54af506"
+hash = "f4b08d5d73e12de24c7f424a281f58a700c44a6ad4d08e4c76addb310fd181bd"
 metafile = true
 
 [[files]]
