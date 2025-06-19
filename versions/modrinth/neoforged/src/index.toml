@@ -3049,8 +3049,23 @@ hash = "8e5f6550359e71ecbea95705ec61fb03313550e6f481cabf48043929909aabae"
 metafile = true
 
 [[files]]
+file = "mods/cut-through.pw.toml"
+hash = "4c16ee75d3b04443e96d854eec79344293963e9f4beaaf8e7215023e8ef53b88"
+metafile = true
+
+[[files]]
 file = "mods/diagonal-fences.pw.toml"
 hash = "632743d54d410c8b78fb92c94d8f3bb6a7a3faed45171f91e554877f94f82163"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-walls.pw.toml"
+hash = "bbc15c019fd260bbb9058b14a8e03232a55df77608d9aca466d051007d62abd2"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-windows.pw.toml"
+hash = "218dcd780f0251a15f78b097206ea22a519d57b974b39e2fdd43dce91ac07133"
 metafile = true
 
 [[files]]
@@ -3276,6 +3291,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "00f400af981bbe8be3767ef49f4bc422a9649c3fa2d403bae7b25202a05fda1a"
+metafile = true
+
+[[files]]
+file = "mods/skeleton-ai-fix.pw.toml"
+hash = "b3295b612d3bc08a027f1ed63763d03f8832f0696e5fdc6d423548cf8e7aa12b"
 metafile = true
 
 [[files]]

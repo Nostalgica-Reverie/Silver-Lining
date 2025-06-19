@@ -1,0 +1,13 @@
+name = "Skeleton AI Fix"
+filename = "SkeletonAIFix-v21.1.0-1.21.1-NeoForge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/jn24bUJo/versions/hiIfEeM5/SkeletonAIFix-v21.1.0-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "641473241a9c944002713fcdfd58c728acb6f9cae22dc2c113718859571e0ae29a5b235c7425408f83b0877f22fddfa54d8533105484343f3702f1aeef2a17b4"
+
+[update]
+[update.modrinth]
+mod-id = "jn24bUJo"
+version = "hiIfEeM5"
