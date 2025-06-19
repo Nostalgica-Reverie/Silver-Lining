@@ -3061,6 +3061,11 @@ file = "configureddefaults/options.txt"
 hash = "e64b4f267f74ff82608faa707d41cddc84ce1ed9deaabadcdcc6db884a547d7d"
 
 [[files]]
+file = "mods/air-hop.pw.toml"
+hash = "af86231a539b7c7a2e6deaf457b8ee4f239f6fa7467f1e064d562ec7f773a5bc"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "1fa5075c1ebd310416d705674d6ae90975fa8971ce6cf04478f548a18c58d0da"
 metafile = true
