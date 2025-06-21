@@ -3070,7 +3070,7 @@ hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "a781540cb8a7a8008555955a7484c133622922d881706d54926520cc04b3ad99"
+hash = "11b71e48ff6dc0c858d1462170b9c9cac9ff66ce5331dc01e110783035c3d2a7"
 
 [[files]]
 file = "mods/air-hop.pw.toml"
@@ -3475,6 +3475,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "077124b4342695ede01668748f99a6819576f64cc3b61fb59387c1a189c221c7"
+metafile = true
+
+[[files]]
+file = "mods/yeetus-experimentus.pw.toml"
+hash = "5e25dccab496945a5f19bb82383e0ebf98452ffc14cd25c7e0259cc44312281a"
 metafile = true
 
 [[files]]
