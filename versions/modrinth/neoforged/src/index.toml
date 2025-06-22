@@ -3434,7 +3434,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "c3a55e1fb24b0caabc684ce4465b91a40eb46f5dc42610dbf690328d839eccf4"
+hash = "a111eff55e662d63192d404c7495a059217fe1115640a0532ff4d8ff26d96ace"
 metafile = true
 
 [[files]]
@@ -3444,7 +3444,7 @@ metafile = true
 
 [[files]]
 file = "mods/villagerconfig.pw.toml"
-hash = "f4b08d5d73e12de24c7f424a281f58a700c44a6ad4d08e4c76addb310fd181bd"
+hash = "b492320f1a2ea0fad246c9f5fb63f56f0b4a70c878b99c5c147bc22242b5dfd7"
 metafile = true
 
 [[files]]
