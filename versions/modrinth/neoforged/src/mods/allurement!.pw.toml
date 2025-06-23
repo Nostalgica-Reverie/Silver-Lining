@@ -1,0 +1,13 @@
+name = "Allurement"
+filename = "allurement-1.21.1-5.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eIO12l2t/versions/7WQenUEL/allurement-1.21.1-5.0.0.jar"
+hash-format = "sha512"
+hash = "845c44079c7c986baabfc0ce27c2632a64a27b8c5770bafb58d7d2d1b4912c6f92c74b1ad895544db28ae19666e4ad6d9b1d3bdf5103df2c04b7f91efb803860"
+
+[update]
+[update.modrinth]
+mod-id = "eIO12l2t"
+version = "7WQenUEL"

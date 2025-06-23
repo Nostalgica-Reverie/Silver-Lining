@@ -3078,6 +3078,11 @@ hash = "af86231a539b7c7a2e6deaf457b8ee4f239f6fa7467f1e064d562ec7f773a5bc"
 metafile = true
 
 [[files]]
+file = "mods/allurement!.pw.toml"
+hash = "3a65ac0f45561e694b85eee0c03af5d237d70abe12168986c1f853abac08fbfc"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "1fa5075c1ebd310416d705674d6ae90975fa8971ce6cf04478f548a18c58d0da"
 metafile = true
@@ -3095,6 +3100,16 @@ metafile = true
 [[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "37a218f4aa85b545cc95b0a5c16d2da12c093c8a1a5a3bad60be72a4bf86a01a"
+metafile = true
+
+[[files]]
+file = "mods/blueprint.pw.toml"
+hash = "02c2891e2548adf5c59d0ef237ed01ffd89632b4908290269b513c4958ca9043"
+metafile = true
+
+[[files]]
+file = "mods/boatload.pw.toml"
+hash = "a72ca3dbb17810f9d3193fe9b0fffa94be0fa5f30f5bcb409e21746cfe17f741"
 metafile = true
 
 [[files]]
@@ -3314,7 +3329,7 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "3e46afb1e1d5ee9f64dd5c6f77d58fe22bed961793cb795547096bb8d1b7ee0d"
+hash = "0829467c88baee0068a2fd10601a7ac5ae3376ffb82272978de9f6672ff19c59"
 metafile = true
 
 [[files]]
@@ -3373,6 +3388,11 @@ hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
 metafile = true
 
 [[files]]
+file = "mods/personality!.pw.toml"
+hash = "286eda3d98d0ede715cbb29c5f4845781bbc45b5a9982b5417e81f84dfd99a3e"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
 hash = "788152e1859ca0137bebdb9cdd770a4e3f0d12f9f6c23a6788092033d7cd3f85"
 metafile = true
@@ -3399,7 +3419,7 @@ metafile = true
 
 [[files]]
 file = "mods/seasonhud.pw.toml"
-hash = "a5c90dc619795c31a7c731f9b806959421e6f553e9bc984e4535187896caed68"
+hash = "7f2c9d5d9126314d20e7c30f45e31f14b60fe9092c7a4d93788adac27d432cf6"
 metafile = true
 
 [[files]]
@@ -3444,7 +3464,7 @@ metafile = true
 
 [[files]]
 file = "mods/villagerconfig.pw.toml"
-hash = "8a0b0fc9d77eab5e995144109d018ee64d2fcfd27d0f39a2ca95fe49dc39bcfe"
+hash = "06f6cdfa90b6235e5d6aace35878e21fa8a966ba0aa4618359aead5681c76035"
 metafile = true
 
 [[files]]
