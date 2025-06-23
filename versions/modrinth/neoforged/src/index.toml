@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fml.toml"
+hash = "a8240a02c5e24d4c63e1113255955b104e82659568f78a099380fe58a396cdc9"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "8bb06b2a708c361caf9b9390a71146454399107b26af47b37e6e83c6be71b927"
 
