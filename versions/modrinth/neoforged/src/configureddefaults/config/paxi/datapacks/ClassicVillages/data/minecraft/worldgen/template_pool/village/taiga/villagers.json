@@ -1,6 +1,6 @@
 {
   "name": "minecraft:village/taiga/villagers",
-  "fallback": "minecraft:empty",
+  "fallback": "minecraft:village/taiga/villagers",
   "elements": [
     {
       "weight": 1,

@@ -1,6 +1,6 @@
 {
   "name": "minecraft:village/savanna/villagers",
-  "fallback": "minecraft:empty",
+  "fallback": "minecraft:village/savanna/villagers",
   "elements": [
     {
       "weight": 1,

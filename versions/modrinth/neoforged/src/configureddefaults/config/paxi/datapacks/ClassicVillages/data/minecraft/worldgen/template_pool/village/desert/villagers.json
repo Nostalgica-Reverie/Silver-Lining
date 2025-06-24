@@ -1,6 +1,6 @@
 {
   "name": "minecraft:village/desert/villagers",
-  "fallback": "minecraft:empty",
+  "fallback": "minecraft:village/desert/villagers",
   "elements": [
     {
       "weight": 1,

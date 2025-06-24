@@ -1,149 +1,359 @@
 {
-  "name": "minecraft:village/taiga/houses",
   "fallback": "minecraft:empty",
   "elements": [
     {
       "weight": 5,
       "element": {
-        "location": "minecraft:village/taiga/houses/hut_1",
-        "processors": "minecraft:village_common",
+        "element_type": "minecraft:list_pool_element",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "elements": [
+          {
+            "element_type": "minecraft:legacy_single_pool_element",
+            "projection": "rigid",
+            "location": "minecraft:village/taiga/houses/hut_base",
+            "override_liquid_settings": "ignore_waterlogging",
+            "processors": "minecraft:empty"
+          },
+          {
+            "element_type": "minecraft:legacy_single_pool_element",
+            "projection": "rigid",
+            "location": "minecraft:village/common/houses/hut_1",
+            "override_liquid_settings": "ignore_waterlogging",
+            "processors": "minecraft:village_taiga"
+          }
+        ]
       }
     },
     {
       "weight": 5,
       "element": {
-        "location": "minecraft:village/taiga/houses/hut_2",
-        "processors": "minecraft:village_common",
+        "element_type": "minecraft:list_pool_element",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "elements": [
+          {
+            "element_type": "minecraft:legacy_single_pool_element",
+            "projection": "rigid",
+            "location": "minecraft:village/taiga/houses/hut_base",
+            "override_liquid_settings": "ignore_waterlogging",
+            "processors": "minecraft:empty"
+          },
+          {
+            "element_type": "minecraft:legacy_single_pool_element",
+            "projection": "rigid",
+            "location": "minecraft:village/common/houses/hut_2",
+            "override_liquid_settings": "ignore_waterlogging",
+            "processors": "minecraft:village_taiga"
+          }
+        ]
       }
     },
     {
       "weight": 5,
       "element": {
-        "location": "minecraft:village/taiga/houses/hut_3",
-        "processors": "minecraft:village_common",
+        "element_type": "minecraft:list_pool_element",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "elements": [
+          {
+            "element_type": "minecraft:legacy_single_pool_element",
+            "projection": "rigid",
+            "location": "minecraft:village/taiga/houses/hut_base",
+            "override_liquid_settings": "ignore_waterlogging",
+            "processors": "minecraft:empty"
+          },
+          {
+            "element_type": "minecraft:legacy_single_pool_element",
+            "projection": "rigid",
+            "location": "minecraft:village/common/houses/hut_3",
+            "override_liquid_settings": "ignore_waterlogging",
+            "processors": "minecraft:village_taiga"
+          }
+        ]
       }
     },
     {
       "weight": 5,
       "element": {
-        "location": "minecraft:village/taiga/houses/hut_4",
-        "processors": "minecraft:village_common",
+        "element_type": "minecraft:list_pool_element",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "elements": [
+          {
+            "element_type": "minecraft:legacy_single_pool_element",
+            "projection": "rigid",
+            "location": "minecraft:village/taiga/houses/hut_base",
+            "override_liquid_settings": "ignore_waterlogging",
+            "processors": "minecraft:empty"
+          },
+          {
+            "element_type": "minecraft:legacy_single_pool_element",
+            "projection": "rigid",
+            "location": "minecraft:village/common/houses/hut_4",
+            "override_liquid_settings": "ignore_waterlogging",
+            "processors": "minecraft:village_taiga"
+          }
+        ]
       }
     },
     {
       "weight": 5,
       "element": {
-        "location": "minecraft:village/taiga/houses/hut_5",
-        "processors": "minecraft:village_common",
+        "element_type": "minecraft:list_pool_element",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "elements": [
+          {
+            "element_type": "minecraft:legacy_single_pool_element",
+            "projection": "rigid",
+            "location": "minecraft:village/taiga/houses/hut_base",
+            "override_liquid_settings": "ignore_waterlogging",
+            "processors": "minecraft:empty"
+          },
+          {
+            "element_type": "minecraft:legacy_single_pool_element",
+            "projection": "rigid",
+            "location": "minecraft:village/common/houses/hut_5",
+            "override_liquid_settings": "ignore_waterlogging",
+            "processors": "minecraft:village_taiga"
+          }
+        ]
       }
     },
     {
       "weight": 5,
       "element": {
-        "location": "minecraft:village/taiga/houses/hut_6",
-        "processors": "minecraft:village_common",
+        "element_type": "minecraft:list_pool_element",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "elements": [
+          {
+            "element_type": "minecraft:legacy_single_pool_element",
+            "projection": "rigid",
+            "location": "minecraft:village/taiga/houses/hut_base",
+            "override_liquid_settings": "ignore_waterlogging",
+            "processors": "minecraft:empty"
+          },
+          {
+            "element_type": "minecraft:legacy_single_pool_element",
+            "projection": "rigid",
+            "location": "minecraft:village/common/houses/hut_6",
+            "override_liquid_settings": "ignore_waterlogging",
+            "processors": "minecraft:village_taiga"
+          }
+        ]
       }
     },
     {
       "weight": 12,
       "element": {
-        "location": "minecraft:village/taiga/houses/small_house_1",
-        "processors": "minecraft:village_common",
+        "element_type": "minecraft:list_pool_element",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "elements": [
+          {
+            "element_type": "minecraft:legacy_single_pool_element",
+            "projection": "rigid",
+            "location": "minecraft:village/taiga/houses/small_house_base",
+            "override_liquid_settings": "ignore_waterlogging",
+            "processors": "minecraft:empty"
+          },
+          {
+            "element_type": "minecraft:legacy_single_pool_element",
+            "projection": "rigid",
+            "location": "minecraft:village/common/houses/small_house_1",
+            "override_liquid_settings": "ignore_waterlogging",
+            "processors": "minecraft:village_taiga"
+          }
+        ]
       }
     },
     {
       "weight": 12,
       "element": {
-        "location": "minecraft:village/taiga/houses/small_house_2",
-        "processors": "minecraft:village_common",
+        "element_type": "minecraft:list_pool_element",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "elements": [
+          {
+            "element_type": "minecraft:legacy_single_pool_element",
+            "projection": "rigid",
+            "location": "minecraft:village/taiga/houses/small_house_base",
+            "override_liquid_settings": "ignore_waterlogging",
+            "processors": "minecraft:empty"
+          },
+          {
+            "element_type": "minecraft:legacy_single_pool_element",
+            "projection": "rigid",
+            "location": "minecraft:village/common/houses/small_house_2",
+            "override_liquid_settings": "ignore_waterlogging",
+            "processors": "minecraft:village_taiga"
+          }
+        ]
       }
     },
     {
       "weight": 18,
       "element": {
-        "location": "minecraft:village/taiga/houses/large_house_1",
-        "processors": "minecraft:village_common",
+        "element_type": "minecraft:list_pool_element",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "elements": [
+          {
+            "element_type": "minecraft:legacy_single_pool_element",
+            "projection": "rigid",
+            "location": "minecraft:village/taiga/houses/large_house_base",
+            "override_liquid_settings": "ignore_waterlogging",
+            "processors": "minecraft:empty"
+          },
+          {
+            "element_type": "minecraft:legacy_single_pool_element",
+            "projection": "rigid",
+            "location": "minecraft:village/common/houses/large_house_1",
+            "override_liquid_settings": "ignore_waterlogging",
+            "processors": "minecraft:village_taiga"
+          }
+        ]
       }
     },
     {
       "weight": 12,
       "element": {
-        "location": "minecraft:village/taiga/houses/butcher_1",
-        "processors": "minecraft:village_common",
+        "element_type": "minecraft:list_pool_element",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "elements": [
+          {
+            "element_type": "minecraft:legacy_single_pool_element",
+            "projection": "rigid",
+            "location": "minecraft:village/taiga/houses/butcher_base",
+            "override_liquid_settings": "ignore_waterlogging",
+            "processors": "minecraft:empty"
+          },
+          {
+            "element_type": "minecraft:legacy_single_pool_element",
+            "projection": "rigid",
+            "location": "minecraft:village/common/houses/butcher_1",
+            "override_liquid_settings": "ignore_waterlogging",
+            "processors": "minecraft:village_taiga"
+          }
+        ]
       }
     },
     {
       "weight": 12,
       "element": {
-        "location": "minecraft:village/taiga/houses/library_1",
-        "processors": "minecraft:village_common",
+        "element_type": "minecraft:list_pool_element",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "elements": [
+          {
+            "element_type": "minecraft:legacy_single_pool_element",
+            "projection": "rigid",
+            "location": "minecraft:village/taiga/houses/library_base",
+            "override_liquid_settings": "ignore_waterlogging",
+            "processors": "minecraft:empty"
+          },
+          {
+            "element_type": "minecraft:legacy_single_pool_element",
+            "projection": "rigid",
+            "location": "minecraft:village/common/houses/library_1",
+            "override_liquid_settings": "ignore_waterlogging",
+            "processors": "minecraft:village_taiga"
+          }
+        ]
       }
     },
     {
       "weight": 24,
       "element": {
-        "location": "minecraft:village/taiga/houses/small_farm_1",
-        "processors": "minecraft:farm_common",
+        "element_type": "minecraft:list_pool_element",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "elements": [
+          {
+            "element_type": "minecraft:legacy_single_pool_element",
+            "projection": "rigid",
+            "location": "minecraft:village/common/farms/small_farm_base",
+            "override_liquid_settings": "ignore_waterlogging",
+            "processors": "minecraft:empty"
+          },
+          {
+            "element_type": "minecraft:legacy_single_pool_element",
+            "projection": "rigid",
+            "location": "minecraft:village/common/farms/small_farm_1",
+            "override_liquid_settings": "ignore_waterlogging",
+            "processors": "minecraft:village_taiga"
+          }
+        ]
       }
     },
     {
       "weight": 24,
       "element": {
-        "location": "minecraft:village/taiga/houses/large_farm_1",
-        "processors": "minecraft:farm_common",
+        "element_type": "minecraft:list_pool_element",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "elements": [
+          {
+            "element_type": "minecraft:legacy_single_pool_element",
+            "projection": "rigid",
+            "location": "minecraft:village/common/farms/large_farm_base",
+            "override_liquid_settings": "ignore_waterlogging",
+            "processors": "minecraft:empty"
+          },
+          {
+            "element_type": "minecraft:legacy_single_pool_element",
+            "projection": "rigid",
+            "location": "minecraft:village/common/farms/large_farm_1",
+            "override_liquid_settings": "ignore_waterlogging",
+            "processors": "minecraft:village_taiga"
+          }
+        ]
       }
     },
     {
       "weight": 6,
       "element": {
-        "location": "minecraft:village/taiga/houses/blacksmith_1",
-        "processors": "minecraft:village_common",
+        "element_type": "minecraft:list_pool_element",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "elements": [
+          {
+            "element_type": "minecraft:legacy_single_pool_element",
+            "projection": "rigid",
+            "location": "minecraft:village/taiga/houses/blacksmith_base",
+            "override_liquid_settings": "ignore_waterlogging",
+            "processors": "minecraft:empty"
+          },
+          {
+            "element_type": "minecraft:legacy_single_pool_element",
+            "projection": "rigid",
+            "location": "minecraft:village/common/houses/blacksmith_1",
+            "override_liquid_settings": "ignore_waterlogging",
+            "processors": "minecraft:village_taiga_keep_cobblestone"
+          }
+        ]
       }
     },
     {
       "weight": 6,
       "element": {
-        "location": "minecraft:village/taiga/houses/church_1",
-        "processors": "minecraft:village_common",
+        "element_type": "minecraft:list_pool_element",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "elements": [
+          {
+            "element_type": "minecraft:legacy_single_pool_element",
+            "projection": "rigid",
+            "location": "minecraft:village/taiga/houses/church_base",
+            "override_liquid_settings": "ignore_waterlogging",
+            "processors": "minecraft:empty"
+          },
+          {
+            "element_type": "minecraft:legacy_single_pool_element",
+            "projection": "rigid",
+            "location": "minecraft:village/common/houses/church_1",
+            "override_liquid_settings": "ignore_waterlogging",
+            "processors": "minecraft:village_taiga_keep_cobblestone"
+          }
+        ]
       }
     },
     {
       "weight": 12,
       "element": {
-        "location": "minecraft:village/taiga/lamp_post_1",
-        "processors": "minecraft:village_common",
+        "element_type": "minecraft:legacy_single_pool_element",
         "projection": "rigid",
-        "element_type": "minecraft:legacy_single_pool_element"
+        "location": "minecraft:village/common/lamp_post_1",
+        "override_liquid_settings": "ignore_waterlogging",
+        "processors": "minecraft:village_taiga"
       }
     },
     {
