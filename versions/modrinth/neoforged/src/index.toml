@@ -949,12 +949,96 @@ file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/
 hash = "08652f03ce2f5edf64d825d22b2781d1db1e80de52989fafe0753b32465c8d9b"
 
 [[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/houses/blacksmith_1.nbt"
+hash = "7af9b33f81819f2bd07be49011c2fd2a2a0b5d9e58e65dc8850a9ab79b4a09f8"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/houses/butcher_1.nbt"
+hash = "60210479f8c304675933525068afb5c370a71d11e008787d4dd09f023d03f605"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/houses/church_1.nbt"
+hash = "5609d8a2fbc6ac2400037dfba2685860c4a655dff6cb437f9184b30debab38fd"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/houses/hut_1.nbt"
+hash = "dfebe67ec3aa1ad348d088a203c6bff4136ce1fbefa0b9e72995dd13d4f5e3d6"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/houses/hut_2.nbt"
+hash = "18d681142498ae9df957ab7a6928ed29ff864d9d27402f863e0838f40841838d"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/houses/hut_3.nbt"
+hash = "b171f86476dcecf519123cd4e6919da45befc5d20b26780193fc9156b8cc673f"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/houses/hut_4.nbt"
+hash = "ee96893760d057ff9baf2fecd766ca2e59012e8613377c402c22073a445c65ab"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/houses/hut_5.nbt"
+hash = "1af8e98714d1e87a3bfb730ce14cf53fb1b4752745eaa7153635f714e43f19e6"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/houses/hut_6.nbt"
+hash = "3c2c3014b9d0c1e75540230b0c9ce8d19c1236b041e2f35d319564137ee91121"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/houses/large_farm_1.nbt"
+hash = "a26ba403563dd9117faec342501f4b3857619c476110c7d74f026638cbf2ba04"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/houses/large_house_1.nbt"
+hash = "5b0ee9a02a31912a591363f127d60a0f5e2d8c75cdcfe8c3c9cd399968de5b7c"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/houses/library_1.nbt"
+hash = "44880cb131016035ccc3242c4b11e3f6624fb43b10570b6c043c3e9cca390fe3"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/houses/small_farm_1.nbt"
+hash = "26688969b719833a72096ec6760ec24c78c0eb4f25c4c38856da787ab48a9e8b"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/houses/small_house_1.nbt"
+hash = "30651a56750bca61323b78d0f28114e9ed7fa98348daa8cc2ec9d8cacb3fa706"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/houses/small_house_2.nbt"
+hash = "ca0ff2a7fcd6c2885ebf26cdd509a7319745dbf40befee1ea57fce34b1d3c714"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/lamp_post_1.nbt"
+hash = "c49d91616b2e092ccbfbd31ee97b1ac2ea5654dae9163a942f669b57ed28a0ca"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/streets/straight_1.nbt"
+hash = "57259a3445119bab19df110f8c171ba3c75cf6e08a420b6ecd7c2ec621011903"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/streets/straight_2.nbt"
+hash = "20a85d503c9a191b95b82df96c5ead4bb97a90080fb788967104e48122cd1fe9"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/streets/straight_3.nbt"
+hash = "13eb14de222b34754b1a0e3efa55b77354accba9d23d4e8c769ab00cba51d695"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/town_centers/well_1.nbt"
+hash = "6eb1229987e99f59733bbcffa04352f7135d3d78f0ab2ef4f514cdc5f2416e62"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/town_centers/well_bottom_1.nbt"
+hash = "268d3f1f1ec8f46e41bb832c6eecb58d58ead5463ad8c80f60339f4c5788a350"
+
+[[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/farm_common.json"
-hash = "3a6d720009eadf4a13978c6b8b0da94ce2d5d721e7824ce88f7713590839ba25"
+hash = "e4322a3790bab65bb0d937c0202636fd7ac3c96bce3acd5368559b651e4a9cb2"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_common.json"
-hash = "b7db6c756dbb14e0c25d79fe084935adc21f5f2c5027907d56a8f5903a7892e7"
+hash = "b50dbd2c521ce786c9c9aa67421d16935ff42aaa1c5a5a056eba7ddf8ddc0eaa"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_desert_streets.json"
@@ -962,7 +1046,7 @@ hash = "942e4800e3c15d105c486a28117d00bb84a680375caec876bbf451247a17863c"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_plains_streets.json"
-hash = "ed63897711916ec24e6ea83fc08c4709b36192c24b80fc9b83ea5d5090bebb4f"
+hash = "7c02841798f5d59089891dc4530ea328265a618bf7483b1e168e853f34798bbf"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_savanna_streets.json"
@@ -973,12 +1057,20 @@ file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/
 hash = "3469ed7e00c4d2cd8d8343739124bbf687959ec1f47b071db87ccd37758a41b2"
 
 [[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/structure/mineshaft.json"
+hash = "6a57c6185b33989ec410b747ab5639887cab50c11393cdd53d40de5a155abc5b"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/structure/stronghold.json"
+hash = "74ed40c301aa98870861fc12376200f2642b120064a099648d5faa9fc84b7026"
+
+[[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/structure/village_desert.json"
 hash = "044dfac8dc8e165db80d59cdbcb5a246a5b2a76335a6e4243286597e24fa2296"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/structure/village_plains.json"
-hash = "14871e5f3d55cd97f671c62c3c82c89de9420190b08b8a2ed70eb7e98f7df4fa"
+hash = "c5b788a70188e88e787954ee2888b3c900223dfa13d0cc2ae275da5a928f8700"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/structure/village_savanna.json"
@@ -991,6 +1083,18 @@ hash = "8b869f176bb8567d548e3b14d11a65451d5981b793f57f6e00d50a22e0ea80cd"
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/structure/village_taiga.json"
 hash = "51d1057292dcf5636f9815c522e74f7794bc95399697256a079c81d70066db28"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/structure_set/mineshafts.json"
+hash = "8a489c0deea1023c7fba8b62adcbd8ad40835349fd7b19d5b7762f9c8babaae8"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/structure_set/strongholds.json"
+hash = "efac2e2976f903b89fe9532e7c8b297bd61aae3a16e92d9374b279b7f3109b95"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/structure_set/villages.json"
+hash = "ed58e82adb2285eb97fe526f020706f5d3c299d576f0fdb03927c9061ed849e7"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/desert/houses.json"
@@ -1014,23 +1118,23 @@ hash = "d61a91da37d5a71d0dd9dcdb21a8e712887e14396bc6a34786ef67f4dc9661b9"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/plains/houses.json"
-hash = "3581c7f68f44cfb49f88dc70ca5b4530b2958f1bbb95f14e8105d291c6d09241"
+hash = "3d31135419343c0e97a9ab4433a9c97c43f2788a1ddbdaeb2ddfa519c674f911"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/plains/streets.json"
-hash = "c995675f610cea8ed47b96275f729586fc0a71945a376e6079f9dff3497014a7"
+hash = "6c44d7e5381c4e09534788e3ff8ad27a12714600d0de019377e6f0504bc55726"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/plains/town_centers.json"
-hash = "d1c4123e2e0f8848a79e58e711355402f35f523d7e809a881989c415150bc750"
+hash = "6064e7144a44274a0875f067eaf254868215385a673faffb18023533f38761b6"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/plains/villagers.json"
-hash = "56afdaa81ba23bf3b6c1fdfd655900990147df9bdea5d4b4ec71d7753b570bd8"
+hash = "78124cb1c75a60ce83aaf7a482fbdbdde10e66d20c9ecd4f948faa001ffd942f"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/plains/well_bottom.json"
-hash = "d5e24f519f72961ee82a616a2e4c5e7b1c275f1485bad02a505f0a75117dc84f"
+hash = "060172854424ac2b24e59260c747d6efaf52a18ee1f4f8171f006364c76e7226"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/savanna/houses.json"
@@ -1071,6 +1175,26 @@ hash = "99ac1cac9e3cda54a661aff067bf39c597cd18ae72f4dafa0500d400a5f7ef20"
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/taiga/well_bottom.json"
 hash = "9e5e5f167bc22c90f148ebf477cc172364f6673b4b86c584ceb1d5b49bcb74cf"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/world_preset/infinite.json"
+hash = "23d1016d2d18d0bc6149ae5f1417cbead0638ec02bce84c4be616dd21c916210"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/world_preset/limited.json"
+hash = "f2baddbd29dd1157a74c4e31349c2f33a8834682a4de71c304d370b760b732cc"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/world_preset/limited_large.json"
+hash = "fe2f2274902b13a377b270d1cd5483051f8e5601f2a937b0e5c05e102607d804"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/world_preset/limited_medium.json"
+hash = "f487e7187631b7a8d1c64e41e7bb68ed8a4f3696a616ecb88b08999f437703b4"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/world_preset/limited_small.json"
+hash = "25ac32b9dfeeac0fee3c3338057405b234c688233c399d3b7a183078683098bd"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/pack.mcmeta"
@@ -3478,7 +3602,7 @@ metafile = true
 
 [[files]]
 file = "mods/villagerconfig.pw.toml"
-hash = "d757163c4afdf406ee1c3853f9237c22360c6ca492112b5776d6a846a88caf8d"
+hash = "be0885d6363352d453a2493d44ad329aa898bb157b9fa7e9625d042ccb0b241f"
 metafile = true
 
 [[files]]
