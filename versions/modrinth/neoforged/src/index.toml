@@ -3457,6 +3457,11 @@ hash = "a73dfb1bf6884ae786b2def0624dee9010bf121d0b5678b46043d9312f54b501"
 metafile = true
 
 [[files]]
+file = "mods/structory.pw.toml"
+hash = "f928ab705c93bfe8cf0ea98ca570906854064fea7f60f8b564b43a522265b082"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "a111eff55e662d63192d404c7495a059217fe1115640a0532ff4d8ff26d96ace"
 metafile = true
