@@ -138,19 +138,34 @@
       }
     },
     {
-      "weight": 104,
+      "weight": 12,
+      "element": {
+        "location": "minecraft:village/plains/lamp_post_1",
+        "processors": "minecraft:village_common",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 78,
       "element": {
         "element_type": "minecraft:empty_pool_element"
       }
     },
     {
-      "weight": 104,
+      "weight": 78,
       "element": {
         "element_type": "minecraft:empty_pool_element"
       }
     },
     {
-      "weight": 104,
+      "weight": 78,
+      "element": {
+        "element_type": "minecraft:empty_pool_element"
+      }
+    },
+    {
+      "weight": 78,
       "element": {
         "element_type": "minecraft:empty_pool_element"
       }
