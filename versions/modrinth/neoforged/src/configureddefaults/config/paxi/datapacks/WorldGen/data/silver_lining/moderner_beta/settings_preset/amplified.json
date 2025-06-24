@@ -29,7 +29,9 @@
         "minecraft:windswept_forest": "1.5;1.5",
         "minecraft:river": "-0.75;0.25",
         "minecraft:frozen_river": "-0.75;0.25",
-        "minecraft:ocean": "-1.0;-0.15"
+        "minecraft:ocean": "-1.0;-0.15",
+        "minecraft:jungle*lake": "-0.75;0.25",
+        "moderner_beta:early_release_swampland*lake": "-0.75;0.25"
       }
     }
   },  

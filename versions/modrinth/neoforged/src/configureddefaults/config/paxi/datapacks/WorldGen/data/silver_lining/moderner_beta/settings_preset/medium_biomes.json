@@ -520,7 +520,7 @@
             {
               "data": {
                 "type": "biome",
-                "value": "minecraft:river"
+                "value": "minecraft:jungle*lake"
               },
               "weight": 1
             },
@@ -541,7 +541,7 @@
             {
               "data": {
                 "type": "biome",
-                "value": "minecraft:river"
+                "value": "moderner_beta:early_release_swampland*lake"
               },
               "weight": 1
             },

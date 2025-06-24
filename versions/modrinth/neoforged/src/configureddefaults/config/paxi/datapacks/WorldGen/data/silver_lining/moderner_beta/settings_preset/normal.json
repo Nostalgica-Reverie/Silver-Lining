@@ -38,7 +38,9 @@
         "minecraft:wooded_badlands": "1.8;1.5",
         "minecraft:windswept_hills": "1.5;1.5",
         "minecraft:windswept_forest": "1.5;1.5",
-        "minecraft:stony_shore": "0.5;1.0"
+        "minecraft:stony_shore": "0.5;1.0",
+        "minecraft:jungle*lake": "-0.5;0.0",
+        "moderner_beta:early_release_swampland*lake": "-0.5;0.0"
       },
       "scaleOffset": 0.0,
       "scaleWeight": 1.0
@@ -585,7 +587,7 @@
             {
               "data": {
                 "type": "biome",
-                "value": "minecraft:river"
+                "value": "minecraft:jungle*lake"
               },
               "weight": 1
             },
@@ -606,7 +608,7 @@
             {
               "data": {
                 "type": "biome",
-                "value": "minecraft:river"
+                "value": "moderner_beta:early_release_swampland*lake"
               },
               "weight": 1
             },

@@ -109,480 +109,664 @@ file = "configureddefaults/config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/adventure/root.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/advancement/acquire_hardware.json"
+hash = "89c48f11f07d17bd4c3aac7fdab0851640efa698f08896a766857015619f446a"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/adventure/very_very_frightening.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/advancement/adventuring_time.json"
+hash = "4438907eda347e7bc3a1dd1155f076826931be011ad2585306b4959424547841"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/end/dragon_breath.json"
-hash = "54e37050c200a3bd8020e66928118a54d791a702798cb3cef30915abc6822c39"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/advancement/bake_bread.json"
+hash = "88b2f7ee38e1c30ed09d5b995060f48f16469a5f53f16d75fceb557d7192ff37"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/end/dragon_egg.json"
-hash = "4102cf5d15d188d6a4e4e3f424213e1810b78fd2c76c4cf3dd92073eaddcab92"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/advancement/beaconator.json"
+hash = "b3b3c32906fe392919505e34813ce357490cd0def24777982f6d2320181324ba"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/end/elytra.json"
-hash = "5ba375f66685f988a471e20c26b52aac9b3c23f26090caa7b66dec879fff2bf1"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/advancement/benchmarking.json"
+hash = "6aea56f5afd6b3a9454d6bf1f4d5cf85aada57a368d7cd168c123f2bbcbacfe5"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/end/enter_end_gateway.json"
-hash = "5143e6596e98b703e4fd38e985083d789a769f4754dfd69eec81d941b77980d2"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/advancement/cow_tipper.json"
+hash = "9f6c4aa50977eda07c0e898d46f165004da357a897758f05ef38f52814853299"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/end/find_end_city.json"
-hash = "2aa9b98dada10cc8e73a2958221ed883e3d336e96abebb43cb82cc158167a91e"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/advancement/delicious_fish.json"
+hash = "5939835fb17922c0c316b61d90e5f2770974b176d4d461299f8104b665c762cc"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/end/kill_dragon.json"
-hash = "af0d337b1da1b1b2a67a4047a76b374b536cc34d06b0db8de5c00ba3c06ea666"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/advancement/diamonds.json"
+hash = "d02a78c404e43de026cabcdd64adff9a157ef0922b220ff6c1300eb498305566"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/end/levitate.json"
-hash = "fe601f4d904dee4db9aeaac2c46e42327caf19db5ebfe33638f18f0b3ddef42f"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/advancement/diamonds_to_you.json"
+hash = "4961dc31d1d0b836086056b1be8b104ee764d9d748c3668e81f6451c3a3f421b"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/end/mine_opal.json"
-hash = "1c7f5f7787e2308c7f8a99e77998d4ccde25bf105e81b1a52989b60528eae599"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/advancement/enchanter.json"
+hash = "1c5e35d54f190d101aaee1d6ca12a0baf4756807e8ec2e2a5382ab4b64b96f99"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/end/respawn_dragon.json"
-hash = "f3f920670a34d193cf38e56bac528354e4b01050dfbd045c447b5aa4d985d657"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/advancement/getting_an_upgrade.json"
+hash = "aaa6bcacfe8928da8e72061257ee9613acb7df56c4a78e6039e6abda862dcbb8"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/end/root.json"
-hash = "7240f8aeccbeda6bebbe917f83f907250e8bb63cf4857ee2d56560238ae7eed2"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/advancement/getting_wood.json"
+hash = "53a53d840a8d870dc5546bb680a4ee4a8369361ba5172a00adde01aa1afbacb2"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/end/smelt_bismuth.json"
-hash = "7408eea8c7531e35736e4302078055b645291a5e43959c7328ffa76a15021177"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/advancement/hot_topic.json"
+hash = "0aa4e29b1481aee1bd90dc3d84674d799adc1667a9894b7072a3a778e4e5588e"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/end/smelt_titanium.json"
-hash = "b791a9a14a3c32ccf44b44a2ad0a00c568e7cb5c1aa8255c7d92c072698da814"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/advancement/into_fire.json"
+hash = "1fb3226d98872ada335389976a7480dc0cc2d6f8288df13b49f1168db8b1658f"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/husbandry/root.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/advancement/kill_dragon.json"
+hash = "77583e8c706a52888190b15824e63bad2f947aff3e58b1f18d63008390d98c50"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/nether/all_effects.json"
-hash = "1088f309237132f22e728b3405df2bd16d6becdd301a42a264b3cfccf39e1796"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/advancement/kill_wither.json"
+hash = "936c37b2f78addd70264126e6185377486b2956de5f92f22c0272e32c7398d1f"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/nether/all_potions.json"
-hash = "b97e1dce4c1fe769fae29e45f453b1559bd2c99bd571b4440ea1f80d27a9d6b6"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/advancement/librarian.json"
+hash = "9826bdc2dfb9670a976c606dd5cc15d20d2b2b3fae53cc42aea33ec3af081042"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/nether/brew_potion.json"
-hash = "1ea2645521701fe2d3922f5ef00d5b6f1ef7fd7a87d4ba00bba131ad4b676cda"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/advancement/local_brewery.json"
+hash = "1cdf4073db0eb5d2da9aee659d1c4da8b12d4136ec9d93cd9fcc425be84f9084"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/nether/charge_respawn_anchor.json"
-hash = "f0fa427854fdf20376e736b52f8b185fc6062c09c4cd03d60bcfd776a7d3072e"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/advancement/monster_hunter.json"
+hash = "8a886c64771c7d8b74149a5c3d00830b732a6057904babb7d47a781f8de05718"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/nether/create_beacon.json"
-hash = "11cf71bffc756ac614bbe1caf2c5ed6c5c759148590c6f99978de5acde86b019"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/advancement/on_a_rail.json"
+hash = "e6e457bfd3cef9f773f1a49e849ff96f86c81815bd5cba5ed03aba9c39626324"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/nether/create_full_beacon.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/advancement/overpowered.json"
+hash = "ebbe64cb1bb2e2842b8e40c9f3cedc819dbfb17937091ca185c2138a66cf266b"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/nether/distract_piglin.json"
-hash = "1e76c6b8d4429689b75a518543fab70205aa85c01e8099fa2d4d0ff4be452566"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/advancement/repopulation.json"
+hash = "cd96f697554d55d83308ad1d55d2b6e1dbb5e6bd4f45c89f16a00d8d6b297441"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/nether/explore_nether.json"
-hash = "a56c36d0ac1babd029c374ddbbcb827f90d0894e100e27b22a18efd3ae3dbfa9"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/advancement/return_to_sender.json"
+hash = "2637349d6de361a2771b4d6c41eb06d827ab4ee67be0d71149afbd10139c5e2f"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/nether/fast_travel.json"
-hash = "2e9d5570feacf19ae94695b33adc0b3c493e29c16a0d7bb19fcc4faf6f4d6370"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/advancement/root.json"
+hash = "653b0d1dd19528458aa8b9fd4c6b1906353ec921fc5a43e2e3f5b8e0bb3e1aff"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/nether/find_bastion.json"
-hash = "a0dbbfe3f7aa269e211161035ba4f341b4c7c7257660aa4d0a3e4e496767787e"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/advancement/sniper_duel.json"
+hash = "58039d403eb2449d59b9e92b6ccd8bdc0e25c8dc11405ae2cd7d6818e3319510"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/nether/find_fortress.json"
-hash = "a28298863399ec39ec1770a48d224343285be8a7dc3b6480f7b16901b431c516"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/advancement/taking_inventory.json"
+hash = "4ac0bc656540b5ba63820db7186c85b382fa26f779645ee8b94ba2e51dd5ec52"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/nether/get_wither_skull.json"
-hash = "06318824441e3824677b8419c4c1da9afa5af98480481653a291dc1b8176e7df"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/advancement/the_beggining.json"
+hash = "c125689b83b3783ae2dec3ace421a55c210cbaac0028f3f64e92efc3fb2daffa"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/nether/loot_bastion.json"
-hash = "579adf756102edbf62d10968ee5723847c53635280f1aab1463bcc0003545853"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/advancement/the_end.json"
+hash = "606a36bc53046174469cdd69e78d669230992d630d3a36d8da46b34842371505"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/nether/netherite_armor.json"
-hash = "fef23e0dba7324a681245edcb77f6b65409ccadc88361507b9b2526f2dd9abce"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/advancement/the_lie.json"
+hash = "25cd8b474a26cdb132bab53635fd1f1240d043ead050d08d30779085413c80be"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/nether/obtain_ancient_debris.json"
-hash = "488b7ba45adb44e93b49fcd2b4d47c991ffbf83c4b1d6a142a1e28fa3422a1a0"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/advancement/time_to_farm.json"
+hash = "32a8745c616a6189db9c2354a3dc4aa427587ffa8c213562d794026657f86a93"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/nether/obtain_blaze_rod.json"
-hash = "d85fdba652a122b1522382e9218e36ea3b0576e7ee953949cfec3292c903eff8"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/advancement/time_to_mine.json"
+hash = "a0c4c2e7549a0292adc4f53cea00cae96eb28e2c31a48890f9104a7d2d23bca9"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/nether/obtain_crying_obsidian.json"
-hash = "e82dc75a5a1ee58117e46d5a10cac5d1e078cc81997937b21d1ab8f7ee667dba"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/advancement/time_to_strike.json"
+hash = "8ae8cb5b0209a08bf1f889457bfdfd431f8a919cca77bba9e9b505c95a49ecfd"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/nether/return_to_sender.json"
-hash = "83b25ed6acd1e2359cd6c976f455a2d78af30d460660bf14c7c83e02b19221ee"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/advancement/we_need_to_go_deeper.json"
+hash = "e526ec4aa1a5e03687961cd76bfe19f4ce3380e6b0652df6982e420fad66cad6"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/nether/ride_strider.json"
-hash = "07edf9953cbeb801f6e0f17a178fa337f7a8c4070fbb3bc9828641fe9c2c98a7"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/advancement/when_pigs_fly.json"
+hash = "b3ac2d5dbae6f59765727b4adf3120528c41dc7787699aad5fd0df9a906d03b6"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/nether/ride_strider_in_overworld_lava.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/function/init.mcfunction"
+hash = "4235eb49d2cb7df135cf252bcd76b2d912b341f0ef57832ca29d6bf55f0025b5"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/nether/root.json"
-hash = "cdc61298b16c31a9a70d96ed4ee1004806e0a72ae43ff1cb6e12e5ae01a4fe20"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/function/main.mcfunction"
+hash = "5c6db172fedfe0f7ee5429d875c02e8b45fd559545585679216064750098d529"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/nether/summon_wither.json"
-hash = "9b13f14c03740a41cc8dc13371fd79dedd5c34a5ec7ccaf120407779bd517d87"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/tags/item/better_pickaxes.json"
+hash = "8a5471ba2f4d3ba6e1f887d53e4b07943885edd0ec60a09d08664291c2c72815"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/nether/uneasy_alliance.json"
-hash = "db2701f48e880acb5cd907ad3405b021498bb44a8f162aee127a05c96d4e8c05"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/tags/item/cooked_fish.json"
+hash = "32750e42d1b6b8318fdd1848f6b4dd0cf8045e87d591a8ebf0d29101cda1c40e"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/nether/use_lodestone.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/tags/item/hoes.json"
+hash = "970a2dd18189ccc504167350b83b18550df5b9c8785cb330bbd5f4a29eefbb3d"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/adventuring_time.json"
-hash = "36ac7479d2345e37475a89b316754a9e932c78c9ec8ecc99da4341eb37810d23"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/tags/item/pickaxes.json"
+hash = "aa8356d8215b278c308b7bd99225649466047669e5c43280622100d667a7e38e"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/avoid_vibration.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/achievements/tags/item/swords.json"
+hash = "718edbcb5f9110ca40ddc73f5bcc9d25b9412fcefd249d76ae63f070ee8e5daf"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/axolotl_in_a_bucket.json"
-hash = "b9be9d86f109f3242b7c6d8a446551f9db74c193052374383067296accef03ae"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/adventuring_time.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/bake_cake.json"
-hash = "4f0272ce64be81ff8be0e284ea9d98fc5bd0280ba853b4519518439040a7514b"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/arbalistic.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/bred_all_animals.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/avoid_vibration.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/breed_an_animal.json"
-hash = "069b10b38e8b913af1a7ef2acb1136f751bf0f1bf5dd7b64a452223d086b4984"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/blowback.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/build_blast_furnace.json"
-hash = "18ad1433252b5efbb03d6ea1186e19efefe5318b75228b445010a761d512f054"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/brush_armadillo.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/build_boat.json"
-hash = "7c8fd8677b80fdf237aa1e6edef0993a8f3da08f933d06f47ddb5318f898284a"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/bullseye.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/build_dispenser.json"
-hash = "091c0475a86c84b6749fa60e246546f59f1d5ad5f5aaea7389f5056abc83d48a"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/craft_decorated_pot_using_only_sherds.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/build_furnace.json"
-hash = "f89f32892f36c190ffe645084c8db1d81e66b548fa4314d09b178459bec8d1c0"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/crafters_crafting_crafters.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/build_hoe.json"
-hash = "f06503a38fda15f3d0d4121606dd46083bef8852a9d4cd6344c9e59776b0b4b6"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/fall_from_world_height.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/build_kiln.json"
-hash = "1a13e795d9bef73ac4bf5a7fa95cee8259afb606225f0855a9a2d1c39cdd1b6f"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/hero_of_the_village.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/build_palette.json"
-hash = "df2106e2ca4929f68d1b60060f3374df7d7fa37aedeb0f38a79a822d894dd798"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/honey_block_slide.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/build_pickaxe.json"
-hash = "bfb9a99117c9c336ff2888033fdafa544175c0ffc3a5ad24fce50656aab7e733"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/kill_a_mob.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/build_repeater.json"
-hash = "0af8dfd1df9e01b92626018c50f571c0653746601b84363605b2c59f8c2dd305"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/kill_all_mobs.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/build_smoker.json"
-hash = "f1c68ab2cc23c15b02c421b7fc6ad2b9968322e4f7e814cc5076274f56a57aff"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/kill_mob_near_sculk_catalyst.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/build_sword.json"
-hash = "cba65441ad415e7eceb54851751efa3b9cb8b04ea41098114dfe83d8b9416b4d"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/lighten_up.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/build_work_bench.json"
-hash = "4c46c3aa285c13bc368b40859e28e8d8e0fc9caefbe736189432afc5858e3bf7"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/lightning_rod_with_villager_no_fire.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/bullseye.json"
-hash = "d8c22b5603aef6d802b59f54ceb959c5459275418c3df944bb28863c6296c88c"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/minecraft_trials_edition.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/copper_gear.json"
-hash = "5e45ce00867c132e363a32091e46508c52b6c1e24d11eeaf6153f355b1342449"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/ol_betsy.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/copper_tools.json"
-hash = "fa701d549a2e52c85fc64d431dcf645bd9c0fdf4c599975581068e51a5dccd7d"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/overoverkill.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/craft_decorated_pot_using_only_sherds.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/play_jukebox_in_meadows.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/cure_zombie_villager.json"
-hash = "5ba375f66685f988a471e20c26b52aac9b3c23f26090caa7b66dec879fff2bf1"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/read_power_of_chiseled_bookshelf.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/deflect_arrow.json"
-hash = "5ba375f66685f988a471e20c26b52aac9b3c23f26090caa7b66dec879fff2bf1"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/revaulting.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/enchant_item.json"
-hash = "5ba375f66685f988a471e20c26b52aac9b3c23f26090caa7b66dec879fff2bf1"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/root.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/enter_the_end.json"
-hash = "559590967ac56c96d1f79412d0f4909d83460a5f3397b86499eb19850b635e69"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/salvage_sherd.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/enter_the_nether.json"
-hash = "657729743f1e87215da144cfda7e699de83f126c9045d2e5b800f36f68abb13e"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/shoot_arrow.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/fall_from_world_height.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/sleep_in_bed.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/feed_snifflet.json"
-hash = "c9911eb618411915e174d4c51a1c11fa9c242189172ad93e5415dc9dde8f905d"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/sniper_duel.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/fishy_business.json"
-hash = "cf72d65bae97ff789f6cfe6e5f20869485ffaf8febbb482cc9f88e5cb871d9da"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/spyglass_at_dragon.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/follow_ender_eye.json"
-hash = "1a8b213b9ef703c3febefb2aee58a4714eb7c46cb427302f192e4a9691ba141e"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/spyglass_at_ghast.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/form_obsidian.json"
-hash = "6859592eaf64a88a3f1b84080be95055908bce469c49f4cade14ef1a16de41f3"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/spyglass_at_parrot.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/froglights.json"
-hash = "54bf10476b9d8138a434dc469df93e4c9bf0b682a47e33e6068f10de6bffbb3a"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/summon_iron_golem.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/gold_gear.json"
-hash = "562e139b9b5f84770d50be757b10c28676608b8affd8f8a54d104ba915283b18"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/throw_trident.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/gold_tools.json"
-hash = "77d0db6c7d6636d7d9bc0df8355efd46b823ba645da93c684a64903e33715b89"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/totem_of_undying.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/honey_block_slide.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/trade.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/iron_tools.json"
-hash = "f4f0bbb899429cf496814778e91eb5f25f145ad00796a8acd99d7d26100fcf91"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/trade_at_world_height.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/kill_a_mob.json"
-hash = "8b1418068cf9344b360ee4a511437f59acb3b2ef2e4d66abfb044f3c3f1f705a"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/trim_with_all_exclusive_armor_patterns.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/kill_all_mobs.json"
-hash = "cd10296f6f094f97dfc00ed2550f22d2343b9691151d03513a0a8fe838bb6f7c"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/trim_with_any_armor_pattern.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/kill_axolotl_target.json"
-hash = "6d45e7ef5539d298e707b18721a5f92503a5d6e7b669c0444eb62fc8ca5252ba"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/two_birds_one_arrow.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/kill_cow.json"
-hash = "508eacf12250d777d3f871d37f9d6399c9fbbf54e8b4008f2ad803f8f1683874"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/under_lock_and_key.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/kill_mob_near_sculk_catalyst.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/very_very_frightening.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/lava_bucket.json"
-hash = "424e45e2050e539c88a688cd024f3ec28fce58acc63a9d078d9af1e0aa69a8e3"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/voluntary_exile.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/leash_all_frog_variants.json"
-hash = "606e8adfa0dbb376196b821779653b064631df4e3a77a163f90a0ce8c591bd0e"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/walk_on_powder_snow_with_leather_boots.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/leather_gear.json"
-hash = "b4b08356524c8e1baaa8382d93f87c1b6ca808574de0ce73140e3d88985aed84"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/who_needs_rockets.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/make_a_sign_glow.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/whos_the_pillager_now.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/make_bread.json"
-hash = "b38408e8cfa349ff0586817cae353a0443ef72196036fd056df25a7b6ec63947"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/end/dragon_breath.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/max_palette.json"
-hash = "a67bfe136e0c515283a41f9936c25a0916dcdb2485b4f42683f90e22cc8bad3d"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/end/dragon_egg.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/mine_diamond.json"
-hash = "23f4e77ce932f5601ebfb70aa74774e1f027b697b43d8d7758e8f34b84f9548c"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/end/elytra.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/mine_redstone.json"
-hash = "2cf3ff4a97ecbfb30f46ba090661471d8eb2f4009d15a14b6fd0181bcb0649b2"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/end/enter_end_gateway.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/mine_stone.json"
-hash = "c19890bc3cbac5d9434cc007d59f859741de8c9b8cdc69b420dd807f30fd32c9"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/end/find_end_city.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/mine_wood.json"
-hash = "1b727c146dfbd675e124ff59fdf29aa38f381dcaa8191b36fc050c292b45af32"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/end/kill_dragon.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/moar_tools.json"
-hash = "55eff4520cefc17394dfd72b334fb63c72885aecb81252c202a0c8585c98daf8"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/end/levitate.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/obtain_armor.json"
-hash = "075cb1e28bc9c21198d49b2df6d2e0d24c8ba667bab9318d8cb51e58e32e6dce"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/end/respawn_dragon.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/obtain_sniffer_egg.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/end/root.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/plant_any_sniffer_seed.json"
-hash = "77b62384bbd9a0fa497d6cafac4d16bd4c81a29eed70e2707f2a96f674fb843c"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/allay_deliver_cake_to_note_block.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/plant_seed.json"
-hash = "f3c15839a19451084c00a0fcbba6e3d48ac76d099e690b929521afba5bf27c76"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/allay_deliver_item_to_player.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/root.json"
-hash = "431c653d7e93be2d26f1be56eb337df7935ac6578a760ae96a43c9a533f9047b"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/axolotl_in_a_bucket.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/safely_harvest_honey.json"
-hash = "f47fd282682a0d04de54df3da619e7f9a6b39b7776440587f6439d450eb21259"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/balanced_diet.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/salvage_sherd.json"
-hash = "98a6cf9962a0fe33ee2c2f089d25d59f87285812e3e4636013e980f47a36be99"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/bred_all_animals.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/shiny_gear.json"
-hash = "40f78fb721052000d2f3df204fd66ad0a3f9632f6288f1bcee779b35cf509d60"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/breed_an_animal.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/shoot_arrow.json"
-hash = "df9ff6e15a0cd9a8dce993705db028ed8bb66eaaa58bd44f8ce9750df402639a"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/complete_catalogue.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/silk_touch_nest.json"
-hash = "7fe367a67ab345e4e20c83bb57e114a6ca087ec6159a7475af384d52395b7805"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/feed_snifflet.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/sleep_in_bed.json"
-hash = "7815a383e4b5918e49cd6fb5dc43e8b35527980e042abb75db1dbaa499557143"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/fishy_business.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/smelt_copper.json"
-hash = "59641e71a8e38684ec67979acc671cf8c678344b99c41ea533533908b2ded3c0"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/froglights.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/smelt_gold.json"
-hash = "15d1fee10e4937fb6fc1d861aa59b89bbbe4c586b1922b3c223b5d1b68236847"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/kill_axolotl_target.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/smelt_iron.json"
-hash = "846405125421e42f04c10eb5ffeeb772d95211dbc98aa788b54277d2167b41d5"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/leash_all_frog_variants.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/sniper_duel.json"
-hash = "f81b468a14f39d90a45bf0ef163bd1ce4dc854d44a32b0e1d789b9c861a8e9fc"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/make_a_sign_glow.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/spyglass_at_dragon.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/obtain_netherite_hoe.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/spyglass_at_ghast.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/obtain_sniffer_egg.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/spyglass_at_parrot.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/plant_any_sniffer_seed.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/summon_iron_golem.json"
-hash = "17b2e8de5905a9f004064bf5db4eaac58cc7db0f0a0bcd07199a6f53d0580a13"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/plant_seed.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/tactical_fishing.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/remove_wolf_armor.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/tadpole_in_a_bucket.json"
-hash = "95e342a327c6b66316c1533ce9aea9a4f3fae357bc08c575862ea266b728e789"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/repair_wolf_armor.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/trim_with_all_exclusive_armor_patterns.json"
-hash = "4421785d22bf81543f1a6421bf013a11627e689831ec8a9a8bc373f80f8fae55"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/ride_a_boat_with_a_goat.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/trim_with_any_armor_pattern.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/root.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/tungsten_tools.json"
-hash = "fc11b83e16176bda205576b0f719682397ea28bd12c17d54dd2c331637feb0f9"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/safely_harvest_honey.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/upgrade_tools.json"
-hash = "dd965a8d909ac564bc28f54ae0ab1c564ad52336cff854313705746f278f490f"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/silk_touch_nest.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/use_lodestone.json"
-hash = "8d3c452d1b5306020c16a05638498baef9d08dcd91dda31e953849bb81c4b3a9"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/tactical_fishing.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancements/story/walk_on_powder_snow_with_leather_boots.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/tadpole_in_a_bucket.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/tame_an_animal.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/wax_off.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/wax_on.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/whole_pack.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/all_effects.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/all_potions.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/brew_potion.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/charge_respawn_anchor.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/create_beacon.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/create_full_beacon.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/distract_piglin.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/explore_nether.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/fast_travel.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/find_bastion.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/find_fortress.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/get_wither_skull.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/loot_bastion.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/netherite_armor.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/obtain_ancient_debris.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/obtain_blaze_rod.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/obtain_crying_obsidian.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/return_to_sender.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/ride_strider.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/ride_strider_in_overworld_lava.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/root.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/summon_wither.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/uneasy_alliance.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/use_lodestone.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/story/cure_zombie_villager.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/story/deflect_arrow.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/story/enchant_item.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/story/enter_the_end.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/story/enter_the_nether.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/story/follow_ender_eye.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/story/form_obsidian.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/story/iron_tools.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/story/lava_bucket.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/story/mine_diamond.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/story/mine_stone.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/story/obtain_armor.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/story/root.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/story/shiny_gear.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/story/smelt_iron.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/advancement/story/upgrade_tools.json"
+hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/tags/function/load.json"
+hash = "87999762599afd515f46d29a10283f7d304d2c9c68ffa38bb3fd3a934155884d"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/Advancements/data/minecraft/tags/function/tick.json"
+hash = "13eaec46e9f703dc85cb17dfc9ef4e4a70863c95a74b67212350ced21863ab4b"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/Advancements/pack.mcmeta"
@@ -597,508 +781,432 @@ file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/
 hash = "249b3c52f35d63e6b60d4fa3fef0a3b0e59d1324e11ee8c89247b87abbabc48c"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/desert/houses/blacksmith_1.nbt"
-hash = "e4bb7f21dd9767d7b5ca278f8537a7dea087b88f1d48028362a89049c13629ed"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/common/farms/crop_beetroots.nbt"
+hash = "e72fd9a7192a0d214e88725509b42684feb5a1a32a589ea2defc716ada3348cc"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/desert/houses/blacksmith_2.nbt"
-hash = "17d9ff9c7c2da2126c947727a3663590d2c82e677d06f7142dd87519c82003fa"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/common/farms/crop_carrots.nbt"
+hash = "c598dcd42c4a79b87510f970840950accfde1799cffadb1e8a15c6cd447f2584"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/desert/houses/butcher_1.nbt"
-hash = "079bc7554d21a6efe39a491c576aa8ed8f23ef6f97fd4196491d9d847d4549ad"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/common/farms/crop_potatoes.nbt"
+hash = "61fe7f4f456b9798d1aed9e2060493ec57c9222f8989fc839ca260b3e2dcff71"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/desert/houses/church_1.nbt"
-hash = "64ce0bb1eadddccb321ba95b40d204dea23140304f45c01a4488d8998df0620e"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/common/farms/crop_wheat.nbt"
+hash = "4927c5d0126d9965bf3b2c1d8358535c0dd4dbfe4563e7e964fe9a1ddd68f378"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/desert/houses/church_2.nbt"
-hash = "0f8ea4a421285dd3544ecb37f82f3c637a16f431cf10f8ff2426a99a7b569112"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/common/farms/large_farm_1.nbt"
+hash = "ed189b9acec6864f5343d0f53e6732f5384c80557a38f4050ec4a18d72640ced"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/desert/houses/hut_1.nbt"
-hash = "c2f63dd68336a0b7b9bbdd3698f82068b6d14e631657fc076554ee29f0ed5d06"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/common/farms/large_farm_base.nbt"
+hash = "7bbb9e083261796a7e1d69d50168c58cc6e7afcad89864d9a248b967b0f973ef"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/desert/houses/hut_2.nbt"
-hash = "44ba167483af68cbe2b020007fc41d01d7d5fc8f0c7be6cb1777afa313c412cb"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/common/farms/small_farm_1.nbt"
+hash = "6e680cd8b92a3d1379a4952f58c3afb9484c33144acc928487ef78a4c18106dc"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/desert/houses/hut_3.nbt"
-hash = "3426c901892ea4df682c7725d5e3ba4ea0a1476c2c665771b639a54e02050186"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/common/farms/small_farm_base.nbt"
+hash = "f0f5b19976e566b690f9501198de79530220b5b48789573ad9ed05eca41caf29"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/desert/houses/hut_4.nbt"
-hash = "c31dfd48cb521bad42da7b0d37f2e79526847b69a45238a5e07c37d1679f8596"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/common/houses/blacksmith_1.nbt"
+hash = "7fc8e724a153eb3f8f2e4b21711889f5ab78479bb771c5b2c0ad98e6745ab60a"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/desert/houses/hut_5.nbt"
-hash = "12a36b296e81b4aa1e47c84b973e02a4dc3a98aad619506fd4d77cc563868ca7"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/common/houses/butcher_1.nbt"
+hash = "a7b4671efe158209993d98c5db9e0b04e98576fb07263fc77e99249671330f28"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/desert/houses/hut_6.nbt"
-hash = "a9186d59af50c6c2878498fe2783569c6608f0e50e5094a3c87f79075d026834"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/common/houses/church_1.nbt"
+hash = "d4404605a8f3c2c8e268a8443178de62a8e85ee74c53149c71ece011f26f5c9c"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/desert/houses/large_farm_1.nbt"
-hash = "289a20f77cec159495005c9393102d1a1b5f2e059a7090587c3bd8c5db399a8e"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/common/houses/hut_1.nbt"
+hash = "fed314777761f253588f977c4c33a9ce706ff71c410bfdac7e4064c91cd48853"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/desert/houses/large_house_1.nbt"
-hash = "40f759ef73a4bcdd6414aed6acbd5b4d3ad7973c4ade654eacb2e1bdc965b657"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/common/houses/hut_2.nbt"
+hash = "830f8bba20b0c3ba109367a3488575e8e0449cb81068fd1bf1e9cf006df521ec"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/desert/houses/library_1.nbt"
-hash = "819d9df727edfb0e0764cf3b37c63fe82c39251d6e903e27ba2acd8f5733b3cd"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/common/houses/hut_3.nbt"
+hash = "2f96090cef0e096007ff0195b10f8aa2d72aa12c6271ea569ca53d2f9595e8f3"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/desert/houses/small_farm_1.nbt"
-hash = "0b6d27aa9c092981fd9c699beee502041c6b4d2dcbc4a9aee0022807ffe93dd4"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/common/houses/hut_4.nbt"
+hash = "6c45a2a00261cc9950b54fec0d27cc285c1bfd948b1eeeee87256a7110ee9bbd"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/desert/houses/small_house_1.nbt"
-hash = "3b1d3e22c1737d232c53a52e7b0e4892258daafba571e2f8b021a8ea878c4139"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/common/houses/hut_5.nbt"
+hash = "58aa1db361dbbe28996d797a0daae2cabefca28f79ad1fdb358ed6a1847134a4"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/desert/houses/small_house_2.nbt"
-hash = "5f7cee3d80c68b41c6b7327625f169d745f9d0fb012dbf903e2ed74875be9173"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/common/houses/hut_6.nbt"
+hash = "addc59b0aac29d3555c49821b053b32b9e0bccb40d85bb6bdf077df560a5b154"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/desert/lamp_post_1.nbt"
-hash = "c49d91616b2e092ccbfbd31ee97b1ac2ea5654dae9163a942f669b57ed28a0ca"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/common/houses/large_house_1.nbt"
+hash = "a5e29a958664ea5be7dc9b658950a5d973f09385f424c3e3381db3e31719d7a3"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/common/houses/library_1.nbt"
+hash = "0e4a2576fc23481395ace88a6364d197a78529031f983e905c8a7c81bb0a0dbe"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/common/houses/small_house_1.nbt"
+hash = "28d3d500789896773b911dac9503a04cb56ee85bd6e63be88523315d6beb1d93"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/common/houses/small_house_2.nbt"
+hash = "246115220fe0fbcaf7b448866e936ecd1ac49d443b45ab0b5d506404bc9123cf"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/common/lamp_post_1.nbt"
+hash = "2a4f4848c29987d735dd79cbd1568a7bf3ea0f00c88eab9a36ee980783cd5b5e"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/desert/houses/blacksmith_base.nbt"
+hash = "1a6e525a44d32860f44fbdc006c399ea26ff5c08aa08facb0ff0364134fd60cc"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/desert/houses/butcher_base.nbt"
+hash = "9e0d7d1cd1c66fc8f2e4ed750530464554865cde4d8d13ccc2f50ca24652f892"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/desert/houses/church_base.nbt"
+hash = "cd02fb426fab7bafb84ec0e68aa182e6e2fe7fb28a57c2ce70d080c90eba3214"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/desert/houses/hut_base.nbt"
+hash = "620766f66415a9d70a66e76b46063a003cfab4f26f2844978434b52cab58905b"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/desert/houses/large_house_base.nbt"
+hash = "c22b85276b0c1277a8bb589c09034ddec20268c11e011721589ccd9a71c32093"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/desert/houses/library_base.nbt"
+hash = "2474761029f187fe13178aed13d34d22a07521aea5db5d9c754cf1f9083da5c8"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/desert/houses/small_house_base.nbt"
+hash = "6a81237ccdd7c89ac65e2b63819678fbcc7219351a4237e5ebe69774d3845366"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/desert/streets/straight_1.nbt"
-hash = "10cc6a096c8f087523d3f01db09d078ebd325de60c5f8e6b8e485bfded6b7f64"
+hash = "17dfb803a3d097ace8db0f8fabe30f5f37261cdf0085e08a00659b5a4695dbac"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/desert/streets/straight_2.nbt"
-hash = "3fa5f3422ac4ae9acf2affd090e5d3a2e86eb7370502cafc41fd0a0c64932c3c"
+hash = "7863d71fe98d7701e58c50467ef086f5e1bbee0a9c71f6687f1ab00099585dc7"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/desert/streets/straight_3.nbt"
-hash = "53c966d68b7af46547a7c9286a2a0d82ea07a911ee7f1c3f5452befca5d0358f"
+hash = "6c450d5909f3c8c523bde3a763e4ef9355ad5a18dd663276bab47e4ff7aad7ef"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/desert/town_centers/well_1.nbt"
-hash = "6b542605c6236dfd338ef31738e76fdc4ff7e495a9541a9203a0f4a2c2f4c66d"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/desert/town_centers/well_2.nbt"
-hash = "59f4dbd5cabc66c6355cab0401c3cc03946b361dd55dd0faf6a70d39d61d4eec"
+hash = "60fc252b13f10017dec4f7728d42e0fff4cd56bbac9a777e996fbd9cba61c6fa"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/desert/town_centers/well_bottom_1.nbt"
-hash = "af6d57ca45e1672fdf667e7f973eda1a3a11717caac70445c2083cfaf279e445"
+hash = "8ad1501b64d6c9558b24ab6f7a6779de2ca33720c114d6816550adf7e37c4e83"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/desert/town_centers/well_bottom_2.nbt"
-hash = "2caa61f078ddf2e9c227eef20bd6a923e5f762aeea425367df100ec0b4e253e2"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/plains/houses/blacksmith_base.nbt"
+hash = "52f9ba9744a000f1f4d721cb22db0ce9893d389d1cd3c6f141a84e99829700f3"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/plains/houses/blacksmith_1.nbt"
-hash = "7af9b33f81819f2bd07be49011c2fd2a2a0b5d9e58e65dc8850a9ab79b4a09f8"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/plains/houses/butcher_base.nbt"
+hash = "3671c3fd090a396f9177f221bb1375a5480c86b1d5e4f82580574690c1341e85"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/plains/houses/butcher_1.nbt"
-hash = "60210479f8c304675933525068afb5c370a71d11e008787d4dd09f023d03f605"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/plains/houses/church_base.nbt"
+hash = "589e1aafe0a5b77ca6b1d9198082531ab968af1d63ddbec4f1092f8941571864"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/plains/houses/church_1.nbt"
-hash = "5609d8a2fbc6ac2400037dfba2685860c4a655dff6cb437f9184b30debab38fd"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/plains/houses/hut_base.nbt"
+hash = "92e3be26ecc43acca4ff0b036c26c4536af1a477e901062323630435322ced47"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/plains/houses/hut_1.nbt"
-hash = "dfebe67ec3aa1ad348d088a203c6bff4136ce1fbefa0b9e72995dd13d4f5e3d6"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/plains/houses/large_house_base.nbt"
+hash = "f0c93ffa3bc5594474022fa00d91df38f4da23c76a09a51a90daa63f11af0e25"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/plains/houses/hut_2.nbt"
-hash = "18d681142498ae9df957ab7a6928ed29ff864d9d27402f863e0838f40841838d"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/plains/houses/library_base.nbt"
+hash = "e3cb97770bc0103cd96ffa5f127dfa20b4f751a78a88a7a1aff6308699e04c5e"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/plains/houses/hut_3.nbt"
-hash = "b171f86476dcecf519123cd4e6919da45befc5d20b26780193fc9156b8cc673f"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/plains/houses/hut_4.nbt"
-hash = "ee96893760d057ff9baf2fecd766ca2e59012e8613377c402c22073a445c65ab"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/plains/houses/hut_5.nbt"
-hash = "1af8e98714d1e87a3bfb730ce14cf53fb1b4752745eaa7153635f714e43f19e6"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/plains/houses/hut_6.nbt"
-hash = "3c2c3014b9d0c1e75540230b0c9ce8d19c1236b041e2f35d319564137ee91121"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/plains/houses/large_farm_1.nbt"
-hash = "a26ba403563dd9117faec342501f4b3857619c476110c7d74f026638cbf2ba04"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/plains/houses/large_house_1.nbt"
-hash = "5b0ee9a02a31912a591363f127d60a0f5e2d8c75cdcfe8c3c9cd399968de5b7c"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/plains/houses/library_1.nbt"
-hash = "44880cb131016035ccc3242c4b11e3f6624fb43b10570b6c043c3e9cca390fe3"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/plains/houses/small_farm_1.nbt"
-hash = "26688969b719833a72096ec6760ec24c78c0eb4f25c4c38856da787ab48a9e8b"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/plains/houses/small_house_1.nbt"
-hash = "30651a56750bca61323b78d0f28114e9ed7fa98348daa8cc2ec9d8cacb3fa706"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/plains/houses/small_house_2.nbt"
-hash = "ca0ff2a7fcd6c2885ebf26cdd509a7319745dbf40befee1ea57fce34b1d3c714"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/plains/lamp_post_1.nbt"
-hash = "c49d91616b2e092ccbfbd31ee97b1ac2ea5654dae9163a942f669b57ed28a0ca"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/plains/houses/small_house_base.nbt"
+hash = "e308b384e8d6a8b5a6cf3a3aa2d552d7294c5a7ff00268738dce49469a651c0c"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/plains/streets/straight_1.nbt"
-hash = "57259a3445119bab19df110f8c171ba3c75cf6e08a420b6ecd7c2ec621011903"
+hash = "71a6fc128c3ebe86622b052413e9be3cd2eceb9cf0e65928f6ae0824166bca10"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/plains/streets/straight_2.nbt"
-hash = "20a85d503c9a191b95b82df96c5ead4bb97a90080fb788967104e48122cd1fe9"
+hash = "ce83f18661272031b6bebd6a86c35c336ffc543f8dace0fe67e634188bb452f4"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/plains/streets/straight_3.nbt"
-hash = "13eb14de222b34754b1a0e3efa55b77354accba9d23d4e8c769ab00cba51d695"
+hash = "9ac045487812e84e6801756b600f501b5da75402566367bd5320ea1f958bd0f5"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/plains/town_centers/well_1.nbt"
-hash = "6eb1229987e99f59733bbcffa04352f7135d3d78f0ab2ef4f514cdc5f2416e62"
+hash = "2241f17e7fbb1232babb9b31af7de328c6f78cb357d5bbf4ce743f786c8d5478"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/plains/town_centers/well_bottom_1.nbt"
-hash = "268d3f1f1ec8f46e41bb832c6eecb58d58ead5463ad8c80f60339f4c5788a350"
+hash = "f867cb191dddae72d37e9e2555774c17c1c35d30b841dcc7bb63f28eb28e5cb4"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/savanna/houses/blacksmith_1.nbt"
-hash = "3f29fbf8027f8b92a79cd044e997950fbaa9f7c24a9d58842e742c7b67893d03"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/savanna/houses/blacksmith_base.nbt"
+hash = "85960c6629498ade9d6c049429fad9e3dd0e8f8e8577ad5d937596e1af59baef"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/savanna/houses/butcher_1.nbt"
-hash = "2d91ae22de058c7edd520e399fd20cb54a1251922a2c9430b81061add101b8a5"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/savanna/houses/butcher_base.nbt"
+hash = "70f6cc2c04498018200b958d9be1e05c1d788b0aa0261bdfa38d6c92b4c39d08"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/savanna/houses/church_1.nbt"
-hash = "c43979fb6f6387d552f35a7b904e46162ffe75db537337113bede44ef66c88ad"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/savanna/houses/church_base.nbt"
+hash = "e7bfe19c7ae5221e30c9c39ef8b85bc2088ccce2eae11bb5a54d8c79a20454b7"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/savanna/houses/hut_1.nbt"
-hash = "133801341380a6736a7834639bfbec3986d8e392c4d73ad4e06290598815c695"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/savanna/houses/hut_base.nbt"
+hash = "94307f5402c503c703638c2bde30e3f67ef9cac77946edfc821997aeb136363a"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/savanna/houses/hut_2.nbt"
-hash = "773ef83e056bf8ec910602f252a052264bb973209d97f87518dfc5059fc6db9a"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/savanna/houses/large_house_base.nbt"
+hash = "b766b7a8e07c4ca263d08b54bdff036b857694a28ad063563a753db3af5e1835"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/savanna/houses/hut_3.nbt"
-hash = "b2bd5d87a9c2744df3a268d050ea3efb4b0129cf9e478324a1467c465dd10f0c"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/savanna/houses/library_base.nbt"
+hash = "0a1f7f31ec44d41d8d2d60c5689e7af36368e4451bf28d637f93ed956e67fd0e"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/savanna/houses/hut_4.nbt"
-hash = "2b79606918f32c46bee26f6cdba38cf27fad046e3c88d187aebbbe9a825a337e"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/savanna/houses/hut_5.nbt"
-hash = "e777077695613682b683b265901c4a7506581f881e1ec1aa28c2000e7c503d2b"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/savanna/houses/hut_6.nbt"
-hash = "4b57a7921a76fb875fee7b8916f2dd8acc4d99fe13285538dbc7b98348333330"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/savanna/houses/large_farm_1.nbt"
-hash = "a4656215f4c5aceef4574c072fc622611a02ee3569244ac605027f9d6f1a012d"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/savanna/houses/large_house_1.nbt"
-hash = "05264d313b1937ebf3bea756ff4cd078bcc8b3f9197d71e6d092d19ecf1691ce"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/savanna/houses/library_1.nbt"
-hash = "0ba0044c1676f370ff8423f98face594c5e4bd3e331df9dd57da5af75444e090"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/savanna/houses/small_farm_1.nbt"
-hash = "427d1e4e04ecde7c5b6995432c76a56df6ff96163f35f42ec16e79d0f8fc7fc2"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/savanna/houses/small_house_1.nbt"
-hash = "6569626c73915e12ee12c1b38b4a1420e4767c8e0b730f590be1b657d2ad9135"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/savanna/houses/small_house_2.nbt"
-hash = "092b697922fa533c8e5513b05c001b583a852ac123504a0b5a8f28fd755edc72"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/savanna/lamp_post_1.nbt"
-hash = "345c1516f03412f11537319baf25f004a31c812cc2a31a5f214fa821f8fbe1bc"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/savanna/houses/small_house_base.nbt"
+hash = "e38ce671cbf0ddf63778315f9449bdf40e3666cbf3c992c81c86b951ef13be8b"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/savanna/streets/straight_1.nbt"
-hash = "8d2d92fef7248ef8edc71dc33f6916d38b481bfe202bd6cc35a67a55c3737f22"
+hash = "d0b880eef7faf052b44aa884c278d68ab1889aebd0fdca6535945d0f80d37e39"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/savanna/streets/straight_2.nbt"
-hash = "63348e9e7a1293ae8c591a507451875d1fdfcac644b87d06a90d19ce06026496"
+hash = "2464e4e60ee731d6ca733300c811d7c98db49aee7f13a39df1daec94229fba44"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/savanna/streets/straight_3.nbt"
-hash = "f786c7f7c947c5fac733c66d042f58f54318eaa152a1f1f0350ad5918bd303e3"
+hash = "0920746a84730f13a3bf99266283e846dcbe3ff701171c37a88e83d2fcdd73fd"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/savanna/town_centers/well_1.nbt"
-hash = "183cd47abb3cabf6514fef0c450f703969dbe73d611a17be74bb48008d93b735"
+hash = "fe8f4865e3e2a21b387e4f52347b530ae86a65c9a6cdc996a34f9e38505cc804"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/savanna/town_centers/well_bottom_1.nbt"
-hash = "9c81bfa388969897c6bc9678006995ca87fd562d7b394fa663d11e01c26cc4b6"
+hash = "8ee5265f8974eefc7ffca239971bcab79b98474085401f187dc5bf187ca6f387"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/taiga/houses/blacksmith_1.nbt"
-hash = "844ec5c148adc345246effd921a6a0582b3bb7b0da00ce6ea710874ac90d9d1e"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/taiga/houses/blacksmith_base.nbt"
+hash = "3322fa3a3b16831bac1335c8a3594542bb25eb88f5c404ea75be511f38690920"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/taiga/houses/butcher_1.nbt"
-hash = "25436ceb5d1a52ab6c52f6cdc5604d3264d529bbe41c2b1a1b0df989b4fc8f53"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/taiga/houses/butcher_base.nbt"
+hash = "0739c32053782b955220ae32f4de6916c357ce9e82c7adf95ab8c398aefbcbcc"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/taiga/houses/church_1.nbt"
-hash = "011494d12002114cd026ad2a2139d4b92e40ca6dc8e09797c274d75f0aad9617"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/taiga/houses/church_base.nbt"
+hash = "2b1de5cf116259ce93ee7efe1e6318354312a294b6a9d1fe6296d227f61fc104"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/taiga/houses/hut_1.nbt"
-hash = "4577f84055a968a48e13ccf0f863d3e42bf996546575ca09a072575c010f2c48"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/taiga/houses/hut_base.nbt"
+hash = "6f6ff24a487e88a4c56042b8d165d9004d4281ec5dbaf313c6c5891cae3c8aae"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/taiga/houses/hut_2.nbt"
-hash = "1edafb900a01fc79bb99af2a81638cf6e763189221d5111d6e69eb6f3237527c"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/taiga/houses/large_house_base.nbt"
+hash = "6c1ad9f11c58ce18787cffa3891f168fb3136adc4c72be964e4aba9e99586f63"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/taiga/houses/hut_3.nbt"
-hash = "9de52d4a776f7b26a074435cefa5fa9445aec787e64a55fdc9533fb3828c234f"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/taiga/houses/library_base.nbt"
+hash = "ffc94b416ba75f087a3f3a818df9baa583d281c9c44df4c306aa6f151a59d378"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/taiga/houses/hut_4.nbt"
-hash = "a36844e7c128566007c6429a7541ae16cd731fb31a4359936f40c2cacc8aef0d"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/taiga/houses/hut_5.nbt"
-hash = "ee3d2a8b2a2d906d64f08d8843671b101c3f836fd126132e75de0df26811ad10"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/taiga/houses/hut_6.nbt"
-hash = "ae52d355c18600a90bfe1bbed84f5cf1b57a38a67895eb81d22663db604187d7"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/taiga/houses/large_farm_1.nbt"
-hash = "38d2d961b9772b52ade99e1ad13ad0d438e687ac3b1df3b719af7d39a90b66cd"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/taiga/houses/large_house_1.nbt"
-hash = "1388f4ddb4f4a30d47f69a3ff8800e693f44eed78c2f42f70aa8488192928e87"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/taiga/houses/library_1.nbt"
-hash = "ed7fe06723855311f8861277841023d745211aab70a23cf725cd1e15e809cc69"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/taiga/houses/small_farm_1.nbt"
-hash = "ed0c814f4963822f1a02e50da84852fcf888268b536d37182be731d831cf6d77"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/taiga/houses/small_house_1.nbt"
-hash = "bf25a5d1bca1d124b959c2b9dbdc86f1df7bcdb8d7bc1ac8520420d276fe26d2"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/taiga/houses/small_house_2.nbt"
-hash = "8e6d54c6848aa83391407c37bcac01face4c4dc1762046da76b893834783abae"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/taiga/lamp_post_1.nbt"
-hash = "57df630e0edaccc5de135ec945be555919dcc0fa1fbba393ef4bcfc123a55d15"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/taiga/houses/small_house_base.nbt"
+hash = "b2befff088bf1341fc5255e1cc6b16e2501ee2fa5fef94ba4cd7204b9a1132f2"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/taiga/streets/straight_1.nbt"
-hash = "7991950e4c058be9c7eb5045514d6e80822d72a61efa8748e5b7772ced47bf90"
+hash = "40f23f4200b51c47d17f5e7073d727a445a6b17f9af7b1a7928405a77ca0e956"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/taiga/streets/straight_2.nbt"
-hash = "de1e9b438022e1aa4e450f1f65a6b12258cb3dbc921495eb04461dc4bceb6b2c"
+hash = "2b480abfc3d12134b12e49839cbeb60fd21a96fc3237d4ae33777a66014803c9"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/taiga/streets/straight_3.nbt"
-hash = "19fbb76dc9ac5e2fb12c96f2c8c633101bd15b10abd78c5400285486546ef31c"
+hash = "b24b6ce90f2505a9954e27e57160b341943bf365df913ac9ebd768292b72aed1"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/taiga/town_centers/well_1.nbt"
-hash = "4c0799bc6a79d3ed075411afc079961a213a66eabe42d87601123b6f1929990e"
+hash = "1f1bee83cdb847269c7e095b88edea6b8a9c09305712fd30dbb09b02f4dd89ba"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/taiga/town_centers/well_bottom_1.nbt"
-hash = "08652f03ce2f5edf64d825d22b2781d1db1e80de52989fafe0753b32465c8d9b"
+hash = "7516bcf8723dadf58a142771a042a1dad4aa0ff14e4aa6d3d2c76068d78935d2"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/houses/blacksmith_1.nbt"
-hash = "7af9b33f81819f2bd07be49011c2fd2a2a0b5d9e58e65dc8850a9ab79b4a09f8"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/configured_feature/acacia_log_base.json"
+hash = "c5085f5f284261fc78e4cc9067cc338c832392bb746de0fee57a7ff5885eb588"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/houses/butcher_1.nbt"
-hash = "60210479f8c304675933525068afb5c370a71d11e008787d4dd09f023d03f605"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/configured_feature/cobblestone_base.json"
+hash = "3c0474ccee76e9566fdc4a1452d8186efc08e8474c0867caecc856575c7061f7"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/houses/church_1.nbt"
-hash = "5609d8a2fbc6ac2400037dfba2685860c4a655dff6cb437f9184b30debab38fd"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/configured_feature/dirt_base.json"
+hash = "364da3d66b9620a96db871fcab24e3b27fe1b31ae7751588b118efc2bd63794f"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/houses/hut_1.nbt"
-hash = "dfebe67ec3aa1ad348d088a203c6bff4136ce1fbefa0b9e72995dd13d4f5e3d6"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/configured_feature/sandstone_base.json"
+hash = "4084312194579397ad91c96e05ddb2bf3bfe0753207d15a62e99083d8e375c39"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/houses/hut_2.nbt"
-hash = "18d681142498ae9df957ab7a6928ed29ff864d9d27402f863e0838f40841838d"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/placed_feature/acacia_log_base.json"
+hash = "cf116fd9c0a62db0196321c7b7f60cd30653549f0f41158aa1a55a3b77031796"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/houses/hut_3.nbt"
-hash = "b171f86476dcecf519123cd4e6919da45befc5d20b26780193fc9156b8cc673f"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/placed_feature/cobblestone_base.json"
+hash = "d47e4646dafaa8a72d9c1f403a9e891589fb518389b528b33ff2c6b027815ed1"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/houses/hut_4.nbt"
-hash = "ee96893760d057ff9baf2fecd766ca2e59012e8613377c402c22073a445c65ab"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/placed_feature/dirt_base.json"
+hash = "f31da3b0d3bc2490e4988892572b3a0fc5c4a51a6577fde248c651b0b4c3302b"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/houses/hut_5.nbt"
-hash = "1af8e98714d1e87a3bfb730ce14cf53fb1b4752745eaa7153635f714e43f19e6"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/placed_feature/sandstone_base.json"
+hash = "fdc306c08aab186cd919624768fa452cb3084c258463c38afef47107c6965102"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/houses/hut_6.nbt"
-hash = "3c2c3014b9d0c1e75540230b0c9ce8d19c1236b041e2f35d319564137ee91121"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/houses/large_farm_1.nbt"
-hash = "a26ba403563dd9117faec342501f4b3857619c476110c7d74f026638cbf2ba04"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/houses/large_house_1.nbt"
-hash = "5b0ee9a02a31912a591363f127d60a0f5e2d8c75cdcfe8c3c9cd399968de5b7c"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/houses/library_1.nbt"
-hash = "44880cb131016035ccc3242c4b11e3f6624fb43b10570b6c043c3e9cca390fe3"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/houses/small_farm_1.nbt"
-hash = "26688969b719833a72096ec6760ec24c78c0eb4f25c4c38856da787ab48a9e8b"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/houses/small_house_1.nbt"
-hash = "30651a56750bca61323b78d0f28114e9ed7fa98348daa8cc2ec9d8cacb3fa706"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/houses/small_house_2.nbt"
-hash = "ca0ff2a7fcd6c2885ebf26cdd509a7319745dbf40befee1ea57fce34b1d3c714"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/lamp_post_1.nbt"
-hash = "c49d91616b2e092ccbfbd31ee97b1ac2ea5654dae9163a942f669b57ed28a0ca"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/streets/straight_1.nbt"
-hash = "57259a3445119bab19df110f8c171ba3c75cf6e08a420b6ecd7c2ec621011903"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/streets/straight_2.nbt"
-hash = "20a85d503c9a191b95b82df96c5ead4bb97a90080fb788967104e48122cd1fe9"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/streets/straight_3.nbt"
-hash = "13eb14de222b34754b1a0e3efa55b77354accba9d23d4e8c769ab00cba51d695"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/town_centers/well_1.nbt"
-hash = "6eb1229987e99f59733bbcffa04352f7135d3d78f0ab2ef4f514cdc5f2416e62"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/structures/village/plains/town_centers/well_bottom_1.nbt"
-hash = "268d3f1f1ec8f46e41bb832c6eecb58d58ead5463ad8c80f60339f4c5788a350"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/crop_common.json"
+hash = "e053da42fbe617578c02028413e8ce836111763d997a1f22d45912ed1c3be052"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/farm_common.json"
-hash = "e4322a3790bab65bb0d937c0202636fd7ac3c96bce3acd5368559b651e4a9cb2"
+hash = "e053da42fbe617578c02028413e8ce836111763d997a1f22d45912ed1c3be052"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_common.json"
-hash = "b50dbd2c521ce786c9c9aa67421d16935ff42aaa1c5a5a056eba7ddf8ddc0eaa"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_desert.json"
+hash = "4e00fe17914bc23fd0be9b6544d899645902ee482c61dab55877ea671671d101"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_desert_keep_cobblestone.json"
+hash = "484ae3592b0a5689f78df32471ab979b866645609262011ba56355fd672afa9f"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_desert_streets.json"
-hash = "942e4800e3c15d105c486a28117d00bb84a680375caec876bbf451247a17863c"
+hash = "5961a1fbc3c86cd2be440759924e5842d5e296e8284d040e173ba054efb795f4"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_desert_well.json"
+hash = "5a243843dd19c19e492a44407cb82e7dfe80d40100096fc35126f729a220e1c9"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_plains.json"
+hash = "b50dbd2c521ce786c9c9aa67421d16935ff42aaa1c5a5a056eba7ddf8ddc0eaa"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_plains_streets.json"
-hash = "7c02841798f5d59089891dc4530ea328265a618bf7483b1e168e853f34798bbf"
+hash = "fea140b7e0793ff5708640d374cfdd114456e69efe591193ed95276a1c3f3653"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_plains_well.json"
+hash = "b50dbd2c521ce786c9c9aa67421d16935ff42aaa1c5a5a056eba7ddf8ddc0eaa"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_savanna.json"
+hash = "162453df525f152fb922f2584c5de654230cd1c35f37599a23016a58d550a954"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_savanna_keep_cobblestone.json"
+hash = "27e0a1fcf37117fd09f734d3efea49aad0de842d77da42f0abb0028744a6cfa7"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_savanna_streets.json"
-hash = "3221a37277dd8fc410f457429acc55383842d03a274ad531152e9494a413e045"
+hash = "99238fb6a92a2530796337c70af101d9e0938cefe0d8d225939fd3eaa772ac23"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_savanna_well.json"
+hash = "d15b18356d6f02be113eeadc5fbb83d755a9ec99de84d58dd17bdb162c32cded"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_taiga.json"
+hash = "1e7e588dc2878527959b4713d67d3edb24f010a164cab8c0295fbbe1eaf8808e"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_taiga_keep_cobblestone.json"
+hash = "1e7e588dc2878527959b4713d67d3edb24f010a164cab8c0295fbbe1eaf8808e"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_taiga_streets.json"
-hash = "3469ed7e00c4d2cd8d8343739124bbf687959ec1f47b071db87ccd37758a41b2"
+hash = "fea95e08809fe0bd214952b2f3c466b15d2a78d060af7475b6ca8b54fd380c07"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/structure/mineshaft.json"
-hash = "6a57c6185b33989ec410b747ab5639887cab50c11393cdd53d40de5a155abc5b"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/structure/stronghold.json"
-hash = "74ed40c301aa98870861fc12376200f2642b120064a099648d5faa9fc84b7026"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_taiga_well.json"
+hash = "ade83384388dcac26acd30eac9872a21972817227ade33237b2126ff63ddfbfc"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/structure/village_desert.json"
-hash = "044dfac8dc8e165db80d59cdbcb5a246a5b2a76335a6e4243286597e24fa2296"
+hash = "f051516b49de3f624e2c48eb9c4917ca14b8195bc496d92a45126d2cd2e2433f"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/structure/village_plains.json"
-hash = "c5b788a70188e88e787954ee2888b3c900223dfa13d0cc2ae275da5a928f8700"
+hash = "08b02c676abd277651f7da66f47ecb8666036f1b696f1bc0907b7c31171c4786"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/structure/village_savanna.json"
-hash = "b700ad438ef68dd02c610dc8538704ecd4002561b0d714463c0d5eff65160608"
+hash = "3d8154c52179b2d8e0d6b5c53b84152decdf5560b7338a75347427c7812d9d55"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/structure/village_snowy.json"
-hash = "8b869f176bb8567d548e3b14d11a65451d5981b793f57f6e00d50a22e0ea80cd"
+hash = "04196ef0c571ce71fd863dd79357fe933bbcfc943b333f006503cb7f6c357ac1"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/structure/village_taiga.json"
-hash = "51d1057292dcf5636f9815c522e74f7794bc95399697256a079c81d70066db28"
+hash = "88489b4ef52ed0927554e8b670ae703d38a8c67902875648669ab8c1fb5ed5c5"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/structure_set/mineshafts.json"
-hash = "8a489c0deea1023c7fba8b62adcbd8ad40835349fd7b19d5b7762f9c8babaae8"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/common/acacia_log_base.json"
+hash = "2e85ca56d4d6ca53c5e7d9e79c93b9ebb3199352332d5fdd9ea3ec84e8f4feb9"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/structure_set/strongholds.json"
-hash = "efac2e2976f903b89fe9532e7c8b297bd61aae3a16e92d9374b279b7f3109b95"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/common/butcher_animals.json"
+hash = "440bf71455dd779606a4d6aaa089163b1cbb0bde169a4eac18ef9f35d0caf13d"
 
 [[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/structure_set/villages.json"
-hash = "ed58e82adb2285eb97fe526f020706f5d3c299d576f0fdb03927c9061ed849e7"
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/common/cobblestone_base.json"
+hash = "2fe79c29ac40156f76b63454073a46fcbf825de991e308ffa13a7187b80b2047"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/common/crop_plots.json"
+hash = "0465ffcd3e152dbe3b157be6ddd5ae3d19599d5c74b593ee001c50bffa0d4483"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/common/dirt_base.json"
+hash = "986a2987e293c63a46b571d823a48c68e0f19d345cf171a4adbc89f60206a199"
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/common/sandstone_base.json"
+hash = "3020f514b808e5b9c1bc22764d4485fde249bae900455338d0da2fe5bd57c0bb"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/desert/houses.json"
-hash = "f05f0bb96793685196cd32c09c0a26400670b522e31b6e46ce98805d90c2e580"
+hash = "ba90b44c807e21ac7832e80f58e76dc22af97257f8c16b4c2561b1dd996d77a1"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/desert/streets.json"
@@ -1106,39 +1214,39 @@ hash = "5fd81d023a817abb082aa284f0260ea2d99d95c109beed25bee243d39b06dd9a"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/desert/town_centers.json"
-hash = "795ffac2fed578892586cb7e9860e48414eaf4288f5f5e9a9d95384e05acbe74"
+hash = "e04ae1a12d8a1a028262d08530d51cb42eb587c79799eaba617fc63eafabe765"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/desert/villagers.json"
-hash = "2db0eba3e8a717e96fe9036269821a68c6480fc5d115367906c89ff506e720e3"
+hash = "263912b7fc1d2716b041daff33d1076f8847483ece45a7e6b460926c277aaf21"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/desert/well_bottom.json"
-hash = "d61a91da37d5a71d0dd9dcdb21a8e712887e14396bc6a34786ef67f4dc9661b9"
+hash = "fbb27780e8c5489ca4120caae7ddb3bc7caf174c3ce8a802c74af496c9bdf35b"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/plains/houses.json"
-hash = "3d31135419343c0e97a9ab4433a9c97c43f2788a1ddbdaeb2ddfa519c674f911"
+hash = "35693f57b5e53e0daf1c3570c7ac20f58f07cbc440a442daf5fd56b267b7495a"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/plains/streets.json"
-hash = "6c44d7e5381c4e09534788e3ff8ad27a12714600d0de019377e6f0504bc55726"
+hash = "c995675f610cea8ed47b96275f729586fc0a71945a376e6079f9dff3497014a7"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/plains/town_centers.json"
-hash = "6064e7144a44274a0875f067eaf254868215385a673faffb18023533f38761b6"
+hash = "6829bb63a6dd83b72db4970cf2b32d735800572d980553c511d22b3c11d69f81"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/plains/villagers.json"
-hash = "78124cb1c75a60ce83aaf7a482fbdbdde10e66d20c9ecd4f948faa001ffd942f"
+hash = "e071e1262ed2dfe89055c96f01202ea7a36ebb3a07354c93e5a9528196485a7e"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/plains/well_bottom.json"
-hash = "060172854424ac2b24e59260c747d6efaf52a18ee1f4f8171f006364c76e7226"
+hash = "f3944476cf4cbd1125d24388706a7c3fd733465222049a8766f5025878b7e53c"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/savanna/houses.json"
-hash = "2d1adbf8d33a7769df3d707da4efc817979f577e14bc6e2486f3fc29262db096"
+hash = "0d0b3eb915070a3aa6e1227946435af924743bd38d8d1553e4a442b1f296ae7f"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/savanna/streets.json"
@@ -1146,19 +1254,19 @@ hash = "86752dde5648aadddea0f8f5c5c2587f0ca0f26d6e88e46d87474c0cce764986"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/savanna/town_centers.json"
-hash = "10a74dc87c26919ec18cd8091d79745c230a6a9a014cd6e55b1be4444c2b375e"
+hash = "f678a6903076f9838805b683c75cba86d193e67d89e570bc3a33f23d1dd63d76"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/savanna/villagers.json"
-hash = "405f08f1b3b613b3f4c4703ccbd6261e25eab5a598317e9eb9abfe7330f53d65"
+hash = "dd7b4c335fa33f378f0820a5692800481e1be4c69c1bf69a298f16553066577b"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/savanna/well_bottom.json"
-hash = "c151556d6322def363a2ff44ed02f9bc277876483c6c845d7d32e92b518c06d2"
+hash = "30d5a32cd0737d86d8feeb8d5760a985f73d8bc3009a973795e36643f0a9a765"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/taiga/houses.json"
-hash = "3c6e0a8a99e7c2dca5db3bd67b0f161446a26e79bd9b32c7f37f7a4c8489113c"
+hash = "c29b1107e7bd71007008f5bf0716e06907859287475bd8988a9d11f6cc2e99f1"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/taiga/streets.json"
@@ -1166,35 +1274,15 @@ hash = "6dd15e671caf30f4e7da1d0e9e4b27fe1766787c8478382cb21bd5a67b1544bc"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/taiga/town_centers.json"
-hash = "4f2f0609f7d4e77a2d46b9006d66dc0587b9cb18e2cdc6c5abea582cdc1a7017"
+hash = "917a225950fb0e1f21950c12e294085c33fdc6c26806908eafa11972555ee119"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/taiga/villagers.json"
-hash = "99ac1cac9e3cda54a661aff067bf39c597cd18ae72f4dafa0500d400a5f7ef20"
+hash = "58cefe8e031aadaf0c76ed477239906b6fd1bd7c7cd85464d557635339fea3c3"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/taiga/well_bottom.json"
-hash = "9e5e5f167bc22c90f148ebf477cc172364f6673b4b86c584ceb1d5b49bcb74cf"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/world_preset/infinite.json"
-hash = "23d1016d2d18d0bc6149ae5f1417cbead0638ec02bce84c4be616dd21c916210"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/world_preset/limited.json"
-hash = "f2baddbd29dd1157a74c4e31349c2f33a8834682a4de71c304d370b760b732cc"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/world_preset/limited_large.json"
-hash = "fe2f2274902b13a377b270d1cd5483051f8e5601f2a937b0e5c05e102607d804"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/world_preset/limited_medium.json"
-hash = "f487e7187631b7a8d1c64e41e7bb68ed8a4f3696a616ecb88b08999f437703b4"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/world_preset/limited_small.json"
-hash = "25ac32b9dfeeac0fee3c3338057405b234c688233c399d3b7a183078683098bd"
+hash = "be3d3f422f7d516ff8fc0c96e0c85eaa90c2b558a31e1e54c1659b04246f2648"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/ClassicVillages/pack.mcmeta"
@@ -1906,19 +1994,19 @@ hash = "6932cfe668cbc5be30bf7e37d26118c661780301783b4e7b8d445d7da9837538"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset/amplified.json"
-hash = "d160b310fd2b24c7840a4628983a20acd67b936594a7595595b5d1083f5e7ce3"
+hash = "ea924697dfe294e59aaee9a92838403f09af9751639d13d28a0ac5fb716257c7"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset/large_biomes.json"
-hash = "b6330bb8d284f711a3fdc9cf643dc4e1365303aa2f038ba11c731c99442b7248"
+hash = "6034efae2e6349605bc52e641748ddcc0f639f1115993c65b900437e4c7a2f74"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset/medium_biomes.json"
-hash = "0de5405babdfa60b331d2c39ca880f1402170a822b31fd0b266a2208fee6e93f"
+hash = "94bd5df676a083d6912bcf39bf6c7592a47cd5be0f95ab4b712f6209105ac21e"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset/normal.json"
-hash = "cf8bd407218fb8647fe9d0f247beb2e01cbb615b3b0ee8a45faa5e87723f8986"
+hash = "3dc131209216827903bb03d8f97edab30d659e2d7e15d4a62d7312009fd65010"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset_category/silver_lining.json"
