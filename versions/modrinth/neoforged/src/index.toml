@@ -3352,7 +3352,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "4c4f1147928056651c4e92e20a510556053447776c322381bc0bd5d1f0f738e3"
+hash = "6028668d5c1c5e49797eb97bb597d818be33a67a939d0cc356a702460b504675"
 metafile = true
 
 [[files]]
@@ -3612,7 +3612,7 @@ metafile = true
 
 [[files]]
 file = "mods/seasonhud.pw.toml"
-hash = "7f2c9d5d9126314d20e7c30f45e31f14b60fe9092c7a4d93788adac27d432cf6"
+hash = "840c8adddee0965dbcf0387b7c253f415a08dc923935a272b64d7b339447d8a6"
 metafile = true
 
 [[files]]
@@ -3652,7 +3652,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "a111eff55e662d63192d404c7495a059217fe1115640a0532ff4d8ff26d96ace"
+hash = "a762918dfce6afcb2df6097d83705889ac9f3f2712ac3bc64f8a71ae1a142d04"
 metafile = true
 
 [[files]]
@@ -3747,5 +3747,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/pacp.pw.toml"
-hash = "1fb2ac7c14ccd7914ac4f22242935f91a262f34c497b3ed6f202c7773255d7f5"
+hash = "6028c3b643ae7c1c6be69c994371256fba5a7401c299356e91a8be80c743247c"
 metafile = true
