@@ -9,30 +9,6 @@ file = "config/isxander-main-menu-credits.json"
 hash = "8bb06b2a708c361caf9b9390a71146454399107b26af47b37e6e83c6be71b927"
 
 [[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Client.json"
-hash = "e0d9ce47a87536c707b797789b53e9e4f09b273f69098b1303b0815ebd82b3c5"
-
-[[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Common.json"
-hash = "20bb880eb7a4657399b86fd11f6e2ec56c87c04ad037d62c155dcca5d484aa7f"
-
-[[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
-hash = "69b2e8613a2e3084367295c7b74cb598957f97bb9b9cfe56eb7b7a3187d86b66"
-
-[[files]]
-file = "config/yosbr/config/nostalgic_tweaks/backup/nostalgic_tweaks-client-startup_backup.json"
-hash = "ac482bda9fdf75291c9276970daa3b467186b2e683f603848281c29c09f6f6f7"
-
-[[files]]
-file = "config/yosbr/config/nostalgic_tweaks/nostalgic_tweaks.json"
-hash = "b50a7b6ce45d537d3a98e411ba4a63a10a86318548d43804b357ae4f749ac006"
-
-[[files]]
-file = "config/yosbr/options.txt"
-hash = "a737dd82279403a1a22b4dcd1fa3f99915f4feac38879042a8b1da6a4ccac199"
-
-[[files]]
 file = "configureddefaults/README.md"
 hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
 
@@ -3698,11 +3674,6 @@ metafile = true
 [[files]]
 file = "mods/yeetus-experimentus.pw.toml"
 hash = "5e25dccab496945a5f19bb82383e0ebf98452ffc14cd25c7e0259cc44312281a"
-metafile = true
-
-[[files]]
-file = "mods/yosbr.pw.toml"
-hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]

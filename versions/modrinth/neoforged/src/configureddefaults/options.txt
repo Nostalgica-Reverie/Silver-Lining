@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","mod_resources","moonlight:mods_dynamic_assets","programmer_art","file/PACP 2.2_Standard.zip","wowassets"]
+resourcePacks:["vanilla","fabric","mod_resources","moonlight:mods_dynamic_assets","programmer_art","file/PACP_Base_Release.zip","wowassets"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
