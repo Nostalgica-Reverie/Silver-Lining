@@ -2022,11 +2022,11 @@ hash = "4ec7ca50e35e52f9e67466a5d1de1b0556f06dc06db57e25e032f7993fecffe3"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/placed_feature/trees_birch_sparse.json"
-hash = "7306718c5c9303e6d4c4541e9e5279ca46bf0afd3e6f2f677125b8a231ecc846"
+hash = "7639a9ef0911e9e08c728c387e562546ec37cb8339eae1b8776059f48a3b6bb9"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/placed_feature/trees_highlands.json"
-hash = "384e90380852902205826c23f1ecfafda689f93b7d16f287ccb16a4f7ba60303"
+hash = "985e1b1a5ccc4138ec5666cdb648311ba4f6370993e923f6c719943a7d1f669b"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/placed_feature/trees_parched.json"
@@ -3198,7 +3198,7 @@ hash = "853ead830a8bc7e32590045ddf60da33e2186d61f41881aa6be3043988af659d"
 
 [[files]]
 file = "configureddefaults/config/nostalgic_tweaks/nostalgic_tweaks.json"
-hash = "853ead830a8bc7e32590045ddf60da33e2186d61f41881aa6be3043988af659d"
+hash = "896d14398738a74e58c18737f22363179a1335c328538883c3277e7d77fe0728"
 
 [[files]]
 file = "configureddefaults/config/puzzle.json"
