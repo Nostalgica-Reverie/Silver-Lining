@@ -13,7 +13,7 @@ glintSpeed:0.5
 glintStrength:0.75
 prioritizeChunkUpdates:0
 fullscreen:false
-gamma:0.5
+gamma:0.0
 graphicsMode:1
 guiScale:0
 maxFps:260
@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","mod_resources","moonlight:mods_dynamic_assets","programmer_art","file/PACP_Base_Release.zip","wowassets"]
+resourcePacks:["vanilla","fabric","mod_resources","moonlight:mods_dynamic_assets","programmer_art","file/PACP_Base_Release.zip","wow_assets","wow_extras","restored-brightness-sodium-0.6.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
