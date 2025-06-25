@@ -1,9 +1,25 @@
 {
-  "replace": false,
+  "replace": true,
   "values": {
-    "minecraft:swamp": "minecraft:swamp_oak",
-    "moderner_beta:early_release_swampland": "minecraft:swamp_oak",
-    "moderner_beta:late_beta_swampland": "minecraft:swamp_oak",
-    "silver_lining:parched_forest": "silver_lining:trees_parched_oak"
+    "treeplacer:all_biomes": [
+      {
+        "feature": "geophilic:tree/oak/classic",
+        "weight": 6
+      },
+      {
+        "feature": "geophilic:tree/oak/fancy",
+        "weight": 4
+      }
+    ],
+    "minecraft:swamp": [
+      {
+        "feature": "geophilic:tree/oak/swamp/modern",
+        "weight": 8
+      },
+      {
+        "feature": "geophilic:tree/oak/swamp/classic",
+        "weight": 2
+      }
+    ]
   }
 }

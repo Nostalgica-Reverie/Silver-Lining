@@ -1,9 +1,15 @@
 {
-  "replace": false,
+  "replace": true,
   "values": {
-    "silver_lining:parched_forest": "minecraft:birch_tall",
-    "silver_lining:birch_grove": "minecraft:birch_tall",
-    "silver_lining:snowy_birch_grove": "minecraft:birch_tall",
-    "minecraft:old_growth_birch_forest": "minecraft:birch_tall"
+    "treeplacer:all_biomes": [
+      {
+        "feature": "geophilic:tree/birch/tall",
+        "weight": 1
+      },
+      {
+        "feature": "geophilic:tree/birch/classic",
+        "weight": 9
+      }
+    ]
   }
 }

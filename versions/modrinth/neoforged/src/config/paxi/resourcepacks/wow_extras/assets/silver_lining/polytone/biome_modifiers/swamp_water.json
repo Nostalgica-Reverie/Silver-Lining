@@ -2,7 +2,7 @@
     "targets": [
         "minecraft:swamp",
         "minecraft:mangrove_swamp",
-        "moderner_beta:early_release_swampland"
+        "minecraft:swamp"
     ],
     "water_color": 14745518
 }

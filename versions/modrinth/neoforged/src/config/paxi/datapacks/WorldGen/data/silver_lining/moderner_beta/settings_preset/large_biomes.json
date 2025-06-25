@@ -168,7 +168,7 @@
           "type": "moderner_beta:stacked_zoom",
           "parent": "river",
           "id": "river",
-          "level": 7,
+          "level": 6,
           "seed": 1000,
           "zoomType": "modal"
         },
@@ -178,6 +178,18 @@
           "convertOceans": true,
           "id": "river",
           "seed": 0
+        },
+        {
+          "type": "moderner_beta:smooth",
+          "parent": "river",
+          "id": "river",
+          "seed": 1000
+        },
+        {
+          "type": "moderner_beta:modal_zoom",
+          "parent": "river",
+          "id": "river",
+          "seed": 1006
         },
         {
           "type": "moderner_beta:smooth",
@@ -203,9 +215,9 @@
             "minecraft:desert",
             "minecraft:forest",
             "moderner_beta:early_release_extreme_hills",
-            "moderner_beta:early_release_swampland",
-            "moderner_beta:late_beta_plains",
-            "moderner_beta:late_beta_taiga",
+            "minecraft:swamp",
+            "minecraft:plains",
+            "minecraft:taiga",
             "minecraft:jungle"
           ],
           "id": "biome_pool",
@@ -217,7 +229,7 @@
             "minecraft:badlands",
             "silver_lining:parched_forest",
             "minecraft:windswept_hills",
-            "moderner_beta:late_beta_swampland",
+            "minecraft:swamp",
             "silver_lining:birch_grove",
             "silver_lining:highlands",
             "silver_lining:rainforest"
@@ -247,12 +259,12 @@
         {
           "type": "moderner_beta:random_biome",
           "biomes": [
-            "moderner_beta:late_beta_ice_plains",
-            "moderner_beta:late_beta_ice_plains",
-            "moderner_beta:late_beta_ice_plains",
-            "moderner_beta:late_beta_ice_plains",
-            "moderner_beta:early_release_taiga",
-            "moderner_beta:early_release_taiga",
+            "minecraft:snowy_plains",
+            "minecraft:snowy_plains",
+            "minecraft:snowy_plains",
+            "minecraft:snowy_plains",
+            "minecraft:snowy_taiga",
+            "minecraft:snowy_taiga",
             "silver_lining:snowy_birch_grove"
           ],
           "id": "ice_plains",
@@ -304,19 +316,19 @@
               "type": "biome",
               "value": "minecraft:jungle*hills"
             },
-            "moderner_beta:late_beta_ice_plains": {
+            "minecraft:snowy_plains": {
               "type": "biome",
-              "value": "moderner_beta:late_beta_ice_plains*hills"
+              "value": "minecraft:snowy_plains*hills"
             },
-            "moderner_beta:early_release_taiga": {
+            "minecraft:snowy_taiga": {
               "type": "biome",
-              "value": "moderner_beta:early_release_taiga*hills"
+              "value": "minecraft:snowy_taiga*hills"
             },
-            "moderner_beta:late_beta_taiga": {
+            "minecraft:taiga": {
               "type": "biome",
-              "value": "moderner_beta:late_beta_taiga*hills"
+              "value": "minecraft:taiga*hills"
             },
-            "moderner_beta:late_beta_plains": {
+            "minecraft:plains": {
               "type": "biome",
               "value": "minecraft:forest"
             },
@@ -374,10 +386,10 @@
           "parent": "land_0",
           "betaShape": false,
           "biomeSpecificOceans": {
-            "moderner_beta:late_beta_ice_plains": "minecraft:frozen_ocean"
+            "minecraft:snowy_plains": "minecraft:frozen_ocean"
           },
           "id": "land_0",
-          "land": "moderner_beta:late_beta_plains",
+          "land": "minecraft:plains",
           "ocean": "minecraft:ocean",
           "seed": 3
         },
@@ -453,8 +465,8 @@
                         "moderner_beta:early_release_extreme_hills",
                         "minecraft:river",
                         "minecraft:ocean",
-                        "moderner_beta:early_release_swampland",
-                        "moderner_beta:late_beta_swampland",
+                        "minecraft:swamp",
+                        "minecraft:swamp",
                         "minecraft:badlands",
                         "minecraft:wooded_badlands"
                       ],
@@ -541,7 +553,7 @@
             {
               "data": {
                 "type": "biome",
-                "value": "moderner_beta:early_release_swampland*lake"
+                "value": "minecraft:swamp*lake"
               },
               "weight": 1
             },
@@ -563,7 +575,7 @@
             {
               "type": "layer",
               "predicate": {
-                "biome": "~moderner_beta:early_release_swampland",
+                "biome": "~minecraft:swamp",
                 "condition": "moderner_beta:single_match"
               },
               "result": "swamp_lakes"
@@ -614,7 +626,7 @@
           "biomeSpecificRivers": {
             "minecraft:mushroom_fields": "minecraft:mushroom_fields*shore",
             "minecraft:mushroom_fields*shore": "minecraft:mushroom_fields*shore",
-            "moderner_beta:late_beta_ice_plains": "minecraft:frozen_river",
+            "minecraft:snowy_plains": "minecraft:frozen_river",
             "moderner_beta:early_release_ice_plains": "minecraft:frozen_river"
           },
           "id": "land",

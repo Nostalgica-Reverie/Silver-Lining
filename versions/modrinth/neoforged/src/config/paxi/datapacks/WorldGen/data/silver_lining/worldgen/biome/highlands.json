@@ -11,7 +11,8 @@
     "fog_color": 12638463,
     "sky_color": 8233727,
     "water_color": 4159204,
-    "water_fog_color": 329011
+    "water_fog_color": 329011,
+    "grass_color": 7780215
   },
   "features": [
     [],
@@ -66,11 +67,19 @@
     ],
     [
       "minecraft:glow_lichen",
-      "silver_lining:trees_oak_and_spruce",
-      "minecraft:flower_default",
-      "minecraft:patch_grass_badlands",
-      "minecraft:patch_sugar_cane",
-      "minecraft:patch_pumpkin"
+      "geophilic:taiga/podzol_patches",
+      "geophilic:windswept/rocks",
+      "silver_lining:trees_highlands",
+      "geophilic:windswept/forest/logs",
+      "geophilic:windswept/bushes",
+      "geophilic:common/flowers/default",
+      "geophilic:windswept/flowers",
+      "geophilic:common/mushrooms",
+      "geophilic:common/sugar_cane",
+      "geophilic:common/pumpkins",
+      "geophilic:common/moss",
+      "geophilic:common/grass/meadow",
+      "geophilic:taiga/podzol_grass"
     ],
     [
       "minecraft:freeze_top_layer"

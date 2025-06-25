@@ -8,14 +8,14 @@
       "scaleOffset": 1.0,
       "heightOverrides": {
         "moderner_beta:early_release_extreme_hills": "0.2;1.8",
-        "moderner_beta:late_beta_ice_plains*hills": "0.3;1.3",
+        "minecraft:snowy_plains*hills": "0.3;1.3",
         "minecraft:jungle*hills": "1.8;0.5",
         "minecraft:desert*hills": "0.3;0.8",
-        "moderner_beta:late_beta_taiga*hills": "0.3;1.0",
-        "moderner_beta:early_release_taiga*hills": "0.3;1.0",
+        "minecraft:taiga*hills": "0.3;1.0",
+        "minecraft:snowy_taiga*hills": "0.3;1.0",
         "minecraft:forest*hills": "0.3;1.2",
-        "moderner_beta:early_release_swampland": "-0.2;0.2",
-        "moderner_beta:late_beta_swampland": "-0.1;0.6",
+        "minecraft:swamp": "-0.2;0.2",
+        "minecraft:swamp": "-0.1;0.6",
         "silver_lining:parched_forest": "0.2;0.8",
         "silver_lining:parched_forest*hills": "0.3;1.5",
         "silver_lining:rainforest": "0.3;1.5",
@@ -31,7 +31,7 @@
         "minecraft:frozen_river": "-0.75;0.25",
         "minecraft:ocean": "-1.0;-0.15",
         "minecraft:jungle*lake": "-0.75;0.25",
-        "moderner_beta:early_release_swampland*lake": "-0.75;0.25"
+        "minecraft:swamp*lake": "-0.75;0.25"
       }
     }
   },  

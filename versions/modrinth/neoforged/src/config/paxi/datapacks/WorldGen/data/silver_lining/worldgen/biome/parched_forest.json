@@ -66,14 +66,16 @@
     ],
     [
       "minecraft:glow_lichen",
-      "moderner_beta:patch_poppy",
+      "geophilic:forest/dark/dirt_patches",
+      "geophilic:forest/rocks",
       "silver_lining:trees_parched",
-      "minecraft:flower_cherry",
-      "moderner_beta:patch_grass_taiga_1",
-      "minecraft:brown_mushroom_normal",
-      "minecraft:red_mushroom_normal",
-      "minecraft:patch_sugar_cane",
-      "silver_lining:patch_pumpkin_parched"
+      "geophilic:forest/dark/logs",
+      "geophilic:forest/flowers",
+      "geophilic:common/mushrooms",
+      "geophilic:common/sugar_cane",
+      "geophilic:common/pumpkins",
+      "geophilic:common/moss",
+      "geophilic:common/grass/forest"
     ],
     [
       "moderner_beta:freeze_top_layer"
