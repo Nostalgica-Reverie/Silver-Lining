@@ -49,7 +49,9 @@
         "traverse:lush_swamp*lake": "-0.5;0.0",
         "terrestria:canyon": "0.2;0.5",
         "terrestria:lush_desert": "0.1;0.5",
-        "terrestria:oasis": "-0.1;0.2",
+        "terrestria:oasis": "-0.2;0.0",
+        "terrestria:cypress_forest": "0.5;0.5",
+        "terrestria:cypress_forest*hills": "1.0;1.0",
         "terrestria:redwood_forest": "0.1;0.4",
         "terrestria:redwood_forest*hills": "0.2;0.8",
         "terrestria:lush_redwood_forest": "0.1;0.6",
@@ -68,7 +70,8 @@
         "terrestria:outback*hills": "1.5;0.5",
         "terrestria:dense_woodlands": "0.1;1.0",
         "terrestria:dense_woodlands*hills": "0.3;1.5",
-        "terrestria:rainbow_rainforest": "0.1;1.5"
+        "terrestria:rainbow_rainforest": "0.1;1.5",
+        "minecraft:meadow": "0.5;0.3"
       },
       "scaleOffset": 0.0,
       "scaleWeight": 1.0
@@ -972,6 +975,10 @@
             "terrestria:dense_woodlands": {
               "type": "biome",
               "value": "terrestria:dense_woodlands*hills"
+            },
+            "terrestria:lush_desert": {
+              "type": "biome",
+              "value": "terrestria:oasis"
             }
           }
         },
@@ -1233,40 +1240,11 @@
           ]
         },
         {
-          "type": "moderner_beta:weighted_pool",
-          "id": "oasises",
-          "seed": 1000,
-          "targets": [
-            {
-              "data": {
-                "type": "biome",
-                "value": "terrestria:oasis"
-              },
-              "weight": 1
-            },
-            {
-              "data": {
-                "type": "biome",
-                "value": "minecraft:the_void*null"
-              },
-              "weight": 9
-            }
-          ]
-        },
-        {
           "type": "moderner_beta:predicate_overlay",
           "parent": "land",
           "id": "land",
           "seed": 1000,
           "targets": [
-            {
-              "type": "layer",
-              "predicate": {
-                "biome": "terrestria:lush_desert",
-                "condition": "moderner_beta:single_match"
-              },
-              "result": "oasises"
-            },
             {
               "type": "layer",
               "predicate": {
@@ -1366,8 +1344,10 @@
           "biomeSpecificRivers": {
             "minecraft:mushroom_fields": "minecraft:mushroom_fields*shore",
             "minecraft:mushroom_fields*shore": "minecraft:mushroom_fields*shore",
-            "minecraft:snowy_plains": "minecraft:frozen_river",
-            "moderner_beta:early_release_ice_plains": "minecraft:frozen_river"
+            "~minecraft:snowy_plains": "minecraft:frozen_river",
+            "~minecraft:snowy_taiga": "minecraft:frozen_river",
+            "~silver_lining:snowy_birch_grove": "minecraft:frozen_river",
+            "~terrestria:snowy_hemlock_forest": "minecraft:frozen_river"
           },
           "id": "land",
           "ignoredBiomes": [

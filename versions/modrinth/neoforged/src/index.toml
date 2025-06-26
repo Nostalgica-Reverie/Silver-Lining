@@ -1569,18 +1569,6 @@ file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_featur
 hash = "de6eaf5e4352cd7ce777c57fadcbebf983db058cc7dc8a45cbe9c984197aca19"
 
 [[files]]
-file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/flower_plain.json"
-hash = "eea1f0a482c58320cc1af07373438bab8d3d23f80c6c25ec7345e4b03b35cf67"
-
-[[files]]
-file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/flower_swamp.json"
-hash = "07e591ec6e1524ae8566bdce3a68c4d6db2ad8c1ca349314fd449bea876ec5e2"
-
-[[files]]
-file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/forest_flowers.json"
-hash = "ede5ba00abb2d575a26d00481c9a6a8dde37d21ec71e258a71867faa300bc2be"
-
-[[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/freeze_top_layer.json"
 hash = "b30e59b089f5d6fe97aa993757c956bd05e793a792d73a26fb837d54a13e823f"
 
@@ -1826,7 +1814,7 @@ hash = "878e96f77c49998fa7868238aa4e970b83a21298905e66214845b78bc6862e80"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/moderner_beta/tags/worldgen/biome/is_early_release_spawn.json"
-hash = "01538a4cd5ea8bfb4622743c0ac4217e31d34bc80f432ae33d4feb69ec4117f5"
+hash = "145cc96093ec6b87efe5aff28704afe4357db1eb9447e4e345786c21cf8ffb35"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/moderner_beta/worldgen/biome/early_release_swampland.json"
@@ -1930,7 +1918,7 @@ hash = "b6a44047cbae22433dedd4ea44da32e7994fe1f9e576caeb1d46429737e0731e"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset/normal.json"
-hash = "f450ac3dc162021b196d79880dd331bfe6bb7b81025351fe5b3cc1f47ae66eb7"
+hash = "10c213478e1ba1e2dc9c835aa4eb7acfdac788a7f84b33a114810efb9e542978"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset_category/silver_lining.json"
@@ -1991,10 +1979,6 @@ hash = "521aa2536a9eca42ffed2277237fbb8b5d88955871f6d77820a029e06817ea3e"
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/placed_feature/disk_swamp_sand.json"
 hash = "0871aca2e4bd7d977b06532f6c736ecc1dd468f3bc58ea0a0fcf602f8b05d498"
-
-[[files]]
-file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/placed_feature/flower_plains.json"
-hash = "fa485257bb44ac24cdea6d7762a3f209ef95f04068956b07781f92beae7c7c2e"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/placed_feature/oak_cherry_checked.json"
@@ -2062,63 +2046,27 @@ hash = "88660439eb38c5c3c167d2eb97520be19835492137c625cbb4417dc84ff9d531"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/lang/en_au.json"
-hash = "7c9091dd633ae1ce27c65567abad5388e9a71ddce3e53238aa415f2f842bb175"
+hash = "e7e5493676e992907d35c5cce1839934905cd5515a5d4043d0e67c7b9902b44b"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/lang/en_ca.json"
-hash = "ec9a7b7d5baab0bfa95d6140d9f149e9b3effce45e1bcfae3b5e0fd8cb3935f5"
+hash = "91c7e3b9973de4c9b83c01387ef6f48874aeb2db7fddc601cdf67df6b684624b"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/lang/en_gb.json"
-hash = "7c9091dd633ae1ce27c65567abad5388e9a71ddce3e53238aa415f2f842bb175"
+hash = "e7e5493676e992907d35c5cce1839934905cd5515a5d4043d0e67c7b9902b44b"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/lang/en_nz.json"
-hash = "7c9091dd633ae1ce27c65567abad5388e9a71ddce3e53238aa415f2f842bb175"
+hash = "e7e5493676e992907d35c5cce1839934905cd5515a5d4043d0e67c7b9902b44b"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/lang/en_us.json"
-hash = "ed71c17a6f48e96c7eba1c0d0434f51e9568d33538101a98db4bb205cb139d52"
+hash = "8f958b31f7ef2811f69b9bb536880401088033d242bc0504ff544236209fabbb"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/models/block/honey_block.json"
 hash = "588726b1792ae16b4fd9bade5ef4e8f8d75250273e283d2e425ff9bd0bbcdbc0"
-
-[[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/models/block/pink_petals_1.json"
-hash = "b41041242e43ce951e51bb87344b23674de708d90cda0d155fca0c5b56d55297"
-
-[[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/models/block/pink_petals_2.json"
-hash = "11baea41d1bd57f9969e51376ae3127d10007678bdaa7ae13668c3058bc1161d"
-
-[[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/models/block/pink_petals_3.json"
-hash = "138232edc0c4fddf5fe797694bc0eef176d05591e7a1f839103356110b61d00b"
-
-[[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/models/block/pink_petals_4.json"
-hash = "7f55f416b758cfe8f3418515146b063acf4bc5003e2a4052988986becb648c72"
-
-[[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/models/block/template_leaf_litter_1.json"
-hash = "99830acdc6a2c0aaf06142948acadf4fa2833e7ba560d4e9d7cd58f8ef0173f1"
-
-[[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/models/block/template_leaf_litter_2.json"
-hash = "1eb1623a95e0df9383c1db488774510b000a40d68c1cc297f48179c85007726d"
-
-[[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/models/block/template_leaf_litter_3.json"
-hash = "ba559a49255380ed2b6703228ecb1f82c2d723c7016af0543e8d9bd55e3665a3"
-
-[[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/models/block/template_leaf_litter_4.json"
-hash = "58e6a472b9f97df5ee9defc39858832563ee0691a49c314e5b6722cb3b9f445e"
-
-[[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/models/item/pink_petals.json"
-hash = "3c992e253055551edcf81fc827e7c26ca2d58aeaa918afc292c20ac9397ec1fd"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/textures/block/honey_block_bottom.png"
@@ -2171,10 +2119,6 @@ hash = "77c87607042c96535ca5c1631b77864ccc4af9163dad431bbf2b4e1059560646"
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/textures/item/honeycomb.png"
 hash = "09376b452af0cf4c91b3f43335d80c3b1960fd700aeb4bc0b9e6cb0fdac86f38"
-
-[[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/textures/item/leaf_litter_jappa.png"
-hash = "f753c1eef1a8e4c088b1d6a8b8e118bfa6df233d85229a8c256952e1d8950200"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/silver_lining/polytone/particle_modifiers/slimecomb.json"
@@ -3202,7 +3146,7 @@ hash = "853ead830a8bc7e32590045ddf60da33e2186d61f41881aa6be3043988af659d"
 
 [[files]]
 file = "configureddefaults/config/nostalgic_tweaks/nostalgic_tweaks.json"
-hash = "896d14398738a74e58c18737f22363179a1335c328538883c3277e7d77fe0728"
+hash = "80593709f45e572b81e592b1dea998e4b0240bd75f274594504fc9d7de11767a"
 
 [[files]]
 file = "configureddefaults/config/puzzle.json"
@@ -3225,6 +3169,14 @@ file = "configureddefaults/config/sodium-options.json"
 hash = "1570d389b7f47caa8256fcf023243cd510d37eda62a611c8e27936c12d93d806"
 
 [[files]]
+file = "configureddefaults/config/terrestria/client.json"
+hash = "c6c5d188f9d5285ec99e004d8f205437c82d393353f28bb5d2be5a2f9af6901a"
+
+[[files]]
+file = "configureddefaults/config/terrestria/general.json"
+hash = "641583b64893e61ba0250606c905704eab85f74d49e7544dd1b31fd7022787a9"
+
+[[files]]
 file = "configureddefaults/config/threadtweak.json"
 hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
 
@@ -3242,15 +3194,23 @@ hash = "b410746ddef0f7dd5f1d860ef3fcd6ad29c10988abbf6281181cb9c3acb628ca"
 
 [[files]]
 file = "configureddefaults/config/xaerominimap.txt"
-hash = "ed2549f8a52da4f43d5950d432aced1ad292f58639aadc7515a4b8e2cc57d15f"
+hash = "926668bd5ad10ed1dd51836ae27d36d58fa3a3a3356dc6e0cb115b785039678e"
 
 [[files]]
 file = "configureddefaults/config/xaerominimap_entities.json"
 hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
 
 [[files]]
+file = "configureddefaults/config/xaeroworldmap-common.txt"
+hash = "ab09b6171d1f5f9c15d3ea653be739b53bca6f88db1ec38ae80575143c4c68cd"
+
+[[files]]
+file = "configureddefaults/config/xaeroworldmap.txt"
+hash = "cdf759d5937a9cb59cd9155fdb6536fae7bf823c0dee683e1e814e8052ab64ea"
+
+[[files]]
 file = "configureddefaults/options.txt"
-hash = "54a0706950eba49a8cec7fda4b652c34402aa6629ea05713e2707283a8eafd3e"
+hash = "6ac934198198300122a0bd72e3073eece3c59737db3ebb52514d9fb6c4a7514c"
 
 [[files]]
 file = "mods/air-hop.pw.toml"
