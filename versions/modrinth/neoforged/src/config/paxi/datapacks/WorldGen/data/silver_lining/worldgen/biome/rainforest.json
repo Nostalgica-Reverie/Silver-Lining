@@ -66,16 +66,18 @@
     ],
     [
       "minecraft:glow_lichen",
-      "moderner_beta:patch_poppy",
-      "moderner_beta:trees_beta_rainforest_bees",
-      "minecraft:trees_swamp",
-      "moderner_beta:patch_grass_rainforest_10",
-      "minecraft:flower_warm",
-      "minecraft:brown_mushroom_normal",
-      "minecraft:red_mushroom_normal",
-      "minecraft:patch_sugar_cane",
-      "minecraft:patch_pumpkin",
-      "minecraft:patch_melon_sparse"
+      "geophilic:jungle/rocks",
+      "silver_lining:trees_rainforest",
+      "geophilic:jungle/logs",
+      "geophilic:jungle/sparse/bushes",
+      "geophilic:common/flowers/warm",
+      "geophilic:common/mushrooms",
+      "geophilic:common/sugar_cane",
+      "geophilic:common/pumpkins",
+      "geophilic:common/moss",
+      "minecraft:vines",
+      "geophilic:jungle/melons",
+      "geophilic:common/grass/jungle"
     ],
     [
       "minecraft:freeze_top_layer"

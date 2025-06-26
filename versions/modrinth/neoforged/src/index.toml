@@ -1529,6 +1529,10 @@ file = "config/paxi/datapacks/WorldGen/data/minecraft/tags/worldgen/world_preset
 hash = "62b757b7a5ba4e6d85330b8ac804d9140f18899610c49e1353ab02f2751be065"
 
 [[files]]
+file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/biome/dark_forest.json"
+hash = "2171005e91f2d60d82829ca6f7405916ad2494fe78a23e34edbc7e2727f27ba1"
+
+[[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/amethyst_geode.json"
 hash = "f5313248b6009ddb20c274b8291488effa3e31b6377337fde087721a691633a6"
 
@@ -1821,20 +1825,12 @@ file = "config/paxi/datapacks/WorldGen/data/moderner_beta/tags/moderner_beta/set
 hash = "878e96f77c49998fa7868238aa4e970b83a21298905e66214845b78bc6862e80"
 
 [[files]]
-file = "config/paxi/datapacks/WorldGen/data/moderner_beta/tags/worldgen/biome/fractal_jungle_rivers.json"
-hash = "5735f854fbb446dfeafdf69f5af9b60fe47c60a5395a416b886014c576b4927b"
-
-[[files]]
-file = "config/paxi/datapacks/WorldGen/data/moderner_beta/tags/worldgen/biome/fractal_no_beaches.json"
-hash = "a295db529ea105921631bf1a78014576e94c29bd69f277e86a32e6d147e058db"
+file = "config/paxi/datapacks/WorldGen/data/moderner_beta/tags/worldgen/biome/is_early_release_spawn.json"
+hash = "01538a4cd5ea8bfb4622743c0ac4217e31d34bc80f432ae33d4feb69ec4117f5"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/moderner_beta/worldgen/biome/early_release_swampland.json"
 hash = "e137d7320fffef4e278cf4ae1063c4daae9c637956a443de89f0a925764f265d"
-
-[[files]]
-file = "config/paxi/datapacks/WorldGen/data/moderner_beta/worldgen/biome/late_beta_swampland.json"
-hash = "02316ac5829ef78c6996a00a7f13eaa00cfff32ebd425feedb4065ee2da7ef79"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/moderner_beta/worldgen/configured_carver/beta_cave_deep.json"
@@ -1922,7 +1918,7 @@ hash = "153df5ae6c5c1b14e07175f73fc5aa95f8eba08c5ce03cbdfb46daed91e09a99"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset/amplified.json"
-hash = "b46079205cda5726c7343acc0554ec828e32c025d7a34c37fe980c1f7d807ddc"
+hash = "21af37fdb6964974800652853af9db11f56b2bd710484ff196863365da1421c2"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset/large_biomes.json"
@@ -1934,7 +1930,7 @@ hash = "b6a44047cbae22433dedd4ea44da32e7994fe1f9e576caeb1d46429737e0731e"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset/normal.json"
-hash = "6757ed920ca286dd4443b6c5374a36f54c4c5145147415693aa039355c52f1a1"
+hash = "f450ac3dc162021b196d79880dd331bfe6bb7b81025351fe5b3cc1f47ae66eb7"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset_category/silver_lining.json"
@@ -1946,15 +1942,11 @@ hash = "e1a4f0b7aa5269645818e9853ad9f07a1dcbeab93331f2c271c117fc69cf06eb"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/biome/highlands.json"
-hash = "65d03e54a058ea20f54c2d8649924d409fc12abaab6fd43f583d08c45d0e0365"
-
-[[files]]
-file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/biome/parched_forest.json"
-hash = "7acf74ee5e4c3f5fc02c84e66da769137c6b20934b5cb1b4657cedc6a8265554"
+hash = "a6d135e7dff97f62cac0f71be642e87d6597e905ad0a03d86cf1003ce3f9926a"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/biome/rainforest.json"
-hash = "2141685209039fe7d16b154cce5b9210c70bfb6d72de9aa0df59085a49ce3da8"
+hash = "49dff073a9c38fdb37a344b541323b69b2bed9970c193ef107acb2509a2bc54a"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/biome/savanna.json"
@@ -2033,6 +2025,14 @@ file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/placed_featur
 hash = "394237afc677d17564267162c56342f3750670ea88f5d6af6fcf98345093b3d5"
 
 [[files]]
+file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/placed_feature/trees_rainforest.json"
+hash = "95ebd515799733c66ea6925e22a226ab1df839cb21b76364675d46798241a255"
+
+[[files]]
+file = "config/paxi/datapacks/WorldGen/data/traverse/worldgen/biome/lush_swamp.json"
+hash = "4a688d377417e158789f7725bd0c8e2f22beff501075fe7caf06db44d646eae2"
+
+[[files]]
 file = "config/paxi/datapacks/WorldGen/pack.mcmeta"
 hash = "f6feb6203430025954bcce205b76d320e4c192961b63200baef7d2677d2ae42b"
 
@@ -2078,7 +2078,7 @@ hash = "7c9091dd633ae1ce27c65567abad5388e9a71ddce3e53238aa415f2f842bb175"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/lang/en_us.json"
-hash = "b3447d437f45f3f512d3014650aded262007efee8ceb899ebc8482b630f42ed5"
+hash = "ed71c17a6f48e96c7eba1c0d0434f51e9568d33538101a98db4bb205cb139d52"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/models/block/honey_block.json"
@@ -3185,6 +3185,10 @@ file = "configureddefaults/config/iris.properties"
 hash = "4b404c16b82563e05e0cc8dc1218eb6194b2aa4473f348ff0c0c7a8655d9b5ff"
 
 [[files]]
+file = "configureddefaults/config/moderner_beta.json"
+hash = "a25837201289812a72ad0442548bbb8b3c5f9c8a155442b43e62e4d67922f252"
+
+[[files]]
 file = "configureddefaults/config/modernfix-mixins.properties"
 hash = "22caf99f6531254b612c35bc12aff9c2b6d121b038b2e418a1a429049d16c9e0"
 
@@ -3429,16 +3433,6 @@ hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
 metafile = true
 
 [[files]]
-file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "9baaaf98f919bf3258f50ae0b8552a53c16d298650cb90d48cbec6f96d1ef556"
-metafile = true
-
-[[files]]
-file = "mods/fabricskyboxes.pw.toml"
-hash = "1f6c74d7140e368e85df87d1bdbb4b533052488dcee7e23ecc1f699dfd2efe82"
-metafile = true
-
-[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "7004d6d04c19eaa92fda0b47ac70b7c85987c47cc1431313014c5e9367679173"
 metafile = true
@@ -3554,11 +3548,6 @@ hash = "ec62869c93dfd5e9af0926dc689a440644ee59031335955588ac09c9576f2306"
 metafile = true
 
 [[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "09ba6db54e6f13fafa1e12a9adcd83db9137617d631288579f520ab11b4bfe9a"
-metafile = true
-
-[[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "044abd44322fdea17184fecefa77b0f0e8bf550161c70518a16917b76821b427"
 metafile = true
@@ -3661,6 +3650,16 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "a762918dfce6afcb2df6097d83705889ac9f3f2712ac3bc64f8a71ae1a142d04"
+metafile = true
+
+[[files]]
+file = "mods/terrestria.pw.toml"
+hash = "52b52f26024490fd7036085733edb78771becd6930c4787627fbddca45d9fbad"
+metafile = true
+
+[[files]]
+file = "mods/traverse.pw.toml"
+hash = "6d8236f7e73cf2403b8566005378fc42e0d986b93e0c0832de955c7cb6316c3a"
 metafile = true
 
 [[files]]

@@ -64,18 +64,19 @@
     ],
     [
       "minecraft:glow_lichen",
-      "moderner_beta:patch_poppy",
-      "minecraft:trees_swamp",
+      "geophilic:swamp/mud",
+      "geophilic:swamp/trees",
       "minecraft:mushroom_island_vegetation",
-      "minecraft:flower_swamp",
-      "moderner_beta:patch_grass_taiga_1",
+      "geophilic:swamp/logs",
+      "geophilic:swamp/flowers",
       "minecraft:patch_dead_bush",
-      "minecraft:brown_mushroom_swamp",
-      "minecraft:red_mushroom_swamp",
-      "minecraft:brown_mushroom_normal",
-      "minecraft:red_mushroom_normal",
-      "minecraft:patch_sugar_cane",
-      "minecraft:patch_pumpkin"
+      "minecraft:patch_waterlily",
+      "geophilic:swamp/mushrooms",
+      "geophilic:swamp/sugar_cane",
+      "geophilic:common/pumpkins",
+      "geophilic:common/moss",
+      "minecraft:seagrass_swamp",
+      "geophilic:common/grass/plains"
     ],
     [
       "moderner_beta:freeze_top_layer"
