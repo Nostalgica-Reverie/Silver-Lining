@@ -3535,7 +3535,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "13716056adfceb35bfc49ed768cf961bed632f08fe1482459c5b57a314bbf45e"
+hash = "5de827ad52bedb7a3f205edb2c4340d1488e99338ba0cb1b06e45f18d5869b2c"
 metafile = true
 
 [[files]]
@@ -3675,7 +3675,7 @@ metafile = true
 
 [[files]]
 file = "mods/villagerconfig.pw.toml"
-hash = "be0885d6363352d453a2493d44ad329aa898bb157b9fa7e9625d042ccb0b241f"
+hash = "6a24f29dfef614a62249f7a278ae42f6492e1d95c68e9bd8d562fcc905d11567"
 metafile = true
 
 [[files]]
