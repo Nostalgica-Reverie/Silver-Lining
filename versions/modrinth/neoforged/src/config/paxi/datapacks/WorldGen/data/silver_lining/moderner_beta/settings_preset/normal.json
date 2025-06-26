@@ -28,8 +28,8 @@
         "minecraft:swamp": "-0.2;0.2",
         "traverse:lush_swamp": "-0.1;0.6",
         "terrestria:cypress_swamp": "-0.2;0.4",
-        "minecraft:dark_forest": "0.2;0.8",
-        "minecraft:dark_forest*hills": "0.3;1.5",
+        "silver_lining:parched_forest": "0.2;0.8",
+        "silver_lining:parched_forest*hills": "0.3;1.5",
         "silver_lining:rainforest": "0.3;1.5",
         "minecraft:savanna": "0.2;0.2",
         "minecraft:savanna*hills": "1.8;0.5",
@@ -50,8 +50,8 @@
         "terrestria:canyon": "0.2;0.5",
         "terrestria:lush_desert": "0.1;0.5",
         "terrestria:oasis": "-0.2;0.0",
-        "terrestria:cypress_forest": "0.5;0.5",
-        "terrestria:cypress_forest*hills": "1.0;1.0",
+        "terrestria:cypress_forest": "0.5;0.8",
+        "terrestria:cypress_forest*hills": "1.0;1.5",
         "terrestria:redwood_forest": "0.1;0.4",
         "terrestria:redwood_forest*hills": "0.2;0.8",
         "terrestria:lush_redwood_forest": "0.1;0.6",
@@ -579,6 +579,7 @@
             "minecraft:plains",
             "minecraft:plains",
             "minecraft:plains",
+            "minecraft:plains",
             "minecraft:plains"
           ],
           "id": "region_pool_temperate",
@@ -781,7 +782,7 @@
             "minecraft:forest",
             "traverse:lush_swamp",
             "terrestria:dense_woodlands",
-            "minecraft:dark_forest"
+            "silver_lining:parched_forest"
           ],
           "id": "biome_pool_forest",
           "seed": 200
@@ -940,9 +941,9 @@
               "type": "biome",
               "value": "minecraft:windswept_forest"
             },
-            "minecraft:dark_forest": {
+            "silver_lining:parched_forest": {
               "type": "biome",
-              "value": "minecraft:dark_forest*hills"
+              "value": "silver_lining:parched_forest*hills"
             },
             "minecraft:cherry_grove": {
               "type": "biome",

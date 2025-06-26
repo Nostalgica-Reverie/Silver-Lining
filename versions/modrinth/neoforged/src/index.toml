@@ -1402,7 +1402,7 @@ hash = "5019819b9c92071308b9e658eecfdd31840240e22c4d6169d64ab827195af9bd"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/sapling_overrides/single/minecraft/birch_sapling.json"
-hash = "fa113d9f034892601f6cae03b47948dea804a5b6822f7d35b112569de3c2234f"
+hash = "7085c417251660a6b4dceeebdd9c87949b275459d451d33936f19806b4c9b2c3"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/sapling_overrides/single/minecraft/dark_oak_sapling.json"
@@ -1410,7 +1410,7 @@ hash = "a1ba9adea0fa63518f61aed295f395405da055442929afa9800e1fff1a7648fe"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/sapling_overrides/single/minecraft/oak_sapling.json"
-hash = "aa8ac945e069bb1db5ac7a3d0d2d33776db02257c614507186fd46730357ce72"
+hash = "61d0a3a55c2d119356983b306ccf9bc36651e62b56706f77b00a8afb5fb5c73f"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/sapling_overrides/single/minecraft/spruce_sapling.json"
@@ -1527,10 +1527,6 @@ hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/tags/worldgen/world_preset/normal.json"
 hash = "62b757b7a5ba4e6d85330b8ac804d9140f18899610c49e1353ab02f2751be065"
-
-[[files]]
-file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/biome/dark_forest.json"
-hash = "2171005e91f2d60d82829ca6f7405916ad2494fe78a23e34edbc7e2727f27ba1"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/amethyst_geode.json"
@@ -1901,6 +1897,18 @@ file = "config/paxi/datapacks/WorldGen/data/silver_lining/advancement/recipes/ro
 hash = "6932cfe668cbc5be30bf7e37d26118c661780301783b4e7b8d445d7da9837538"
 
 [[files]]
+file = "config/paxi/datapacks/WorldGen/data/silver_lining/lithostitched/worldgen_modifier/add_cacti.json"
+hash = "810e8d03472d6511612a0a83dbd64679cdfa1874c6105f971a3c101b4692c383"
+
+[[files]]
+file = "config/paxi/datapacks/WorldGen/data/silver_lining/lithostitched/worldgen_modifier/geophilic_cypress_rainforest.json"
+hash = "47ff634fd7ed0886c112d8af1a51f8f33e4a77ece030225965675df8257c88f1"
+
+[[files]]
+file = "config/paxi/datapacks/WorldGen/data/silver_lining/lithostitched/worldgen_modifier/geophilic_terrestria_old_growth_forests.json"
+hash = "686f7a70caee10a7316854eefea256909bda45829ec50a6eb45e32e0dda3ecf5"
+
+[[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/lithostitched/worldgen_modifier/swamp_effects.json"
 hash = "153df5ae6c5c1b14e07175f73fc5aa95f8eba08c5ce03cbdfb46daed91e09a99"
 
@@ -1918,7 +1926,7 @@ hash = "b6a44047cbae22433dedd4ea44da32e7994fe1f9e576caeb1d46429737e0731e"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset/normal.json"
-hash = "10c213478e1ba1e2dc9c835aa4eb7acfdac788a7f84b33a114810efb9e542978"
+hash = "c569d8e31bedacb6f8f15004d0c0b9a40175c2750bb3baca09a2b3956c81e934"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset_category/silver_lining.json"
@@ -1931,6 +1939,10 @@ hash = "e1a4f0b7aa5269645818e9853ad9f07a1dcbeab93331f2c271c117fc69cf06eb"
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/biome/highlands.json"
 hash = "a6d135e7dff97f62cac0f71be642e87d6597e905ad0a03d86cf1003ce3f9926a"
+
+[[files]]
+file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/biome/parched_forest.json"
+hash = "2171005e91f2d60d82829ca6f7405916ad2494fe78a23e34edbc7e2727f27ba1"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/biome/rainforest.json"
@@ -2062,7 +2074,7 @@ hash = "e7e5493676e992907d35c5cce1839934905cd5515a5d4043d0e67c7b9902b44b"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/lang/en_us.json"
-hash = "8f958b31f7ef2811f69b9bb536880401088033d242bc0504ff544236209fabbb"
+hash = "cd6aa5379880898451bd2203e4048919cec99c4375f1b33436da268cba7bc4d5"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/models/block/honey_block.json"
@@ -2343,6 +2355,10 @@ hash = "0b2e7a8cd9cf02deecde7ac1dfc1bbebd34c4f1cd1fac3f1c97010a1746e3cb2"
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/brown_stained_glass_pane_side_alt.json"
 hash = "16c2e4a01804f94a404a86518ecd2b22618cedbb753be45782ad7fecbe69ab53"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/cherry_leaves.json"
+hash = "e6134c9ad7b4075c6fac3ad1fb5ce03f31d638980ae7d919e8ead29d0509cd64"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/cyan_stained_glass_pane_noside.json"
@@ -3065,6 +3081,18 @@ file = "config/paxi/resourcepacks/wow_extras/assets/silver_lining/polytone/biome
 hash = "c521c37177c3362455159afc73a8a69ab98c5ddc787c21c82e6f6891d66bb8cf"
 
 [[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/models/block/dead_grass.json"
+hash = "64acc338087a2cbdd40b500a828a8f9da761f7be92f860fe4afce3a26fcd591c"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/models/block/sakura_leaves.json"
+hash = "e0890d9d78d68350ceb6c6a9c8b7cf30f5078a2eb16dd735bfe6a0b1b4161bb1"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/models/item/dead_grass.json"
+hash = "e3d8325b4be4902cd690f5974425aaa1b8526ad1888d0b42046f7301d397894a"
+
+[[files]]
 file = "config/paxi/resourcepacks/wow_extras/pack.mcmeta"
 hash = "33ce4295b5f863c1809b709bcd54cb34b3d686ccb0eb0f6c6b844c8905b5081a"
 
@@ -3173,10 +3201,6 @@ file = "configureddefaults/config/terrestria/client.json"
 hash = "c6c5d188f9d5285ec99e004d8f205437c82d393353f28bb5d2be5a2f9af6901a"
 
 [[files]]
-file = "configureddefaults/config/terrestria/general.json"
-hash = "641583b64893e61ba0250606c905704eab85f74d49e7544dd1b31fd7022787a9"
-
-[[files]]
 file = "configureddefaults/config/threadtweak.json"
 hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
 
@@ -3210,7 +3234,7 @@ hash = "cdf759d5937a9cb59cd9155fdb6536fae7bf823c0dee683e1e814e8052ab64ea"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "6ac934198198300122a0bd72e3073eece3c59737db3ebb52514d9fb6c4a7514c"
+hash = "c4f33725da67e224b3e3a1376e0869927e4be3a2de6fb65947c335a29f8a4076"
 
 [[files]]
 file = "mods/air-hop.pw.toml"
@@ -3575,6 +3599,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "00f400af981bbe8be3767ef49f4bc422a9649c3fa2d403bae7b25202a05fda1a"
+metafile = true
+
+[[files]]
+file = "mods/simple-snowy-fix-(forge-fabric).pw.toml"
+hash = "bc326abd16938055bd205cd47d3e06e5f9459675a5428a71d6826d6cc8f9d8d5"
 metafile = true
 
 [[files]]
