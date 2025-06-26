@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "silver_lining:rainforest",
+    "terrestria:canyon",
+    "terrestria:dunes",
+    "terrestria:lush_desert",
+    "terrestria:oasis",
+    "terrestria:outback",
+    "terrestria:volcanic_island",
+    "traverse:arid_highlands",
+    "traverse:desert_shrubland"
+  ]
+}
