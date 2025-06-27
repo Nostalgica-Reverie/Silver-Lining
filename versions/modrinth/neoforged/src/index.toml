@@ -3555,11 +3555,6 @@ hash = "ec62869c93dfd5e9af0926dc689a440644ee59031335955588ac09c9576f2306"
 metafile = true
 
 [[files]]
-file = "mods/nutritionz.pw.toml"
-hash = "b241b8b3bb7bf12440f189ff574706393700cf7ea9bb5973f5223421eb1bfe57"
-metafile = true
-
-[[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "044abd44322fdea17184fecefa77b0f0e8bf550161c70518a16917b76821b427"
 metafile = true
