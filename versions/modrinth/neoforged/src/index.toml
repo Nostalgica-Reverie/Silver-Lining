@@ -3275,6 +3275,11 @@ hash = "78f7b04cca0f21ad404215a182634bb4d0cdf81bdf574f4e8ace93be2d894f51"
 metafile = true
 
 [[files]]
+file = "mods/battle-towers.pw.toml"
+hash = "49f861d426ed46dca894d87c94d43c315ce5b93015a317a51d9dd6e6e6175250"
+metafile = true
+
+[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "59326c5af31567f7de130bac1367b6a81491d7f6a862c6187782d669cc96bd08"
 metafile = true
