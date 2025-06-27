@@ -1869,6 +1869,14 @@ file = "config/paxi/datapacks/WorldGen/data/moderner_beta/worldgen/noise_setting
 hash = "426dc99d906bd50977360bb566518526a3535ef268d7bb12ca13698b4bcb56b6"
 
 [[files]]
+file = "config/paxi/datapacks/WorldGen/data/sereneseasons/tags/worldgen/biome/lesser_color_change_biomes.json"
+hash = "d2f08dacaa041218c5c2c3e2aa193dd3e9f0d7bd98ebdf986a4c6bcdd78731cf"
+
+[[files]]
+file = "config/paxi/datapacks/WorldGen/data/sereneseasons/tags/worldgen/biome/tropical_biomes.json"
+hash = "6425f64183aa57f9edf601208fbc6c9b7670f1caeb6b407704da28077f698837"
+
+[[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/advancement/recipes/building_blocks/calcite.json"
 hash = "ce2bb6297db2a0a908d887132a8d393ebee8aa7edb45c287c58bf94f7630f869"
 
@@ -3513,7 +3521,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "5de827ad52bedb7a3f205edb2c4340d1488e99338ba0cb1b06e45f18d5869b2c"
+hash = "2bd1220d157ebe5c3a15a222840bc05739de0c797e1847e6a82ed41960a9f203"
 metafile = true
 
 [[files]]
