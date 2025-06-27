@@ -1,6 +1,6 @@
-name = "Nostalgica Reverie"
-author = "omo50, Adrenix, Bluestaggo"
-version = "1.0.0+mc1.21.1+neoforged"
+name = "Silver Lining"
+author = "omo50, Adrenix, BlueStaggo, canttellyou"
+version = "0.1.0+beta+mc1.21.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
