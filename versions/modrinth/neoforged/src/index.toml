@@ -1014,7 +1014,7 @@ hash = "484ae3592b0a5689f78df32471ab979b866645609262011ba56355fd672afa9f"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_desert_streets.json"
-hash = "5961a1fbc3c86cd2be440759924e5842d5e296e8284d040e173ba054efb795f4"
+hash = "e080024dc96ada272a17292621f27dc887af40d0b605f390d5a18c0d693babd7"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_desert_well.json"
@@ -1026,11 +1026,11 @@ hash = "b50dbd2c521ce786c9c9aa67421d16935ff42aaa1c5a5a056eba7ddf8ddc0eaa"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_plains_streets.json"
-hash = "fea140b7e0793ff5708640d374cfdd114456e69efe591193ed95276a1c3f3653"
+hash = "80dc110c6df143ae3bfd9468dcdce04da70b04f89eb6d4779d5a952427147d57"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_plains_well.json"
-hash = "b50dbd2c521ce786c9c9aa67421d16935ff42aaa1c5a5a056eba7ddf8ddc0eaa"
+hash = "dc61471d0c0d7adc0d0570ba0db218e8e77dce1c7d17290a001e33cc69f34c7f"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_savanna.json"
@@ -1042,11 +1042,11 @@ hash = "27e0a1fcf37117fd09f734d3efea49aad0de842d77da42f0abb0028744a6cfa7"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_savanna_streets.json"
-hash = "99238fb6a92a2530796337c70af101d9e0938cefe0d8d225939fd3eaa772ac23"
+hash = "834a0df52dee42be6f3e1297cb2e547f78dca6b52500b0af9802f01357d326c2"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_savanna_well.json"
-hash = "d15b18356d6f02be113eeadc5fbb83d755a9ec99de84d58dd17bdb162c32cded"
+hash = "d21cfea3c61fdf0fb429b55b984da6f3df53bb9a691d2d80da613b0e556edc13"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_taiga.json"
@@ -1058,11 +1058,11 @@ hash = "1e7e588dc2878527959b4713d67d3edb24f010a164cab8c0295fbbe1eaf8808e"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_taiga_streets.json"
-hash = "fea95e08809fe0bd214952b2f3c466b15d2a78d060af7475b6ca8b54fd380c07"
+hash = "ed61fc3fb256f67ce3d3d7a52c7aabd05be95341921ef785374e98a9d01ba4d7"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_taiga_well.json"
-hash = "ade83384388dcac26acd30eac9872a21972817227ade33237b2126ff63ddfbfc"
+hash = "0a5f4b2a1f755da2490879324a8ff5ed6e6afb29a1b655ff1e65d273e97336d6"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/structure/village_desert.json"
