@@ -1,12 +1,12 @@
 name = "Silver Lining"
-author = "omo50, Adrenix, BlueStaggo, canttellyou"
+author = "omo50, Adrenix, BlueStaggo, icanttellyou"
 version = "0.1.0+beta+mc1.21.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b288ab7bb7718cae0beebb716894fced6914c8a6743209f73957d10ac50249f7"
+hash = "46dd3bf2bf969cf43b9c0b0523de118839f79ed09b5d0beaaae37ce8c0d71d18"
 
 [versions]
 minecraft = "1.21.1"
