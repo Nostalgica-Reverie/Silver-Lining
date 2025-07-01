@@ -3315,6 +3315,11 @@ hash = "8167495862ab369dc2dbc651ccedd74c14bd99691713aab6517c4353116fba25"
 metafile = true
 
 [[files]]
+file = "mods/classic-minecraft-icon.pw.toml"
+hash = "5cd37a18baabc5ca7a0ab7d32ad23997e74ed0b4ac4432008717de1fcb4c11f9"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
