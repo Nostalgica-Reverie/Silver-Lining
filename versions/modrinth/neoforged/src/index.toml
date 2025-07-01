@@ -3291,7 +3291,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "2cd33b2219d6549ff7937b008299247201fbc6944889cf3be19e8c6553160585"
+hash = "274ab3caf0af141e1b762d2e8110add500166db93ac228af8419ecad496e7cb1"
 metafile = true
 
 [[files]]
@@ -3511,7 +3511,7 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "0829467c88baee0068a2fd10601a7ac5ae3376ffb82272978de9f6672ff19c59"
+hash = "1b559b7398ad56803f71ff76c2932dbbf06bc385552e1f1d84ee06a0823ee2ec"
 metafile = true
 
 [[files]]
@@ -3586,7 +3586,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "788152e1859ca0137bebdb9cdd770a4e3f0d12f9f6c23a6788092033d7cd3f85"
+hash = "b44f8c02facab648f0cc52c45ce557d4f4a783448573f1ee85e706240b93073c"
 metafile = true
 
 [[files]]
@@ -3656,7 +3656,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "c330454113074b2f573491cdd31d95c2bfe7e1c5a83d569c8740b0dc109eadf6"
+hash = "b30b2c3d587184eab4896dc66204e1a27883f34016b6cba573449abf936c06f8"
 metafile = true
 
 [[files]]
