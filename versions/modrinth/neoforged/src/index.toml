@@ -3291,7 +3291,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "274ab3caf0af141e1b762d2e8110add500166db93ac228af8419ecad496e7cb1"
+hash = "293ec22e4e8342a9bd0f338505a14e3794b44cd7ca1e5278a86f41f99c69a3af"
 metafile = true
 
 [[files]]
@@ -3521,7 +3521,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "cac351a2081dc73e6922ea757c1515e4b5d93c40c7a060278975b0de0b5863b8"
+hash = "4d281e976b5d147922388cc6a2ac112d97b051aa448fac4d57b9b63853fee1a0"
 metafile = true
 
 [[files]]
@@ -3591,7 +3591,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "b44f8c02facab648f0cc52c45ce557d4f4a783448573f1ee85e706240b93073c"
+hash = "b2e253c0f4273287b3dcbba3fcb8054414d7893c6868d5174439a6caa7d64ed2"
 metafile = true
 
 [[files]]
@@ -3726,7 +3726,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "4bb587c09a53f82dec620482b3badeee9d6e865902efcfc39139f906cc0b108f"
+hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
 metafile = true
 
 [[files]]
