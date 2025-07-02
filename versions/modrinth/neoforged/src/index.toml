@@ -3182,7 +3182,7 @@ hash = "1172867eda208cdf70a28b98d30bdd16a81d0adcbdb7928c9d3be8236b4289c3"
 
 [[files]]
 file = "configureddefaults/config/nostalgic_tweaks/nostalgic_tweaks.json"
-hash = "b78cbb5b901f9cfce0833432bfeff0ca8d98be4f3af752dcd30ccc3f413f5015"
+hash = "e3f4e314bb07dc9afca60818bb34fa01649af7468f2dcaa9a987bacb54a2105e"
 
 [[files]]
 file = "configureddefaults/config/puzzle.json"
@@ -3317,11 +3317,6 @@ metafile = true
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
 hash = "8167495862ab369dc2dbc651ccedd74c14bd99691713aab6517c4353116fba25"
-metafile = true
-
-[[files]]
-file = "mods/cinderscapes.pw.toml"
-hash = "10840ee5c9ee3f039d5df5a379a8fa9a8f069631767a3ab5b2c512ab75e23bbc"
 metafile = true
 
 [[files]]
