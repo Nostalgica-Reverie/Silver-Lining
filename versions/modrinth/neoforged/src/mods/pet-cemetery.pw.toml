@@ -1,0 +1,13 @@
+name = "Pet Cemetery"
+filename = "pet_cemetery-1.21.1-3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/M6tSWZ4N/versions/zQDtY2iz/pet_cemetery-1.21.1-3.0.0.jar"
+hash-format = "sha512"
+hash = "c2b3d737f4cd9ef6540228255cff412e94d64cd575faa35c8dee6cdbf1ce1513dd45223015368a818dd6860246f5d275d7a7cabf990285640545507e3b2a6110"
+
+[update]
+[update.modrinth]
+mod-id = "M6tSWZ4N"
+version = "zQDtY2iz"

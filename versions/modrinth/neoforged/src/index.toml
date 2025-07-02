@@ -3275,6 +3275,11 @@ hash = "37a218f4aa85b545cc95b0a5c16d2da12c093c8a1a5a3bad60be72a4bf86a01a"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "9605764353450757f20e153abdcedf770b4affab703869724b17454d23a45039"
+metafile = true
+
+[[files]]
 file = "mods/battle-towers.pw.toml"
 hash = "49f861d426ed46dca894d87c94d43c315ce5b93015a317a51d9dd6e6e6175250"
 metafile = true
@@ -3315,6 +3320,11 @@ hash = "8167495862ab369dc2dbc651ccedd74c14bd99691713aab6517c4353116fba25"
 metafile = true
 
 [[files]]
+file = "mods/cinderscapes.pw.toml"
+hash = "10840ee5c9ee3f039d5df5a379a8fa9a8f069631767a3ab5b2c512ab75e23bbc"
+metafile = true
+
+[[files]]
 file = "mods/classic-minecraft-icon.pw.toml"
 hash = "5cd37a18baabc5ca7a0ab7d32ad23997e74ed0b4ac4432008717de1fcb4c11f9"
 metafile = true
@@ -3345,6 +3355,11 @@ hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+hash = "efeb3367326190b105f2d885db31ae68399d8a6cdab81f215faed995bb473c74"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "6028668d5c1c5e49797eb97bb597d818be33a67a939d0cc356a702460b504675"
 metafile = true
@@ -3362,6 +3377,11 @@ metafile = true
 [[files]]
 file = "mods/darcenos-minecarts.pw.toml"
 hash = "cdb20a3f1ebe1014d65b19d33357a9ac5f93e06b497b62a1ee7978e3e517cc7a"
+metafile = true
+
+[[files]]
+file = "mods/data-anchor.pw.toml"
+hash = "7b7a61e6724eab42b13f406d235c9665e69425a182283dbba35fdd7bdfbd8745"
 metafile = true
 
 [[files]]
@@ -3402,6 +3422,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "0b380e24e46e328c362bda7cff892c5b0e471789ca8c429fd2a588eaf63b8712"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials.pw.toml"
+hash = "cf98bf888f5f7c0a900bcb8d4277a63c22ad7d11d97eb99f826101a457fb4093"
 metafile = true
 
 [[files]]
@@ -3590,6 +3615,11 @@ hash = "286eda3d98d0ede715cbb29c5f4845781bbc45b5a9982b5417e81f84dfd99a3e"
 metafile = true
 
 [[files]]
+file = "mods/pet-cemetery.pw.toml"
+hash = "023168228652ce58992acd9a4c0e3da88c5dbc5183f968d2feb41587d6a3f62f"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
 hash = "b2e253c0f4273287b3dcbba3fcb8054414d7893c6868d5174439a6caa7d64ed2"
 metafile = true
@@ -3697,6 +3727,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "53e01bde67391ead9e5bcf1e86479aebd9ddb0345f871ce4b49afd655b238523"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "892cf7902f5d3795a1a3d576e4cc24d51654f29ac0d39215e5e3adf262778562"
 metafile = true
 
 [[files]]
