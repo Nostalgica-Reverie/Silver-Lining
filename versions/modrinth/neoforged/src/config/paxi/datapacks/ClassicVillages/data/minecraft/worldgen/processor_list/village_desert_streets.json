@@ -1,47 +1,34 @@
 {
   "processors": [
     {
-      "processor_type": "minecraft:rule",
-      "rules": [
-        {
-          "location_predicate": {
-            "predicate_type": "minecraft:block_match",
-            "block": "minecraft:water"
+      "processor_type": "lithostitched:condition",
+      "if_true": {
+        "type": "lithostitched:any_of",
+        "conditions": [
+          {
+            "type": "lithostitched:matching_blocks",
+            "blocks": "minecraft:water",
+            "match_type": "location"
           },
-          "input_predicate": {
-            "predicate_type": "minecraft:block_match",
-            "block": "minecraft:gravel"
-          },
-          "output_state": {
-            "Name": "minecraft:cut_sandstone"
+          {
+            "type": "lithostitched:matching_blocks",
+            "blocks": "minecraft:lava",
+            "match_type": "location"
           }
-        },
-        {
-          "location_predicate": {
-            "predicate_type": "minecraft:block_match",
-            "block": "minecraft:lava"
-          },
-          "input_predicate": {
-            "predicate_type": "minecraft:block_match",
-            "block": "minecraft:gravel"
-          },
-          "output_state": {
-            "Name": "minecraft:cut_sandstone"
-          }
-        },
-        {
-          "location_predicate": {
-            "predicate_type": "minecraft:always_true"
-          },
-          "input_predicate": {
-            "predicate_type": "minecraft:block_match",
-            "block": "minecraft:gravel"
-          },
-          "output_state": {
-            "Name": "minecraft:sandstone"
-          }
+        ]
+      },
+      "then": {
+        "processor_type": "lithostitched:block_swap",
+        "blocks": {
+          "minecraft:gravel": "minecraft:cut_sandstone"
         }
-      ]
+      }
+    },
+    {
+      "processor_type": "lithostitched:block_swap",
+      "blocks": {
+        "minecraft:gravel": "minecraft:sandstone"
+      }
     },
     {
       "processor_type": "minecraft:block_ignore",
