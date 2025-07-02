@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fml.toml"
-hash = "a8240a02c5e24d4c63e1113255955b104e82659568f78a099380fe58a396cdc9"
+hash = "46725924745ae5627b0c51ebd495083b10d21ab4c0c7629833c375551329e4da"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -10,671 +10,671 @@ hash = "8bb06b2a708c361caf9b9390a71146454399107b26af47b37e6e83c6be71b927"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
-hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+hash = "89a86742f6110ea11b461860ec4eda79e3adf059272f1e1a0f2e1e6690dfd736"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/advancement/acquire_hardware.json"
-hash = "89c48f11f07d17bd4c3aac7fdab0851640efa698f08896a766857015619f446a"
+hash = "3903ec1350c33336ebfa01cee97a79a59d5a18c433e0f1192d4c659199d05e96"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/advancement/adventuring_time.json"
-hash = "4438907eda347e7bc3a1dd1155f076826931be011ad2585306b4959424547841"
+hash = "4abbb7a503058a621f0edb39ec6ea84495361c74f517d7b1a5e352c79d627aa4"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/advancement/bake_bread.json"
-hash = "88b2f7ee38e1c30ed09d5b995060f48f16469a5f53f16d75fceb557d7192ff37"
+hash = "a6e1f421a3ca5b6c76d56afc139a703431b3d36d555c84e9f9372e81ea58fa07"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/advancement/beaconator.json"
-hash = "b3b3c32906fe392919505e34813ce357490cd0def24777982f6d2320181324ba"
+hash = "e3308c816e0524a93b02962c22d4f8df08e782644883e2a9b4e49377a5c76f37"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/advancement/benchmarking.json"
-hash = "6aea56f5afd6b3a9454d6bf1f4d5cf85aada57a368d7cd168c123f2bbcbacfe5"
+hash = "c7fd31c321a7f6c6c90c87cd81a11f2b396f848c18e88a86a792a768cbe4d084"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/advancement/cow_tipper.json"
-hash = "9f6c4aa50977eda07c0e898d46f165004da357a897758f05ef38f52814853299"
+hash = "9e60a617ea0269b1f9d8e1fb7f94c221b13b152e441d0216869ad6e34a015925"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/advancement/delicious_fish.json"
-hash = "5939835fb17922c0c316b61d90e5f2770974b176d4d461299f8104b665c762cc"
+hash = "7ac681db64e7522c42add3790cfb5cebbfde6fb4507467e4b69bb6bbafbdba78"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/advancement/diamonds.json"
-hash = "d02a78c404e43de026cabcdd64adff9a157ef0922b220ff6c1300eb498305566"
+hash = "8cff546d8ce48dfee8715c035ddb58747a44eaec6a027bd8ad4f1ca9ecc77937"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/advancement/diamonds_to_you.json"
-hash = "4961dc31d1d0b836086056b1be8b104ee764d9d748c3668e81f6451c3a3f421b"
+hash = "0411ef55a6d4c053e37ca982e869df19e9eb940679f85b6e25dc48e3be7bcc02"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/advancement/enchanter.json"
-hash = "1c5e35d54f190d101aaee1d6ca12a0baf4756807e8ec2e2a5382ab4b64b96f99"
+hash = "1bed52e69ea4102c091ef7c98d063378887e5384a632eada03fda599999c9079"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/advancement/getting_an_upgrade.json"
-hash = "aaa6bcacfe8928da8e72061257ee9613acb7df56c4a78e6039e6abda862dcbb8"
+hash = "5e79d160e4e449c10a373703fde1cfb1ad80d2ac90ef618fcc63be38bc4d25f3"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/advancement/getting_wood.json"
-hash = "53a53d840a8d870dc5546bb680a4ee4a8369361ba5172a00adde01aa1afbacb2"
+hash = "e50f92e3ffbf2d5896bda1c15ed2cb18ea7dc15b061534051f17e9dc56e6f9c9"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/advancement/hot_topic.json"
-hash = "0aa4e29b1481aee1bd90dc3d84674d799adc1667a9894b7072a3a778e4e5588e"
+hash = "2b32c8c8ec460dc50a83e431b32e39de12a620f795ae0ab0e5e748505268f4c1"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/advancement/into_fire.json"
-hash = "1fb3226d98872ada335389976a7480dc0cc2d6f8288df13b49f1168db8b1658f"
+hash = "d38a6278df8b86b5496fccb311e09b2e538dadde0c06fb0e538b5bef91a70cef"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/advancement/kill_dragon.json"
-hash = "77583e8c706a52888190b15824e63bad2f947aff3e58b1f18d63008390d98c50"
+hash = "fc1b42854e6fdd616d1521366d339b7be3e95f155c24d9db64ba871b5c06f4b4"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/advancement/kill_wither.json"
-hash = "936c37b2f78addd70264126e6185377486b2956de5f92f22c0272e32c7398d1f"
+hash = "13241693ac27376e9397f7d15113f39b8de0a0c54032279b9b1bccf2f8ee5a74"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/advancement/librarian.json"
-hash = "9826bdc2dfb9670a976c606dd5cc15d20d2b2b3fae53cc42aea33ec3af081042"
+hash = "6d95db5ebc3851fb7816161105d3fc97142f9b2db18c113bb3de3ce11d435bfd"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/advancement/local_brewery.json"
-hash = "1cdf4073db0eb5d2da9aee659d1c4da8b12d4136ec9d93cd9fcc425be84f9084"
+hash = "e145bef4ba1e15f122fdca554d82fbe46f0b98ba742d1a7db1ed6b6277818f89"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/advancement/monster_hunter.json"
-hash = "8a886c64771c7d8b74149a5c3d00830b732a6057904babb7d47a781f8de05718"
+hash = "ed05e16707ed49cee53392d0a94380a5f7b81a4fdd97b59373f6080c66b40b35"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/advancement/on_a_rail.json"
-hash = "e6e457bfd3cef9f773f1a49e849ff96f86c81815bd5cba5ed03aba9c39626324"
+hash = "dd2312e66e48ba97e9c0bbb77f3545cbf63777ab289ef91fbcda6cbc69c064cb"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/advancement/overpowered.json"
-hash = "ebbe64cb1bb2e2842b8e40c9f3cedc819dbfb17937091ca185c2138a66cf266b"
+hash = "ef974d69e79c935077794e2078ed1c1b9d7327ec09a285c6d53af02313969cd5"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/advancement/repopulation.json"
-hash = "cd96f697554d55d83308ad1d55d2b6e1dbb5e6bd4f45c89f16a00d8d6b297441"
+hash = "d2d041fea6c87bfa32a7a6e2a1343d89afe4abd0d518559020b55aec099e43be"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/advancement/return_to_sender.json"
-hash = "2637349d6de361a2771b4d6c41eb06d827ab4ee67be0d71149afbd10139c5e2f"
+hash = "e0b20a1732bf91f3a2685996f5dafe078c3359b1d9d601c67501552d4eae46e6"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/advancement/root.json"
-hash = "653b0d1dd19528458aa8b9fd4c6b1906353ec921fc5a43e2e3f5b8e0bb3e1aff"
+hash = "53b387a1a427856b8ad442701d9e8bdfc2b56d7fc32e6567a5d3d2469f8b538f"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/advancement/sniper_duel.json"
-hash = "58039d403eb2449d59b9e92b6ccd8bdc0e25c8dc11405ae2cd7d6818e3319510"
+hash = "540f2ff82aa8db468a24869fcac49abc6552dddc55d2543816e4da66a43a2f0b"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/advancement/taking_inventory.json"
-hash = "4ac0bc656540b5ba63820db7186c85b382fa26f779645ee8b94ba2e51dd5ec52"
+hash = "98b67c058306c91ddda563acf9620df1ce2d15b58f0a703eb01af32feac1880b"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/advancement/the_beggining.json"
-hash = "c125689b83b3783ae2dec3ace421a55c210cbaac0028f3f64e92efc3fb2daffa"
+hash = "032e8c4799cff6430373ba93862702b64f87c38fd533d2b623551d18d47c710f"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/advancement/the_end.json"
-hash = "606a36bc53046174469cdd69e78d669230992d630d3a36d8da46b34842371505"
+hash = "f3b9c9142a4793dc8c61c1a85cddce7dc8c1298b168dce5af2cde06334687c46"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/advancement/the_lie.json"
-hash = "25cd8b474a26cdb132bab53635fd1f1240d043ead050d08d30779085413c80be"
+hash = "12cfb5ed420e915240439679eef230ce1665281d84967173f2f49cfe308b7879"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/advancement/time_to_farm.json"
-hash = "32a8745c616a6189db9c2354a3dc4aa427587ffa8c213562d794026657f86a93"
+hash = "b42fab58b99d5a44cb30e78bbc82ce92e1f63ffe944e8c97b6ad0969a46351b7"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/advancement/time_to_mine.json"
-hash = "a0c4c2e7549a0292adc4f53cea00cae96eb28e2c31a48890f9104a7d2d23bca9"
+hash = "43f53aec13219e2e33564f8b1dde159c3033ad9f37a4e0492d7b163a1c33f527"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/advancement/time_to_strike.json"
-hash = "8ae8cb5b0209a08bf1f889457bfdfd431f8a919cca77bba9e9b505c95a49ecfd"
+hash = "b65f586982a4bb993b9d6a8e4123e0ae58fbddfcb778ec6558a4abdbd4dadd50"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/advancement/we_need_to_go_deeper.json"
-hash = "e526ec4aa1a5e03687961cd76bfe19f4ce3380e6b0652df6982e420fad66cad6"
+hash = "0834667971827793b3ae0f8681cfa762f8bb9f2fb87215e015b0e3e5f6272bce"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/advancement/when_pigs_fly.json"
-hash = "b3ac2d5dbae6f59765727b4adf3120528c41dc7787699aad5fd0df9a906d03b6"
+hash = "5aad301040406f1060d3a5309d3d629acd0f71f163d4bcc281dfc9fae486014c"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/function/init.mcfunction"
-hash = "4235eb49d2cb7df135cf252bcd76b2d912b341f0ef57832ca29d6bf55f0025b5"
+hash = "e1207f910ad7b05b60f4d347d102981a2384533df16ea17d6f1f481e83a9c46f"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/function/main.mcfunction"
-hash = "5c6db172fedfe0f7ee5429d875c02e8b45fd559545585679216064750098d529"
+hash = "96d933a221b6242e221a417e9f4a9f8b5642652fcc0f01b83eaa4e527c1d477a"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/tags/item/better_pickaxes.json"
-hash = "8a5471ba2f4d3ba6e1f887d53e4b07943885edd0ec60a09d08664291c2c72815"
+hash = "9d76e9a6a5507b477fc748060fa9dcbc8d31b6b66bb6663575367bf1dd58ee12"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/tags/item/cooked_fish.json"
-hash = "32750e42d1b6b8318fdd1848f6b4dd0cf8045e87d591a8ebf0d29101cda1c40e"
+hash = "50e5389078718fa2be4806ee347f8e081af643294a93c7269ad42106e7df75f2"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/tags/item/hoes.json"
-hash = "970a2dd18189ccc504167350b83b18550df5b9c8785cb330bbd5f4a29eefbb3d"
+hash = "c7cd5f72f06b80e6bc466ee76e2febf0bc0b19a71e2e7f18d531edbef65b6963"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/tags/item/pickaxes.json"
-hash = "aa8356d8215b278c308b7bd99225649466047669e5c43280622100d667a7e38e"
+hash = "dce390dda6f15d223a3b72c468c0573fcb1ee1240fcf99f7c8c9d3e5a6712f3e"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/achievements/tags/item/swords.json"
-hash = "718edbcb5f9110ca40ddc73f5bcc9d25b9412fcefd249d76ae63f070ee8e5daf"
+hash = "0841691d9ca62d3d63432861847e36b3b2d12992a70f39be4a82508727f82484"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/adventuring_time.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/arbalistic.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/avoid_vibration.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/blowback.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/brush_armadillo.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/bullseye.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/craft_decorated_pot_using_only_sherds.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/crafters_crafting_crafters.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/fall_from_world_height.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/hero_of_the_village.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/honey_block_slide.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/kill_a_mob.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/kill_all_mobs.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/kill_mob_near_sculk_catalyst.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/lighten_up.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/lightning_rod_with_villager_no_fire.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/minecraft_trials_edition.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/ol_betsy.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/overoverkill.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/play_jukebox_in_meadows.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/read_power_of_chiseled_bookshelf.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/revaulting.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/root.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/salvage_sherd.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/shoot_arrow.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/sleep_in_bed.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/sniper_duel.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/spyglass_at_dragon.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/spyglass_at_ghast.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/spyglass_at_parrot.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/summon_iron_golem.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/throw_trident.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/totem_of_undying.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/trade.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/trade_at_world_height.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/trim_with_all_exclusive_armor_patterns.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/trim_with_any_armor_pattern.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/two_birds_one_arrow.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/under_lock_and_key.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/very_very_frightening.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/voluntary_exile.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/walk_on_powder_snow_with_leather_boots.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/who_needs_rockets.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/adventure/whos_the_pillager_now.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/end/dragon_breath.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/end/dragon_egg.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/end/elytra.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/end/enter_end_gateway.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/end/find_end_city.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/end/kill_dragon.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/end/levitate.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/end/respawn_dragon.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/end/root.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/allay_deliver_cake_to_note_block.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/allay_deliver_item_to_player.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/axolotl_in_a_bucket.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/balanced_diet.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/bred_all_animals.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/breed_an_animal.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/complete_catalogue.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/feed_snifflet.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/fishy_business.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/froglights.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/kill_axolotl_target.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/leash_all_frog_variants.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/make_a_sign_glow.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/obtain_netherite_hoe.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/obtain_sniffer_egg.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/plant_any_sniffer_seed.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/plant_seed.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/remove_wolf_armor.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/repair_wolf_armor.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/ride_a_boat_with_a_goat.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/root.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/safely_harvest_honey.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/silk_touch_nest.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/tactical_fishing.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/tadpole_in_a_bucket.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/tame_an_animal.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/wax_off.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/wax_on.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/husbandry/whole_pack.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/all_effects.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/all_potions.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/brew_potion.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/charge_respawn_anchor.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/create_beacon.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/create_full_beacon.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/distract_piglin.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/explore_nether.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/fast_travel.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/find_bastion.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/find_fortress.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/get_wither_skull.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/loot_bastion.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/netherite_armor.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/obtain_ancient_debris.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/obtain_blaze_rod.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/obtain_crying_obsidian.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/return_to_sender.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/ride_strider.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/ride_strider_in_overworld_lava.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/root.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/summon_wither.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/uneasy_alliance.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/nether/use_lodestone.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/story/cure_zombie_villager.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/story/deflect_arrow.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/story/enchant_item.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/story/enter_the_end.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/story/enter_the_nether.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/story/follow_ender_eye.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/story/form_obsidian.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/story/iron_tools.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/story/lava_bucket.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/story/mine_diamond.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/story/mine_stone.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/story/obtain_armor.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/story/root.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/story/shiny_gear.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/story/smelt_iron.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/advancement/story/upgrade_tools.json"
-hash = "52ae8c81cf6213f2bfa0c0ef1992811d48438afe61248356653c3544a79c6d91"
+hash = "f651ba74f657b78475883679170f36c10302a93a28dfb63f5a30f530e674ddae"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/tags/function/load.json"
-hash = "87999762599afd515f46d29a10283f7d304d2c9c68ffa38bb3fd3a934155884d"
+hash = "c91a469643c1959683266b304730aa12de560eefd7f022857de764ba38db43b0"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/data/minecraft/tags/function/tick.json"
-hash = "13eaec46e9f703dc85cb17dfc9ef4e4a70863c95a74b67212350ced21863ab4b"
+hash = "5516c936277a56403dfa88138feead53727c905fcded9661388aaa24cb2054df"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/pack.mcmeta"
-hash = "65a9aa068dde3480a17b48844f8ecd871f2dda707ccdaed7ea40e73f1f5721da"
+hash = "680f491174cf5439cf12276e85cbd38e733cd369869193a86460e313658254d0"
 
 [[files]]
 file = "config/paxi/datapacks/Advancements/pack.png"
@@ -682,7 +682,7 @@ hash = "575580a59b0c1e2da2f80deb66cf64c4390e979147bcbcbda1092fb2a43145fd"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/loot_table/chests/village_blacksmith.json"
-hash = "249b3c52f35d63e6b60d4fa3fef0a3b0e59d1324e11ee8c89247b87abbabc48c"
+hash = "f417b60e78e2ec451922a8311c4cf3e8d71a32e495ffcbfd2a8a3645157cc2c7"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/structure/village/common/farms/crop_beetroots.nbt"
@@ -966,231 +966,231 @@ hash = "7516bcf8723dadf58a142771a042a1dad4aa0ff14e4aa6d3d2c76068d78935d2"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/configured_feature/acacia_log_base.json"
-hash = "c5085f5f284261fc78e4cc9067cc338c832392bb746de0fee57a7ff5885eb588"
+hash = "cc33f77480d648c549ef983f18b4245f68c1b2beb7468c26fa0c30b35273abe6"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/configured_feature/cobblestone_base.json"
-hash = "3c0474ccee76e9566fdc4a1452d8186efc08e8474c0867caecc856575c7061f7"
+hash = "c9b8d22323a01cd865a10f8cef44d9a5af06043c7aa2635e3a01fe631b71767b"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/configured_feature/dirt_base.json"
-hash = "364da3d66b9620a96db871fcab24e3b27fe1b31ae7751588b118efc2bd63794f"
+hash = "2d1e99fce7b316ab5d59911841013fbd3c1b938b5a75114c16659675981e2a39"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/configured_feature/sandstone_base.json"
-hash = "4084312194579397ad91c96e05ddb2bf3bfe0753207d15a62e99083d8e375c39"
+hash = "fa6b5bab4b3abbb22b285d5a15b8189c7bd98e494bfab2b930ecbed8e0491073"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/placed_feature/acacia_log_base.json"
-hash = "cf116fd9c0a62db0196321c7b7f60cd30653549f0f41158aa1a55a3b77031796"
+hash = "da805b68f4c6b4289fc05db5d71792db83982724001c60ea50998de3adb90b8d"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/placed_feature/cobblestone_base.json"
-hash = "d47e4646dafaa8a72d9c1f403a9e891589fb518389b528b33ff2c6b027815ed1"
+hash = "af02d93b3544816a27ac45c0146a2d7097ecc1abaa2eaa59e460872304979ad4"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/placed_feature/dirt_base.json"
-hash = "f31da3b0d3bc2490e4988892572b3a0fc5c4a51a6577fde248c651b0b4c3302b"
+hash = "3da732f88f267637c020dc247c689004b21e6812b36e5f1da5c67de3f0ae9d0a"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/placed_feature/sandstone_base.json"
-hash = "fdc306c08aab186cd919624768fa452cb3084c258463c38afef47107c6965102"
+hash = "b4b5e4f8329ce56c8d31b7ee7d46d2411554c745cf54e55acc9c772a54aa00ed"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/crop_common.json"
-hash = "e053da42fbe617578c02028413e8ce836111763d997a1f22d45912ed1c3be052"
+hash = "feee8e690f9e445004d0083acbd16566e4029e5232959c3688ca199bc8c3eb07"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/farm_common.json"
-hash = "e053da42fbe617578c02028413e8ce836111763d997a1f22d45912ed1c3be052"
+hash = "feee8e690f9e445004d0083acbd16566e4029e5232959c3688ca199bc8c3eb07"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_desert.json"
-hash = "4e00fe17914bc23fd0be9b6544d899645902ee482c61dab55877ea671671d101"
+hash = "f1602da24e2b190c3a9b13d3e479cc861e7e86a3c5cae4f80f7ed2eadfd8a36e"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_desert_keep_cobblestone.json"
-hash = "484ae3592b0a5689f78df32471ab979b866645609262011ba56355fd672afa9f"
+hash = "ae189eae37bdb6d38081d36c6bbc1bff68d376500dc220d939ad641e7d3827bf"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_desert_streets.json"
-hash = "e080024dc96ada272a17292621f27dc887af40d0b605f390d5a18c0d693babd7"
+hash = "13fa73658755d7990cf279090b6ca4ae8d59fa15cff84ac2fc32d2da1ff83c1a"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_desert_well.json"
-hash = "5a243843dd19c19e492a44407cb82e7dfe80d40100096fc35126f729a220e1c9"
+hash = "507f8163501582e90df9aaca094d2bb1ec7c3e848f0accaf7ab7ecf46b94e836"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_plains.json"
-hash = "b50dbd2c521ce786c9c9aa67421d16935ff42aaa1c5a5a056eba7ddf8ddc0eaa"
+hash = "76ada2a5b98dd004d3bf0ee5fd85321060fcc51e772d4a54b5f1db6c0a7bb070"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_plains_streets.json"
-hash = "80dc110c6df143ae3bfd9468dcdce04da70b04f89eb6d4779d5a952427147d57"
+hash = "739689f72c1dda528ad670509b4ce9f060afea6afbeb40ea74d490340d0e0798"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_plains_well.json"
-hash = "dc61471d0c0d7adc0d0570ba0db218e8e77dce1c7d17290a001e33cc69f34c7f"
+hash = "76ada2a5b98dd004d3bf0ee5fd85321060fcc51e772d4a54b5f1db6c0a7bb070"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_savanna.json"
-hash = "162453df525f152fb922f2584c5de654230cd1c35f37599a23016a58d550a954"
+hash = "59899195bd9583cb849051790f09b5a612254ecd72ec760e5b05fbadd7bbc13a"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_savanna_keep_cobblestone.json"
-hash = "27e0a1fcf37117fd09f734d3efea49aad0de842d77da42f0abb0028744a6cfa7"
+hash = "8c3971db685f46496ebf804d53c054d25b2b2e45cbb0d144538e9f9a213f2a6c"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_savanna_streets.json"
-hash = "834a0df52dee42be6f3e1297cb2e547f78dca6b52500b0af9802f01357d326c2"
+hash = "40e96d30db7bb127fc9d59f4da2e9e8f882f1134fd82dce8e477d3160e11e107"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_savanna_well.json"
-hash = "d21cfea3c61fdf0fb429b55b984da6f3df53bb9a691d2d80da613b0e556edc13"
+hash = "a2657b576a82a6e8633d34c368e326419a997524f651dc968099cbb35b5a6f0e"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_taiga.json"
-hash = "1e7e588dc2878527959b4713d67d3edb24f010a164cab8c0295fbbe1eaf8808e"
+hash = "abf3f7c3f9de8c72082a00916aa047b70ac970d2df3ff82e8b068bec3ace983d"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_taiga_keep_cobblestone.json"
-hash = "1e7e588dc2878527959b4713d67d3edb24f010a164cab8c0295fbbe1eaf8808e"
+hash = "abf3f7c3f9de8c72082a00916aa047b70ac970d2df3ff82e8b068bec3ace983d"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_taiga_streets.json"
-hash = "ed61fc3fb256f67ce3d3d7a52c7aabd05be95341921ef785374e98a9d01ba4d7"
+hash = "fc4551d5797497a90b90a1a3d7c4df6a3a5b246e60caaca3d83c1286b67610a3"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/processor_list/village_taiga_well.json"
-hash = "0a5f4b2a1f755da2490879324a8ff5ed6e6afb29a1b655ff1e65d273e97336d6"
+hash = "7b3a8c09657bb6d572ba25003fc1fe30190901305a89809e649b3efee164c76a"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/structure/village_desert.json"
-hash = "f051516b49de3f624e2c48eb9c4917ca14b8195bc496d92a45126d2cd2e2433f"
+hash = "a2e6d2f6b90021805133db0fac1221691d5cf7a3934ab171a7dd60c94003ed8d"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/structure/village_plains.json"
-hash = "08b02c676abd277651f7da66f47ecb8666036f1b696f1bc0907b7c31171c4786"
+hash = "9ffe96caf292f077f37dc028f9e13422deba3901baf0da70edc1c65abe0cf25a"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/structure/village_savanna.json"
-hash = "3d8154c52179b2d8e0d6b5c53b84152decdf5560b7338a75347427c7812d9d55"
+hash = "7b11579daea7ef68200c87a89037ff52b3ae1b4e31dbb9d3f76e715e5f7b18bd"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/structure/village_snowy.json"
-hash = "04196ef0c571ce71fd863dd79357fe933bbcfc943b333f006503cb7f6c357ac1"
+hash = "aaf50b514bdd7b5101025df04af53e663c3d6c320cc634c6b49c77a3d2a571dc"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/structure/village_taiga.json"
-hash = "88489b4ef52ed0927554e8b670ae703d38a8c67902875648669ab8c1fb5ed5c5"
+hash = "0bbac32ab2f53d4e97b52b41163c2e9db60d4c02e094c4ff5e5861f1adedf0d9"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/common/acacia_log_base.json"
-hash = "2e85ca56d4d6ca53c5e7d9e79c93b9ebb3199352332d5fdd9ea3ec84e8f4feb9"
+hash = "7bbcff671084561dead671ed961e57120e197ba69805200cc90c02f49a4f26d2"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/common/butcher_animals.json"
-hash = "440bf71455dd779606a4d6aaa089163b1cbb0bde169a4eac18ef9f35d0caf13d"
+hash = "f8ccf2cc12c239a5be28dc8668d3a23c76ee7e401df3e1a39278e4a43e66e05f"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/common/cobblestone_base.json"
-hash = "2fe79c29ac40156f76b63454073a46fcbf825de991e308ffa13a7187b80b2047"
+hash = "bc5ba15d5a4e9fabc33ae8ee5ff3ebf04ca2e37aae8e476449eb63b61760fd21"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/common/crop_plots.json"
-hash = "0465ffcd3e152dbe3b157be6ddd5ae3d19599d5c74b593ee001c50bffa0d4483"
+hash = "3eddbdd9fe1a309bfbed4b5db5b557ceb0229f9d552feb5d00b4ec234e3c1621"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/common/dirt_base.json"
-hash = "986a2987e293c63a46b571d823a48c68e0f19d345cf171a4adbc89f60206a199"
+hash = "7cadcbe31c89bc49b5bf305cec2bdfc658d4ff0763d8de02b14bd36ab39def14"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/common/sandstone_base.json"
-hash = "3020f514b808e5b9c1bc22764d4485fde249bae900455338d0da2fe5bd57c0bb"
+hash = "993df00ed8ff14e5670a6194837b8b898904805ca5004c05192c6e9ba2238749"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/desert/houses.json"
-hash = "ba90b44c807e21ac7832e80f58e76dc22af97257f8c16b4c2561b1dd996d77a1"
+hash = "36435d4fe35b7f848a0af11be0319c79eb0f7e4157c2e22c59344bc7f983ac78"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/desert/streets.json"
-hash = "5fd81d023a817abb082aa284f0260ea2d99d95c109beed25bee243d39b06dd9a"
+hash = "09e810fa88cf61595e0df853e585eb20d8d5d5a46fa6df7c078d31bb8fbd51bd"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/desert/town_centers.json"
-hash = "e04ae1a12d8a1a028262d08530d51cb42eb587c79799eaba617fc63eafabe765"
+hash = "83b090c3204aaaa47de69ecbeeaf6af929d614107454eefe52b89b93a9ec72a4"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/desert/villagers.json"
-hash = "263912b7fc1d2716b041daff33d1076f8847483ece45a7e6b460926c277aaf21"
+hash = "deb9709505304bc17b71b50b2a793a9ebf5dbf7b5c71766212495846b8796c73"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/desert/well_bottom.json"
-hash = "fbb27780e8c5489ca4120caae7ddb3bc7caf174c3ce8a802c74af496c9bdf35b"
+hash = "236b38f06c71bb90d5dd9d524d0e92ab69cbd2d19daff21500f907b46a717e1b"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/plains/houses.json"
-hash = "35693f57b5e53e0daf1c3570c7ac20f58f07cbc440a442daf5fd56b267b7495a"
+hash = "51311be8c59cd012251ecb4af059eaee9c23a5c9b29335625260243e6d7dd29d"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/plains/streets.json"
-hash = "c995675f610cea8ed47b96275f729586fc0a71945a376e6079f9dff3497014a7"
+hash = "bdf15c7492d3ecd6f94535189c28299463710f6fec9353ee9b5af9651a20849c"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/plains/town_centers.json"
-hash = "6829bb63a6dd83b72db4970cf2b32d735800572d980553c511d22b3c11d69f81"
+hash = "328dc94f13af83f738cf00a36176a176bcc8c720409e92be20e1174fd77d895b"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/plains/villagers.json"
-hash = "e071e1262ed2dfe89055c96f01202ea7a36ebb3a07354c93e5a9528196485a7e"
+hash = "b42512cb1ee439d02c0d94c54d0d8d6cc4510d84f0a3683c86eef9b55d81a383"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/plains/well_bottom.json"
-hash = "f3944476cf4cbd1125d24388706a7c3fd733465222049a8766f5025878b7e53c"
+hash = "3d784f4765963e0649d37b1fe5722fddd0764ac54f12453b3031bc4561e7589a"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/savanna/houses.json"
-hash = "0d0b3eb915070a3aa6e1227946435af924743bd38d8d1553e4a442b1f296ae7f"
+hash = "4bfd6f177c0e8ff1dbb1d9fd463f0989fa8de75e5879cb365c35981a0e60ad9f"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/savanna/streets.json"
-hash = "86752dde5648aadddea0f8f5c5c2587f0ca0f26d6e88e46d87474c0cce764986"
+hash = "c911d0de4440b7cf4805ff10d9b1ee1831b0e0171993276b432374772f966f9a"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/savanna/town_centers.json"
-hash = "f678a6903076f9838805b683c75cba86d193e67d89e570bc3a33f23d1dd63d76"
+hash = "fec34f55cff3e79e5331a252562290792395668372f0fd2bbf8fae60d39acded"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/savanna/villagers.json"
-hash = "dd7b4c335fa33f378f0820a5692800481e1be4c69c1bf69a298f16553066577b"
+hash = "1c4b4d5939b66891f10fede51d2edea48ec55f23f1a9054872bdf63813943b19"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/savanna/well_bottom.json"
-hash = "30d5a32cd0737d86d8feeb8d5760a985f73d8bc3009a973795e36643f0a9a765"
+hash = "9b3f4c62586dcb9cfd6fc519b61ba5298780377121a2a5ab21ff03c76aa93c88"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/taiga/houses.json"
-hash = "c29b1107e7bd71007008f5bf0716e06907859287475bd8988a9d11f6cc2e99f1"
+hash = "7cbfaa5d5a6e6af66a8f0f4a4e1ddebfa28abfce90c68fa9fc54f8a0011e5d46"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/taiga/streets.json"
-hash = "6dd15e671caf30f4e7da1d0e9e4b27fe1766787c8478382cb21bd5a67b1544bc"
+hash = "516fe7b361b5d1039b66683a6fb309d14e5eff6f7d82721586104bbe7acf7f24"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/taiga/town_centers.json"
-hash = "917a225950fb0e1f21950c12e294085c33fdc6c26806908eafa11972555ee119"
+hash = "7f68abd59390ce1e78dfa1a0c967ab0b780d9d5a3a25d8187cb1cb7ed7fc602f"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/taiga/villagers.json"
-hash = "58cefe8e031aadaf0c76ed477239906b6fd1bd7c7cd85464d557635339fea3c3"
+hash = "56b1ade996f6146eda3159fe7508f2b46ececa2b5b85ee192c7f42b816afed52"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/data/minecraft/worldgen/template_pool/village/taiga/well_bottom.json"
-hash = "be3d3f422f7d516ff8fc0c96e0c85eaa90c2b558a31e1e54c1659b04246f2648"
+hash = "6f25ad9bdf71622f3767bb05be700daf79b08fa9df523599cfa54c66bbcd1355"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/pack.mcmeta"
-hash = "220a76e8332b57ec5716841b5443e90991e62ad51203aa5f66f44ff142aaa9b4"
+hash = "653e6698d76648dc420a319d2b29dcca1dc2eb02825a31f17ecc14e911ac7c8b"
 
 [[files]]
 file = "config/paxi/datapacks/ClassicVillages/pack.png"
@@ -1198,139 +1198,139 @@ hash = "575580a59b0c1e2da2f80deb66cf64c4390e979147bcbcbda1092fb2a43145fd"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/wow/recipe/activator_rail.json"
-hash = "124b5bade920ebaaf5198ebbf06d799fda4305a7b65314422261afad255eb8d6"
+hash = "4a561fd85b84fd8e8f8c5f54ad0dcb20c388cc2a5990b59a6f0b0b6f9120df7f"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/wow/recipe/amethyst_block.json"
-hash = "d93f62470257fe41c4b72fcbc9e4736ad6bb6e8d756e607608d8caf9b336b90b"
+hash = "87c96d71940bafc17b386292b78c518161d891a2eb644298d4565f74f08bf7a6"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/wow/recipe/arrow.json"
-hash = "cfc2bdb24f1830b23c72187a48fada580d8a40cdb9e416939053a5c1814969cf"
+hash = "42cc91763c19f5141b8ef0632703c7f5981ef0e6e76500ebadf837d2ab6ffadc"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/wow/recipe/barrel.json"
-hash = "4e75c23f61276481139662b62f6a0d4fb455a10510223f262b92eb61fb731f8e"
+hash = "1a2b60087434d8df1a050019c485e989447b002c7f1d7cc17e20de5becf5847c"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/wow/recipe/beetroot_soup.json"
-hash = "1584bdff72b820727647ac8acb32f5f0ecc87ba5c3d58baf0c7d4597f30564a5"
+hash = "ab1821c5f3ec8d57b0437caffffd96f3ed36eee10f15ceb48cf74e07077319c7"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/wow/recipe/blast_furnace.json"
-hash = "8b940bb3fc43ab93f4a94e5839e67f76e3c448f90c4c86b9141106ec4e9f7eb0"
+hash = "e2d82b9545237544ddcc9b9174065d01f7d484afa603a511d4388f129becb9c9"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/wow/recipe/blaze_powder.json"
-hash = "f0bd6ae42526750b9eeec388b1b69c8eb8e5b582e7dd540298f16067b4514a39"
+hash = "083d15a4097648ed32aba5831a9062cbc4aaf87ebf1d905cec5892be95d3838f"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/wow/recipe/calcite.json"
-hash = "23f3a18c46a700315cf0dfd9c02d1ee3102fa06e3a00c3becd1ee51417bd4128"
+hash = "01cd0becd31413c2696e9c674603e3fbf8e42256d40f160ea42ba6b080f6d92b"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/wow/recipe/chainmail_boots.json"
-hash = "603b3c5f9762611b019e2d8f857c22794e37ab22694095169039c3b5c30ae81a"
+hash = "e605a2a0704c930b23776c7cad9d2d25b3209647bb7f2b5acd08ceffcac9b16a"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/wow/recipe/chainmail_chestplate.json"
-hash = "79f1604170bd80a2d9762f852d66515aff71d6c840884b7e8a22955c610551c1"
+hash = "2b3cb22bb0414b595b9902057fc29a534a158046ca659076b12c7736b0eb45cf"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/wow/recipe/chainmail_helmet.json"
-hash = "0be3cedce840cb1e9e0733699f07a8ebfc6827c8383c6f691cdc49613322cf4f"
+hash = "5ac9c286133a14af85346fd764265271e327351d7fb881f52ae298299820a0b9"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/wow/recipe/chainmail_leggings.json"
-hash = "4e9673fe90be681849e685f907a29e4887f884a5543bfd4315580004846d1a0a"
+hash = "0defacf4296934e2891d2049f99fb18fa1cefe81f627e84395408a078bd4b077"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/wow/recipe/detector_rail.json"
-hash = "7f549189b72369678a7de4e85c65703d8fc8497470b94f5ac368ff60c8012aeb"
+hash = "7a28316c87a7ea8356db9b3abd5d95443a78420d8dc7ab4019a75a9d0ddb1a4a"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/wow/recipe/diamond_horse_armor.json"
-hash = "a6d473408a6eb4a86f2fca6fb204213edc87d8c7ff264263485d2d2da0ec1e43"
+hash = "9a38c4ba1a1703007db3abcd0645f1103b4aea701538a4862bd7935422f4e766"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/wow/recipe/dripstone_block.json"
-hash = "47ced5d8ac77798458df34fbd0d7365df1df50c29121f982fa02781f4a1a482f"
+hash = "34c9da6efd24d0754762f986b47c5e51dbe804d6079dc5381d2db7325d378722"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/wow/recipe/enchanted_golden_apple.json"
-hash = "ff2ac9988fbe27859d324a1cee53ec91162795e60470be9e30fe4ee3c944f985"
+hash = "b47201435b4894ca132013ce07ec427c9dc82d5b4347069d5f0c65c84b83d6ea"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/wow/recipe/gold_horse_armor.json"
-hash = "2e79c216e6a0fc4bd1e581a07b1e44f427bbfd50446daf00d1ba466865356287"
+hash = "02c6033f15c334742b9c1f1f0474567bba1cd981ddac8e10d4e43c1a2d4657b8"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/wow/recipe/iron_horse_armor.json"
-hash = "06c9f22d41d37716af2fd5bd5dba5b6c83d44b47bce0edc92b42335d7cc0dd01"
+hash = "3928cd26bed39ed9b41d8a97b961f245072894b5b7da620f17daecb7d7afd8c1"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/wow/recipe/leather_horse_armor.json"
-hash = "5cc648abd461887d036ee5d3d3d109cfe8e3a745404fb6b2033e80f1b2fce837"
+hash = "86be0b8dee882bd9c73b5d5a69d26c72b5ab7b6b99d502b8bd13bf91f3a2460a"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/wow/recipe/magma_cream_block.json"
-hash = "121b350eb9b517bcb88e1b6560753f1505f5c814bd7ebbb809a55e1aac59530f"
+hash = "b0eda04ee3dff29bb6c8633abcf699fd29184071fcea806db042bb4ddd4b93bf"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/wow/recipe/notch_apple.json"
-hash = "d128a62260f54f8ea15341e309dd1ae35fe54459f4983c7c7e27d01c2fa06bff"
+hash = "be2311a627a012c7ea08547924766ab72668395dd461be08cc0cc1647d3590d9"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/wow/recipe/powered_rail.json"
-hash = "786ee653dd32e069db3f396cefc9bc950ae98191a6a5b8dac4e12e8316f82bc3"
+hash = "ddee11962d7dc00b219375795e10c2ce8ada14078dd5f9f87d09fd869175aacc"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/wow/recipe/rail.json"
-hash = "08aafb178fa0e22fc1b82297fa511a3dbc7c0905ccc4d962f4dea4c52a458121"
+hash = "19b990334c67cc006cbd4065bceebe1559ecbcb3496a68c52c44456917859ed7"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/wow/recipe/saddle.json"
-hash = "711d476e2a866ab52a0481d727738345c95dab67a10b3c708ce2d2ac93dd0caa"
+hash = "e79e18cc52171d5226003292c326cf55757bbdd4a80e8249b041e7f1853f9a2e"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/wow/recipe/slimecomb.json"
-hash = "20a3481ba483b2134cb5aff5b55252c1504d23492586a70f519035ed3d3afdc8"
+hash = "b22ef4c435b87845a6862144052a9fa99c8a4ca63f2e9a0eb6d3876c5e93d88f"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/wow/recipe/smoker.json"
-hash = "df0fca73dcd44cc49127e7926f7117d6aedc0d43a03abcb3e350086cf105967d"
+hash = "46be18d71e19fa72e680529ce759d0ca0dbeca63cf9aa7245fb19951bd2fe8a9"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/wow/recipe/smooth_stone.json"
-hash = "b030df278149f1dd7c3af8a2e855b4bf77618c08a877cb5c9518de2bff6e7bc0"
+hash = "c6d808b5c1bc43bfebe0f8cd56f12fc43e323c51ddb9d97107248b9c8214eab6"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/wow/recipe/stonecutting/cobblestone_from_stone.json"
-hash = "095616035277ee492af9fced9e6b7634514fa49572fe49ea987e2e6f41fdba08"
+hash = "4a9325acc52a99daf935e48d632d89466ecd9db821093ab89bdd632dc75ed1cc"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/wow/recipe/stonecutting/pointed_dripstone.json"
-hash = "de00a4b7152a28068db383759ace795354d5cad3acdc63cefa07ba12d7c1b0af"
+hash = "7258859ca275babe675daf9dd2200270dc0739b860cc1094f29809503885c1f1"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/wow/recipe/stonecutting/smooth_stone_from_stone.json"
-hash = "d8955f706a2692a035ac04ac3fb40ad19ba1d9c21e6e2df691571d2574554016"
+hash = "c3ffb4e0f31ac40ea7be24af0d57666b2e406a62b1c7c53030dee8e2a27e5b6f"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/wow/recipe/stonecutting/smooth_stone_slab_from_stone.json"
-hash = "b317c6c1057629c6b268c8865f006a239ba19cb5513825f37147349c86073241"
+hash = "2b636b89f3c9077b55a792ce6c8c1ff1575e2cbac414688e6e8df353c3245ab8"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/wow/recipe/tuff.json"
-hash = "fc2a804a1a011b75f264698aa88b042620524b99cb7c1ded4afae50d93f2fae3"
+hash = "f658314d05946c82f3c2db1248f74700d30d8aae0baab8993bf916013976509d"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/wow/recipe/wool_recipe.json"
-hash = "5dcf906ec4e89b44c4ab84d2318be81095c35517e6ba6f8d08291dc32388a7a4"
+hash = "1af02ca60ab3494e890d68a876bfa949a40d9aa8dd4582c8bc5c5b7adefa5974"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/pack.mcmeta"
-hash = "10b095694c0119230e88e6de7a483d0a9e99fec8ee22155e8fb12ecdf5de27fd"
+hash = "91db34abeae4f961cc0fe2fab30e4257a74bb180088ab57ebf78b7526f7e4357"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/pack.png"
@@ -1338,707 +1338,707 @@ hash = "575580a59b0c1e2da2f80deb66cf64c4390e979147bcbcbda1092fb2a43145fd"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/dimension_type/overworld.json"
-hash = "d784a49401d7d7f7a3039bc5d925ed1dd740c05e1ef4b02d7e255f19c4aec44f"
+hash = "a9da83784bb3c1cff2b5114670fb2c7f5201bb633c4bded5724d367b64cdbf4b"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/enchantment/silk_touch.json"
-hash = "d9a1be5f629493afa97b0e81a05e408f9b782ec95872c7c5e7e57fe2fe44644e"
+hash = "60a2d8a8a703eb60e10fed7c9779f23b790bec981719caa37ecad225b2c1b74e"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/loot_table/blocks/crimson_roots.json"
-hash = "08a2c47087b480cb7c1f5fb0a3e5b4a58268a15e3e92533041f81cd6c2697424"
+hash = "afc71488dc30e9378c1df6cfcd63fa57bdd6fb800d588baaad260c9dea32b535"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/loot_table/blocks/pink_petals.json"
-hash = "25691c3bd2c1074f24776ac1a1bae1a8ffedb8f6a42c44ee85756d8f0fbfdd31"
+hash = "4be1709e3ad99e85b7e43365014b67fc6470e9e6b24e8c326ca8ccb256253153"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/loot_table/blocks/warped_roots.json"
-hash = "3df82497bc3ab4a8925ae5348dd84a00b7bf377727ee0176885cf90904436072"
+hash = "4337c9a670ab42f1a75bddeed0b3ddf1548ca7822cf134fa0965399ade07fa24"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/loot_table/chests/abandoned_mineshaft.json"
-hash = "d8402109d8c5aa94c54656142200d7a7aa1e5adcd3239c61f379c147625cef66"
+hash = "7c40a828fd000edcbb4cc4f6309d0dea05693a4cefd7a50177cb340347f6be16"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/loot_table/chests/end_city_treasure.json"
-hash = "8b7b6d249ae4e66820b70e59ab8c6fa4543d1f08c740e58a588677113f840fc9"
+hash = "65ce1f76355bd6aa99755df456815c597cfcad8162f269b91700559f6faf74b3"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/loot_table/chests/nether_bridge.json"
-hash = "8b188feea0763684ec60d5e953e917b31fb3a0dc2455a48c63c6a4d211f60c3a"
+hash = "d20c7a987650a4642256122583023d2eaa035ba34aad11274595ada402cfbb62"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/loot_table/chests/simple_dungeon.json"
-hash = "93cb9cf74071e95c83a08737e1087f3da9f49d6a5c9142ab098b0079afd8a1b9"
+hash = "e1730be007223e513b46e49755935d11cab6c12187709378f8f006710d77bf7d"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/loot_table/chests/spawn_bonus_chest.json"
-hash = "dc3456d8bda8718999fa316f9ce6f906d190fbd4c7a107b21ad8c98c720b233e"
+hash = "ce6210bc2e44296f98aeb89f38a68c4fd6158803dbc358c6bce2db0044717ba9"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/loot_table/chests/stronghold_corridor.json"
-hash = "cdf154d6015b359160179386b63646a927c0e8605123abf9f764ade4eb5df07a"
+hash = "bfc0feee0331a5bad1878c84f183d76c51e79bd4ae3f284602c28f0d27bde069"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/loot_table/chests/stronghold_library.json"
-hash = "809b856f2793c43f6f98c7dc2608f6cf6bb1b4674de9ebce0b9f34dd5fe8536a"
+hash = "28831d3ab5bac5475fa7afc17f7cabedebdf227670d79967435d99add1ec6ec6"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/loot_table/entities/magma_cube.json"
-hash = "e8684145d277180af5ea7d825f26b83c010a1d8306c89ea7fb9b6b4d5d9756ce"
+hash = "b3d1e17b099a96333e23aa35614ee21bd75afa969c8de56bceec4c823966149f"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/recipe/light_gray_dye_from_white_tulip.json"
-hash = "238f711c11c2c09de072ba7385741e54c724220c391d750a48b73ef7fd185b78"
+hash = "1fd44ce3327261df314626e32cc8135c81e9f6fbbb9a05b8af20a188206903fb"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/sapling_overrides/mega/minecraft/dark_oak_sapling.json"
-hash = "cd5e0e2a52b69f745425e78c8c3a14374f39fa9216e3fb5e47d8722a6375f5bf"
+hash = "478244126a5aa570ef795fb68ee4378ba2c78b87fe80aa412fd202926631d884"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/sapling_overrides/single/minecraft/acacia_sapling.json"
-hash = "5019819b9c92071308b9e658eecfdd31840240e22c4d6169d64ab827195af9bd"
+hash = "3cc62c9eb1d41aa0cd19a904435c04d98269b44c1de1b5cda05a8b98b93d4006"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/sapling_overrides/single/minecraft/birch_sapling.json"
-hash = "7085c417251660a6b4dceeebdd9c87949b275459d451d33936f19806b4c9b2c3"
+hash = "565be29d0e09c39e4c4c0f2444f9cb2f67ebe5f457d67428508d4df0f809f971"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/sapling_overrides/single/minecraft/dark_oak_sapling.json"
-hash = "a1ba9adea0fa63518f61aed295f395405da055442929afa9800e1fff1a7648fe"
+hash = "4dd5b182b913a759236fe786f6812e078b22a1c00d2089a6fc56e8ed6951e38a"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/sapling_overrides/single/minecraft/oak_sapling.json"
-hash = "61d0a3a55c2d119356983b306ccf9bc36651e62b56706f77b00a8afb5fb5c73f"
+hash = "a245e0731e927cf5ec32f438b82ad92eacdd598ac8bbf176e055bddf84ba42eb"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/sapling_overrides/single/minecraft/spruce_sapling.json"
-hash = "9152d1d35a424fe1ad05b8e1db0d56ba9ea744743cfa289ef4a3f2d5cdda8076"
+hash = "5a2a2f55586f7b5b14205c6d898af564ce65755a296fd02bf0c47a10b719f5ba"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/tags/worldgen/biome/has_structure/_end_city.json"
-hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
+hash = "1df9a00ac318069a6f073c5d3d2cc3fe3d6ec60cbafabc41de7412ffd99ede8c"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/tags/worldgen/biome/has_structure/_mineshaft_mesa.json"
-hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
+hash = "1df9a00ac318069a6f073c5d3d2cc3fe3d6ec60cbafabc41de7412ffd99ede8c"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/tags/worldgen/biome/has_structure/_nether_fortress.json"
-hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
+hash = "1df9a00ac318069a6f073c5d3d2cc3fe3d6ec60cbafabc41de7412ffd99ede8c"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/tags/worldgen/biome/has_structure/_stronghold.json"
-hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
+hash = "1df9a00ac318069a6f073c5d3d2cc3fe3d6ec60cbafabc41de7412ffd99ede8c"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/tags/worldgen/biome/has_structure/ancient_city.json"
-hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
+hash = "1df9a00ac318069a6f073c5d3d2cc3fe3d6ec60cbafabc41de7412ffd99ede8c"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/tags/worldgen/biome/has_structure/bastion_remnant.json"
-hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
+hash = "1df9a00ac318069a6f073c5d3d2cc3fe3d6ec60cbafabc41de7412ffd99ede8c"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/tags/worldgen/biome/has_structure/buried_treasure.json"
-hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
+hash = "1df9a00ac318069a6f073c5d3d2cc3fe3d6ec60cbafabc41de7412ffd99ede8c"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/tags/worldgen/biome/has_structure/igloo.json"
-hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
+hash = "1df9a00ac318069a6f073c5d3d2cc3fe3d6ec60cbafabc41de7412ffd99ede8c"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/tags/worldgen/biome/has_structure/jungle_temple.json"
-hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
+hash = "1df9a00ac318069a6f073c5d3d2cc3fe3d6ec60cbafabc41de7412ffd99ede8c"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/tags/worldgen/biome/has_structure/mineshaft.json"
-hash = "8c0f58da0be4248b20e9f6aa0562d744265c93ac42b8118794858ac113e84f50"
+hash = "b8bb03572e0a02edf970d5261315d368268d3bc1f69dd8372671c4ebcc04da7d"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/tags/worldgen/biome/has_structure/ocean_monument.json"
-hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
+hash = "1df9a00ac318069a6f073c5d3d2cc3fe3d6ec60cbafabc41de7412ffd99ede8c"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/tags/worldgen/biome/has_structure/ocean_ruin_cold.json"
-hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
+hash = "1df9a00ac318069a6f073c5d3d2cc3fe3d6ec60cbafabc41de7412ffd99ede8c"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/tags/worldgen/biome/has_structure/ocean_ruin_warm.json"
-hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
+hash = "1df9a00ac318069a6f073c5d3d2cc3fe3d6ec60cbafabc41de7412ffd99ede8c"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/tags/worldgen/biome/has_structure/pillager_outpost.json"
-hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
+hash = "1df9a00ac318069a6f073c5d3d2cc3fe3d6ec60cbafabc41de7412ffd99ede8c"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_desert.json"
-hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
+hash = "1df9a00ac318069a6f073c5d3d2cc3fe3d6ec60cbafabc41de7412ffd99ede8c"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_jungle.json"
-hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
+hash = "1df9a00ac318069a6f073c5d3d2cc3fe3d6ec60cbafabc41de7412ffd99ede8c"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_mountain.json"
-hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
+hash = "1df9a00ac318069a6f073c5d3d2cc3fe3d6ec60cbafabc41de7412ffd99ede8c"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_nether.json"
-hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
+hash = "1df9a00ac318069a6f073c5d3d2cc3fe3d6ec60cbafabc41de7412ffd99ede8c"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_ocean.json"
-hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
+hash = "1df9a00ac318069a6f073c5d3d2cc3fe3d6ec60cbafabc41de7412ffd99ede8c"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_standard.json"
-hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
+hash = "1df9a00ac318069a6f073c5d3d2cc3fe3d6ec60cbafabc41de7412ffd99ede8c"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/tags/worldgen/biome/has_structure/ruined_portal_swamp.json"
-hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
+hash = "1df9a00ac318069a6f073c5d3d2cc3fe3d6ec60cbafabc41de7412ffd99ede8c"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/tags/worldgen/biome/has_structure/shipwreck.json"
-hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
+hash = "1df9a00ac318069a6f073c5d3d2cc3fe3d6ec60cbafabc41de7412ffd99ede8c"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/tags/worldgen/biome/has_structure/shipwreck_beached.json"
-hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
+hash = "1df9a00ac318069a6f073c5d3d2cc3fe3d6ec60cbafabc41de7412ffd99ede8c"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/tags/worldgen/biome/has_structure/swamp_hut.json"
-hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
+hash = "1df9a00ac318069a6f073c5d3d2cc3fe3d6ec60cbafabc41de7412ffd99ede8c"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/tags/worldgen/biome/has_structure/trail_ruins.json"
-hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
+hash = "1df9a00ac318069a6f073c5d3d2cc3fe3d6ec60cbafabc41de7412ffd99ede8c"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/tags/worldgen/biome/has_structure/trial_chambers.json"
-hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
+hash = "1df9a00ac318069a6f073c5d3d2cc3fe3d6ec60cbafabc41de7412ffd99ede8c"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/tags/worldgen/biome/has_structure/woodland_mansion.json"
-hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
+hash = "1df9a00ac318069a6f073c5d3d2cc3fe3d6ec60cbafabc41de7412ffd99ede8c"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/tags/worldgen/world_preset/normal.json"
-hash = "62b757b7a5ba4e6d85330b8ac804d9140f18899610c49e1353ab02f2751be065"
+hash = "fd4e1af43fadf340b62b7bad9e446185ffce844e2c4f0bffc2f1fe1ca514d38e"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/amethyst_geode.json"
-hash = "f5313248b6009ddb20c274b8291488effa3e31b6377337fde087721a691633a6"
+hash = "ba5214b7ff873081c014fb24ff3279d79767658faf46991c6a1d7543dfafe2f0"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/birch_bees_0002.json"
-hash = "f26f7f48fb7362e3fe4b1fe030aab1b53af2df9696eba500c6494493addc32d5"
+hash = "28a2011a3bef2de6d5e009c7816c0831594b8e83e88f699a475d6284ef34550c"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/birch_bees_002.json"
-hash = "f26f7f48fb7362e3fe4b1fe030aab1b53af2df9696eba500c6494493addc32d5"
+hash = "28a2011a3bef2de6d5e009c7816c0831594b8e83e88f699a475d6284ef34550c"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/birch_bees_005.json"
-hash = "f26f7f48fb7362e3fe4b1fe030aab1b53af2df9696eba500c6494493addc32d5"
+hash = "28a2011a3bef2de6d5e009c7816c0831594b8e83e88f699a475d6284ef34550c"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/cherry_bees_005.json"
-hash = "57ff960a94bc75a7dc89e50186d8fdb4b6292e370b2c087dc59991d36ac49d08"
+hash = "4daa51efb7e3cefe2cbb9a621e03dc85488e8df14c639d3a02409d6e2ab781c2"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/fancy_oak_bees.json"
-hash = "de6eaf5e4352cd7ce777c57fadcbebf983db058cc7dc8a45cbe9c984197aca19"
+hash = "39211770fbf498cb50f47ef90446b80e27b8798d65c018255ca3166947eaef9d"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/fancy_oak_bees_0002.json"
-hash = "de6eaf5e4352cd7ce777c57fadcbebf983db058cc7dc8a45cbe9c984197aca19"
+hash = "39211770fbf498cb50f47ef90446b80e27b8798d65c018255ca3166947eaef9d"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/fancy_oak_bees_002.json"
-hash = "de6eaf5e4352cd7ce777c57fadcbebf983db058cc7dc8a45cbe9c984197aca19"
+hash = "39211770fbf498cb50f47ef90446b80e27b8798d65c018255ca3166947eaef9d"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/fancy_oak_bees_005.json"
-hash = "de6eaf5e4352cd7ce777c57fadcbebf983db058cc7dc8a45cbe9c984197aca19"
+hash = "39211770fbf498cb50f47ef90446b80e27b8798d65c018255ca3166947eaef9d"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/freeze_top_layer.json"
-hash = "b30e59b089f5d6fe97aa993757c956bd05e793a792d73a26fb837d54a13e823f"
+hash = "819c331adeb7c1a632fef78c813e539bc2234b46be81ca36c9552ab5c1f829ee"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/oak_bees_0002.json"
-hash = "291dd84f2469b8fd423e3cb93daab3d01b352e2bf00e5d314392d7d4825b3541"
+hash = "3a5c940ea495f3bf59cea4d5d9a87db949230638e4643204999d44f9b54e2438"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/oak_bees_002.json"
-hash = "291dd84f2469b8fd423e3cb93daab3d01b352e2bf00e5d314392d7d4825b3541"
+hash = "3a5c940ea495f3bf59cea4d5d9a87db949230638e4643204999d44f9b54e2438"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/oak_bees_005.json"
-hash = "291dd84f2469b8fd423e3cb93daab3d01b352e2bf00e5d314392d7d4825b3541"
+hash = "3a5c940ea495f3bf59cea4d5d9a87db949230638e4643204999d44f9b54e2438"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/ore_andesite.json"
-hash = "abfa6ad44e5e8879ae75f458afc9f3aed057c814523f248d53ea4285de4cc514"
+hash = "5c0d0fce6d0d2cee50cf2fe8a4994273fb8f7f373d851c94b35f314e816fcb15"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/ore_diorite.json"
-hash = "2ec0d31d942caa158e141c2159238d0db9e0c8d3ef1b1fb471991b7f8da947f0"
+hash = "971ad6b08b44462c87c54558b77ece56352326fc54ca0d19da59d4cf19031592"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/ore_granite.json"
-hash = "5e8437ff9873d456fb17041b368590c8fc4acfcfc9d37eafc8a74691630cea03"
+hash = "76eba14221f76b8f2f5036f5cf5712ce192f592a30b311021b6956f47915a92d"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/ore_tuff.json"
-hash = "395fcafb4804053d4fdd3abab1192b76a97a5e36fc349687bc252d94c186d612"
+hash = "2a397a5491a3d94f349c10669d85bf1e6fcf78ee1dbe18244f2380fa8d318df5"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/density_function/overworld/caves/entrances.json"
-hash = "2a6d7c4586e42f7cc3933a044952429e928fd5bbf381216155ef048b647c2561"
+hash = "6921f88d09bad6abd0547a91e05690477d68a1387527def9b386224f0b6bcaa4"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/density_function/overworld/caves/noodle.json"
-hash = "856550ef310c8defa73222fcc14b34f37b92273fe671c69067832148c9632dad"
+hash = "301ab5f9cc70bbfcf1c0c92f9f4d9b1887740ca8bbdd31ac1993b1e3fb4f8304"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/density_function/overworld/caves/spaghetti_2d.json"
-hash = "dd7a78d17cd6caf97fd0f3b95830233f1929fab0edd0229f18c81744ee296db0"
+hash = "78f19150367d1ae4a91ea69f806f8b5c445749332d60e43bcb98dde60b0c0411"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/noise_settings/overworld.json"
-hash = "cc7c13c363c01f8cd2707909483bf6889024af06deb392b338ae8304dbbd5eac"
+hash = "f1fbaa1bf4a59b4b65a80e15e39d4b89eabcf6eb7958ac5fd83556e77a610012"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/amethyst_geode.json"
-hash = "f1f39e74f49c9e1248d1cec92c388a666536911653fe1585ded824d1e4ca38d6"
+hash = "fe88219f013f01eea563f9e82b1680f58e3e999d4a01474ef54b4be871d9ef2c"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/glow_lichen.json"
-hash = "bd5f0d2520051bddb8c428d701e78d571f9666488e38ab924318b066b889aaa6"
+hash = "d7874dad4fd7dcbaf250e5645c2093a91cec9b36c767fb7292306ed0e515ccfb"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/kelp_cold.json"
-hash = "9b378886d4e12a5b8d63ff457f8f8ee227952384c68c384900a9c0fee5a14173"
+hash = "8aedf3fd68c8c02787811029a15cf835db8375abc8eedc580226b9f49c57194f"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/kelp_warm.json"
-hash = "9b378886d4e12a5b8d63ff457f8f8ee227952384c68c384900a9c0fee5a14173"
+hash = "8aedf3fd68c8c02787811029a15cf835db8375abc8eedc580226b9f49c57194f"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/ore_ancient_debris_large.json"
-hash = "bd5f0d2520051bddb8c428d701e78d571f9666488e38ab924318b066b889aaa6"
+hash = "d7874dad4fd7dcbaf250e5645c2093a91cec9b36c767fb7292306ed0e515ccfb"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/ore_andesite_lower.json"
-hash = "bd5f0d2520051bddb8c428d701e78d571f9666488e38ab924318b066b889aaa6"
+hash = "d7874dad4fd7dcbaf250e5645c2093a91cec9b36c767fb7292306ed0e515ccfb"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/ore_andesite_upper.json"
-hash = "bd5f0d2520051bddb8c428d701e78d571f9666488e38ab924318b066b889aaa6"
+hash = "d7874dad4fd7dcbaf250e5645c2093a91cec9b36c767fb7292306ed0e515ccfb"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/ore_coal_lower.json"
-hash = "046a8b623325d2c64dd358ae408a7e1d4cd200661fce91652fd84d2579281a03"
+hash = "ec0c5df583089f622a7ef7ed008cf6bcde79df09c8fb6f7cf3e6f6d1b3011408"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/ore_coal_upper.json"
-hash = "bd5f0d2520051bddb8c428d701e78d571f9666488e38ab924318b066b889aaa6"
+hash = "d7874dad4fd7dcbaf250e5645c2093a91cec9b36c767fb7292306ed0e515ccfb"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/ore_copper.json"
-hash = "079d8776f4ddb5d69fca257c355a64a6bf4a2b93dda96fe22f3352a1fa30105f"
+hash = "1e317636a828804e509887fcc92fd1f37467ccaf55a77cfa07a225feccbe7bef"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/ore_copper_large.json"
-hash = "bd5f0d2520051bddb8c428d701e78d571f9666488e38ab924318b066b889aaa6"
+hash = "d7874dad4fd7dcbaf250e5645c2093a91cec9b36c767fb7292306ed0e515ccfb"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/ore_debris_small.json"
-hash = "bd5f0d2520051bddb8c428d701e78d571f9666488e38ab924318b066b889aaa6"
+hash = "d7874dad4fd7dcbaf250e5645c2093a91cec9b36c767fb7292306ed0e515ccfb"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/ore_diamond.json"
-hash = "2a0b06521ab917bad93b21e65a6fc9b266e65b7546d5746bf8f900755f58f249"
+hash = "c92f13a66c3c261539d858459ea5f6877caf907cf3941fde0cbda66060f41c56"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/ore_diamond_buried.json"
-hash = "bd5f0d2520051bddb8c428d701e78d571f9666488e38ab924318b066b889aaa6"
+hash = "d7874dad4fd7dcbaf250e5645c2093a91cec9b36c767fb7292306ed0e515ccfb"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/ore_diamond_large.json"
-hash = "bd5f0d2520051bddb8c428d701e78d571f9666488e38ab924318b066b889aaa6"
+hash = "d7874dad4fd7dcbaf250e5645c2093a91cec9b36c767fb7292306ed0e515ccfb"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/ore_diamond_medium.json"
-hash = "bd5f0d2520051bddb8c428d701e78d571f9666488e38ab924318b066b889aaa6"
+hash = "d7874dad4fd7dcbaf250e5645c2093a91cec9b36c767fb7292306ed0e515ccfb"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/ore_diorite_lower.json"
-hash = "bd5f0d2520051bddb8c428d701e78d571f9666488e38ab924318b066b889aaa6"
+hash = "d7874dad4fd7dcbaf250e5645c2093a91cec9b36c767fb7292306ed0e515ccfb"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/ore_diorite_upper.json"
-hash = "bd5f0d2520051bddb8c428d701e78d571f9666488e38ab924318b066b889aaa6"
+hash = "d7874dad4fd7dcbaf250e5645c2093a91cec9b36c767fb7292306ed0e515ccfb"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/ore_dirt.json"
-hash = "ec21270aea7bf58a5a7e05ec12b30103bc641de224b2f4c21b5f3f233de7ebbe"
+hash = "e2afb078caa7176346a778d88abe59ff96e27e063aec78e63753060fc1c46225"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/ore_gold.json"
-hash = "a9d14e8db7db1bb81b76a6b23e41ac3573ac8abeee8e286d57e3a254ecca9508"
+hash = "2574c103636ab3440cbbe689bbb5ce2cb88963f821465903b98608af9ddc2bfb"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/ore_gold_extra.json"
-hash = "bd5f0d2520051bddb8c428d701e78d571f9666488e38ab924318b066b889aaa6"
+hash = "d7874dad4fd7dcbaf250e5645c2093a91cec9b36c767fb7292306ed0e515ccfb"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/ore_gold_lower.json"
-hash = "2ee71b8ba12e36784a8ce7d073737ad466be1b16a0b34a9e6ee1fc8d42e09429"
+hash = "6eac09ad2e0a4d48f3df24cedd6f7566fe2907b539f85553350e5e7a9035bcea"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/ore_granite_lower.json"
-hash = "bd5f0d2520051bddb8c428d701e78d571f9666488e38ab924318b066b889aaa6"
+hash = "d7874dad4fd7dcbaf250e5645c2093a91cec9b36c767fb7292306ed0e515ccfb"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/ore_granite_upper.json"
-hash = "bd5f0d2520051bddb8c428d701e78d571f9666488e38ab924318b066b889aaa6"
+hash = "d7874dad4fd7dcbaf250e5645c2093a91cec9b36c767fb7292306ed0e515ccfb"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/ore_gravel.json"
-hash = "d52cbe40c72106e26ff901719bd87a2bd43ec225addb0e20d7b630dae0f8c8a1"
+hash = "47d8f550d72d27a373f99671f0715a14ae5fe286a3f4cb8fd842a6a86b693241"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/ore_iron_middle.json"
-hash = "97184abd251fc0a4f450a8c66878785ad6b00a97e3c74db9f8dc1e96b277560a"
+hash = "ba603bd0f92aebdc69737d4ae92cb0099520a11eeb3f39d481b6a044369d0e78"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/ore_iron_small.json"
-hash = "bd5f0d2520051bddb8c428d701e78d571f9666488e38ab924318b066b889aaa6"
+hash = "d7874dad4fd7dcbaf250e5645c2093a91cec9b36c767fb7292306ed0e515ccfb"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/ore_iron_upper.json"
-hash = "bd5f0d2520051bddb8c428d701e78d571f9666488e38ab924318b066b889aaa6"
+hash = "d7874dad4fd7dcbaf250e5645c2093a91cec9b36c767fb7292306ed0e515ccfb"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/ore_lapis.json"
-hash = "026f45bf3c66d2bbcb6d556ffd3e2c278eea57b334bf3c7d0f3351149519d9bc"
+hash = "225ebc5f35d88a5298ebd5ebfef44366e2bfd23da8e749679746f5ecba5bf1e5"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/ore_lapis_buried.json"
-hash = "bd5f0d2520051bddb8c428d701e78d571f9666488e38ab924318b066b889aaa6"
+hash = "d7874dad4fd7dcbaf250e5645c2093a91cec9b36c767fb7292306ed0e515ccfb"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/ore_redstone.json"
-hash = "a5933cb152011e1c4888c4777a3cabf4a8a84956f49f13b843cd450741d8a7c1"
+hash = "3c2c7c4474f7c654cefafeb74e14f6b788c222b382fae6d31acdd1c072642979"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/ore_redstone_lower.json"
-hash = "bd5f0d2520051bddb8c428d701e78d571f9666488e38ab924318b066b889aaa6"
+hash = "d7874dad4fd7dcbaf250e5645c2093a91cec9b36c767fb7292306ed0e515ccfb"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/ore_tuff.json"
-hash = "bd5f0d2520051bddb8c428d701e78d571f9666488e38ab924318b066b889aaa6"
+hash = "d7874dad4fd7dcbaf250e5645c2093a91cec9b36c767fb7292306ed0e515ccfb"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/seagrass_cold.json"
-hash = "9b378886d4e12a5b8d63ff457f8f8ee227952384c68c384900a9c0fee5a14173"
+hash = "8aedf3fd68c8c02787811029a15cf835db8375abc8eedc580226b9f49c57194f"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/seagrass_deep.json"
-hash = "9b378886d4e12a5b8d63ff457f8f8ee227952384c68c384900a9c0fee5a14173"
+hash = "8aedf3fd68c8c02787811029a15cf835db8375abc8eedc580226b9f49c57194f"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/seagrass_deep_cold.json"
-hash = "9b378886d4e12a5b8d63ff457f8f8ee227952384c68c384900a9c0fee5a14173"
+hash = "8aedf3fd68c8c02787811029a15cf835db8375abc8eedc580226b9f49c57194f"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/seagrass_deep_warm.json"
-hash = "9b378886d4e12a5b8d63ff457f8f8ee227952384c68c384900a9c0fee5a14173"
+hash = "8aedf3fd68c8c02787811029a15cf835db8375abc8eedc580226b9f49c57194f"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/seagrass_normal.json"
-hash = "9b378886d4e12a5b8d63ff457f8f8ee227952384c68c384900a9c0fee5a14173"
+hash = "8aedf3fd68c8c02787811029a15cf835db8375abc8eedc580226b9f49c57194f"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/seagrass_river.json"
-hash = "9b378886d4e12a5b8d63ff457f8f8ee227952384c68c384900a9c0fee5a14173"
+hash = "8aedf3fd68c8c02787811029a15cf835db8375abc8eedc580226b9f49c57194f"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/seagrass_simple.json"
-hash = "9b378886d4e12a5b8d63ff457f8f8ee227952384c68c384900a9c0fee5a14173"
+hash = "8aedf3fd68c8c02787811029a15cf835db8375abc8eedc580226b9f49c57194f"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/seagrass_swamp.json"
-hash = "9b378886d4e12a5b8d63ff457f8f8ee227952384c68c384900a9c0fee5a14173"
+hash = "8aedf3fd68c8c02787811029a15cf835db8375abc8eedc580226b9f49c57194f"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/seagrass_warm.json"
-hash = "9b378886d4e12a5b8d63ff457f8f8ee227952384c68c384900a9c0fee5a14173"
+hash = "8aedf3fd68c8c02787811029a15cf835db8375abc8eedc580226b9f49c57194f"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/structure_set/mineshafts.json"
-hash = "c6a78cf036579488cdab8eda083034af989050e094031803526f6bdfc112ff67"
+hash = "b316100c7ff20880a12acc01ff73a7ae764eef4afb2b2622bdb448991f02f878"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/world_preset/amplified.json"
-hash = "56cc40a59d2bba6fc43ecfb91c97e4b7b4787c0416ab0a3c5b2f3c0ce44b7e1e"
+hash = "a1a51a5cc9b3f1a890760bf1a6df991d47236588f79734e016e38004da0e2956"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/world_preset/classic.json"
-hash = "41461c9341a64a42aba9b3eb73ec5c8db0aefb15c6a144c5231ee7fc7cc5ea70"
+hash = "6958cfd563e16fe4e680902a880b5cfaf53b6eb1f96d69d205d961963befaaf0"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/world_preset/large_biomes.json"
-hash = "2e876d91903f943c3b66ab933c91d59a10c5b9c60f608fe825f1e066e3cd82cf"
+hash = "ebe847a562471314546c9546bf80f46d8f3d2be10c01b8062a62ebe45f9071de"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/world_preset/medium_biomes.json"
-hash = "bc0a965ad2a286a61856b66e3edca1047c627c0148be48e89f2757b9aeb189c0"
+hash = "307b6aa35569323897d7b227e74c2b998e440b2bbc52276848dd8310fbe7c254"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/world_preset/normal.json"
-hash = "13908f40065e52ccca8161e401f02e6f6fe2d986bb3156649d0f5f7b5828a1a7"
+hash = "7b819eb859ae67f8fe1c82669489c35cddddf54bb67a52758a5dc0d904545a8b"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/moderner_beta/tags/moderner_beta/settings_preset_category/selectable.json"
-hash = "878e96f77c49998fa7868238aa4e970b83a21298905e66214845b78bc6862e80"
+hash = "63e751dc4fa07ebf20d07d89b53fa03c9a994e0658be711a31808a7a56cba4a1"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/moderner_beta/tags/worldgen/biome/is_early_release_spawn.json"
-hash = "145cc96093ec6b87efe5aff28704afe4357db1eb9447e4e345786c21cf8ffb35"
+hash = "4911a359bb7909a3786b67bfa29d1ae2cf1a02bcb04a040c34e782c7a095a5ef"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/moderner_beta/worldgen/biome/early_release_swampland.json"
-hash = "e137d7320fffef4e278cf4ae1063c4daae9c637956a443de89f0a925764f265d"
+hash = "ee41c586aa455a0e90cd7285a049de6bc9a2ca2646d2801f5b74c0e9d2f268be"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/moderner_beta/worldgen/configured_carver/beta_cave_deep.json"
-hash = "1ea47aa5acd5e89912b0ab031c594ab439cc18a4d4b00f9eee8ecf6a14f6d7c1"
+hash = "04ad5f47369e70b08696fa9dbe8b33c1470aa73bea465e4e8530054b0ea70264"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/moderner_beta/worldgen/configured_feature/ore_deepslate_old.json"
-hash = "93daf50273a0fbfc52819263e17fde807823093e43f5394aee5216e673441fc4"
+hash = "76f5d94f85be6a26c9ca20b00b8d390bca6c87beefeeb21490acf9d35f21ef41"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/moderner_beta/worldgen/configured_feature/ore_diamond_old.json"
-hash = "61aed361ac75fac3491c4790c3fcb9a324b3a523f6a6d1d0ada734d97c41ff7b"
+hash = "e10cfa57a3b1ca77721a386563a8b5935d01f3ec4ccf34945209b7dd5ccdfb6f"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/moderner_beta/worldgen/noise_settings/alpha.json"
-hash = "426dc99d906bd50977360bb566518526a3535ef268d7bb12ca13698b4bcb56b6"
+hash = "bfb5a9275dce9dfdaf436e23b10d98aaf6a8ea4531760fa633cdd62e5ec212d2"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/moderner_beta/worldgen/noise_settings/beta.json"
-hash = "426dc99d906bd50977360bb566518526a3535ef268d7bb12ca13698b4bcb56b6"
+hash = "bfb5a9275dce9dfdaf436e23b10d98aaf6a8ea4531760fa633cdd62e5ec212d2"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/moderner_beta/worldgen/noise_settings/early_release.json"
-hash = "254a9acb2f7ce2cbd726c14ff32b9b83effd4bc9cb5ce80eb0fcaaa72ca313cc"
+hash = "f11ddc80608da0bbb75555878293a268f51bf6900ae44705c0e9b5607d6c3385"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/moderner_beta/worldgen/noise_settings/early_release_256.json"
-hash = "9a8dd5dfec0d2787552357d8c623e3624b42eb73a9ebb6312260ec88968f4f54"
+hash = "889e20dcbd0f07195164e8436ba011c33c3adbe3189ed2f003a6106eb59f754a"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/moderner_beta/worldgen/noise_settings/infdev_227.json"
-hash = "426dc99d906bd50977360bb566518526a3535ef268d7bb12ca13698b4bcb56b6"
+hash = "bfb5a9275dce9dfdaf436e23b10d98aaf6a8ea4531760fa633cdd62e5ec212d2"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/moderner_beta/worldgen/noise_settings/infdev_415.json"
-hash = "2bb681864742d1947da9865450fbfc13627833b689f832f8ace71708a6d1c499"
+hash = "74bae4f317fd5b33017fcbaaf50d8108fb0604f740d12b91590e9a74566a868c"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/moderner_beta/worldgen/noise_settings/infdev_420.json"
-hash = "426dc99d906bd50977360bb566518526a3535ef268d7bb12ca13698b4bcb56b6"
+hash = "bfb5a9275dce9dfdaf436e23b10d98aaf6a8ea4531760fa633cdd62e5ec212d2"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/moderner_beta/worldgen/noise_settings/infdev_611.json"
-hash = "426dc99d906bd50977360bb566518526a3535ef268d7bb12ca13698b4bcb56b6"
+hash = "bfb5a9275dce9dfdaf436e23b10d98aaf6a8ea4531760fa633cdd62e5ec212d2"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/moderner_beta/worldgen/noise_settings/major_release.json"
-hash = "c6a697623ed6ac8121cc9c28013ca21434a578b7a3ad4acd69935187b9b18bfe"
+hash = "8ef23dd6ec77c1e9e7532c4486226a60127daee15ea2f40f9147d035ff4502d6"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/moderner_beta/worldgen/noise_settings/pe.json"
-hash = "426dc99d906bd50977360bb566518526a3535ef268d7bb12ca13698b4bcb56b6"
+hash = "bfb5a9275dce9dfdaf436e23b10d98aaf6a8ea4531760fa633cdd62e5ec212d2"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/sereneseasons/tags/worldgen/biome/lesser_color_change_biomes.json"
-hash = "d2f08dacaa041218c5c2c3e2aa193dd3e9f0d7bd98ebdf986a4c6bcdd78731cf"
+hash = "3be0b29e2f9a782462bedda5bdbcf5cb10a6ef3be68b6a72d53f48d6207e9788"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/sereneseasons/tags/worldgen/biome/tropical_biomes.json"
-hash = "6425f64183aa57f9edf601208fbc6c9b7670f1caeb6b407704da28077f698837"
+hash = "1a506e959646d2b47872748d052d65b5d9e0370c5fccc127a3bcd44ac86ed111"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/advancement/recipes/building_blocks/calcite.json"
-hash = "ce2bb6297db2a0a908d887132a8d393ebee8aa7edb45c287c58bf94f7630f869"
+hash = "e99ad8a100179132435e7b2e29a9f8fcc3c6181fb14e9841f3b20ed8efde6060"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/advancement/recipes/building_blocks/dripstone_block.json"
-hash = "06bede71ce43efccfd8585b87681eb55463461b0783707d7202d5604a6a54a6a"
+hash = "ef330eab09ec43dd245479892e2283c60c9819749cb3127f9fe57e1cc50ee8c7"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/advancement/recipes/building_blocks/tuff.json"
-hash = "48dcd0f0df2790d99dab5b6dc7873c918c0871b526f2393b89f9306b02373886"
+hash = "20112f2d6d69289079432405f37f9966ebcb1b9466286d26a4b8d9eeaf3a464e"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/advancement/recipes/food/enchanted_golden_apple.json"
-hash = "dcdec48bf66a93763b4826087559fd18ee2615513ec695db97ec286d2ff1763c"
+hash = "83d47bd0c80ca32283c96c74ba188d8d2e9d51791a7ac5ea1087f2b55b74ad8b"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/advancement/recipes/misc/slimecomb.json"
-hash = "8cd23b0574be7801963d65a989d24faac75748b3e1176e4e410147b6ea882e13"
+hash = "b008d35c678a15ca2aab236d69d60b5caccc5fcb7e9baaa5a03fb4f8f51969f3"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/advancement/recipes/redstone/magma_cream_block.json"
-hash = "24d67f9a4a78519f09758aa28dddad32c43bd6ba2c4e4dc051d1d031b1d74561"
+hash = "186a35a30adc8ce754e0da6ac79ecdd36900cd38e5e02b816ef486c87f77dbff"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/advancement/recipes/root.json"
-hash = "6932cfe668cbc5be30bf7e37d26118c661780301783b4e7b8d445d7da9837538"
+hash = "4146eaae892299f03c5eca1b956bce23daf7e07aa04998a1cc4768614946bc7b"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/lithostitched/worldgen_modifier/add_cacti.json"
-hash = "810e8d03472d6511612a0a83dbd64679cdfa1874c6105f971a3c101b4692c383"
+hash = "ce407296406dc5ead798d652c432e1433bffc906584facc47c0beb52c564a088"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/lithostitched/worldgen_modifier/geophilic_cypress_rainforest.json"
-hash = "47ff634fd7ed0886c112d8af1a51f8f33e4a77ece030225965675df8257c88f1"
+hash = "a0a58fcd92d9fae74b3f4a10f9cbd6cc1d6eaf98d25f29968c6ca88b06e0fb73"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/lithostitched/worldgen_modifier/geophilic_terrestria_old_growth_forests.json"
-hash = "686f7a70caee10a7316854eefea256909bda45829ec50a6eb45e32e0dda3ecf5"
+hash = "dce5db45fb2ba63cec8f66735ae2d9c4b10b5dc419703d97cc01e515e26193a0"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/lithostitched/worldgen_modifier/swamp_effects.json"
-hash = "153df5ae6c5c1b14e07175f73fc5aa95f8eba08c5ce03cbdfb46daed91e09a99"
+hash = "d6930f2be6c3ccb506215673e74fe76f2e5f694bafb5b2a8cedcdfa905d4ae6e"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset/amplified.json"
-hash = "21af37fdb6964974800652853af9db11f56b2bd710484ff196863365da1421c2"
+hash = "9e299e3c6a01fa316d1b2a2693639bc1089a438e9893ca1062be91163a5b7a6c"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset/large_biomes.json"
-hash = "8ad83753cc079e790f58b8b9becebcbc3c931270bb6c21afd5b1e30deec78f07"
+hash = "9349a10d3f5df3f2a8fd466e2e2406affa9cad083f611054653fade3b1d2e91c"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset/medium_biomes.json"
-hash = "b6a44047cbae22433dedd4ea44da32e7994fe1f9e576caeb1d46429737e0731e"
+hash = "e16df20f01ad66922621132a7737f4d11e72402e2b0d6d8a4aee7e9ed19a5095"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset/normal.json"
-hash = "c569d8e31bedacb6f8f15004d0c0b9a40175c2750bb3baca09a2b3956c81e934"
+hash = "bce0602f80bcf43ae2bac2af6038278ff2293441861396ab064d7265103ea5e9"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset_category/silver_lining.json"
-hash = "1ad53e79a7cc6518ad27c52f4959defc1442bbf314a91474f6c637d2f89e7b8b"
+hash = "c912f1b8f6bf14e9b88ef380e67c014dfaf7717b3e1452dedd7f5b55405d6088"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/biome/birch_grove.json"
-hash = "e1a4f0b7aa5269645818e9853ad9f07a1dcbeab93331f2c271c117fc69cf06eb"
+hash = "bfe4e8a02be59009c64f3402699fde7c6b0668ad561e5bcf44908e62af8904c1"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/biome/highlands.json"
-hash = "a6d135e7dff97f62cac0f71be642e87d6597e905ad0a03d86cf1003ce3f9926a"
+hash = "b7dd46f90c052ba114bfb275bdafc13034aa1d7eba0f4a42c00422835ea4acbe"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/biome/parched_forest.json"
-hash = "2171005e91f2d60d82829ca6f7405916ad2494fe78a23e34edbc7e2727f27ba1"
+hash = "2bb70345ff6cd9bd6a2298815a43f2f3509e6da5264ebbf1637bed4e610e1749"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/biome/rainforest.json"
-hash = "49dff073a9c38fdb37a344b541323b69b2bed9970c193ef107acb2509a2bc54a"
+hash = "872ed834b4203092d80bd643e1c6a1ce781e691a5f91f7b97b65047340b0ab8c"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/biome/savanna.json"
-hash = "77ad0e34b45f2acf743aec73fc21cb4a2b761efeaba8ddd54a374ca4cd0ea24e"
+hash = "41209a51c42e218a1822b62286f77cb29f081cb448aac998467bc8aded7f3b33"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/biome/snowy_birch_grove.json"
-hash = "212c50a8af4a1779430b4fd0237648b4b6e0daed82d5ab20024fc9b79020ff20"
+hash = "f1ab155267dcf3f2a6f74202b27af745cd0d4dea201532f1bcbbe2e24201584a"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/configured_feature/disk_swamp_gravel.json"
-hash = "e7e4e475e233a187eb3466570bed08ffb785e856ecb4b918ae8a41b118830604"
+hash = "34fe8e204fee40717acfe4f9aa3108c0e03e3b36e31036540436da95ee19185d"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/configured_feature/disk_swamp_sand.json"
-hash = "b7957be3e68fdbb919036c27f58ddb5928ab544a0c9cff8aaa99416bbcb09fc8"
+hash = "4594ccc871c26cf1f3331c42aa4e59d49d7e05d52e65d13b68471d64413d2aad"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/configured_feature/oak_cherry.json"
-hash = "3bcb55060b981fcca890cce163c6301026fa014c3930e46c9ff38f8e54b2e28c"
+hash = "77487ccc08bd3e9e6b7fa0362cfb86676434d2d1e2ff20089fc07c48320b3d42"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/configured_feature/oak_cherry_big.json"
-hash = "6080e759e82580ff9f5784d5aba0768fb91b93df31ea41aaf71beb72765cb29c"
+hash = "e7426350f9ef55ca38677cb7f925d71ae67654cfd6626685a806e4999dc9ade9"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/configured_feature/swamp_mud.json"
-hash = "a48fdd586d18c5abfc7cec3284c87cd82c74f7ea00ca7c73f4554d674aff0edc"
+hash = "5a01d65e71bdbacf950c44e44fb7c21c7e821cc5ddc3a70613073397f4729ee8"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/configured_feature/trees_parched_oak.json"
-hash = "ca48ae9130ecaab885c2d780948163b8a85cbf35d1281ae571e1a0deabc0aa6b"
+hash = "5e4b685e76f96cf70fbc4d128a1b3117a94f99f2b58a5b928f0cdbe765fe2730"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/placed_feature/birch_tall_checked.json"
-hash = "49e41381d4a716e211f4ec59aca656aaf47788793d7572556fdd3ac969d3f00a"
+hash = "46dbd6821a61eefa1e047e166a9b001fa30ca1506537d56345423c7aab7f05ca"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/placed_feature/disk_swamp_gravel.json"
-hash = "521aa2536a9eca42ffed2277237fbb8b5d88955871f6d77820a029e06817ea3e"
+hash = "ffe1a5d92c4f91550110e6e5c157d2c9a666a6712195f5b4ad275091e3d23367"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/placed_feature/disk_swamp_sand.json"
-hash = "0871aca2e4bd7d977b06532f6c736ecc1dd468f3bc58ea0a0fcf602f8b05d498"
+hash = "07fb47cde5ff23a4759253c1f5f37b6bcac3c50be68c54e0859c4e535175ccba"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/placed_feature/oak_cherry_checked.json"
-hash = "1b3aa5f4a86304f9bb6dc9e6d633399b43eafd60c454105afdcf8c4d357ba0c1"
+hash = "3c05895e5791f212f071dbbbf9bfe19ff37f05c6769b9c88d21278e86342b688"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/placed_feature/patch_pumpkin_parched.json"
-hash = "f2526e140afb8a3a74021d4e274e4105920a96156d8519db18c7c527079c0a30"
+hash = "d4e964690ca30c1be8ece0071774152fd1fee237eadca5afef6993ed533243a5"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/placed_feature/swamp_mud.json"
-hash = "78de92be87f7d634638e014522a3c0b18c98adce95a710fe5ce68af8b413ccb4"
+hash = "7369822b6b1aa2ae9a6d6afe65a0d001cf5960d2df403909778bb3dff8235656"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/placed_feature/swamp_oak_checked.json"
-hash = "4ec7ca50e35e52f9e67466a5d1de1b0556f06dc06db57e25e032f7993fecffe3"
+hash = "0a291d45b438eae7300ffcc48a80d44f44ff096b7ccdda3188b180fd43750056"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/placed_feature/trees_birch_sparse.json"
-hash = "7639a9ef0911e9e08c728c387e562546ec37cb8339eae1b8776059f48a3b6bb9"
+hash = "a33ba8beff6ae7fecda5f841566a6336147247dcd617eaa8a21ba16a0604d0db"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/placed_feature/trees_highlands.json"
-hash = "985e1b1a5ccc4138ec5666cdb648311ba4f6370993e923f6c719943a7d1f669b"
+hash = "f3e98e47bff9d0c5a1d54e180d86e411b7d515be5ef29fa707217e35af58bfdb"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/placed_feature/trees_parched.json"
-hash = "394237afc677d17564267162c56342f3750670ea88f5d6af6fcf98345093b3d5"
+hash = "790f036c21c36217b9ffbf5e799211c9d1b684806bea6f185e549a4e74d20fc9"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/placed_feature/trees_rainforest.json"
-hash = "95ebd515799733c66ea6925e22a226ab1df839cb21b76364675d46798241a255"
+hash = "dcfdc664fe3f9154c3c5e458f7c652e5dc1af0082df777651a65191833c8ffb8"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/traverse/worldgen/biome/lush_swamp.json"
-hash = "4a688d377417e158789f7725bd0c8e2f22beff501075fe7caf06db44d646eae2"
+hash = "d9d6dd1110ebbe6faf68bfaa1a16335cd3695497e22f3b885357dc6b8d2f84fc"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/pack.mcmeta"
-hash = "f6feb6203430025954bcce205b76d320e4c192961b63200baef7d2677d2ae42b"
+hash = "76ecad8fb2d8adaeb7ac5c7daaa103a7a29ab458b2c37320e1aec959624828b9"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/pack.png"
@@ -2046,7 +2046,7 @@ hash = "575580a59b0c1e2da2f80deb66cf64c4390e979147bcbcbda1092fb2a43145fd"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+hash = "89a86742f6110ea11b461860ec4eda79e3adf059272f1e1a0f2e1e6690dfd736"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/copperhopper/textures/item/copper_hopper.png"
@@ -2066,27 +2066,27 @@ hash = "88660439eb38c5c3c167d2eb97520be19835492137c625cbb4417dc84ff9d531"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/lang/en_au.json"
-hash = "e7e5493676e992907d35c5cce1839934905cd5515a5d4043d0e67c7b9902b44b"
+hash = "2478ef1bb161b1dbdf3591eeebd634396e32312820ed96643a0aed36f9d65284"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/lang/en_ca.json"
-hash = "91c7e3b9973de4c9b83c01387ef6f48874aeb2db7fddc601cdf67df6b684624b"
+hash = "c407ab541404be3b8b475620d1d04ec4d3193a4ff038479f0b14f1f87547b7c8"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/lang/en_gb.json"
-hash = "e7e5493676e992907d35c5cce1839934905cd5515a5d4043d0e67c7b9902b44b"
+hash = "2478ef1bb161b1dbdf3591eeebd634396e32312820ed96643a0aed36f9d65284"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/lang/en_nz.json"
-hash = "e7e5493676e992907d35c5cce1839934905cd5515a5d4043d0e67c7b9902b44b"
+hash = "2478ef1bb161b1dbdf3591eeebd634396e32312820ed96643a0aed36f9d65284"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/lang/en_us.json"
-hash = "cd6aa5379880898451bd2203e4048919cec99c4375f1b33436da268cba7bc4d5"
+hash = "c246ec030a4e55a9b777106391ad47af6ff0e2cf05ab5efdbf77fcd3ca334eee"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/models/block/honey_block.json"
-hash = "588726b1792ae16b4fd9bade5ef4e8f8d75250273e283d2e425ff9bd0bbcdbc0"
+hash = "3e0aff17a8842e898f63686629207c58bca127d24f2502899abb3687bed2d933"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/textures/block/honey_block_bottom.png"
@@ -2142,11 +2142,11 @@ hash = "09376b452af0cf4c91b3f43335d80c3b1960fd700aeb4bc0b9e6cb0fdac86f38"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/silver_lining/polytone/particle_modifiers/slimecomb.json"
-hash = "95a2cccc4acf87f4512becbaf48c99a79317af40289f0c3c7665817bc26ca2c7"
+hash = "dbe546aef38c5fe4da9bb1ec64a0092bbfae8dcf8227b23acd458839980779ac"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/pack.mcmeta"
-hash = "31b40e797816c09b7b3d6eb854e8dd7f2fc43685caac7fb7691c90f78aa1f68c"
+hash = "a75e8230f0b753adc65f8e21eca8d694f0a18c12624e013f72e0c677049e379a"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/pack.png"
@@ -2154,559 +2154,559 @@ hash = "575580a59b0c1e2da2f80deb66cf64c4390e979147bcbcbda1092fb2a43145fd"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/bedrock.json"
-hash = "0e19d0a43ab662dab051d76677636f745128bd35c762f5c4b0bee87743ec00c6"
+hash = "b5bfb882369549d57e5c3335cd2503f85df960247a5fb831510126270a30798c"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/black_stained_glass_pane.json"
-hash = "0bd6b05218c6ceecfe1c0efcdc6985675311200dd094e9bbb15ce53ccc2197ba"
+hash = "5d87256f175a9b7132e45df8762117651747b94bc016750343c18b574024f604"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/blue_stained_glass_pane.json"
-hash = "1c14c07533a5dfd9be7ffc0ce46c45cb7831545d363aca4eaa69f15e20e2d017"
+hash = "de1e8207d0fee5f9f23c122e533f90aaf3543cbb255fd8b13b39ed77a1ef38d4"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/brown_stained_glass_pane.json"
-hash = "d2bd698f1cdabdef6f2a2584186277a75ac73db78f4ef18c9731b03aaa946954"
+hash = "b93b2ed64e57c17c8c89ae0a2fef1d979c33831d56907b8c32f219ef17d0a59a"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/cyan_stained_glass_pane.json"
-hash = "ca78319bd0ca7fe9eb3f54f7ad2350b0f6edd7f940f3bccd0aa557259f40b4d4"
+hash = "40e73dd3f050328df6941c438f0d8b1875329c3fa21d7b1a70083315be21532a"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/deepslate.json"
-hash = "9f03270dd931fb08aab819b9a7b626f3e7b0ec06aebf9b8665a3603fed8122ac"
+hash = "c57f126a4434cb04ccf921af354dbbbdaf245aeac476391a0aac91569a434192"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/dirt.json"
-hash = "8711bed9722ffc88b5d37f7243f0fd60ebfcff2f7fd311e7f6aadc02feabaafc"
+hash = "796d05314280fcdaae7d611d73762334a40b817da26774ee1f30935c08a6fc41"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/dirt_path.json"
-hash = "1abaa00f144994f84adfa7fbc08f1577cca64fff0b115e46f8b5f6898308f0c3"
+hash = "a9095c1732669b779fb2e24a504642582556928e570ee97b1ef22d449fa7c62e"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/glass_pane.json"
-hash = "7e7b2e681ae7d38fc7bf8cdc6f698e2e7ad05799f08124837cee453121de0fa1"
+hash = "14d75ebc30cddd5ec6fe77f582e885d40481b583adaf05581a7a9e0274063315"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/grass_block.json"
-hash = "83bb8a0b708c4a8f100764a20ad0a58d5e43fe03e82f18ce4fdd7f4776b77076"
+hash = "77cdcfe1723edbf04fe28a75ace6c60be682f0f9110acdd82b5b0b8139189145"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/gray_stained_glass_pane.json"
-hash = "b6be1bbcc3c19c690a97407fda26a7bb9627797c1fbb8830d18759e6380417a3"
+hash = "c2f8302ad7af6a12fccab14d73376c28339cb860d715e2ed6096e87a7e8adb31"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/green_stained_glass_pane.json"
-hash = "d99d6450b1f0d0b6af2ae882559a75899d001b348fb951d17beeec17827fddf3"
+hash = "ca7cda9546eecd36d9fcf45ebcc08d6f6e26735e7ee01b01dfcc0eda83af00e6"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/infested_deepslate.json"
-hash = "9f03270dd931fb08aab819b9a7b626f3e7b0ec06aebf9b8665a3603fed8122ac"
+hash = "c57f126a4434cb04ccf921af354dbbbdaf245aeac476391a0aac91569a434192"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/infested_stone.json"
-hash = "a42f3d1e99301f10218a45cc261c67c960a2c44b4f52beb0a0e8ea46ccd5b58e"
+hash = "80302abd75390d1ad9ee2ef1d93a6863788dd163b579f11b2645d49d3eea6bbc"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/iron_bars.json"
-hash = "718fae51b0bffae32f9eb2483c49975dc186e66fb2c9652b58ae0972b18bc7ea"
+hash = "dfb68f1e6ee2938867e95a6d6ff03179dead26655b209973ab408c5e90962a74"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/light_blue_stained_glass_pane.json"
-hash = "2ee1ebe3597b02c8059107f0754646db7e7ec84ce44b39b833ca6834ce98ec60"
+hash = "90feeda90cedc12cc418d7302be9a14b4bc7665c7aeebd52b6b464ed9b5af52a"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/light_gray_stained_glass_pane.json"
-hash = "40da3a1608c5f2f8849d2706751121e12de4f0925d0a59a736f687f6d0b711f0"
+hash = "953b8657127baf35e325b10d5cb74ec7fe4d53e094a95e31e833ace2bebaa146"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/lime_stained_glass_pane.json"
-hash = "4727d54aad9e715d0fb4ede6a4c91c72f914ab46fa5c5e608a5359bdbbc1f5fc"
+hash = "a17b082f0787a3d8f52cc9f803614f967aa9519ddaedf4942f14c4ff77ce94e2"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/magenta_stained_glass_pane.json"
-hash = "60294c00910cb3b2928cc672dc913c8a8ab5e9f51ffde62bfd56933ef63a7049"
+hash = "f7ae21d27497c5a629996963bef0ca4838581c0946bfc08ef81e57fdcc240084"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/mycelium.json"
-hash = "5521ad308f89171bb6d1c12360618e682bf8d4e32ab2db04cb05642e7be5b47b"
+hash = "caa66f712b23c4c6faaec2eda51d1bed71d309f490ed961b55253fb691e77e66"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/netherrack.json"
-hash = "32cc32e5fa2b56dfa4f6fb81049526405cdd87b0e6fccc3c7dbaa0fa9c75cb06"
+hash = "b4ad3aca0949466b99a846f2bbaad670825688fa34ce7e810b4d9de59f994753"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/orange_stained_glass_pane.json"
-hash = "499aa07e6bbfe1db550b79f89603c70efaae0dec9ad3fcdd61b243b21dde9b0d"
+hash = "e9a24fbd39c279ac2918d0bb5c8c2f31ba9ec380d456f346feb63d5a39dbbe06"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/pink_stained_glass_pane.json"
-hash = "39fb73a79b1c3ad8bdbd833e9cd2e0379c75a55cb081a269433fc0eeb495ff79"
+hash = "041f34959c8089bd1535b791e0aba8e0eed46783b08436f0af27c059fe0ea699"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/podzol.json"
-hash = "34ff5c4e186c43055a99168ebea0d6dace9cf83c08af5190d2eeb0bfe883817b"
+hash = "7c20630692fe7c44fede6b74af844bab0e9b8dd8fcabc3dfb0982dee9f9f05d8"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/purple_stained_glass_pane.json"
-hash = "1c1ce1a7f56e2dd254764570e6229ad57f8bfec1323abaf6ebda87dfd1db6f20"
+hash = "037179b0d5e0340699e462021b156dcab70be3d46129e9d0a39e825f298070db"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/red_sand.json"
-hash = "eae95333eb945b505167e45e962f4b3aa8a3b22ce817569bc79c85ec523ae593"
+hash = "ae10c705d64e355b3c1ca2f3ce9c3207274c5a10066d8b01b2577c67ee40e505"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/red_stained_glass_pane.json"
-hash = "c3f9d28481e47dac2f36c2843b968039e88db462dee467762b3ab19e2172849a"
+hash = "60ae058f43ff47236985c69d55f79c62165c4e52a8b5b9c2b6d468553b020371"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/sand.json"
-hash = "2e6566a59fcc17039046b9d6751d8540d76dce573dd954c89aad94d6c306a757"
+hash = "1fbfbddf84551c454aaf9ae645def9542e5e7a2c81ea931aa60a4d276ef41bec"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/sculk.json"
-hash = "f021d46960c00f6fc1a92a69e57c806688f46089a8befee21fc35996f7369d38"
+hash = "eac89d897b8a00e28ddd5ba16ba5f3bae1e26d7231b6f47f4c524c95aa7789a8"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/stone.json"
-hash = "a42f3d1e99301f10218a45cc261c67c960a2c44b4f52beb0a0e8ea46ccd5b58e"
+hash = "80302abd75390d1ad9ee2ef1d93a6863788dd163b579f11b2645d49d3eea6bbc"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/white_stained_glass_pane.json"
-hash = "c43be1a17b6483a2cca587c0d0ce89585367e90e37040620102564d11025739e"
+hash = "ae35ac891193ff2a5a5c43e4cb96c92face08ea45f9c0f313f0edd58ec2171da"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/yellow_stained_glass_pane.json"
-hash = "f52ab8a1606e2155adcca4ba1b1f36ff55dcc83109ea51767f2e049f963a6b0b"
+hash = "d3e445aa6f7612e8c032ea559400b6d0d55993e87a3103ad1c55d059ea7810f6"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/lang/en_au.json"
-hash = "78c98766066a97238c27d2e72b1dc4e121f561d8c01272f0a103c07a430b68d8"
+hash = "b367ce9f6ad864f2aebefec459bb6e682759a326ddb86cbe2d7facd288d209de"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/lang/en_ca.json"
-hash = "78c98766066a97238c27d2e72b1dc4e121f561d8c01272f0a103c07a430b68d8"
+hash = "b367ce9f6ad864f2aebefec459bb6e682759a326ddb86cbe2d7facd288d209de"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/lang/en_gb.json"
-hash = "78c98766066a97238c27d2e72b1dc4e121f561d8c01272f0a103c07a430b68d8"
+hash = "b367ce9f6ad864f2aebefec459bb6e682759a326ddb86cbe2d7facd288d209de"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/lang/en_nz.json"
-hash = "78c98766066a97238c27d2e72b1dc4e121f561d8c01272f0a103c07a430b68d8"
+hash = "b367ce9f6ad864f2aebefec459bb6e682759a326ddb86cbe2d7facd288d209de"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/lang/en_ud.json"
-hash = "78c98766066a97238c27d2e72b1dc4e121f561d8c01272f0a103c07a430b68d8"
+hash = "b367ce9f6ad864f2aebefec459bb6e682759a326ddb86cbe2d7facd288d209de"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/lang/en_us.json"
-hash = "78c98766066a97238c27d2e72b1dc4e121f561d8c01272f0a103c07a430b68d8"
+hash = "b367ce9f6ad864f2aebefec459bb6e682759a326ddb86cbe2d7facd288d209de"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/black_stained_glass_pane_noside.json"
-hash = "0418fa632c2fea2e2f797b136939773393097bd70ba9df89a412a6ea24c3b2f7"
+hash = "3215539baa65bb1707403e4d3ee48f7876fe26f0fed4c74d802318f224992265"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/black_stained_glass_pane_noside_alt.json"
-hash = "7d1ac081d288c96f6afb4df4d0d907878454203a73b33fcbd086272009f7df3a"
+hash = "7098c07f4f3c61509ad615d512dbd0239c875afbba3de156a6a3710fa4cc8a56"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/black_stained_glass_pane_post.json"
-hash = "b0e5a81c1954e81acbac958d134210af817267ab2f592290b124a1879895e6e4"
+hash = "494b43530c08594732467aceaf0564f11b8c14ce1cfca763df3ae9c8def5b24f"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/black_stained_glass_pane_side.json"
-hash = "0998713d3c6a308372107502b93cbce5532591e2dcec625afa0519fd7224123b"
+hash = "45a81e1d54b599dece21bda60900de54e39ef0c7c56d42e23820585eb3f6a2fc"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/black_stained_glass_pane_side_alt.json"
-hash = "31af72c07b7e688d4ec6858435e8d9ee08dd091940a96bbe5a811cc73e12b622"
+hash = "54dfebe0ae6770bae62ddabbf70055779362c873a50cd71dc7bef5ceef46a2fa"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/blue_stained_glass_pane_noside.json"
-hash = "a803326523578e58bbebfeb6e6ca75fe775a074defd89406d4db64f939b705a0"
+hash = "ee999faf84aeaea4eace94a142fd6c3ab176fc69306bf23529dd08c5f5591743"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/blue_stained_glass_pane_noside_alt.json"
-hash = "811605b91b9fda3ae0dc69f16e3d48436de28b13b26ce26bf6ad0c0a62a75448"
+hash = "abb52679f3deac5e286a559a41b7a375a377e381d2d1ba8a87829f8c3ccd28be"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/blue_stained_glass_pane_post.json"
-hash = "0d4aee35ac20fd7959f8a83fbf1c19d3e759a9a397f81f9b0ae3bc99ae5c5ed8"
+hash = "f64b03203cab822a0c2ba585c6b0503bc3ff8702d8f604408edb23ccd025b899"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/blue_stained_glass_pane_side.json"
-hash = "bb3468ef826120de7e65a4570911b5fe589e35f8bc6e97f932f3aab5ec7a0d88"
+hash = "8caa9021abfcee2d9fafbd442900a3dc48453eb5f6b89bc2a5f2e6ef977d4a66"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/blue_stained_glass_pane_side_alt.json"
-hash = "40bd84bf72a5fb1232b8d9e746d774fa20a9217fd10ca23aceb121762b6d3d8b"
+hash = "9c6dc9ead36d32d5a31ec8e1e7e1176b5809370a5d7d15b36423d10c9f298a02"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/brown_stained_glass_pane_noside.json"
-hash = "a9e7537ce3eee808087f169aac981fe678039479106074da58c02549e86fd841"
+hash = "6d554e14bd2525d29c1093cb3ba70ee2d3cdee7a8923d34917d3f79f8c94517c"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/brown_stained_glass_pane_noside_alt.json"
-hash = "a3de2200f439333ef8fc65b7c373701160bf5cbbffa40e2de4cabecf2adc1ca2"
+hash = "5dfe2261e5acb607a1f3627aecce64e277592382318b55c47e0a2645aea9a0ee"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/brown_stained_glass_pane_post.json"
-hash = "08803fd0d648da24040ed3b71ee07f465fe26147af0d9b0c9026e68587eae94d"
+hash = "e092181e2eef43d829071ef487c571788c0102f952e035b82dd316ee7b2dba19"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/brown_stained_glass_pane_side.json"
-hash = "0b2e7a8cd9cf02deecde7ac1dfc1bbebd34c4f1cd1fac3f1c97010a1746e3cb2"
+hash = "c978b4ac33578e9fc008b61b3506ec00bb88bb9799c8b0b547f5d3ac6a1d2e03"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/brown_stained_glass_pane_side_alt.json"
-hash = "16c2e4a01804f94a404a86518ecd2b22618cedbb753be45782ad7fecbe69ab53"
+hash = "8983e188eb6e2eb8698618e373d6fef6374b55d70d3debbefddbc21f41388c45"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/cherry_leaves.json"
-hash = "e6134c9ad7b4075c6fac3ad1fb5ce03f31d638980ae7d919e8ead29d0509cd64"
+hash = "3b6125bca0ebba2c341bb210bc20eac90ffc07d3288588724ca10dee2086499e"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/cyan_stained_glass_pane_noside.json"
-hash = "9e037cc3ca4f1bbec5cfa2f1a49ef650dd0cab2c13dfc8fb01e738f7be907699"
+hash = "1806954ea5e30914f72f3e5e6dd9a7d6b789577dd9dbe93cc7eab5d79475f378"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/cyan_stained_glass_pane_noside_alt.json"
-hash = "340cc1b28e26260f50969d40c0aef40663227b4f8138e98bede64d4a1f594c3e"
+hash = "8af6fe14b996ea6d112f530c9c448158ad84601cecc362ea341964d3cd8183a1"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/cyan_stained_glass_pane_post.json"
-hash = "d924836af5bdc9ab46cf2e92b72c91fe9bace678f29f28b3611cb1fb115280ed"
+hash = "bc31f48e1c4265df4a39b1c96eb7a9acaf2db9a006db533945ed55a15add0fc5"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/cyan_stained_glass_pane_side.json"
-hash = "6ab6931a5b9f92601cd8edb20a02f836a77e5573cfbbe3c32ad977e5c52d6d59"
+hash = "2bc077e5e7c1f826489c15115f422d0974fa851099c8078ea6c48df46d4526f7"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/cyan_stained_glass_pane_side_alt.json"
-hash = "6ba060f3958d19aa8968e43d9b669c671b5376e95382543ab40d1493d018bc9b"
+hash = "00b935a7dd3d35e9dee3455ca64affe615ef4581de5c95e58152b1c220ae3054"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/glass_pane_noside.json"
-hash = "99f8a258a5553283d803ee63fba903243284a1ef891b316411cb8acba9e6fa4c"
+hash = "14a51c01dc425982c3ea52d710c955e15bfa6e20790698b9aff8a856874cc543"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/glass_pane_noside_alt.json"
-hash = "20e83e4047d18fba0a3f7faefc73d218471d94890398895b6fb8d28575be406f"
+hash = "afd078035023527c6b0fad8e1a7014d7792d429c4bd5d89ea8dce928f0e3a98a"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/glass_pane_post.json"
-hash = "0b4d99c409cb5551abfaeb668639b06778f8f3b6ab5d353d79bea99608871e05"
+hash = "3e0a4bc887bab3863f554b92053b95ac9d647d179cbf466bae034ebbad12daf7"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/glass_pane_side.json"
-hash = "8f6d95c7798dc7f7774e0bc843272ac49d8fb36257cf744c603091c19c1a2333"
+hash = "603476b699acbb1441d395cb8a93758b3cc06b6b16f580a3110975f76b41c266"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/glass_pane_side_alt.json"
-hash = "1c11e626c2a2562bc7eb6175321d8e350c9265354766c7a7beb8b21d18c78d9c"
+hash = "f5a7c6b2f0a5b3327fc6ff7f61717697b404dcecddb9bf4a42b7ecb7295b2ef7"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/gray_stained_glass_pane_noside.json"
-hash = "5a6d8fda701c40b2fa8edec471c47f0df3191f551988254b09b81a47390cee08"
+hash = "4f848376940fe286a0f83951882ecc25130d1b23431c78188a16f216013d0833"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/gray_stained_glass_pane_noside_alt.json"
-hash = "5b9202b87806964ac77086862463615f96afdf5b4f0768ebc90814f0ea228c75"
+hash = "4be15bdb524583463598c69d8c9a71c032a97557973e5db4c018cd196eee7aa1"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/gray_stained_glass_pane_post.json"
-hash = "46e13e453f9bb218f3dd2d825eecdff144584766ce66c7a3a42023394d7d2c1e"
+hash = "02a34ac89fc847473ed1f85b353d59c846d8c88cd062160b77e6479f1179e492"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/gray_stained_glass_pane_side.json"
-hash = "90ede6bd072e3a9a35f4abf20cd7fd4d3dfaaca936363d88953c013206e05314"
+hash = "847aa13247c91ee240ae4ce40c42382b2b5073d327ef1d1ebc322c8da3d8fc0d"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/gray_stained_glass_pane_side_alt.json"
-hash = "bd9df23e621a55201a9f209ec2f4fc24f3d7737c15a9c5d868ed0304eb91070d"
+hash = "df2a5b87e57168c7b3bf26aaba37d7b968aef0835ac18f68e14634f65625a5a6"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/green_stained_glass_pane_noside.json"
-hash = "1fa85056aa77266cff60d1b8f32e0ec148e0d2b75befb10025c516744a72ad28"
+hash = "25ae49027e2c0afe5ba9474dbdc8f6b7e7675456058385d5623874d3dca34723"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/green_stained_glass_pane_noside_alt.json"
-hash = "7a58e942dba5252b69c272c52499294aec6d62214f63dcd62839659ad77caedc"
+hash = "9eafdf53735f002df0334426533fa0b96404b9fec5c392d72407bfaee9518d0a"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/green_stained_glass_pane_post.json"
-hash = "d7a9895fb4a64a971c1f161b7d4f307a9c97404fce0bb84992f42146fe4f744d"
+hash = "97bd870b0fcffbb78ea4aba6eeb92b4e835877a2c50363b9301f369e8aed1d20"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/green_stained_glass_pane_side.json"
-hash = "8a8a7eb04df5a6f34f59ca81b2185dfc0f3ec9b4f741183f771cc130f473ad1f"
+hash = "7f04c4b3ab367daf75db8e7e1d46f98f87ebbfcc2d81a3a0a976f348035a0d5f"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/green_stained_glass_pane_side_alt.json"
-hash = "dac9367eaeead7f5d60bcb98d35363d25d1685c728e54861a3fef9c3e5507bfd"
+hash = "78ce4b7cefa7d858a5bfeaae27d33f07480c48f5effc7a6d63ca61b630f5ba3c"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/iron_bars_noside.json"
-hash = "4d98c1372f7d48f107f57a4c486eb0b8c257306fc4fc017fcf2f3d435798aff9"
+hash = "5aaf66d19e05b4046f7b7f3dc51ed572bbc0ad935892d8ea90f8d9b258f056a5"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/iron_bars_noside_alt.json"
-hash = "f5a9a7998394f34e0736bf535538e359c1e88e11d6b89163708dca0bb08c57e0"
+hash = "1cd0f302fc0fb4f75256be1d51a2447b5df992426bad6b84fddc507471046c96"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/iron_bars_post.json"
-hash = "e067c9005df0b76ffae94b831e20b4dd8bca023dbaf5ce0aa12533bf17a4ce5b"
+hash = "7c92a8358b6a649f2ebddb0cf1fca57c20944974b945832d3a22bfbfecd43e5a"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/iron_bars_side.json"
-hash = "f47fcebbc4f27735507fe06655d3c2b9642395fb4edb0f0ab3b8ec81cafa81f3"
+hash = "211ffd34df98d2fee3f3ab441b216355f8b8be9070203d5bcac4e48ff4b66991"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/iron_bars_side_alt.json"
-hash = "0407a8170c8795982bd03fee71cc6bc4204f2d5780f954413ee3d03142833924"
+hash = "2de421c59316c788dc56cc9b6a9f00b9dfb8555ecff308ae673df73ac3514fa7"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/light_blue_stained_glass_pane_noside.json"
-hash = "41a93bee47f3ba895c546bfecc2e0dc00f75feeda0f3bd048e89de26b43d0af9"
+hash = "57bcbc35cc5e9d78b23524e92c4709f51512daafa07f0b19b4c7949d85e9fc7a"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/light_blue_stained_glass_pane_noside_alt.json"
-hash = "76a28de5ab19b0d7d0f46af87b10b01511be4903a64dae8b0b14f0227b3bad07"
+hash = "d4421a15b4393c4db0d55ac3c6c7367725f60d7e14372a48b7e60e45ae793bc3"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/light_blue_stained_glass_pane_post.json"
-hash = "6eb27e517bbef1c0e73fad92ff57b0a2b5dd8a8dde1df7e12ae1d6f34cc793bc"
+hash = "b0ed1874b65b25e14c3f0953644bb43ba1a2f595619f1cae5c11add751ca7150"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/light_blue_stained_glass_pane_side.json"
-hash = "87a43bd210acf8212b7a4dbab67cc237c1de288751146d759dc47fa776e70def"
+hash = "edca78776fdb1d0418dfaca97b53e9fe435b8c1294011468c3760b20ea703169"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/light_blue_stained_glass_pane_side_alt.json"
-hash = "ac11b59719d1327271334a493c852bca503e271171b458de7fc4eb845d4a5082"
+hash = "f49917fe6f31fbb7d4141a734ce36a77afbc827908211336b89be62069974b1e"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/light_gray_stained_glass_pane_noside.json"
-hash = "e6558456a23cc44f3e1385f40e27b52b00d6ed8d3ab791ef2a722a2c4c0ab794"
+hash = "342b0059cc03f2057ac74c03c9b6a3560596c62cd4486e57f898c34878a38735"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/light_gray_stained_glass_pane_noside_alt.json"
-hash = "2fc32cfbc18840d492abe51317227ad451b794104b883137a4c70c73dca855f0"
+hash = "934a2678cc5fc40ee56bf1f2d3f0958011dd66e4b4f49c9b48741c7b34d912ef"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/light_gray_stained_glass_pane_post.json"
-hash = "6c69aca17c2b29002dec417377106557a82af6076c6e9b37e024fdb53fb6af77"
+hash = "043447c21973d1859f5a129974d272ca2c575bcdc580b56d209fea2ec9f56569"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/light_gray_stained_glass_pane_side.json"
-hash = "77b6ab24d1c9225a7eb7c9a43ebe5fb00b1ae7c815bf5f81064bb5683ebe269c"
+hash = "aabdaa93f757271b9257e1f3db1e8fcd725235b49f2b68946116a705d1931ceb"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/light_gray_stained_glass_pane_side_alt.json"
-hash = "13f05cbee008e77283ed14b7e0840a31192c9f42c508b315602cbcd9e5569d05"
+hash = "c88aa7b17f84f288fa0af3581ce72858ad365b974990bd419a68a792244abaf8"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/lime_stained_glass_pane_noside.json"
-hash = "3828ac2514f602eb1a7e33016fd56c948929286e3f3f8d9fcab43f6c71178360"
+hash = "2107ee8c57c0732323601ed37ce31b108a309c6bf9aa28f47d0195bd783dd3ff"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/lime_stained_glass_pane_noside_alt.json"
-hash = "46683d8fa7ec7cea1095ed83e62e64cae5f25e6be346bc7fa78022df8a00c584"
+hash = "b91bf33319dfd227a13e975f80935ba3e5dcf93dd136597eafc582531c60f453"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/lime_stained_glass_pane_post.json"
-hash = "ccb9c9fa2e696140721fcba43bdebd949c9cb1f9646f59e3d126c8e10e3a656b"
+hash = "434c9cc0af7819c76894f33ac80ddcb8201eb68364493572c8a0c49f4a13e3e8"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/lime_stained_glass_pane_side.json"
-hash = "fbf8cc0ba23860a9ec295c102fecaadd436681b39810d94118e6e101478b2c52"
+hash = "e1dd82dbec6f985c6619b7f099ebc5769f7b01d566855cfdc6162ae5d16747af"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/lime_stained_glass_pane_side_alt.json"
-hash = "6910d85216795e8b231a3ff442945817a7c31a1d4de8f31e4b69cad94e64dc97"
+hash = "1589104469012a1d4e75b98cf38e65ea6120e774d63fe6d4ef3dbca962f17722"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/magenta_stained_glass_pane_noside.json"
-hash = "d2daeb557d2ea3981aec46d30d59bc15fc6b3b3978c916d2e4c103e9b92c5e40"
+hash = "00ec2a7b2a2b4eb2067c603bbfe51c25079a5c52a416085613c39fdd941fe49d"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/magenta_stained_glass_pane_noside_alt.json"
-hash = "15d305810fb3e70589a465836fbde0b75b4c47816c398ef72cdb4d2fd934e814"
+hash = "b0d3aeb7464082b767602af6fe893573ba8b3f414752539ca0060dddfbe972d7"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/magenta_stained_glass_pane_post.json"
-hash = "801cbb273c2cb336ac1873e097724b1cab4ac48c2887a01ebeef4aa7bf94376d"
+hash = "2837db543de3172b130e55c158dddb3bf01339e84bc7200562698fbdeed5ed18"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/magenta_stained_glass_pane_side.json"
-hash = "2000eb66c1824a40b4e91c5e1ba0f2ce102c473c1ae8037ee2d354cee0073bd2"
+hash = "41d1e11bf10ffd23ef6e5d5519c193c1385fb3d6512693e4a425b6a265d88e54"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/magenta_stained_glass_pane_side_alt.json"
-hash = "62c4c89a4d56a9b3d478f452ffdfc7fb14efa283050f16bb13b89dc7c98eb75b"
+hash = "30ba845c570b6c782ad71bb7aeb1fdd5a43ca31d3da38121c7237b9cc91d5585"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/orange_stained_glass_pane_noside.json"
-hash = "a7711acdf1a82f72bc386c6136e3f47015bf1648f8f1aa7e9df129662eb8469a"
+hash = "6b9e94ce0d3805e2e3e57d6eaf7871d965adda3fa21ed1328959348e654d3541"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/orange_stained_glass_pane_noside_alt.json"
-hash = "d625ba2d107b2b254d520e24abc10cbd77e61da7c1fc028cc9502a3b5949aaf0"
+hash = "b3224df1d93d72857c5cf3711e7ee6a96400e2131930401e457d251ce1a2a82c"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/orange_stained_glass_pane_post.json"
-hash = "e4d236f5107f20d6846c6413e14609be6f4b2ed4bd15b931dd50442462ddfc31"
+hash = "d3dcde6ae44bef3e09f4cb1b029fc1a2c4feb05f5de56db1297e207caac52f73"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/orange_stained_glass_pane_side.json"
-hash = "0ced60608c9ea5be63c93dc3dd0283c6ab320d790f2c3def880b84098d623635"
+hash = "350314d7e6cd8c310c758e6153583b502c5b14376372b77157cf171594a8ac6c"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/orange_stained_glass_pane_side_alt.json"
-hash = "8b31ce73963b20a24e891e0879de752990571482aa4bf2648df9ec9d8e113379"
+hash = "30e054a49d59860abc9a57076c8fc19bc20af2991101571e4963cb6efaceda6e"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/pink_stained_glass_pane_noside.json"
-hash = "dc33420d2b69fdeadcceaa1a50307eeffa91fc6d677d12a78a30cff9d3b97047"
+hash = "4847dc0553de8e9505a4ae4fcc00c24d4a721e2d9d36c7e0c05ea41babb143b5"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/pink_stained_glass_pane_noside_alt.json"
-hash = "abead6a1ceb85a7b00edb8fa3599d07a6c9369e0a7a3a449d085bd397756d06f"
+hash = "765b5852e7c9b5ff35ec373892d7573bc99c3334a47268d2fc93520dd51f90a9"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/pink_stained_glass_pane_post.json"
-hash = "7bb1ddb70c9e12e772ec67f140e3b9e04f43eca511dbe779f1a58f3f99c00ef2"
+hash = "488d84a31a1c1996a7cc2a3193ba662eca6c99ec2b4571957ff87e283483f296"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/pink_stained_glass_pane_side.json"
-hash = "bdadf6ffcdcb54a980b9c8148131df85c59d761693b20a7690a3a394eb31c412"
+hash = "628a04ddff4e25eed1f8dee5396f8338a5489f03c7c83df4288bd394a2a1c4d6"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/pink_stained_glass_pane_side_alt.json"
-hash = "ffe0ffed2c2b5a35cf2eaad7fcce03199a982465d7867dc5b2768f1b8248f516"
+hash = "7ee955e49383148863fe38e5fa91271cf84e2a72f215402fc002d1d694117b67"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/purple_stained_glass_pane_noside.json"
-hash = "bdf907b52710b0dc6b020b5ef3ad906b0f99a07d5ba150e032082abf218d9a6b"
+hash = "f0b05ac4ab318d452cfb60ec908b74a7988a646ef991e6ead8ed9da7afe699e0"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/purple_stained_glass_pane_noside_alt.json"
-hash = "1328482df184968738c7c4d46ed0d3e3e9ccacc26d340a8d49e2ea56678cc76a"
+hash = "61ab71a27da1dd988799ceb738421b1b6f9c95a280731fd40885cf9cc3b6211f"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/purple_stained_glass_pane_post.json"
-hash = "8641485449b0df67e714e7d29c2d42eda05b9f30deff14e7c8ecda149c9f7e26"
+hash = "c8825841bcccb231029caf28374196aff632f443309538c8dc778f98ba89064c"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/purple_stained_glass_pane_side.json"
-hash = "3e213c10b706d58bed57dc36fe7d6825c5376aeaa6609ffc81d759f417e62fe3"
+hash = "3cbe4ca2e9a722009a8a5c09b1db190d3aceca1d920c36f508b819324eff4e30"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/purple_stained_glass_pane_side_alt.json"
-hash = "efc54905af1643c3832231d2fe0107557e9ddb696b272f0947ce64778111434c"
+hash = "1ad163033dc3c4f18091e83b1e8c62eaf8a866a5889bd845143e2fa7c4dba7ed"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/red_stained_glass_pane_noside.json"
-hash = "e40ea74bf948cafcc1c22c709658b775251f9eb73f3eab687a616f29ccf2ce74"
+hash = "0d6417d39a4ace4e49241f527b8a83eac579d519360ca62a2eab4a8c842c8f59"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/red_stained_glass_pane_noside_alt.json"
-hash = "8fe15f8db57a85efe04e3115a679f3a36ac729f28e203287fdc67c55bb9056a3"
+hash = "b1f378e58cb8d73341fa2fb8dc0539078d73c18c677b3430403d328495e25403"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/red_stained_glass_pane_post.json"
-hash = "aebbc9e513ffd93e20a7a9a379545039ceb9dbf515c9314b81604a551f018add"
+hash = "a8bd2b615112cc4a39f57cf0ea076232bac81a4a350abe487c4a361b1204652b"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/red_stained_glass_pane_side.json"
-hash = "e38149dac5d41d18da606a7f80cf9815bbf59dc2cb933020657cdc3cbc49053b"
+hash = "c673de876e2f740ffa55d8bf081ee714abf704faf9fce5b1f107ba801fd72328"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/red_stained_glass_pane_side_alt.json"
-hash = "0afbabfd37c9084fa3d36f1d1d86ba5295aac2f768c89a3eeb37b26ab567e0bc"
+hash = "95797a53cbb78fdc7744120be089c4e53a68bc6b740178eaab81f8746056e4c2"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/sugar_cane.json"
-hash = "66e755e46dd8af8c2c08d04db2ed9b5ae0c6859f5a94c2e90af3ae49c42e8d28"
+hash = "33605b39259e17835077dcf60606123f425d7ea60dc290d76167fe872d96e79e"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/template_glass_pane_noside.json"
-hash = "0557cb699a1aea7647e828347b5f1ebe64dc3ea4018d2cbf5d406410aa9bf09f"
+hash = "8cdf1f3a3466324f455fbedfeece927956c6fd79c312f8dbf593bdf5e67a459b"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/template_glass_pane_noside_alt.json"
-hash = "04e6295045c67a7aede85e4c95d226add3e7c3d8e2193de4b3dc7b7c172dfe99"
+hash = "f540ba710974c9eb13e156cb957fe74f01016cf46d5b65ee63eaf9765810b955"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/template_glass_pane_post.json"
-hash = "caf7e13e2c530b652ab7d80bb210f389ee690926b0a27ec1aa0f577e701255cd"
+hash = "cdbb8442a15f3e3bed579e0beeebf82ff188310d8fcfce0e4b7b081abcef1b91"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/template_glass_pane_side.json"
-hash = "84db27a90d6b5316015ca983d86b0b5857800b60d7051a081dcbd53cdb24e39f"
+hash = "11ca599cea78b894760b8f66416b9a49ddf8377cd532396df923856f84d9e469"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/template_glass_pane_side_alt.json"
-hash = "ad8731760e727b66d35d0c5b74168272813e1d11f8f97090deeccdaf7e4fc47c"
+hash = "33df864b6e0dd5a05e47462f589e4ac8acaae123d3418cf9e5bbe83321221aef"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/white_stained_glass_pane_noside.json"
-hash = "2f1d45e4a0f693343e5a4de58b486725f0d5d9baf9906a92cc9784f3bc320671"
+hash = "475b7f135babee8a198c60d18586ac66106e88b86adcd086c110610b3211ccde"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/white_stained_glass_pane_noside_alt.json"
-hash = "6fed143c7a6cba33e77a511c1acf0622dbc031ce6248e3a74ce71c5b5874bc89"
+hash = "718e18ab249af1859d8f77b04b863741bd5dbe0f1d7c2a7273eba3763a76920a"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/white_stained_glass_pane_post.json"
-hash = "a75545298d7bc002c6816e45f1007cee35be9e493e117f9080c6e265c7b255c7"
+hash = "eb406a2f55abca6fb65c8c981b7b193931d152d1ac0f74c5f739d7a3dafaf583"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/white_stained_glass_pane_side.json"
-hash = "6a97c5a8726e93a36a4e14b64831e0d85c30789227f0ad476b9af1917085bcf1"
+hash = "e3f3353581c83c291449e92e540ba613510dc7869cc6725a0e141d70bcc3ccef"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/white_stained_glass_pane_side_alt.json"
-hash = "7934b289e62c65bdc04c2795d9711b78730c01bdc934f140de64d2064b61fa0b"
+hash = "2a2425eea44dc8a59253de4db81f11e84aa4484238bf1b6f16c7fe86f4567182"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/yellow_stained_glass_pane_noside.json"
-hash = "65d4adb9120eaebc7ce166f4ee62d432b038589a6046acfae9914514422054a2"
+hash = "00c92944f4db07e29de1a73cbc3370d905e01a6350cc2e2742106385f129e388"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/yellow_stained_glass_pane_noside_alt.json"
-hash = "344e5b53b21d3e0a03ef3b313c5ae190b047ab8d35a4a68f828c13ccbda05956"
+hash = "7c77bdcfd90e2adca59adabc3106ba8c6209fc8362582cfb3bb0cc58ef16295f"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/yellow_stained_glass_pane_post.json"
-hash = "b275620a57102684c233a5f3bb7ed56c8ff855676069eeb569a81a8e340b9d90"
+hash = "703fcc93b4949046c7d1ca071af56999d1a5cdbecfe4a4f0c58c4e7a6e7c6bee"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/yellow_stained_glass_pane_side.json"
-hash = "5df37ae6d01eb8cf3b1cc6174ae9899db501aa44b24d5d7488d6c49d772bc84d"
+hash = "c883b8873cf441a587c40d9c974759aa6f5f4d41ec1c348785a7b922f8bbf21d"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/yellow_stained_glass_pane_side_alt.json"
-hash = "9f6ba353f20af2907ac9bf5dd07b3119a17555ad20e69abe79665f1982414edc"
+hash = "f207042700cfb606b60f07db22bb02f4b7c313ca257a7179fcfcef70d9c2ce73"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/item/glass_pane.json"
-hash = "8199780e0ea77eef728d016e21db86a00c3e9908854da54a913a350b38fe758d"
+hash = "809cbe813c891b17d8f5f9a93679ecbd029cccef2ca0f768dd31ded68811bb21"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/item/iron_bars.json"
-hash = "ce83fb225c460919b813ece0cecaebbb56edca8b96dbde00484b89498ee4a9db"
+hash = "b7d4175e182ad20184d97645822dcd3b532bd1bf00984c188931924e6b36a5b2"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/panepain.py"
-hash = "2265948c419bfedd638ce2629a3aac0494f79bca0f3a5cc8835e5c2275f91160"
+hash = "25ed2984c632298aaf6c5519b737f1ae780ccaa4df8131f634192fa15b893940"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/sounds.json"
-hash = "7aac9ca043bbc5db167ab980d58ac3978b071ce159e34cea9d5f596d1746f457"
+hash = "a098aa93c3ae9d81cc76736f411b4e5d0364ec3232c7c8d4a837eea3923616f7"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/sounds/entity/player/attack/sweep1.ogg"
@@ -2762,7 +2762,7 @@ hash = "ec1c66fe517471a59e850c21c9ab04aa5d4c5cab4c2882580f61482b22e61acc"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/block/lava_flow.png.mcmeta"
-hash = "802acdb8f55f30146d5ed18414b21ba35650d4e550f81825ea104131c12dc4fc"
+hash = "4a5dad045d1c6172b28dca8eda5ee036ecf966137cda30c64770bf48689c92d4"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/block/lava_still.png"
@@ -2770,7 +2770,7 @@ hash = "a08110e8aed6ef4c4d7babe8a35600ef15a01f4d8b66831869072a986b6dd8e7"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/block/lava_still.png.mcmeta"
-hash = "802acdb8f55f30146d5ed18414b21ba35650d4e550f81825ea104131c12dc4fc"
+hash = "4a5dad045d1c6172b28dca8eda5ee036ecf966137cda30c64770bf48689c92d4"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/block/orange_tulip.png"
@@ -2806,7 +2806,7 @@ hash = "400376bf32fb49a3587f67d9d1d9bd33c50054eb7bc3a2ab25cbe576d3fb36c8"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/block/water_flow.png.mcmeta"
-hash = "802acdb8f55f30146d5ed18414b21ba35650d4e550f81825ea104131c12dc4fc"
+hash = "4a5dad045d1c6172b28dca8eda5ee036ecf966137cda30c64770bf48689c92d4"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/block/water_overlay.png"
@@ -2814,7 +2814,7 @@ hash = "88e22ede4f1fe553db0b507b1c50e5cd45ddc9b15b43610476dfc5e0c3f480b3"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/block/water_overlay.png.mcmeta"
-hash = "3f03bc3c7581277ee6a85d91276cc795c189e73ee234148eaf4bedcd96588c30"
+hash = "ded717f14aa8f096f3328261b1e6ff37631a4fcbbb0edaa25076ee89424b8c36"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/block/water_still.png"
@@ -2822,7 +2822,7 @@ hash = "4a50e74a64231a691489d3927af9502f80d70c17bb1b49c9e13fdc78b6301106"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/block/water_still.png.mcmeta"
-hash = "802acdb8f55f30146d5ed18414b21ba35650d4e550f81825ea104131c12dc4fc"
+hash = "4a5dad045d1c6172b28dca8eda5ee036ecf966137cda30c64770bf48689c92d4"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/block/white_tulip.png"
@@ -2834,7 +2834,7 @@ hash = "11b77263a0d2cdb253895bb98c14849efc01cbaf41201cfe0ca5c1995e57d42d"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/gui/sprites/container/bundle/background.png.mcmeta"
-hash = "1d490688369c1bd7b79fcd6b38e9f8af3ac5d88abe226624c0e27569030c52f5"
+hash = "bd08311fe2ca8d7842cafb0acfb4e162ceed373272e6849e6432a5c1ada71073"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/gui/sprites/container/bundle/blocked_slot.png"
@@ -3078,31 +3078,31 @@ hash = "66871172fc723563d5086758110b2e637ab151d8b1c4b61ba69c133888dd3da3"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/silver_lining/polytone/biome_modifiers/swamp_water.json"
-hash = "e6338817feb9dca27b00dcfce23eda81b87dc8736f2669d48b01e1073ed4ce91"
+hash = "ea0bc24916092894d94a42936589e1318ba8151fbe6bed5f6c9c014621432b4e"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/silver_lining/polytone/biome_modifiers/uniform_nether_fog.json"
-hash = "4c2cbfc20ce85ea1ba276c4aef3344ddc0566c814c47f03782759074b535c5fd"
+hash = "21182904fc28f4db066e15c34d356aee2cf9ba8f50c56bf3e7f6918b8ee9c874"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/silver_lining/polytone/biome_modifiers/untinted_water.json"
-hash = "c521c37177c3362455159afc73a8a69ab98c5ddc787c21c82e6f6891d66bb8cf"
+hash = "891f629e2d41e8ad1a57226607344b4f2f59381e17d4db8aaf082eed5ad64b96"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/models/block/dead_grass.json"
-hash = "64acc338087a2cbdd40b500a828a8f9da761f7be92f860fe4afce3a26fcd591c"
+hash = "9c6ff09b5f3d02ce39c85663bd01ab0d7f03dd8bc256579a6225c7908a59729d"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/models/block/sakura_leaves.json"
-hash = "e0890d9d78d68350ceb6c6a9c8b7cf30f5078a2eb16dd735bfe6a0b1b4161bb1"
+hash = "ed22389a1359e5f8eebfb13df2531609260c4a1bb7d2f48c9b96ef548b8b01ce"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/models/item/dead_grass.json"
-hash = "e3d8325b4be4902cd690f5974425aaa1b8526ad1888d0b42046f7301d397894a"
+hash = "e5cb1f7c26da937f5e873bd7c4ffc6189ddb295a7091495fd2bfafb38f1a9daf"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/pack.mcmeta"
-hash = "33ce4295b5f863c1809b709bcd54cb34b3d686ccb0eb0f6c6b844c8905b5081a"
+hash = "da90aab8245a4b1f0a899fd807cc2528b3d82856d8544d1d48a5e64c485beecc"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/pack.png"
@@ -3142,7 +3142,7 @@ hash = "b75ccc24ddb7fdd8e91f16a568885abd88b00876e9ffe40578d1cf0ce6d7371d"
 
 [[files]]
 file = "configureddefaults/config/enhanced_bes.properties"
-hash = "6ef9e4a1132e7aeab97f6829893124078b95be3c9a5b247754c2ccc9deb423ce"
+hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
 
 [[files]]
 file = "configureddefaults/config/entityculling.json"
@@ -3166,7 +3166,7 @@ hash = "4b404c16b82563e05e0cc8dc1218eb6194b2aa4473f348ff0c0c7a8655d9b5ff"
 
 [[files]]
 file = "configureddefaults/config/moderner_beta.json"
-hash = "a25837201289812a72ad0442548bbb8b3c5f9c8a155442b43e62e4d67922f252"
+hash = "aabd9275d5ef135ee155a9d0db10e23c55b9531ea1eb515e738e2ab775488181"
 
 [[files]]
 file = "configureddefaults/config/modernfix-mixins.properties"
@@ -3206,7 +3206,7 @@ hash = "1570d389b7f47caa8256fcf023243cd510d37eda62a611c8e27936c12d93d806"
 
 [[files]]
 file = "configureddefaults/config/terrestria/client.json"
-hash = "c6c5d188f9d5285ec99e004d8f205437c82d393353f28bb5d2be5a2f9af6901a"
+hash = "79a344436f4442c6088fe858dbd4046a1948538ab3b2d0337fbe8ff4d1f7afa4"
 
 [[files]]
 file = "configureddefaults/config/threadtweak.json"
@@ -3214,7 +3214,7 @@ hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
 
 [[files]]
 file = "configureddefaults/config/vmp.properties"
-hash = "9119e990f7bf6d27b9761144fa9a8ed9168a575f3c54d83815aedbbb3c594a49"
+hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
 
 [[files]]
 file = "configureddefaults/config/world-host.json5"
@@ -3222,11 +3222,11 @@ hash = "024ab81167c90c77a81797fdc769b7d4b96c2d2be076b5f94ce28c289c05cd1d"
 
 [[files]]
 file = "configureddefaults/config/xaerominimap-common.txt"
-hash = "b410746ddef0f7dd5f1d860ef3fcd6ad29c10988abbf6281181cb9c3acb628ca"
+hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
 
 [[files]]
 file = "configureddefaults/config/xaerominimap.txt"
-hash = "926668bd5ad10ed1dd51836ae27d36d58fa3a3a3356dc6e0cb115b785039678e"
+hash = "751c2e21365087aba2efc3a2d918e0d87cab4794c6eaffbeeb0f5999d9c8f3bc"
 
 [[files]]
 file = "configureddefaults/config/xaerominimap_entities.json"
@@ -3234,15 +3234,15 @@ hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
 
 [[files]]
 file = "configureddefaults/config/xaeroworldmap-common.txt"
-hash = "ab09b6171d1f5f9c15d3ea653be739b53bca6f88db1ec38ae80575143c4c68cd"
+hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
 
 [[files]]
 file = "configureddefaults/config/xaeroworldmap.txt"
-hash = "cdf759d5937a9cb59cd9155fdb6536fae7bf823c0dee683e1e814e8052ab64ea"
+hash = "f73b7dd6ee234c57c65ad6fece437604048103f526a0ab308efe2d3cdf367813"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "c4f33725da67e224b3e3a1376e0869927e4be3a2de6fb65947c335a29f8a4076"
+hash = "4d63eddd892665a21de60a9f3784ee204e582c87b57dd26276efb2c10402f5f1"
 
 [[files]]
 file = "mods/air-hop.pw.toml"
@@ -3251,7 +3251,7 @@ metafile = true
 
 [[files]]
 file = "mods/allurement!.pw.toml"
-hash = "3a65ac0f45561e694b85eee0c03af5d237d70abe12168986c1f853abac08fbfc"
+hash = "e7298fddee9f5f29d3b88b94927bed3cf7f93b70dfc2a3ecf10dbbdc9062a287"
 metafile = true
 
 [[files]]
@@ -3271,7 +3271,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "37a218f4aa85b545cc95b0a5c16d2da12c093c8a1a5a3bad60be72a4bf86a01a"
+hash = "78f7b04cca0f21ad404215a182634bb4d0cdf81bdf574f4e8ace93be2d894f51"
 metafile = true
 
 [[files]]
@@ -3286,17 +3286,17 @@ metafile = true
 
 [[files]]
 file = "mods/blueprint.pw.toml"
-hash = "02c2891e2548adf5c59d0ef237ed01ffd89632b4908290269b513c4958ca9043"
+hash = "59326c5af31567f7de130bac1367b6a81491d7f6a862c6187782d669cc96bd08"
 metafile = true
 
 [[files]]
 file = "mods/boatload.pw.toml"
-hash = "a72ca3dbb17810f9d3193fe9b0fffa94be0fa5f30f5bcb409e21746cfe17f741"
+hash = "23a687a60c573652ccee96fde1b7582f26ebf0b678fe15ce58e1e58ac9e6bebf"
 metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "293ec22e4e8342a9bd0f338505a14e3794b44cd7ca1e5278a86f41f99c69a3af"
+hash = "bbd25617a23311cc0f4aab71244d3551992d8ecbc7b2bad8523ba1cc6141703f"
 metafile = true
 
 [[files]]
@@ -3361,7 +3361,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "6028668d5c1c5e49797eb97bb597d818be33a67a939d0cc356a702460b504675"
+hash = "bdd6ef2b6263a25bb8165ff4a3f5d48acd0d7712afd6a712449ed0aa09dba2e6"
 metafile = true
 
 [[files]]
@@ -3371,7 +3371,7 @@ metafile = true
 
 [[files]]
 file = "mods/cyanide.pw.toml"
-hash = "08ab5ee502b94653263fdfea09b0c58958e9e6adffc45cb35f496cc5a0a6fb8d"
+hash = "658fd23ae21391c4901c6e0d08f609b114ed7fe0518fa05affba5b34bc0fa243"
 metafile = true
 
 [[files]]
@@ -3436,7 +3436,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "08d006fc4fd2133bceb2b4495ab1c16de9b4fe2f2f0bd05d10bc46596c8df31e"
+hash = "3b3e201b7c0e607a64811e6240d6db9a8203a71f17299883b8831e4e4b668a0e"
 metafile = true
 
 [[files]]
@@ -3521,7 +3521,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "dabc6ff8c4c4e1c28f471b6a4874ce111152af526d696f70bf4bc37c5e65ede9"
+hash = "5fc7aef3914a341eea462710a5ab23bb6649bcf1054777b2985bb07f96fd1ac1"
 metafile = true
 
 [[files]]
@@ -3531,7 +3531,7 @@ metafile = true
 
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
-hash = "fa3e6df3d222c94014c840673aa92455210d404eadceb05dd5ab3ae5a3eab6db"
+hash = "bb039470d6643b00dca912699715ba1c7264c2e7f5a617c4417b0aee53bf24a8"
 metafile = true
 
 [[files]]
@@ -3541,12 +3541,12 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "1b559b7398ad56803f71ff76c2932dbbf06bc385552e1f1d84ee06a0823ee2ec"
+hash = "74d777eab78b77292e95db774594a9b4299e4e82c0ee72522e8a7bed0b9a8d03"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "4d281e976b5d147922388cc6a2ac112d97b051aa448fac4d57b9b63853fee1a0"
+hash = "5e3eadfdd217de30a81fac8d2d1fd7a48e59ae93c5804b7da2e8d1dbd92c90f2"
 metafile = true
 
 [[files]]
@@ -3556,7 +3556,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "2bd1220d157ebe5c3a15a222840bc05739de0c797e1847e6a82ed41960a9f203"
+hash = "4e919fcc0ef90c6c4d851dbfdf787028b816724925a582bbbdcf8f559e132597"
 metafile = true
 
 [[files]]
@@ -3611,7 +3611,7 @@ metafile = true
 
 [[files]]
 file = "mods/personality!.pw.toml"
-hash = "286eda3d98d0ede715cbb29c5f4845781bbc45b5a9982b5417e81f84dfd99a3e"
+hash = "240bda071a54727a9989e2b283d9fac61b4db84ccb3e15318d7f20bf4fa9a23f"
 metafile = true
 
 [[files]]
@@ -3621,7 +3621,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "b2e253c0f4273287b3dcbba3fcb8054414d7893c6868d5174439a6caa7d64ed2"
+hash = "0b935f01cf3dbfdd6a10081d47a6bc95bdf75f6caaef0cbf19dff61cc558ab3f"
 metafile = true
 
 [[files]]
@@ -3646,7 +3646,7 @@ metafile = true
 
 [[files]]
 file = "mods/seasonhud.pw.toml"
-hash = "840c8adddee0965dbcf0387b7c253f415a08dc923935a272b64d7b339447d8a6"
+hash = "8f6e24cc27ea86dea31433df3505749c48d921b690bc23415ec616adad1ed55c"
 metafile = true
 
 [[files]]
@@ -3661,7 +3661,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-snowy-fix-(forge-fabric).pw.toml"
-hash = "bc326abd16938055bd205cd47d3e06e5f9459675a5428a71d6826d6cc8f9d8d5"
+hash = "2ed6c65bd67d55fb8d7fc52ac74ddac0158c7b523805f6d63a5a7593255011a2"
 metafile = true
 
 [[files]]
@@ -3671,7 +3671,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-core-shader-support.pw.toml"
-hash = "91b4f86a60a84c6b8a81e4dde932630e9e5ca58f67cc0ffd50e00744ed36f4a0"
+hash = "41cea99611c83e31574d27fed490740eadf9220c7e03735f6a41a60c1170db8a"
 metafile = true
 
 [[files]]
@@ -3696,17 +3696,17 @@ metafile = true
 
 [[files]]
 file = "mods/terrestria.pw.toml"
-hash = "52b52f26024490fd7036085733edb78771becd6930c4787627fbddca45d9fbad"
+hash = "bb5fb94c343407338d3639979d688f468f97c6d93f3c17d2e0ce0bf97e5e3fc2"
 metafile = true
 
 [[files]]
 file = "mods/traverse.pw.toml"
-hash = "6d8236f7e73cf2403b8566005378fc42e0d986b93e0c0832de955c7cb6316c3a"
+hash = "ad1bd3bcd333a6a27c9071eb5905606e146ea338a3c9b8726dd8d93142f80a2d"
 metafile = true
 
 [[files]]
 file = "mods/treeplacer.pw.toml"
-hash = "284f90816cf98b50dbeef5bc187dfc9d2e41904465b40b0a65358e000672efb5"
+hash = "f593c34ca12d4aa38225e167e5a0f733e06d9e46e6333dfe50538de43b985457"
 metafile = true
 
 [[files]]
@@ -3716,7 +3716,7 @@ metafile = true
 
 [[files]]
 file = "mods/villagerconfig.pw.toml"
-hash = "6a24f29dfef614a62249f7a278ae42f6492e1d95c68e9bd8d562fcc905d11567"
+hash = "77324511d0f6f84b9b8ceba37b53daaed0525978972c457a775ac426f6aa5714"
 metafile = true
 
 [[files]]
@@ -3751,17 +3751,17 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "077124b4342695ede01668748f99a6819576f64cc3b61fb59387c1a189c221c7"
+hash = "61357585c224dc0b58263e794ac7ddb5dbe013f2bb6390bae12f17e14958140a"
 metafile = true
 
 [[files]]
 file = "mods/yeetus-experimentus.pw.toml"
-hash = "5e25dccab496945a5f19bb82383e0ebf98452ffc14cd25c7e0259cc44312281a"
+hash = "c712129b3e4e87d6b6817eb16c415005b20fbbac0f79182947c3776ec15773cf"
 metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
+hash = "fd8994221802e444c1b1b2da9d3d816a040860d875c56ce15be401b865e2eae5"
 metafile = true
 
 [[files]]
@@ -3801,10 +3801,10 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/pacp.pw.toml"
-hash = "6028c3b643ae7c1c6be69c994371256fba5a7401c299356e91a8be80c743247c"
+hash = "450bbc598579f9a9c9e3c3a9733f64790076ce4933ad78f5bdbba06826adcb06"
 metafile = true
 
 [[files]]
 file = "resourcepacks/restored-brightness.pw.toml"
-hash = "af1694250599b75e44064c9301eaf7df00d5357f3421d6e9488f12134346e6ae"
+hash = "ed20a08628f42b31098dad892a3dd56bd8a65bcc58ccc6e61709a003fae7c009"
 metafile = true
