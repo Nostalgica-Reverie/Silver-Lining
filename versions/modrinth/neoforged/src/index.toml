@@ -1337,6 +1337,10 @@ file = "config/paxi/datapacks/Recipes/pack.png"
 hash = "575580a59b0c1e2da2f80deb66cf64c4390e979147bcbcbda1092fb2a43145fd"
 
 [[files]]
+file = "config/paxi/datapacks/WorldGen/data/battle_towers/worldgen/structure_set/overworld.json"
+hash = "8d291e30fe5490cde24c4f5c55d9d9a99fd752740a54aff5c9414d5be5fcff2e"
+
+[[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/dimension_type/overworld.json"
 hash = "d784a49401d7d7f7a3039bc5d925ed1dd740c05e1ef4b02d7e255f19c4aec44f"
 
@@ -3644,6 +3648,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "2bd1220d157ebe5c3a15a222840bc05739de0c797e1847e6a82ed41960a9f203"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
