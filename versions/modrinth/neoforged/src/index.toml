@@ -2033,6 +2033,38 @@ file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/placed_featur
 hash = "95ebd515799733c66ea6925e22a226ab1df839cb21b76364675d46798241a255"
 
 [[files]]
+file = "config/paxi/datapacks/WorldGen/data/terrestria/worldgen/configured_feature/hemlock_tree.json"
+hash = "e2ad7d216e143987fc14a65a2c1873588d4d1d46a610cf531ac85cd2e0446402"
+
+[[files]]
+file = "config/paxi/datapacks/WorldGen/data/terrestria/worldgen/configured_feature/mega_hemlock_tree.json"
+hash = "8e43817980551c5b534c6b441b5fb1f95da531e8ef3ae98949c7daa399a7b38b"
+
+[[files]]
+file = "config/paxi/datapacks/WorldGen/data/terrestria/worldgen/configured_feature/mega_redwood_tree.json"
+hash = "3a56b45bad07eec6305e58b6a2a9f92e81a05e43b4a5499f3a542b45901f3165"
+
+[[files]]
+file = "config/paxi/datapacks/WorldGen/data/terrestria/worldgen/configured_feature/redwood_tree.json"
+hash = "7f9b74e0e67bd11d69cc822e63a5be7a396125e44bffc933f0893a2f5f199543"
+
+[[files]]
+file = "config/paxi/datapacks/WorldGen/data/terrestria/worldgen/configured_feature/small_hemlock_tree.json"
+hash = "c005636f14e6958077e236be0de9a6e139f897c29956030d62843d51a6c0921a"
+
+[[files]]
+file = "config/paxi/datapacks/WorldGen/data/terrestria/worldgen/configured_feature/small_redwood_tree.json"
+hash = "dabdd87512337c5e52c85d34438225b30cbea447b0ee32ce12a303b46f1718ef"
+
+[[files]]
+file = "config/paxi/datapacks/WorldGen/data/traverse/loot_table/blocks/brown_autumnal_leaves.json"
+hash = "67fd8fcdc2e90128e23fb271e88d62ca63787eb596b3573d56c62b560a638f86"
+
+[[files]]
+file = "config/paxi/datapacks/WorldGen/data/traverse/loot_table/blocks/orange_autumnal_leaves.json"
+hash = "dae3b958c1c80903e17ba801cdc60e365e1a09b555e8dae1d6a854b8675dc9ae"
+
+[[files]]
 file = "config/paxi/datapacks/WorldGen/data/traverse/worldgen/biome/lush_swamp.json"
 hash = "4a688d377417e158789f7725bd0c8e2f22beff501075fe7caf06db44d646eae2"
 
@@ -2143,6 +2175,66 @@ hash = "09376b452af0cf4c91b3f43335d80c3b1960fd700aeb4bc0b9e6cb0fdac86f38"
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/silver_lining/polytone/particle_modifiers/slimecomb.json"
 hash = "95a2cccc4acf87f4512becbaf48c99a79317af40289f0c3c7665817bc26ca2c7"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_assets/assets/traverse/lang/en_us.json"
+hash = "b01b38fba59a55752417fff1ad6b67b0b85be85e8e00c7b354ae8f23e6328fe0"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_assets/assets/traverse/lang/es_ar.json"
+hash = "bb89744da346c4bb9515d465893b4be4926fa16c5465fddf7536044056b66a5d"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_assets/assets/traverse/lang/es_es.json"
+hash = "bb89744da346c4bb9515d465893b4be4926fa16c5465fddf7536044056b66a5d"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_assets/assets/traverse/lang/es_mx.json"
+hash = "bb89744da346c4bb9515d465893b4be4926fa16c5465fddf7536044056b66a5d"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_assets/assets/traverse/lang/fr_fr.json"
+hash = "04afc2d1e479ea3edb0cfddff3dd45fc0df30dd7953225addea88b6e2f28f0a8"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_assets/assets/traverse/lang/it_it.json"
+hash = "7333ccf4cf681bdcdde621f7beeea894ba5c0be1d63527fa78d315f8615cfede"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_assets/assets/traverse/lang/ko_kr.json"
+hash = "449e488ed0477d75448a1c74bef467a82589524ea2922c033f01c415b1f77c1a"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_assets/assets/traverse/lang/pl_pl.json"
+hash = "2831050ebfb8e5962a3816c01d9f96ef3ef5d89d0efb588e3a50f3e6e927a9ff"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_assets/assets/traverse/lang/pt_br.json"
+hash = "e076339951e81502f300f9b4799d69abac684c75bd7062d7a3d13ac1c946ea77"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_assets/assets/traverse/lang/ru_ru.json"
+hash = "073be0981999e8efe25d454eccb51eca976b8729b9e5dd400f3f3cd406df95b8"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_assets/assets/traverse/lang/uk_ua.json"
+hash = "564c79165d0cdc77e1ab76ff31e57cbe2133915b9cd11ce25e1f698ab255cf9c"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_assets/assets/traverse/lang/zh_cn.json"
+hash = "ca8752d4cc5899883e24f6a2f97aaf1f90f12f4172787b13df879c03fba7f70b"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_assets/assets/traverse/lang/zh_tw.json"
+hash = "f87f6c893ee1eaae3715ede882903bf1267af9d585994b0da287f64ba5470a5f"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_assets/assets/traverse/textures/block/brown_autumnal_leaves.png"
+hash = "da9d023a4b8ca851dd715cdb4dbf73ac55f5bc1ba6463c75c34d04d2700b681e"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_assets/assets/traverse/textures/block/orange_autumnal_leaves.png"
+hash = "492364a51d239e9560220a211624cc39db1e117c4c69d61653ec248e3b0961bb"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/pack.mcmeta"
