@@ -1878,7 +1878,7 @@ hash = "d2f08dacaa041218c5c2c3e2aa193dd3e9f0d7bd98ebdf986a4c6bcdd78731cf"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/sereneseasons/tags/worldgen/biome/tropical_biomes.json"
-hash = "6425f64183aa57f9edf601208fbc6c9b7670f1caeb6b407704da28077f698837"
+hash = "bfaf99eb8c311e6857aa8547526ffaf0d54e06e4d376e8df0367db7841cbd53e"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/advancement/recipes/building_blocks/calcite.json"
