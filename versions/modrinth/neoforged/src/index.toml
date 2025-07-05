@@ -1841,6 +1841,10 @@ file = "config/paxi/datapacks/WorldGen/data/moderner_beta/worldgen/noise_setting
 hash = "426dc99d906bd50977360bb566518526a3535ef268d7bb12ca13698b4bcb56b6"
 
 [[files]]
+file = "config/paxi/datapacks/WorldGen/data/moderner_beta/worldgen/noise_settings/early_bedrock.json"
+hash = "ce9680e4e1f63a1227d7e6fff4c03dc5159fa747f8a6ea987ab2c753f3af7519"
+
+[[files]]
 file = "config/paxi/datapacks/WorldGen/data/moderner_beta/worldgen/noise_settings/early_release.json"
 hash = "254a9acb2f7ce2cbd726c14ff32b9b83effd4bc9cb5ce80eb0fcaaa72ca313cc"
 
