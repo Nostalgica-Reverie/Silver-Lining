@@ -3121,10 +3121,6 @@ file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/cook
 hash = "7213626be7bb6609d0204c4587968904f5f26323f60cc569683ed57158de5a34"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/elytra.png"
-hash = "38be5a9fb712cb81d81245d38f669df298b6e8490018f0617986489249ce0494"
-
-[[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/empty_armor_slot_boots.png"
 hash = "4af75c3f875b62b98ba82972235145b746d819630eb24b02283dbfeba0526709"
 
