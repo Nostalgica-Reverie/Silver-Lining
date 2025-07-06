@@ -1198,7 +1198,7 @@ hash = "575580a59b0c1e2da2f80deb66cf64c4390e979147bcbcbda1092fb2a43145fd"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/boatload/recipe/large_oak_boat.json"
-hash = "0a0376fd6f0d414f475133ebd23b61fb5f39a8ce1b4e3cbf7f7c0323b1d5223b"
+hash = "ec53ef1299e65bb6432c629cc4bd2f66171f3d8987047915e6783df4ca04bda2"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/acacia_boat.json"
@@ -2006,11 +2006,11 @@ hash = "426dc99d906bd50977360bb566518526a3535ef268d7bb12ca13698b4bcb56b6"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/sereneseasons/tags/worldgen/biome/lesser_color_change_biomes.json"
-hash = "d2f08dacaa041218c5c2c3e2aa193dd3e9f0d7bd98ebdf986a4c6bcdd78731cf"
+hash = "dbb2cab47965ede702c466ac61026e77d1e7826ab6bc4f923ecd963650daa450"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/sereneseasons/tags/worldgen/biome/tropical_biomes.json"
-hash = "bfaf99eb8c311e6857aa8547526ffaf0d54e06e4d376e8df0367db7841cbd53e"
+hash = "b686d3b2e29e111c5ec53f634b21346788e5e4248a8d7c0e11f537403db191d2"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/advancement/recipes/building_blocks/calcite.json"
@@ -2099,10 +2099,6 @@ hash = "2171005e91f2d60d82829ca6f7405916ad2494fe78a23e34edbc7e2727f27ba1"
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/biome/rainforest.json"
 hash = "49dff073a9c38fdb37a344b541323b69b2bed9970c193ef107acb2509a2bc54a"
-
-[[files]]
-file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/biome/savanna.json"
-hash = "77ad0e34b45f2acf743aec73fc21cb4a2b761efeaba8ddd54a374ca4cd0ea24e"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/biome/snowy_birch_grove.json"
