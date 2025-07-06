@@ -2074,7 +2074,7 @@ hash = "e491231d749bb17c3dd8bcf202c5418eac7cf97e20d62018a718ef0cee928625"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset/normal.json"
-hash = "d28b0bf918ebcba41911afbd7688c655413275321984ccb72ecfaef184e30fc5"
+hash = "c3c8822eed18119f67f5f7ee3bbf062f62bd7d16f69c3e5a853593a7ce4a705e"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset/small_biomes.json"
@@ -3331,6 +3331,78 @@ hash = "e0890d9d78d68350ceb6c6a9c8b7cf30f5078a2eb16dd735bfe6a0b1b4161bb1"
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/models/item/dead_grass.json"
 hash = "e3d8325b4be4902cd690f5974425aaa1b8526ad1888d0b42046f7301d397894a"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/textures/block/andisol_farmland.png"
+hash = "4524617a53d5294393e228f2db76b2d7068252faadbae6e3de6e19d474401007"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/textures/block/andisol_farmland_moist.png"
+hash = "13189e20de275a59babce1c082d9c79e9ac22a06c41de81966d68ccf2fc396d0"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/textures/block/basalt_bricks.png"
+hash = "8f3eacab9d42419cb7f4137190e576a0aa9325cc8b8d5a7a6bf594c74c4c2703"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/textures/block/basalt_cobblestone.png"
+hash = "e734ecad88ce4651d1ed9df85475b620c017e7c1e9416ccb22d51fd8e9a79a97"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/textures/block/chiseled_basalt_bricks.png"
+hash = "3c04ecb14995f535369244e49b7109f6c898ce05936e220ff9c7b6d40d45e6f4"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/textures/block/cracked_basalt_bricks.png"
+hash = "7c88d3ff872d9c09efb0c86a217c207b6162d2ff923d41181d5f0a7fb870d9a5"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/textures/block/cypress_planks.png"
+hash = "ceb5f8bfd2a3f0f89e8151f14418a8356063fc189089acbcc765dcafdc8b41d9"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/textures/block/hemlock_planks.png"
+hash = "b45157a94ef1f86860e9ca5734248c0f34d64d445916ead111e06ee976ae184d"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/textures/block/japanese_maple_planks.png"
+hash = "4418f5785c25b7dcabb5bf95d44f64c954431b8dad5cf8fd38cafb9835e5118b"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/textures/block/mossy_basalt_bricks.png"
+hash = "f0d928f77175793ac39844d7fc8a9b1c463dd3643518383de1b329cbb7e60683"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/textures/block/mossy_basalt_cobblestone.png"
+hash = "2ad959656097cdb9e501fd0ee7a4baface7afa3add74f143e87b919a0d97bbf0"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/textures/block/redwood_planks.png"
+hash = "52fb8d8168fe9b1135b98b5cb4375cc562959debefaa211c65990c09149c922b"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/textures/block/rubber_planks.png"
+hash = "fe5094e325ac1c99aee2b971a1f77396b37f9dba3cc79658808839a2618d5ac5"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/textures/block/saguaro_cactus.png"
+hash = "862cedeca7f05fa2414c399607d3d67efbfe88e71689af87040bebeadddd5387"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/textures/block/saguaro_cactus_section.png"
+hash = "5adfea49ced5a30bba11c0121d36cf9347c75b124bd798cdd5cc5809546d1dad"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/textures/block/smooth_basalt.png"
+hash = "8a57aaeb91a6e7023ed9328a27d5bcece8340b0de661463beca83d9265893b88"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/textures/block/smooth_basalt_slab_side.png"
+hash = "522ef69b795d6b6a805a4537cc5fb522b5fc81bc3a2566e3c5cf502ecb97cce6"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/textures/block/willow_planks.png"
+hash = "ebbb50ff0573235893ac2f6f4f45296d06ba711f4922105f834bf86dd77fab3f"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/block/andesite_waystone.png"
