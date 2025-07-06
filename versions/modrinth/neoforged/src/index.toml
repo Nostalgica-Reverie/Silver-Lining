@@ -2045,6 +2045,14 @@ file = "config/paxi/datapacks/WorldGen/data/silver_lining/lithostitched/worldgen
 hash = "810e8d03472d6511612a0a83dbd64679cdfa1874c6105f971a3c101b4692c383"
 
 [[files]]
+file = "config/paxi/datapacks/WorldGen/data/silver_lining/lithostitched/worldgen_modifier/add_huge_mushrooms.json"
+hash = "94cb896e2bcad00f976437dc9ddb5aa039ae20b38a6f89279007f136c7989e5e"
+
+[[files]]
+file = "config/paxi/datapacks/WorldGen/data/silver_lining/lithostitched/worldgen_modifier/dense_woodlands_effects.json"
+hash = "452450949b7d1b118b1275a81893badc073a95a5bad23d87467feae5166d7ee4"
+
+[[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/lithostitched/worldgen_modifier/geophilic_cypress_rainforest.json"
 hash = "47ff634fd7ed0886c112d8af1a51f8f33e4a77ece030225965675df8257c88f1"
 
@@ -2070,7 +2078,7 @@ hash = "b6a44047cbae22433dedd4ea44da32e7994fe1f9e576caeb1d46429737e0731e"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset/normal.json"
-hash = "528453962c06dde3c9167d3e3bac98263a3a7fd95d76dd90b4eaa7b07e27939f"
+hash = "d28b0bf918ebcba41911afbd7688c655413275321984ccb72ecfaef184e30fc5"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset_category/silver_lining.json"
@@ -2143,6 +2151,10 @@ hash = "1b3aa5f4a86304f9bb6dc9e6d633399b43eafd60c454105afdcf8c4d357ba0c1"
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/placed_feature/patch_pumpkin_parched.json"
 hash = "f2526e140afb8a3a74021d4e274e4105920a96156d8519db18c7c527079c0a30"
+
+[[files]]
+file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/placed_feature/sparse_huge_mushrooms.json"
+hash = "01920bb7e60f5c42b96e728040315f956105c4d5eb83252a4f8e678c15570fe0"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/placed_feature/swamp_mud.json"
