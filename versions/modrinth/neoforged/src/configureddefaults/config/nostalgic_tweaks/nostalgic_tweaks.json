@@ -297,7 +297,7 @@
     "removeTitleLanguageButton": false,
     "removeExtraTitleButtons": false,
     "addQuitButton": true,
-    "titleVersionText": "Silver Lining b1.2",
+    "titleVersionText": "Silver Lining b0.1.3",
     "titleBottomLeftText": true,
     "titleTopRightDebugText": false,
     "removeTitleModLoaderText": true,
