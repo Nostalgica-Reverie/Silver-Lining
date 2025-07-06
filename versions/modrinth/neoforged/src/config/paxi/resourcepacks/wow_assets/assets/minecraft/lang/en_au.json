@@ -1,6 +1,8 @@
 {
     "block.minecraft.honey_block": "Magma Cream Block",
+    "item.boatload.large_oak_boat": "Long Boat",
     "item.minecraft.honeycomb": "Slimecomb",
+    "item.minecraft.oak_boat": "Boat",
     "generator.minecraft.medium_biomes": "Medium Biomes",
     "generator.minecraft.classic": "Classic",
     "generator.moderner_beta.moderner_beta": "Customised"

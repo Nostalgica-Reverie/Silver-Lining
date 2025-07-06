@@ -1197,6 +1197,82 @@ file = "config/paxi/datapacks/ClassicVillages/pack.png"
 hash = "575580a59b0c1e2da2f80deb66cf64c4390e979147bcbcbda1092fb2a43145fd"
 
 [[files]]
+file = "config/paxi/datapacks/Recipes/data/boatload/recipe/large_oak_boat.json"
+hash = "0a0376fd6f0d414f475133ebd23b61fb5f39a8ce1b4e3cbf7f7c0323b1d5223b"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/acacia_boat.json"
+hash = "3298dcacfc27c415e16cca0cfcbb414a7907303f57e3cc3ad0fad8cf8d8997ab"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/birch_boat.json"
+hash = "98bdfecf238aa8385578489b569f366a0755f8e00bdb200afcafdd507bc144c0"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/cherry_boat.json"
+hash = "dc415d3ff12db483e75a5995f4426af3c48506fe6ff11a2c38e2e660c1b20f62"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/dark_oak_boat.json"
+hash = "2be07f572d707a79b0fc897da0f1749eb586d07ada257dafc2ff9930f3a8c4cb"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/jungle_boat.json"
+hash = "c9eb5114e5866fb4e8e50ab940363e99f3fb4fd28014fdf5e20d8e88fe6ac640"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/mangrove_boat.json"
+hash = "3f551ca57860341a072030e05d5da7cb3eb950dbb493ee052288d4646ded32c1"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/oak_boat.json"
+hash = "e8f8aa8f8de78d1963cd1911a937f5d839667f5fb63753a59316086a10636245"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/spruce_boat.json"
+hash = "d04a31ae5b1010f9fd61c0292d3635f516705be161e0ab0cef0bd11af9320656"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/terrestria/recipe/cypress_boat.json"
+hash = "3e6c99610b4f391fe4439f66941fdeab31e983e83e5b8b2a552441309e33f59f"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/terrestria/recipe/hemlock_boat.json"
+hash = "28431f4144f8a2898ff3a76ce71b6c7cb0b4cdb542108aedeb2830fb95281e03"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/terrestria/recipe/japanese_maple_boat.json"
+hash = "22f2b379ae8f943c21e649875eb63290de8a7acd8ad60712f0237c884dbd85a8"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/terrestria/recipe/rainbow_eucalyptus_boat.json"
+hash = "b68cb549b5903ff4d0d6bc1e05070830d6555f3bab0b7694bf36e86cb00d78c0"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/terrestria/recipe/redwood_boat.json"
+hash = "e86585615e062d93aaa319c91951bfb5eaef6166da765da8b2e843eda34845bf"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/terrestria/recipe/rubber_boat.json"
+hash = "b0f6b88b007b833535464a6148285394c4d64e3631423f94ae4bb81939b5122f"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/terrestria/recipe/sakura_boat.json"
+hash = "2762a5c34c48b894c76012254a8b1c9205c77161142fa0becc1b7238bcaca682"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/terrestria/recipe/willow_boat.json"
+hash = "61d4546b15fa42ce5b3d1ade525cd4631aa77555b2aab3f0f6b2df3febf6163c"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/terrestria/recipe/yucca_palm_boat.json"
+hash = "51c93fab0f6501b2ecf728f50a303ed5b216a1ad5fcb5a1ad04a2a582ee5bcdc"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/traverse/recipe/fir_boat.json"
+hash = "f648ab6603bb20727d61fb1e45e96e1ef6d7be6b4c90985100b7d2c34e3283aa"
+
+[[files]]
 file = "config/paxi/datapacks/Recipes/data/wow/recipe/activator_rail.json"
 hash = "124b5bade920ebaaf5198ebbf06d799fda4305a7b65314422261afad255eb8d6"
 
@@ -2106,23 +2182,23 @@ hash = "88660439eb38c5c3c167d2eb97520be19835492137c625cbb4417dc84ff9d531"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/lang/en_au.json"
-hash = "e7e5493676e992907d35c5cce1839934905cd5515a5d4043d0e67c7b9902b44b"
+hash = "9ff0f65a731aac38d8c2c75a911889510cddf8e277fe22bac73af7220c1f22f2"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/lang/en_ca.json"
-hash = "91c7e3b9973de4c9b83c01387ef6f48874aeb2db7fddc601cdf67df6b684624b"
+hash = "799e03c91507825f222c8c49e89dc2115f61ed135da7c8447b9c7d6cfa2be05c"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/lang/en_gb.json"
-hash = "e7e5493676e992907d35c5cce1839934905cd5515a5d4043d0e67c7b9902b44b"
+hash = "9ff0f65a731aac38d8c2c75a911889510cddf8e277fe22bac73af7220c1f22f2"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/lang/en_nz.json"
-hash = "e7e5493676e992907d35c5cce1839934905cd5515a5d4043d0e67c7b9902b44b"
+hash = "9ff0f65a731aac38d8c2c75a911889510cddf8e277fe22bac73af7220c1f22f2"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/lang/en_us.json"
-hash = "cd6aa5379880898451bd2203e4048919cec99c4375f1b33436da268cba7bc4d5"
+hash = "8568e845a05deb2346a173d52e7163113c3b808d2b33d13f18b4355f6c329c1e"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/models/block/honey_block.json"

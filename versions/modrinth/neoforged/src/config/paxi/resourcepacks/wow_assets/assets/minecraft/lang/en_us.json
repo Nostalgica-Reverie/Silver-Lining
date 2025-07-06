@@ -7,9 +7,11 @@
     "biome.silver_lining.snowy_birch_grove": "Snowy Birch Grove",
     "block.minecraft.honey_block": "Magma Cream Block",
     "enchantment.enchancement.sticky.desc": "Allows sliding down and jumping off walls. Leaves a trail of magma where you walk that slows mobs.",
-    "item.minecraft.honeycomb": "Slimecomb",
+    "item.boatload.large_oak_boat": "Long Boat",
     "item.minecraft.compass.description": "§r§7Shows coordinates when held",
     "item.minecraft.clock.description": "§r§7Shows time when held",
+    "item.minecraft.honeycomb": "Slimecomb",
+    "item.minecraft.oak_boat": "Boat",
     "generator.minecraft.medium_biomes": "Medium Biomes",
     "generator.minecraft.classic": "Classic Terrain (1.6.4)",
     "generator.moderner_beta.moderner_beta": "Customized"
