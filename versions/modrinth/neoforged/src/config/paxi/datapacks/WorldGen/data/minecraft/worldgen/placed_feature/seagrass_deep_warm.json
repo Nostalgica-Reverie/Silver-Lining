@@ -1,9 +1,12 @@
 {
-  "feature": "minecraft:amethyst_geode",
+  "feature": {
+    "type": "minecraft:no_op",
+    "config": {}
+  },
   "placement": [
     {
-		"type": "minecraft:count",
-		"count": 0
+      "type": "minecraft:count",
+      "count": 0
     }
   ]
 }

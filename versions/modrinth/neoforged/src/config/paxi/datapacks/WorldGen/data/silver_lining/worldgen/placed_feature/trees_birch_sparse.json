@@ -4,13 +4,6 @@
     "config": {
       "features": [
         {
-          "chance": 0.2,
-          "feature": {
-            "feature": "geophilic:tree/birch/tall_modified",
-            "placement": []
-          }
-        },
-        {
           "chance": 0.1,
           "feature": {
             "feature": "geophilic:tree/birch/classic",

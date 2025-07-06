@@ -1417,6 +1417,54 @@ file = "config/paxi/datapacks/WorldGen/data/battle_towers/worldgen/structure_set
 hash = "8d291e30fe5490cde24c4f5c55d9d9a99fd752740a54aff5c9414d5be5fcff2e"
 
 [[files]]
+file = "config/paxi/datapacks/WorldGen/data/geophilic/worldgen/configured_feature/tree/birch/classic.json"
+hash = "4c7bb979153c3de9f24bb57bc3e01f8005930fa3cd1126ffe2b41e36e8a2fbbb"
+
+[[files]]
+file = "config/paxi/datapacks/WorldGen/data/geophilic/worldgen/configured_feature/tree/birch/classic_double_bees.json"
+hash = "518539bc8c5ce760b4fa0a7182a96c6317375d95c141ae82d6d5469d1133ca52"
+
+[[files]]
+file = "config/paxi/datapacks/WorldGen/data/geophilic/worldgen/configured_feature/tree/birch/meadow.json"
+hash = "b2d5a5d10ba046b8b26e7e9bda1402b2790b07222856870b3f8bbf4d58c9ee5a"
+
+[[files]]
+file = "config/paxi/datapacks/WorldGen/data/geophilic/worldgen/configured_feature/tree/birch/tall.json"
+hash = "8a48d5abe773e6ac34ef7f6cd91d092ec9e641c6f89dbb9a1018cebc2c063d15"
+
+[[files]]
+file = "config/paxi/datapacks/WorldGen/data/geophilic/worldgen/configured_feature/tree/cherry/big.json"
+hash = "7c06330bb95845fe66052d5cd631e5a74d4be7e0aa5ed1756fb2cecddcae979b"
+
+[[files]]
+file = "config/paxi/datapacks/WorldGen/data/geophilic/worldgen/configured_feature/tree/cherry/classic.json"
+hash = "56ba1cff989b66f35e54c5f6db5eb70eddb56575de032e459b11d74d7960418b"
+
+[[files]]
+file = "config/paxi/datapacks/WorldGen/data/geophilic/worldgen/configured_feature/tree/oak/classic.json"
+hash = "4a1fab8e2f0e9037efdb59855156bd6ebe7aec89ede27007cbc7619ec83de40a"
+
+[[files]]
+file = "config/paxi/datapacks/WorldGen/data/geophilic/worldgen/configured_feature/tree/oak/classic_double_bees.json"
+hash = "7ae78b56dbdcd38566f0bd20a4b51f4caf0e6c80fee9ebd0713a713bf089699e"
+
+[[files]]
+file = "config/paxi/datapacks/WorldGen/data/geophilic/worldgen/configured_feature/tree/oak/fancy.json"
+hash = "00c44af7c1a860a32d0a3cd33c8b77799f2fe0a3802cbdde8177edf49d750ce9"
+
+[[files]]
+file = "config/paxi/datapacks/WorldGen/data/geophilic/worldgen/configured_feature/tree/oak/fancy_bees.json"
+hash = "5f129cef686376c1a59083d0f0293d66ff441846fba1d417fefe93b67e40ca1b"
+
+[[files]]
+file = "config/paxi/datapacks/WorldGen/data/geophilic/worldgen/configured_feature/tree/oak/fancy_double_bees.json"
+hash = "5f129cef686376c1a59083d0f0293d66ff441846fba1d417fefe93b67e40ca1b"
+
+[[files]]
+file = "config/paxi/datapacks/WorldGen/data/geophilic/worldgen/configured_feature/tree/oak/tall.json"
+hash = "4a1fab8e2f0e9037efdb59855156bd6ebe7aec89ede27007cbc7619ec83de40a"
+
+[[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/dimension_type/overworld.json"
 hash = "d784a49401d7d7f7a3039bc5d925ed1dd740c05e1ef4b02d7e255f19c4aec44f"
 
@@ -1482,7 +1530,11 @@ hash = "5019819b9c92071308b9e658eecfdd31840240e22c4d6169d64ab827195af9bd"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/sapling_overrides/single/minecraft/birch_sapling.json"
-hash = "7085c417251660a6b4dceeebdd9c87949b275459d451d33936f19806b4c9b2c3"
+hash = "fa113d9f034892601f6cae03b47948dea804a5b6822f7d35b112569de3c2234f"
+
+[[files]]
+file = "config/paxi/datapacks/WorldGen/data/minecraft/sapling_overrides/single/minecraft/cherry_sapling.json"
+hash = "827a52678e2a4e0cea98cda0ac96d803ed6dfba53d0f89285682025fa8994a87"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/sapling_overrides/single/minecraft/dark_oak_sapling.json"
@@ -1490,7 +1542,7 @@ hash = "a1ba9adea0fa63518f61aed295f395405da055442929afa9800e1fff1a7648fe"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/sapling_overrides/single/minecraft/oak_sapling.json"
-hash = "61d0a3a55c2d119356983b306ccf9bc36651e62b56706f77b00a8afb5fb5c73f"
+hash = "aa8ac945e069bb1db5ac7a3d0d2d33776db02257c614507186fd46730357ce72"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/sapling_overrides/single/minecraft/spruce_sapling.json"
@@ -1614,35 +1666,35 @@ hash = "f5313248b6009ddb20c274b8291488effa3e31b6377337fde087721a691633a6"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/birch_bees_0002.json"
-hash = "f26f7f48fb7362e3fe4b1fe030aab1b53af2df9696eba500c6494493addc32d5"
+hash = "16d6e88610382777a873bca25a84432f49daa069569038f75c15b07b1766db74"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/birch_bees_002.json"
-hash = "f26f7f48fb7362e3fe4b1fe030aab1b53af2df9696eba500c6494493addc32d5"
+hash = "16d6e88610382777a873bca25a84432f49daa069569038f75c15b07b1766db74"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/birch_bees_005.json"
-hash = "f26f7f48fb7362e3fe4b1fe030aab1b53af2df9696eba500c6494493addc32d5"
+hash = "16d6e88610382777a873bca25a84432f49daa069569038f75c15b07b1766db74"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/cherry_bees_005.json"
-hash = "57ff960a94bc75a7dc89e50186d8fdb4b6292e370b2c087dc59991d36ac49d08"
+hash = "cb1f7d98228d9a1c8a1a8f6b8d0a795e6855cd9cf6fb950087cda89557883c96"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/fancy_oak_bees.json"
-hash = "de6eaf5e4352cd7ce777c57fadcbebf983db058cc7dc8a45cbe9c984197aca19"
+hash = "c210fc8068abad951fada7925364727f7732b3779138d62a15107967571dda60"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/fancy_oak_bees_0002.json"
-hash = "de6eaf5e4352cd7ce777c57fadcbebf983db058cc7dc8a45cbe9c984197aca19"
+hash = "c210fc8068abad951fada7925364727f7732b3779138d62a15107967571dda60"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/fancy_oak_bees_002.json"
-hash = "de6eaf5e4352cd7ce777c57fadcbebf983db058cc7dc8a45cbe9c984197aca19"
+hash = "c210fc8068abad951fada7925364727f7732b3779138d62a15107967571dda60"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/fancy_oak_bees_005.json"
-hash = "de6eaf5e4352cd7ce777c57fadcbebf983db058cc7dc8a45cbe9c984197aca19"
+hash = "c210fc8068abad951fada7925364727f7732b3779138d62a15107967571dda60"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/freeze_top_layer.json"
@@ -1650,15 +1702,15 @@ hash = "b30e59b089f5d6fe97aa993757c956bd05e793a792d73a26fb837d54a13e823f"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/oak_bees_0002.json"
-hash = "291dd84f2469b8fd423e3cb93daab3d01b352e2bf00e5d314392d7d4825b3541"
+hash = "7503de8c47a16271bd8d089504804e50d3f2eca0162426bb65da548ce02e1940"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/oak_bees_002.json"
-hash = "291dd84f2469b8fd423e3cb93daab3d01b352e2bf00e5d314392d7d4825b3541"
+hash = "7503de8c47a16271bd8d089504804e50d3f2eca0162426bb65da548ce02e1940"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/oak_bees_005.json"
-hash = "291dd84f2469b8fd423e3cb93daab3d01b352e2bf00e5d314392d7d4825b3541"
+hash = "7503de8c47a16271bd8d089504804e50d3f2eca0162426bb65da548ce02e1940"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/ore_andesite.json"
@@ -1702,11 +1754,11 @@ hash = "bd5f0d2520051bddb8c428d701e78d571f9666488e38ab924318b066b889aaa6"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/kelp_cold.json"
-hash = "9b378886d4e12a5b8d63ff457f8f8ee227952384c68c384900a9c0fee5a14173"
+hash = "bd5f0d2520051bddb8c428d701e78d571f9666488e38ab924318b066b889aaa6"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/kelp_warm.json"
-hash = "9b378886d4e12a5b8d63ff457f8f8ee227952384c68c384900a9c0fee5a14173"
+hash = "bd5f0d2520051bddb8c428d701e78d571f9666488e38ab924318b066b889aaa6"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/ore_ancient_debris_large.json"
@@ -1826,39 +1878,39 @@ hash = "bd5f0d2520051bddb8c428d701e78d571f9666488e38ab924318b066b889aaa6"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/seagrass_cold.json"
-hash = "9b378886d4e12a5b8d63ff457f8f8ee227952384c68c384900a9c0fee5a14173"
+hash = "bd5f0d2520051bddb8c428d701e78d571f9666488e38ab924318b066b889aaa6"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/seagrass_deep.json"
-hash = "9b378886d4e12a5b8d63ff457f8f8ee227952384c68c384900a9c0fee5a14173"
+hash = "bd5f0d2520051bddb8c428d701e78d571f9666488e38ab924318b066b889aaa6"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/seagrass_deep_cold.json"
-hash = "9b378886d4e12a5b8d63ff457f8f8ee227952384c68c384900a9c0fee5a14173"
+hash = "bd5f0d2520051bddb8c428d701e78d571f9666488e38ab924318b066b889aaa6"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/seagrass_deep_warm.json"
-hash = "9b378886d4e12a5b8d63ff457f8f8ee227952384c68c384900a9c0fee5a14173"
+hash = "bd5f0d2520051bddb8c428d701e78d571f9666488e38ab924318b066b889aaa6"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/seagrass_normal.json"
-hash = "9b378886d4e12a5b8d63ff457f8f8ee227952384c68c384900a9c0fee5a14173"
+hash = "bd5f0d2520051bddb8c428d701e78d571f9666488e38ab924318b066b889aaa6"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/seagrass_river.json"
-hash = "9b378886d4e12a5b8d63ff457f8f8ee227952384c68c384900a9c0fee5a14173"
+hash = "bd5f0d2520051bddb8c428d701e78d571f9666488e38ab924318b066b889aaa6"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/seagrass_simple.json"
-hash = "9b378886d4e12a5b8d63ff457f8f8ee227952384c68c384900a9c0fee5a14173"
+hash = "bd5f0d2520051bddb8c428d701e78d571f9666488e38ab924318b066b889aaa6"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/seagrass_swamp.json"
-hash = "9b378886d4e12a5b8d63ff457f8f8ee227952384c68c384900a9c0fee5a14173"
+hash = "bd5f0d2520051bddb8c428d701e78d571f9666488e38ab924318b066b889aaa6"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/placed_feature/seagrass_warm.json"
-hash = "9b378886d4e12a5b8d63ff457f8f8ee227952384c68c384900a9c0fee5a14173"
+hash = "bd5f0d2520051bddb8c428d701e78d571f9666488e38ab924318b066b889aaa6"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/structure_set/mineshafts.json"
@@ -2018,7 +2070,7 @@ hash = "b6a44047cbae22433dedd4ea44da32e7994fe1f9e576caeb1d46429737e0731e"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset/normal.json"
-hash = "c569d8e31bedacb6f8f15004d0c0b9a40175c2750bb3baca09a2b3956c81e934"
+hash = "528453962c06dde3c9167d3e3bac98263a3a7fd95d76dd90b4eaa7b07e27939f"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset_category/silver_lining.json"
@@ -2102,7 +2154,7 @@ hash = "4ec7ca50e35e52f9e67466a5d1de1b0556f06dc06db57e25e032f7993fecffe3"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/placed_feature/trees_birch_sparse.json"
-hash = "7639a9ef0911e9e08c728c387e562546ec37cb8339eae1b8776059f48a3b6bb9"
+hash = "0a62da701876d6ecfefb20779d1adee12d4ea43a0f40ebb1188c97d3baacd868"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/placed_feature/trees_highlands.json"
@@ -3591,6 +3643,11 @@ hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "0b380e24e46e328c362bda7cff892c5b0e471789ca8c429fd2a588eaf63b8712"
 metafile = true
@@ -3671,11 +3728,6 @@ hash = "f5afb2456a9d6809d335f84882fb8a944c52fa22510866b048f54f9c870fe90e"
 metafile = true
 
 [[files]]
-file = "mods/iron-furnaces.pw.toml"
-hash = "e4b51a1521e59d80c6f291a871893d0de627610425543a2a6abac6d1580c27b9"
-metafile = true
-
-[[files]]
 file = "mods/krypton.pw.toml"
 hash = "2b699ec9fd674b493af0e52bc3ecbbdb3dc890a6d70f132dc146d5331c0d5b28"
 metafile = true
@@ -3733,11 +3785,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
-metafile = true
-
-[[files]]
-file = "mods/mutant-monsters.pw.toml"
-hash = "caa3e2282daef2c96ca71b329e07453d904aa338026e274c362432512b0129ca"
 metafile = true
 
 [[files]]

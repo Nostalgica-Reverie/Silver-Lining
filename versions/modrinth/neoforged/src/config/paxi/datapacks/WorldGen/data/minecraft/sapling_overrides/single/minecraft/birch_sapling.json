@@ -1,7 +1,7 @@
 {
-  "replace": false,
+  "replace": true,
   "values": {
-    "treeplacer:all_biomes_temporarily_disabled_because_of_bees": [
+    "treeplacer:all_biomes": [
       {
         "feature": "geophilic:tree/birch/tall",
         "weight": 1

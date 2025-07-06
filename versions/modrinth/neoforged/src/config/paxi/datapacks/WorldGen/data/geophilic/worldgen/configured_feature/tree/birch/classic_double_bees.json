@@ -3,7 +3,7 @@
   "config": {
     "features": [
       {
-        "feature": "minecraft:cherry",
+        "feature": "geophilic:tree/birch/classic",
         "placement": []
       }
     ]
