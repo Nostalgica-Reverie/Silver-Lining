@@ -3341,6 +3341,78 @@ file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/models/item/dead_
 hash = "e3d8325b4be4902cd690f5974425aaa1b8526ad1888d0b42046f7301d397894a"
 
 [[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/block/andesite_waystone.png"
+hash = "d1ffcd221d2616e6ed9fc0a966285aa767c8a25326db8f3c510200ccb7580b8c"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/block/blackstone_waystone.png"
+hash = "3af468f6a92900d6f71accaf988f1f264a264c5c2ec0209ab59e753c88d4a9b7"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/block/chiseled_sandstone_waystone.png"
+hash = "ec1b527ed9552273278abcb05f995f444d55a95888abc743e005fec537898823"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/block/deepslate_waystone.png"
+hash = "f6676f2d2c865b477000dad393df1e8e32631f24d84d6924d1c6e78b4b97702e"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/block/end_stone_waystone.png"
+hash = "45399c5f4645d75a19db07ef8447f79fef2c29c6487009c54aa0b61fb5c939a2"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/block/moss_template.png"
+hash = "1ec7bba2ef1eb7d529e9f2a2cae4130088d4bc905b832835feee23a8d1e9d2d5"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/block/mossy_andesite_waystone.png"
+hash = "2eb31e01dc63d1efc41f7c56a0e6ec0754fede1af57960834508356b53ac91c2"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/block/portstone_runes.png"
+hash = "ecb2b09317bb29e7aea775c0da251efcdc50fb19eccebbd907af6e7100f142fa"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/block/warp_plate.png"
+hash = "e8a8f8d1128b7ebd589c1e56c72e46e69333d7d9d4eb2a289984381188bd600f"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/block/warp_plate_base.png"
+hash = "13cd97d52d960f7a9705def0a390ad08ca014e49d836f6b005fb2047e654c35f"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/block/warp_plate_inner.png"
+hash = "0059f1aa9cd16aa2f601c1d89795f0ce1d222a3b2c1615e8316855da48f927e1"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/block/warp_plate_lock.png"
+hash = "61b9ef494e8832206bfb09adce556c486356a7ae5c3cd4a95e060f038ee83b68"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/block/warp_plate_runes.png"
+hash = "d36183be12ebff978bee0e147761864594e52a6c16bb5755b16114bd3c71dbcf"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/item/attuned_shard.png"
+hash = "723fa1df75ad013912feee1219271dbe5a778a3a9f6ebff7592ee320c2b64b7d"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/item/crumbling_attuned_shard.png"
+hash = "7e10234b0e02f13c90fafb5ea7afe7ba9366447b6dbe667f6100196de3368ab7"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/item/deepslate_shard.png"
+hash = "25e70bb0e3c0f836561d183e4e6c834090a6c52b82c21c9415e4bb6ca8c416e8"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/item/dormant_shard.png"
+hash = "bb8d20bcb7b2c16d30656f7dceb6976418b5a3117b5fef255e282eed6fd81ee6"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/item/warp_dust.png"
+hash = "27001495c45efdb219ec8e274a41ddb3bb4719fb2c6bab3959d9a973cad91a18"
+
+[[files]]
 file = "config/paxi/resourcepacks/wow_extras/pack.mcmeta"
 hash = "33ce4295b5f863c1809b709bcd54cb34b3d686ccb0eb0f6c6b844c8905b5081a"
 
