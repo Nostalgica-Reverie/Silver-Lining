@@ -1,13 +1,13 @@
 name = "oωo (owo-lib)"
-filename = "owo-lib-neoforge-0.12.15.1-beta.3+1.21.jar"
+filename = "owo-lib-neoforge-0.12.15.1-beta.5+1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ccKDOlHs/versions/HD3e3YKK/owo-lib-neoforge-0.12.15.1-beta.3%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/ccKDOlHs/versions/LaCrfdOp/owo-lib-neoforge-0.12.15.1-beta.5%2B1.21.jar"
 hash-format = "sha512"
-hash = "581f0f3fa733bc5d110407839159d19864de0310022d07dd8c513d03f4a6213f8b1769773d8b847a909c42da6c71c20be1e685d366ee0586eb8a42eef19f3fca"
+hash = "0d505679da8158c536ab7eef3b3504627fc99e4bd60aeb78f2b29fe87f539aece9be08610120dcc5dc8e97aafa724b4d7d1b9ccfebe4bfd6c8859d4d2337003b"
 
 [update]
 [update.modrinth]
 mod-id = "ccKDOlHs"
-version = "HD3e3YKK"
+version = "LaCrfdOp"
