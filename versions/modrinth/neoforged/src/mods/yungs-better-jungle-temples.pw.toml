@@ -1,6 +1,6 @@
 name = "YUNG's Better Jungle Temples"
 filename = "YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/z9Ve58Ih/versions/P00i2hJn/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar"

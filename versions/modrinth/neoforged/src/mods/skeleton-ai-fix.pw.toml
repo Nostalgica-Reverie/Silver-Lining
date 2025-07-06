@@ -1,6 +1,6 @@
 name = "Skeleton AI Fix"
 filename = "SkeletonAIFix-v21.1.0-1.21.1-NeoForge.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/jn24bUJo/versions/hiIfEeM5/SkeletonAIFix-v21.1.0-1.21.1-NeoForge.jar"

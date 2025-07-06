@@ -1,6 +1,6 @@
 name = "YUNG's Better Ocean Monuments"
 filename = "YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/3dT9sgt4/versions/yFjEcj2g/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar"

@@ -1,6 +1,6 @@
 name = "YUNG's Better End Island"
 filename = "YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/2BwBOmBQ/versions/I52NZ1qK/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar"
