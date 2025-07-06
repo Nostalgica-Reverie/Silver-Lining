@@ -17,7 +17,7 @@
       },
       "radius": {
         "type": "minecraft:uniform",
-        "max_inclusive": 5,
+        "max_inclusive": 3,
         "min_inclusive": 2
       },
       "trunk_height": {
