@@ -1,7 +1,7 @@
 {
   "replace": false,
   "values": [
-    "minecraft:medium_biomes",
+    "minecraft:small_biomes",
     "minecraft:classic"
   ]
 }

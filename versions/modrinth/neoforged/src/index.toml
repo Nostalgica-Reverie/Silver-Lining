@@ -1658,7 +1658,7 @@ hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/tags/worldgen/world_preset/normal.json"
-hash = "62b757b7a5ba4e6d85330b8ac804d9140f18899610c49e1353ab02f2751be065"
+hash = "9ad37e199f37eca0d1b7f4d7195d3c897484a2f4c03634f443b45937abbaa7a5"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/amethyst_geode.json"
@@ -1929,12 +1929,12 @@ file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/world_preset/larg
 hash = "2e876d91903f943c3b66ab933c91d59a10c5b9c60f608fe825f1e066e3cd82cf"
 
 [[files]]
-file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/world_preset/medium_biomes.json"
-hash = "bc0a965ad2a286a61856b66e3edca1047c627c0148be48e89f2757b9aeb189c0"
-
-[[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/world_preset/normal.json"
 hash = "13908f40065e52ccca8161e401f02e6f6fe2d986bb3156649d0f5f7b5828a1a7"
+
+[[files]]
+file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/world_preset/small_biomes.json"
+hash = "21fd54efa4a207f3427f8f7bc9635cd85966ef539a7ba4d33be6346652b4e9c2"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/moderner_beta/tags/moderner_beta/settings_preset_category/selectable.json"
@@ -2066,23 +2066,23 @@ hash = "153df5ae6c5c1b14e07175f73fc5aa95f8eba08c5ce03cbdfb46daed91e09a99"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset/amplified.json"
-hash = "21af37fdb6964974800652853af9db11f56b2bd710484ff196863365da1421c2"
+hash = "b5820104e195505bbd7efb7a0ad460ad5ba4ae619ff0eab2a75b047c59893940"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset/large_biomes.json"
-hash = "8ad83753cc079e790f58b8b9becebcbc3c931270bb6c21afd5b1e30deec78f07"
-
-[[files]]
-file = "config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset/medium_biomes.json"
-hash = "b6a44047cbae22433dedd4ea44da32e7994fe1f9e576caeb1d46429737e0731e"
+hash = "e491231d749bb17c3dd8bcf202c5418eac7cf97e20d62018a718ef0cee928625"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset/normal.json"
 hash = "d28b0bf918ebcba41911afbd7688c655413275321984ccb72ecfaef184e30fc5"
 
 [[files]]
+file = "config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset/small_biomes.json"
+hash = "55b904905c9a1d38040f7b0040fcfab100ffddaa265fe98d2b520169c9a3aa93"
+
+[[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset_category/silver_lining.json"
-hash = "1ad53e79a7cc6518ad27c52f4959defc1442bbf314a91474f6c637d2f89e7b8b"
+hash = "deb79efb65a862aa459ebcc329cb855c366a4b216ceca666765b4d015ec189ac"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/biome/birch_grove.json"
@@ -2262,7 +2262,7 @@ hash = "9ff0f65a731aac38d8c2c75a911889510cddf8e277fe22bac73af7220c1f22f2"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/lang/en_us.json"
-hash = "8568e845a05deb2346a173d52e7163113c3b808d2b33d13f18b4355f6c329c1e"
+hash = "442b381b1ebb96c935c5b8f554ac2a0f3a780c50bf69fd844cfde44c41f94e66"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/models/block/honey_block.json"

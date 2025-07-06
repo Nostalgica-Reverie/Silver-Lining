@@ -789,14 +789,6 @@
           }
         },
         {
-          "type": "moderner_beta:stacked_zoom",
-          "parent": "land",
-          "id": "land",
-          "level": 2,
-          "seed": 1000,
-          "zoomType": "modal"
-        },
-        {
           "type": "moderner_beta:biome_replacement",
           "parent": "land",
           "id": "hills",
@@ -916,6 +908,30 @@
             ]
           },
           "seed": 1000
+        },
+        {
+          "type": "moderner_beta:modal_zoom",
+          "parent": "land",
+          "id": "land",
+          "seed": 1000
+        },
+        {
+          "type": "moderner_beta:add_land",
+          "parent": "land",
+          "betaShape": false,
+          "biomeSpecificOceans": {
+            "minecraft:snowy_plains": "minecraft:frozen_ocean"
+          },
+          "id": "land",
+          "land": "minecraft:plains",
+          "ocean": "minecraft:ocean",
+          "seed": 3
+        },
+        {
+          "type": "moderner_beta:modal_zoom",
+          "parent": "land",
+          "id": "land",
+          "seed": 1001
         },
         {
           "type": "moderner_beta:predicate_overlay",
@@ -1059,30 +1075,6 @@
           ]
         },
         {
-          "type": "moderner_beta:modal_zoom",
-          "parent": "land",
-          "id": "land",
-          "seed": 1000
-        },
-        {
-          "type": "moderner_beta:add_land",
-          "parent": "land",
-          "betaShape": false,
-          "biomeSpecificOceans": {
-            "minecraft:snowy_plains": "minecraft:frozen_ocean"
-          },
-          "id": "land",
-          "land": "minecraft:plains",
-          "ocean": "minecraft:ocean",
-          "seed": 3
-        },
-        {
-          "type": "moderner_beta:modal_zoom",
-          "parent": "land",
-          "id": "land",
-          "seed": 1001
-        },
-        {
           "type": "moderner_beta:weighted_pool",
           "id": "jungle_lakes",
           "seed": 1000,
@@ -1182,7 +1174,7 @@
           "parent": "land",
           "id": "land",
           "seed": 1001,
-          "level": 4,
+          "level": 3,
           "zoomType": "modal"
         },
         {
@@ -1203,7 +1195,7 @@
           "type": "moderner_beta:stacked_zoom",
           "parent": "river",
           "id": "river",
-          "level": 5,
+          "level": 3,
           "seed": 1000,
           "zoomType": "modal"
         },
@@ -1224,19 +1216,7 @@
           "type": "moderner_beta:modal_zoom",
           "parent": "river",
           "id": "river",
-          "seed": 1005
-        },
-        {
-          "type": "moderner_beta:smooth",
-          "parent": "river",
-          "id": "river",
-          "seed": 1000
-        },
-        {
-          "type": "moderner_beta:modal_zoom",
-          "parent": "river",
-          "id": "river",
-          "seed": 1006
+          "seed": 1003
         },
         {
           "type": "moderner_beta:smooth",

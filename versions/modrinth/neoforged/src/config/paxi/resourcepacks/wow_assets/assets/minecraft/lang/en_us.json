@@ -12,7 +12,7 @@
     "item.minecraft.clock.description": "§r§7Shows time when held",
     "item.minecraft.honeycomb": "Slimecomb",
     "item.minecraft.oak_boat": "Boat",
-    "generator.minecraft.medium_biomes": "Medium Biomes",
+    "generator.minecraft.small_biomes": "Small Biomes",
     "generator.minecraft.classic": "Classic Terrain (1.6.4)",
     "generator.moderner_beta.moderner_beta": "Customized"
 }
