@@ -71,7 +71,7 @@
         "terrestria:dense_woodlands": "0.1;1.0",
         "terrestria:dense_woodlands*hills": "0.3;1.5",
         "terrestria:rainbow_rainforest": "0.1;1.5",
-        "minecraft:meadow": "0.5;0.3"
+        "minecraft:meadow": "0.8;0.3"
       },
       "scaleOffset": 0.0,
       "scaleWeight": 1.0
@@ -101,7 +101,7 @@
     "moderner_beta:provider": "moderner_beta:early_release",
     "moderner_beta:sea_level_offset": 0,
     "moderner_beta:use_surface_rules": true
-  },  
+  },
   "biomeSettings": {
     "moderner_beta:fractal_layers": {
       "outputs": {

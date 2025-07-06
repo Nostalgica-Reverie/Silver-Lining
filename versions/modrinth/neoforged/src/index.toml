@@ -2030,7 +2030,7 @@ hash = "e1a4f0b7aa5269645818e9853ad9f07a1dcbeab93331f2c271c117fc69cf06eb"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/biome/highlands.json"
-hash = "a6d135e7dff97f62cac0f71be642e87d6597e905ad0a03d86cf1003ce3f9926a"
+hash = "a20d2b04a8ad2b6d0ec87318b6a8643324d248a073ed3ae2f89b329b2a7e7cd6"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/biome/parched_forest.json"
