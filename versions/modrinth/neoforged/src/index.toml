@@ -1198,7 +1198,7 @@ hash = "575580a59b0c1e2da2f80deb66cf64c4390e979147bcbcbda1092fb2a43145fd"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/boatload/recipe/large_oak_boat.json"
-hash = "ec53ef1299e65bb6432c629cc4bd2f66171f3d8987047915e6783df4ca04bda2"
+hash = "0a0376fd6f0d414f475133ebd23b61fb5f39a8ce1b4e3cbf7f7c0323b1d5223b"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/acacia_boat.json"
