@@ -2813,6 +2813,38 @@ file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/cyan_
 hash = "6ba060f3958d19aa8968e43d9b669c671b5376e95382543ab40d1493d018bc9b"
 
 [[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/door_bottom_left.json"
+hash = "d5844e5c5929de98872c1c974bbda25999832363808bef4609047930169cdb9d"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/door_bottom_left_open.json"
+hash = "7c30536a0238226ecc1f01c33752867bb1c08fdfccbaac0e76ab1abb42bb7abe"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/door_bottom_right.json"
+hash = "a7ec7cd09fafcf585e5e85107ea992c0ab0a384a614c896fa4315ac83753675c"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/door_bottom_right_open.json"
+hash = "6ecf807420fb685ab3593f4f002f814f772dfeacec42166dfc4849000945eeb8"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/door_top_left.json"
+hash = "bf5d17c7098216aa2212a4c5ed78d32d59e4bac57b6d37265360bf25c258cc78"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/door_top_left_open.json"
+hash = "5a3e31ddc7e307341a675d6ab13ba1957da530539cf7685cd60a28fcaf34a87d"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/door_top_right.json"
+hash = "d99450acfd8959684817707a2f94aeb80589fa4384e6acebbf2151392addbbbf"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/door_top_right_open.json"
+hash = "bfdb199b6182a8d78609fb011e60f3489196d76ac36407e856b1cea7e3dc356e"
+
+[[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/glass_pane_noside.json"
 hash = "99f8a258a5553283d803ee63fba903243284a1ef891b316411cb8acba9e6fa4c"
 
