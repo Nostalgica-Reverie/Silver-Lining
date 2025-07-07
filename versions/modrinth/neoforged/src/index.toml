@@ -1201,6 +1201,10 @@ file = "config/paxi/datapacks/Recipes/data/boatload/recipe/large_oak_boat.json"
 hash = "ec53ef1299e65bb6432c629cc4bd2f66171f3d8987047915e6783df4ca04bda2"
 
 [[files]]
+file = "config/paxi/datapacks/Recipes/data/minecraft/advancement/recipes/combat/shield.json"
+hash = "c368c493d2ba759027027ea99c02d6af0513a67bbbcd137ea1e4441b79ac3ad6"
+
+[[files]]
 file = "config/paxi/datapacks/Recipes/data/minecraft/advancement/recipes/decorations/beehive.json"
 hash = "b5fe5813a30bda8e7ea004a7b965c3c3b086b17c41ecbf327b6d0123dace6d79"
 
@@ -1323,6 +1327,10 @@ hash = "53f0b0fa9a0f36c958b27069b39162cd17bf325ea9f85f3517161a7064f26e1a"
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/oak_sign.json"
 hash = "8f6b47c6be55e0a0774eec4d85477832dd6ab65ad792c3807e1668dae957954d"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/shield.json"
+hash = "37ba2e8a54a752cc3143435287affcd2cfbc82ec625fdca9f710c9a0bef79d18"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/spruce_boat.json"
