@@ -1198,7 +1198,7 @@ hash = "575580a59b0c1e2da2f80deb66cf64c4390e979147bcbcbda1092fb2a43145fd"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/boatload/recipe/large_oak_boat.json"
-hash = "0a0376fd6f0d414f475133ebd23b61fb5f39a8ce1b4e3cbf7f7c0323b1d5223b"
+hash = "ec53ef1299e65bb6432c629cc4bd2f66171f3d8987047915e6783df4ca04bda2"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/minecraft/advancement/recipes/decorations/beehive.json"
@@ -1850,7 +1850,7 @@ hash = "9ad37e199f37eca0d1b7f4d7195d3c897484a2f4c03634f443b45937abbaa7a5"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/amethyst_geode.json"
-hash = "f5313248b6009ddb20c274b8291488effa3e31b6377337fde087721a691633a6"
+hash = "e60530dcf88a007bbf435cdb0284a56a09f395502656334dc6244c900fb20106"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/configured_feature/birch_bees_0002.json"
@@ -3749,12 +3749,8 @@ file = "configureddefaults/config/modmenu.json"
 hash = "ee8d1a6f11ea009f37abba6325d97766910e1786b0de848aa307771d8a87ed72"
 
 [[files]]
-file = "configureddefaults/config/nostalgic_tweaks/backup/nostalgic_tweaks-client-startup_backup.json"
-hash = "1172867eda208cdf70a28b98d30bdd16a81d0adcbdb7928c9d3be8236b4289c3"
-
-[[files]]
 file = "configureddefaults/config/nostalgic_tweaks/nostalgic_tweaks.json"
-hash = "b9fb2b908cc72ab36699bba48605fecb0beae6366fe8a38344ccb5d834da37e1"
+hash = "f0b0c8d9c2f420b0dcb3e527de25ffe45e74bef990be39874fdeea78abd1af42"
 
 [[files]]
 file = "configureddefaults/config/puzzle.json"
@@ -4212,11 +4208,6 @@ hash = "b0038c775e22fa883d474eb1ef0f686cc544091844e24a8a4b5774838059e808"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
-metafile = true
-
-[[files]]
 file = "mods/seasonhud.pw.toml"
 hash = "840c8adddee0965dbcf0387b7c253f415a08dc923935a272b64d7b339447d8a6"
 metafile = true
@@ -4319,6 +4310,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "4853035723ad5005425f408601ad878b1a6c28bf20ca9ab9c1ec0997e60c348e"
+metafile = true
+
+[[files]]
+file = "mods/xanders-sodium-options.toml"
+hash = "37b68508d279d982bd0c0b970f8e331acf006edcaab653ef5869b702c21b73b1"
 metafile = true
 
 [[files]]
