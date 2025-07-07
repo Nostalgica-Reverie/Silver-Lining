@@ -3393,6 +3393,14 @@ file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/rabb
 hash = "0ab644eda40b135b34d099823a3e1c4437faacb4a7f1727f53fb881d4f081cf4"
 
 [[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/misc/enchanted_glint_entity.png"
+hash = "3731a4d8b33b4d8c40a0b3a6350fd266061493bc589524b7ae03a1abcb136df1"
+
+[[files]]
+file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/misc/enchanted_glint_item.png"
+hash = "3731a4d8b33b4d8c40a0b3a6350fd266061493bc589524b7ae03a1abcb136df1"
+
+[[files]]
 file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/models/armor/leather_layer_1.png"
 hash = "374a7397935072557c0743325e127229930aecc9ad3c10204e527dd9ce0ca567"
 
@@ -3778,7 +3786,7 @@ hash = "cdf759d5937a9cb59cd9155fdb6536fae7bf823c0dee683e1e814e8052ab64ea"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "f31cd9fbf5c7ced2e5ea52257487eac13a238bae5270e9fb9bae65a63c9699cd"
+hash = "53bcd3b3740001a9670e8282311cb22fc6c1226165f954d43f53436ff517807f"
 
 [[files]]
 file = "mods/air-hop.pw.toml"
@@ -3837,7 +3845,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "a31cc2b635c35b255f86b0136ceaea3cee0cef3f97da98edbac56dec26914e18"
+hash = "17b40cfda4539840d350572bc5693a5984e862ecb58c2458f33822a074381bc4"
 metafile = true
 
 [[files]]
@@ -4037,7 +4045,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "2b699ec9fd674b493af0e52bc3ecbbdb3dc890a6d70f132dc146d5331c0d5b28"
+hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
 metafile = true
 
 [[files]]
@@ -4121,6 +4129,11 @@ hash = "044abd44322fdea17184fecefa77b0f0e8bf550161c70518a16917b76821b427"
 metafile = true
 
 [[files]]
+file = "mods/oldpotions.pw.toml"
+hash = "88ae7dcecc4643bd30e2a5ed256145b5d09070ddac92dcb4ff23346402671eff"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "5501d478ef5237f12cf0a2e4b683954cf1482b43fdf090c6f5d9bec4409f3324"
 metafile = true
@@ -4187,7 +4200,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "00f400af981bbe8be3767ef49f4bc422a9649c3fa2d403bae7b25202a05fda1a"
+hash = "cc5914bc09a7362dfd660fbeff105d3595b19de9c6491327272f85c557d4aa3b"
 metafile = true
 
 [[files]]
@@ -4257,7 +4270,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "53e01bde67391ead9e5bcf1e86479aebd9ddb0345f871ce4b49afd655b238523"
+hash = "99cc4bdfa44196b887c0b6ea48622f89a6a004866a9af47b929dabe5331e2605"
 metafile = true
 
 [[files]]
