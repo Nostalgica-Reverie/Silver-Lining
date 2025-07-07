@@ -1201,6 +1201,18 @@ file = "config/paxi/datapacks/Recipes/data/boatload/recipe/large_oak_boat.json"
 hash = "0a0376fd6f0d414f475133ebd23b61fb5f39a8ce1b4e3cbf7f7c0323b1d5223b"
 
 [[files]]
+file = "config/paxi/datapacks/Recipes/data/minecraft/advancement/recipes/decorations/beehive.json"
+hash = "b5fe5813a30bda8e7ea004a7b965c3c3b086b17c41ecbf327b6d0123dace6d79"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/minecraft/advancement/recipes/decorations/honeycomb_block.json"
+hash = "a2ab4e03f2e9266d36565367da540adf6f281748f418f67b6f578639d4c37ef7"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/minecraft/advancement/recipes/redstone/honey_block.json"
+hash = "0523815a8924837d9042c8a97dc9c00d66c32e8c3eeb6ba4916b407e084fd009"
+
+[[files]]
 file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/acacia_boat.json"
 hash = "3298dcacfc27c415e16cca0cfcbb414a7907303f57e3cc3ad0fad8cf8d8997ab"
 
@@ -1219,6 +1231,10 @@ hash = "901d57953b24062650c3d8c802d4052cfee0c9a8ff61ec4a4d6dcd0ca326ebb3"
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/bamboo_sign.json"
 hash = "70cec2ec566dd173bcbc9513a6dd664094e0dafda3d8330ff15d6b01835bc974"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/beehive.json"
+hash = "37ba2e8a54a752cc3143435287affcd2cfbc82ec625fdca9f710c9a0bef79d18"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/birch_boat.json"
@@ -1263,6 +1279,14 @@ hash = "20638e27ffff439036f60cb772e901fec34508caf0aa506db4cd05b421c737d0"
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/dark_oak_sign.json"
 hash = "2c0a56cbd62ce5655a96f885bcbbd2a2cbf0fc0047687edc01d0248623169ed4"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/honey_block.json"
+hash = "37ba2e8a54a752cc3143435287affcd2cfbc82ec625fdca9f710c9a0bef79d18"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/honeycomb_block.json"
+hash = "37ba2e8a54a752cc3143435287affcd2cfbc82ec625fdca9f710c9a0bef79d18"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/jungle_boat.json"
@@ -1319,6 +1343,142 @@ hash = "d666b0550221eaf0f3afdb865a3d7ed50812596c14c03ffd10a3ca6ef8569817"
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/warped_sign.json"
 hash = "1494dc9039d3108f0408ecb56ee8337299b2d299c3ed8058822dd019a3d9f1ef"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/advancement/recipes/redstone/magma_cream_block.json"
+hash = "01f41f2d25b6b85e979d05975c61ea9a0d8d5c14bef3446260f1186ba672db4a"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/activator_rail.json"
+hash = "124b5bade920ebaaf5198ebbf06d799fda4305a7b65314422261afad255eb8d6"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/amethyst_block.json"
+hash = "d93f62470257fe41c4b72fcbc9e4736ad6bb6e8d756e607608d8caf9b336b90b"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/arrow.json"
+hash = "cfc2bdb24f1830b23c72187a48fada580d8a40cdb9e416939053a5c1814969cf"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/barrel.json"
+hash = "4e75c23f61276481139662b62f6a0d4fb455a10510223f262b92eb61fb731f8e"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/beetroot_soup.json"
+hash = "1584bdff72b820727647ac8acb32f5f0ecc87ba5c3d58baf0c7d4597f30564a5"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/blast_furnace.json"
+hash = "8b940bb3fc43ab93f4a94e5839e67f76e3c448f90c4c86b9141106ec4e9f7eb0"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/blaze_powder.json"
+hash = "f0bd6ae42526750b9eeec388b1b69c8eb8e5b582e7dd540298f16067b4514a39"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/calcite.json"
+hash = "23f3a18c46a700315cf0dfd9c02d1ee3102fa06e3a00c3becd1ee51417bd4128"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/chainmail_boots.json"
+hash = "603b3c5f9762611b019e2d8f857c22794e37ab22694095169039c3b5c30ae81a"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/chainmail_chestplate.json"
+hash = "79f1604170bd80a2d9762f852d66515aff71d6c840884b7e8a22955c610551c1"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/chainmail_helmet.json"
+hash = "0be3cedce840cb1e9e0733699f07a8ebfc6827c8383c6f691cdc49613322cf4f"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/chainmail_leggings.json"
+hash = "4e9673fe90be681849e685f907a29e4887f884a5543bfd4315580004846d1a0a"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/detector_rail.json"
+hash = "7f549189b72369678a7de4e85c65703d8fc8497470b94f5ac368ff60c8012aeb"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/diamond_horse_armor.json"
+hash = "a6d473408a6eb4a86f2fca6fb204213edc87d8c7ff264263485d2d2da0ec1e43"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/dripstone_block.json"
+hash = "47ced5d8ac77798458df34fbd0d7365df1df50c29121f982fa02781f4a1a482f"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/enchanted_golden_apple.json"
+hash = "ff2ac9988fbe27859d324a1cee53ec91162795e60470be9e30fe4ee3c944f985"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/gold_horse_armor.json"
+hash = "2e79c216e6a0fc4bd1e581a07b1e44f427bbfd50446daf00d1ba466865356287"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/iron_horse_armor.json"
+hash = "06c9f22d41d37716af2fd5bd5dba5b6c83d44b47bce0edc92b42335d7cc0dd01"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/leather_horse_armor.json"
+hash = "5cc648abd461887d036ee5d3d3d109cfe8e3a745404fb6b2033e80f1b2fce837"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/magma_cream_block.json"
+hash = "121b350eb9b517bcb88e1b6560753f1505f5c814bd7ebbb809a55e1aac59530f"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/notch_apple.json"
+hash = "d128a62260f54f8ea15341e309dd1ae35fe54459f4983c7c7e27d01c2fa06bff"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/powered_rail.json"
+hash = "786ee653dd32e069db3f396cefc9bc950ae98191a6a5b8dac4e12e8316f82bc3"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/rail.json"
+hash = "08aafb178fa0e22fc1b82297fa511a3dbc7c0905ccc4d962f4dea4c52a458121"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/saddle.json"
+hash = "711d476e2a866ab52a0481d727738345c95dab67a10b3c708ce2d2ac93dd0caa"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/slimecomb.json"
+hash = "20a3481ba483b2134cb5aff5b55252c1504d23492586a70f519035ed3d3afdc8"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/smoker.json"
+hash = "df0fca73dcd44cc49127e7926f7117d6aedc0d43a03abcb3e350086cf105967d"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/smooth_stone.json"
+hash = "b030df278149f1dd7c3af8a2e855b4bf77618c08a877cb5c9518de2bff6e7bc0"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/stonecutting/cobblestone_from_stone.json"
+hash = "095616035277ee492af9fced9e6b7634514fa49572fe49ea987e2e6f41fdba08"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/stonecutting/pointed_dripstone.json"
+hash = "de00a4b7152a28068db383759ace795354d5cad3acdc63cefa07ba12d7c1b0af"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/stonecutting/smooth_stone_from_stone.json"
+hash = "d8955f706a2692a035ac04ac3fb40ad19ba1d9c21e6e2df691571d2574554016"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/stonecutting/smooth_stone_slab_from_stone.json"
+hash = "b317c6c1057629c6b268c8865f006a239ba19cb5513825f37147349c86073241"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/tuff.json"
+hash = "fc2a804a1a011b75f264698aa88b042620524b99cb7c1ded4afae50d93f2fae3"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/wool_recipe.json"
+hash = "5dcf906ec4e89b44c4ab84d2318be81095c35517e6ba6f8d08291dc32388a7a4"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/terrestria/recipe/cypress_boat.json"
@@ -1431,138 +1591,6 @@ hash = "8ae240ad37e9eba32a0189c39dd6d3c1dde7beb42ad9396dc6186c0801c1fdfa"
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/traverse/recipe/fir_boat.json"
 hash = "f648ab6603bb20727d61fb1e45e96e1ef6d7be6b4c90985100b7d2c34e3283aa"
-
-[[files]]
-file = "config/paxi/datapacks/Recipes/data/wow/recipe/activator_rail.json"
-hash = "124b5bade920ebaaf5198ebbf06d799fda4305a7b65314422261afad255eb8d6"
-
-[[files]]
-file = "config/paxi/datapacks/Recipes/data/wow/recipe/amethyst_block.json"
-hash = "d93f62470257fe41c4b72fcbc9e4736ad6bb6e8d756e607608d8caf9b336b90b"
-
-[[files]]
-file = "config/paxi/datapacks/Recipes/data/wow/recipe/arrow.json"
-hash = "cfc2bdb24f1830b23c72187a48fada580d8a40cdb9e416939053a5c1814969cf"
-
-[[files]]
-file = "config/paxi/datapacks/Recipes/data/wow/recipe/barrel.json"
-hash = "4e75c23f61276481139662b62f6a0d4fb455a10510223f262b92eb61fb731f8e"
-
-[[files]]
-file = "config/paxi/datapacks/Recipes/data/wow/recipe/beetroot_soup.json"
-hash = "1584bdff72b820727647ac8acb32f5f0ecc87ba5c3d58baf0c7d4597f30564a5"
-
-[[files]]
-file = "config/paxi/datapacks/Recipes/data/wow/recipe/blast_furnace.json"
-hash = "8b940bb3fc43ab93f4a94e5839e67f76e3c448f90c4c86b9141106ec4e9f7eb0"
-
-[[files]]
-file = "config/paxi/datapacks/Recipes/data/wow/recipe/blaze_powder.json"
-hash = "f0bd6ae42526750b9eeec388b1b69c8eb8e5b582e7dd540298f16067b4514a39"
-
-[[files]]
-file = "config/paxi/datapacks/Recipes/data/wow/recipe/calcite.json"
-hash = "23f3a18c46a700315cf0dfd9c02d1ee3102fa06e3a00c3becd1ee51417bd4128"
-
-[[files]]
-file = "config/paxi/datapacks/Recipes/data/wow/recipe/chainmail_boots.json"
-hash = "603b3c5f9762611b019e2d8f857c22794e37ab22694095169039c3b5c30ae81a"
-
-[[files]]
-file = "config/paxi/datapacks/Recipes/data/wow/recipe/chainmail_chestplate.json"
-hash = "79f1604170bd80a2d9762f852d66515aff71d6c840884b7e8a22955c610551c1"
-
-[[files]]
-file = "config/paxi/datapacks/Recipes/data/wow/recipe/chainmail_helmet.json"
-hash = "0be3cedce840cb1e9e0733699f07a8ebfc6827c8383c6f691cdc49613322cf4f"
-
-[[files]]
-file = "config/paxi/datapacks/Recipes/data/wow/recipe/chainmail_leggings.json"
-hash = "4e9673fe90be681849e685f907a29e4887f884a5543bfd4315580004846d1a0a"
-
-[[files]]
-file = "config/paxi/datapacks/Recipes/data/wow/recipe/detector_rail.json"
-hash = "7f549189b72369678a7de4e85c65703d8fc8497470b94f5ac368ff60c8012aeb"
-
-[[files]]
-file = "config/paxi/datapacks/Recipes/data/wow/recipe/diamond_horse_armor.json"
-hash = "a6d473408a6eb4a86f2fca6fb204213edc87d8c7ff264263485d2d2da0ec1e43"
-
-[[files]]
-file = "config/paxi/datapacks/Recipes/data/wow/recipe/dripstone_block.json"
-hash = "47ced5d8ac77798458df34fbd0d7365df1df50c29121f982fa02781f4a1a482f"
-
-[[files]]
-file = "config/paxi/datapacks/Recipes/data/wow/recipe/enchanted_golden_apple.json"
-hash = "ff2ac9988fbe27859d324a1cee53ec91162795e60470be9e30fe4ee3c944f985"
-
-[[files]]
-file = "config/paxi/datapacks/Recipes/data/wow/recipe/gold_horse_armor.json"
-hash = "2e79c216e6a0fc4bd1e581a07b1e44f427bbfd50446daf00d1ba466865356287"
-
-[[files]]
-file = "config/paxi/datapacks/Recipes/data/wow/recipe/iron_horse_armor.json"
-hash = "06c9f22d41d37716af2fd5bd5dba5b6c83d44b47bce0edc92b42335d7cc0dd01"
-
-[[files]]
-file = "config/paxi/datapacks/Recipes/data/wow/recipe/leather_horse_armor.json"
-hash = "5cc648abd461887d036ee5d3d3d109cfe8e3a745404fb6b2033e80f1b2fce837"
-
-[[files]]
-file = "config/paxi/datapacks/Recipes/data/wow/recipe/magma_cream_block.json"
-hash = "121b350eb9b517bcb88e1b6560753f1505f5c814bd7ebbb809a55e1aac59530f"
-
-[[files]]
-file = "config/paxi/datapacks/Recipes/data/wow/recipe/notch_apple.json"
-hash = "d128a62260f54f8ea15341e309dd1ae35fe54459f4983c7c7e27d01c2fa06bff"
-
-[[files]]
-file = "config/paxi/datapacks/Recipes/data/wow/recipe/powered_rail.json"
-hash = "786ee653dd32e069db3f396cefc9bc950ae98191a6a5b8dac4e12e8316f82bc3"
-
-[[files]]
-file = "config/paxi/datapacks/Recipes/data/wow/recipe/rail.json"
-hash = "08aafb178fa0e22fc1b82297fa511a3dbc7c0905ccc4d962f4dea4c52a458121"
-
-[[files]]
-file = "config/paxi/datapacks/Recipes/data/wow/recipe/saddle.json"
-hash = "711d476e2a866ab52a0481d727738345c95dab67a10b3c708ce2d2ac93dd0caa"
-
-[[files]]
-file = "config/paxi/datapacks/Recipes/data/wow/recipe/slimecomb.json"
-hash = "20a3481ba483b2134cb5aff5b55252c1504d23492586a70f519035ed3d3afdc8"
-
-[[files]]
-file = "config/paxi/datapacks/Recipes/data/wow/recipe/smoker.json"
-hash = "df0fca73dcd44cc49127e7926f7117d6aedc0d43a03abcb3e350086cf105967d"
-
-[[files]]
-file = "config/paxi/datapacks/Recipes/data/wow/recipe/smooth_stone.json"
-hash = "b030df278149f1dd7c3af8a2e855b4bf77618c08a877cb5c9518de2bff6e7bc0"
-
-[[files]]
-file = "config/paxi/datapacks/Recipes/data/wow/recipe/stonecutting/cobblestone_from_stone.json"
-hash = "095616035277ee492af9fced9e6b7634514fa49572fe49ea987e2e6f41fdba08"
-
-[[files]]
-file = "config/paxi/datapacks/Recipes/data/wow/recipe/stonecutting/pointed_dripstone.json"
-hash = "de00a4b7152a28068db383759ace795354d5cad3acdc63cefa07ba12d7c1b0af"
-
-[[files]]
-file = "config/paxi/datapacks/Recipes/data/wow/recipe/stonecutting/smooth_stone_from_stone.json"
-hash = "d8955f706a2692a035ac04ac3fb40ad19ba1d9c21e6e2df691571d2574554016"
-
-[[files]]
-file = "config/paxi/datapacks/Recipes/data/wow/recipe/stonecutting/smooth_stone_slab_from_stone.json"
-hash = "b317c6c1057629c6b268c8865f006a239ba19cb5513825f37147349c86073241"
-
-[[files]]
-file = "config/paxi/datapacks/Recipes/data/wow/recipe/tuff.json"
-hash = "fc2a804a1a011b75f264698aa88b042620524b99cb7c1ded4afae50d93f2fae3"
-
-[[files]]
-file = "config/paxi/datapacks/Recipes/data/wow/recipe/wool_recipe.json"
-hash = "5dcf906ec4e89b44c4ab84d2318be81095c35517e6ba6f8d08291dc32388a7a4"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/pack.mcmeta"
@@ -2402,23 +2430,23 @@ hash = "88660439eb38c5c3c167d2eb97520be19835492137c625cbb4417dc84ff9d531"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/lang/en_au.json"
-hash = "61ca6788e470d8131f7b3f71e800d282e306e7b648a29bde76848afaace100f1"
+hash = "50139c936ec069cba08e9e306774a034e8074b87e0e88c30588de117d34630cf"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/lang/en_ca.json"
-hash = "a2ba362b101a71085cad5dd4984fe4c6cfc2f31f991bb03cb8c8e9f25aec6dd8"
+hash = "56a46257be52bc059a29b19a7fc393c4b548191a1698474d7a81379c7d1c3728"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/lang/en_gb.json"
-hash = "61ca6788e470d8131f7b3f71e800d282e306e7b648a29bde76848afaace100f1"
+hash = "50139c936ec069cba08e9e306774a034e8074b87e0e88c30588de117d34630cf"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/lang/en_nz.json"
-hash = "61ca6788e470d8131f7b3f71e800d282e306e7b648a29bde76848afaace100f1"
+hash = "50139c936ec069cba08e9e306774a034e8074b87e0e88c30588de117d34630cf"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/lang/en_us.json"
-hash = "8d0192fddba5ac3e51014fea8282755e5d6c2270daac7454e963a55e60f80a12"
+hash = "762bd5c32e9726d6956cb541d9381a0056d0d3ef3c700ed4d78f9a95c757ab8b"
 
 [[files]]
 file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/models/block/honey_block.json"
