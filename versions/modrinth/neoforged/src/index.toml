@@ -4183,11 +4183,6 @@ hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
 metafile = true
 
 [[files]]
-file = "mods/personality!.pw.toml"
-hash = "286eda3d98d0ede715cbb29c5f4845781bbc45b5a9982b5417e81f84dfd99a3e"
-metafile = true
-
-[[files]]
 file = "mods/pet-cemetery.pw.toml"
 hash = "023168228652ce58992acd9a4c0e3da88c5dbc5183f968d2feb41587d6a3f62f"
 metafile = true
