@@ -3789,8 +3789,12 @@ file = "configureddefaults/config/modmenu.json"
 hash = "ee8d1a6f11ea009f37abba6325d97766910e1786b0de848aa307771d8a87ed72"
 
 [[files]]
+file = "configureddefaults/config/nostalgic_tweaks/nostalgic_tweaks-server.json"
+hash = "b4b45b01444228b31bfc2c92f72ef10168e37a486c49823c705784301078c36e"
+
+[[files]]
 file = "configureddefaults/config/nostalgic_tweaks/nostalgic_tweaks.json"
-hash = "f0b0c8d9c2f420b0dcb3e527de25ffe45e74bef990be39874fdeea78abd1af42"
+hash = "a7b38f77ea53c1a5d9416615572807187df7b819a4bd9121069de03f05b71293"
 
 [[files]]
 file = "configureddefaults/config/puzzle.json"
