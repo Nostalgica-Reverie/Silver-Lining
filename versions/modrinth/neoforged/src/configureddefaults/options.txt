@@ -1,3 +1,4 @@
+__DO_NOT_ADD__:Do not add "syncChunkWrites". It only works on Windows and breaks world saving on other systems. Do not add it.
 version:3955
 ao:true
 biomeBlendRadius:2
