@@ -129,14 +129,14 @@
 		#Dynamically allows all small mobs inside jars depending on their hitbox size
 		jar_auto_detect = false
 		#Allow Jars to capture small mobs
-		jar_capture = true
+		jar_capture = false
 		#Allow Jars to hold cookies
 		jar_cookies = true
 		#Allow Jars to hold liquids from bottles, buckets and bowls
 		jar_liquids = true
 
 	[functional.cage]
-		enabled = true
+		enabled = false
 		#Allows all entities to be captured by cages and jars. Not meant for survival
 		allow_all_mobs = false
 		#Allows all baby mobs to be captured by cages

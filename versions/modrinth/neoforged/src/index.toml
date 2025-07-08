@@ -3886,7 +3886,7 @@ hash = "1570d389b7f47caa8256fcf023243cd510d37eda62a611c8e27936c12d93d806"
 
 [[files]]
 file = "configureddefaults/config/supplementaries-common.toml"
-hash = "b4f6cd2df0123a62d5ee388b52e616eeb04b964d8e599ae6532ad172ec3b408f"
+hash = "cd720947c69797e5848cfa19be8d1a1b6dd9688bb2b26fa9bae27938fca32631"
 
 [[files]]
 file = "configureddefaults/config/terrestria/client.json"
