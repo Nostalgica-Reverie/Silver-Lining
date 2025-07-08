@@ -3561,6 +3561,50 @@ file = "config/paxi/resourcepacks/sl_extras/assets/silver_lining/polytone/biome_
 hash = "c521c37177c3362455159afc73a8a69ab98c5ddc787c21c82e6f6891d66bb8cf"
 
 [[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/simplest_copper_gear/textures/item/copper_axe.png"
+hash = "a8e0305e57f94280dc788794148fb135c3618ea1d7ed6f684d8c400264ba5c02"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/simplest_copper_gear/textures/item/copper_boots.png"
+hash = "4677467a01935d62e81a6a2b05177abd8c582252d355eaaa95121986dcabd402"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/simplest_copper_gear/textures/item/copper_chestplate.png"
+hash = "b9e2132ae22966b309afd765da9a805a04914ed39621670c630e259097ba478d"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/simplest_copper_gear/textures/item/copper_helmet.png"
+hash = "46eca069d3c8598a9cad7214a24710a9c5b04733f8b64f0b4f6e48bdb302df61"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/simplest_copper_gear/textures/item/copper_hoe.png"
+hash = "5ac7cbc2dbb6e5187adc72c17677e4fd53397eefef295f29b88e581a3e18db07"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/simplest_copper_gear/textures/item/copper_leggings.png"
+hash = "ffd59d647eb3023ab6cb8d0ed39cd7eb83a5ddf54ff62e7b1a13ca0cb0fca7f6"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/simplest_copper_gear/textures/item/copper_pickaxe.png"
+hash = "363d7aecb45e21891c6524b877a788aa6f848fa01f7640fab47b61145204f3e5"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/simplest_copper_gear/textures/item/copper_shovel.png"
+hash = "6130510be5d156ff745691c1dbae52fbc74ba0f2bf9bbce3d79528896f4dd92b"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/simplest_copper_gear/textures/item/copper_sword.png"
+hash = "85757b3cecaac233b93bc90105f1be4ed2d6f95bed6421d8f6425231b0645e91"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/simplest_copper_gear/textures/models/armor/copper_layer_1.png"
+hash = "259d8826e368cfe3f68abecea2b3dfced761717c3ca5e392f9892546d340144b"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/simplest_copper_gear/textures/models/armor/copper_layer_2.png"
+hash = "19991c8999d56bcc3cc9364f1e032b9e09e8e7aaf1918b9687c97124f2560429"
+
+[[files]]
 file = "config/paxi/resourcepacks/sl_extras/assets/terrestria/models/block/dead_grass.json"
 hash = "64acc338087a2cbdd40b500a828a8f9da761f7be92f860fe4afce3a26fcd591c"
 
@@ -4278,6 +4322,11 @@ metafile = true
 [[files]]
 file = "mods/simple-snowy-fix-(forge-fabric).pw.toml"
 hash = "a06bf9e74c4f8b6a1080ab43c04030add98378e1d4596103ea91db322309bad7"
+metafile = true
+
+[[files]]
+file = "mods/simplest-copper-gear.pw.toml"
+hash = "d097c0fa0c1506cf0dd81c411ea43ef5e50c6646e5f355a3de2c360aae50a68a"
 metafile = true
 
 [[files]]
