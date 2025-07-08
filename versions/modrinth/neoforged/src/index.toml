@@ -1226,7 +1226,7 @@ hash = "ade94b7f16da8430e21d645456151e39c5caf1dd92b884bc9178996c2e719c6c"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/acacia_sign.json"
-hash = "ab3cb36a8e7594a88f6d4c4e3fb1cb338248eb5a6c3aec2ff421b6709e5b90c2"
+hash = "e60d995dacb3b92b0e6c4d7b5f25d6e71244d316ee894758ba8e594b56080672"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/bamboo_hanging_sign.json"
@@ -1234,7 +1234,7 @@ hash = "901d57953b24062650c3d8c802d4052cfee0c9a8ff61ec4a4d6dcd0ca326ebb3"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/bamboo_sign.json"
-hash = "70cec2ec566dd173bcbc9513a6dd664094e0dafda3d8330ff15d6b01835bc974"
+hash = "6af598c80a501c6a8c136e5c9720c31e6a676d99ea1b880553e4c8123737c586"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/beehive.json"
@@ -1250,7 +1250,7 @@ hash = "aae5aaef49c68449ba47c5005791c39063854f02b8a352b457cf8595a413d61b"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/birch_sign.json"
-hash = "8a76a47ea0c15934c001d75e4fe99c3e189dce0e22dfee5788c59667afe6eaab"
+hash = "b90e9f60360dec8ead9278fb27841e024f45f2b8b74d567f46ec8fb316dbfbbc"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/cherry_boat.json"
@@ -1262,7 +1262,7 @@ hash = "c306db619cc83470ff5269f3c5da7fccf4a743e244b24be9bd0e90113c3056d9"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/cherry_sign.json"
-hash = "23ccb9817ebda0d510c5eacacafe725908bdea1c6f6e8795bb827cc0bc357be6"
+hash = "4a8294ec00e5439dd23b5a089e9cd56fbd82324c894144233425c11110eeb17a"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/crimson_hanging_sign.json"
@@ -1270,7 +1270,7 @@ hash = "d9632c22cac642896de96987ffe133fb23c3f8b659ec7c274e21b7832c5b6b0a"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/crimson_sign.json"
-hash = "365befa6cef912c4acd0be8b56103680280c0238ab18c6c37da83bb74f2ac89f"
+hash = "4c6a42a1ed2d5c420610251da3f92e2d35f083073b1831370e5177f291f0841a"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/dark_oak_boat.json"
@@ -1282,7 +1282,7 @@ hash = "20638e27ffff439036f60cb772e901fec34508caf0aa506db4cd05b421c737d0"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/dark_oak_sign.json"
-hash = "2c0a56cbd62ce5655a96f885bcbbd2a2cbf0fc0047687edc01d0248623169ed4"
+hash = "8f58e077cc18e691fceb4b48a105c1dc00261c3cdda22bfb27abd50280ba60ee"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/honey_block.json"
@@ -1302,7 +1302,7 @@ hash = "00059d8406229704f32383390ce89ae0db6da0068c426ddd39c39101e9cabbfb"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/jungle_sign.json"
-hash = "85535545f0aaa217022123433640787478261b78abdc01380aed092c070d4b87"
+hash = "7bc9b000b9efbdac36bac328bf7334186f91406058586ef1f0fb47cd57368873"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/mangrove_boat.json"
@@ -1314,7 +1314,7 @@ hash = "126794e175583494eff1ac37abf19a3fd48939e37ffef199a51bc1c27fb94782"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/mangrove_sign.json"
-hash = "d48714faaf12fff63b018f00fa7a8ef9b5e07b7f12ab4e274001ebf5f0df635d"
+hash = "9940efde0f97fc39911d1185dc7cffd896be558c70deaf03b7cf39108cefa328"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/oak_boat.json"
@@ -1326,7 +1326,7 @@ hash = "53f0b0fa9a0f36c958b27069b39162cd17bf325ea9f85f3517161a7064f26e1a"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/oak_sign.json"
-hash = "8f6b47c6be55e0a0774eec4d85477832dd6ab65ad792c3807e1668dae957954d"
+hash = "c635dc36c792e8fb0a3115a135c691184fa203c97c7b7043c03c1002fab04d56"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/shield.json"
@@ -1342,7 +1342,7 @@ hash = "324f287f2d289ce8e6a087fed1045f30c87e972f8d831e8087fb632dff3c1a58"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/spruce_sign.json"
-hash = "82ef3240d06965980375da3d27f72dfe3201a6795d6ca26f1f3e2e65e580abe3"
+hash = "7f364cdc54be1c9f25bf3473385fa8e7c0880f0334088937e9d12bd16ca3b5db"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/warped_hanging_sign.json"
@@ -1350,7 +1350,7 @@ hash = "d666b0550221eaf0f3afdb865a3d7ed50812596c14c03ffd10a3ca6ef8569817"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/minecraft/recipe/warped_sign.json"
-hash = "1494dc9039d3108f0408ecb56ee8337299b2d299c3ed8058822dd019a3d9f1ef"
+hash = "e6d9c640f67786552044b727361d149628adfd776b677759f65e77d22ce0f2cf"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/silver_lining/advancement/recipes/redstone/magma_cream_block.json"
@@ -1489,6 +1489,10 @@ file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/wool_recipe.json
 hash = "5dcf906ec4e89b44c4ab84d2318be81095c35517e6ba6f8d08291dc32388a7a4"
 
 [[files]]
+file = "config/paxi/datapacks/Recipes/data/supplementaries/recipe/way_sign_oak.json"
+hash = "591e374e13a7d57f0916ed4fd3d082823c47ae0f0546bd1b7189445c9927a8ce"
+
+[[files]]
 file = "config/paxi/datapacks/Recipes/data/terrestria/recipe/cypress_boat.json"
 hash = "3e6c99610b4f391fe4439f66941fdeab31e983e83e5b8b2a552441309e33f59f"
 
@@ -1498,7 +1502,7 @@ hash = "eedc119d669948592799db766e344e7de84355c2f8927a09e165b8f8ff0e37dc"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/terrestria/recipe/cypress_sign.json"
-hash = "f9b41782bd9a1d1077faa13c28498c292906432a0f2c901c100cbd54582cdcd0"
+hash = "de57f677a4441a94f6fd8c1dabb2764f1897203db7599d73f7cd0c1064a63c88"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/terrestria/recipe/hemlock_boat.json"
@@ -1510,7 +1514,7 @@ hash = "0838882f67b26fa84e46ed4b69df17866e61c8324b8d71051dd4f848afcfd87a"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/terrestria/recipe/hemlock_sign.json"
-hash = "1e63c9aaf8d1c007fb148ea393d9a15f310e7a23d0338dfc0dfe260a1213eb75"
+hash = "834bb7087d64d1d67a1ae5ddff8208f04193ea87938799f26b7589e538682f6e"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/terrestria/recipe/japanese_maple_boat.json"
@@ -1522,7 +1526,7 @@ hash = "fd61897bee2dc5cf6e5d215fe72cb7ff8234c07a27fe1aac78f00e600eef5bd5"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/terrestria/recipe/japanese_maple_sign.json"
-hash = "033ef37c6dd68709049b35bb2c6d581db7a7249be872a782ecb4102fad336bc4"
+hash = "a5e69c651b1d14e0ed100842ce36adfefdc43c455d31874317f4d196d4d1bd16"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/terrestria/recipe/rainbow_eucalyptus_boat.json"
@@ -1534,7 +1538,7 @@ hash = "c2456b12b43e0319221fc7eb66860564a24875dab70869b6fdc1d66af742fe5c"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/terrestria/recipe/rainbow_eucalyptus_sign.json"
-hash = "17206477e13165c08fe75d6f8bc0230d8651a8a4903a3503b1240c416fe8c5ac"
+hash = "6984a34eaf9b37d1cf3bb6eeb0f8bc5e0519f756fdf8e7b8bb8d45915c066329"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/terrestria/recipe/redwood_boat.json"
@@ -1546,7 +1550,7 @@ hash = "e4f84fad5d87505f2ccb2fe0a6d32057c094063ff3edb83872538c37e8e109b6"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/terrestria/recipe/redwood_sign.json"
-hash = "d5ac097630bac16c4ed5fb98aee0ce866a05ce0d6f69be6fae66e5de82f33c94"
+hash = "ceb4df2756b63c7317173408c5fda7a630cfa1b2eb8c7ee7390e9650d1ff2b93"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/terrestria/recipe/rubber_boat.json"
@@ -1558,7 +1562,7 @@ hash = "839589be6d9229b80dabd88573d94bc6bf683e053e922f602003ad6a2b53e2b7"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/terrestria/recipe/rubber_sign.json"
-hash = "4dfad645a65ed92c5831442a074cdded5f7e33e8154186f2661b06281a903ce1"
+hash = "38aa027f9cc3fd9fc7f54b4b10ec427bc42bd38672c2180b25c6b6c1ad6acb91"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/terrestria/recipe/sakura_boat.json"
@@ -1570,7 +1574,7 @@ hash = "0a4966d5e978e1778004239b85c29085be9e4390072325a767ffefb2da14f0fb"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/terrestria/recipe/sakura_sign.json"
-hash = "070708dcade54eaff59466f0058c74eda72f541cff015fa40f9c6954608cad01"
+hash = "8329a1a0531e15f6a9425a36f71dca0fe716b24495e875568dc424c2d7c6e3d1"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/terrestria/recipe/willow_boat.json"
@@ -1582,7 +1586,7 @@ hash = "079617d58867d787c2060205e84d147c8aa1b33761760dac24fd3d8da7f9db78"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/terrestria/recipe/willow_sign.json"
-hash = "807f44b9c5fce54644537d81b543e9fdcbbf5d61f91860e7a752f012700b6f51"
+hash = "d7b2ce388bffd0cb2ca210a85801967ce8221467281b78e15707f07cafc9a77a"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/terrestria/recipe/yucca_palm_boat.json"
@@ -1594,7 +1598,7 @@ hash = "759308962e2ed0c1961f20f3f88d645825a5d6267da530997fb850f11905220f"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/terrestria/recipe/yucca_palm_sign.json"
-hash = "8ae240ad37e9eba32a0189c39dd6d3c1dde7beb42ad9396dc6186c0801c1fdfa"
+hash = "5365b8a6f99da98cbe6b19bb25ac723394130c397278e4891a57e034ef3a7175"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/traverse/recipe/fir_boat.json"

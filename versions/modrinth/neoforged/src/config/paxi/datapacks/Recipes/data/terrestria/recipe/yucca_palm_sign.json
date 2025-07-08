@@ -7,7 +7,7 @@
       "item": "terrestria:yucca_palm_planks"
     },
     "X": {
-      "item": "minecraft:stick"
+      "tag": "c:rods/wooden"
     }
   },
   "pattern": [

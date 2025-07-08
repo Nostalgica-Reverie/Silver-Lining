@@ -7,7 +7,7 @@
       "item": "terrestria:cypress_planks"
     },
     "X": {
-      "item": "minecraft:stick"
+      "tag": "c:rods/wooden"
     }
   },
   "pattern": [

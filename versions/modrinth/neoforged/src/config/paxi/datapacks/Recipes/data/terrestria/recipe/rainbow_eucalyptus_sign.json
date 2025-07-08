@@ -7,7 +7,7 @@
       "item": "terrestria:rainbow_eucalyptus_planks"
     },
     "X": {
-      "item": "minecraft:stick"
+      "tag": "c:rods/wooden"
     }
   },
   "pattern": [
