@@ -49,7 +49,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","mod_resources","moonlight:mods_dynamic_assets","programmer_art","file/PACP_Base_Release.zip","wow_assets","wow_extras","restored-brightness-sodium-0.6.zip"]
+resourcePacks:["vanilla","fabric","mod_resources","moonlight:mods_dynamic_assets","programmer_art","file/PACP_Base_Release.zip","sl_assets","sl_extras","restored-brightness-sodium-0.6.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
