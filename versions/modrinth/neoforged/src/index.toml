@@ -3854,7 +3854,7 @@ hash = "cdf759d5937a9cb59cd9155fdb6536fae7bf823c0dee683e1e814e8052ab64ea"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "53bcd3b3740001a9670e8282311cb22fc6c1226165f954d43f53436ff517807f"
+hash = "5779de4de025c1cc63ec942efbf6040861865eb4137a86210071b07dd9d612f1"
 
 [[files]]
 file = "mods/air-hop.pw.toml"
