@@ -2421,1303 +2421,1303 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/copperhopper/textures/item/copper_hopper.png"
+file = "config/paxi/resourcepacks/sl_assets/assets/copperhopper/textures/item/copper_hopper.png"
 hash = "03cb8d605fb5837d649ae476a77de641953a760a80a3f511f287be8dd349569d"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/copperhopper/textures/item/copper_hopper_minecart.png"
+file = "config/paxi/resourcepacks/sl_assets/assets/copperhopper/textures/item/copper_hopper_minecart.png"
 hash = "5ca7abe074bf0c31ff58389ab6f124cb19e846726c1aaa6aa6287a09e7dbc2bb"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/enchancement/textures/particle/honey_bubble_0.png"
+file = "config/paxi/resourcepacks/sl_assets/assets/enchancement/textures/particle/honey_bubble_0.png"
 hash = "3110dfdb2901865c40a1ba5e61ff39a459ad5cba8e191ec5b7b4204d7e0ac314"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/enchancement/textures/particle/honey_bubble_1.png"
+file = "config/paxi/resourcepacks/sl_assets/assets/enchancement/textures/particle/honey_bubble_1.png"
 hash = "88660439eb38c5c3c167d2eb97520be19835492137c625cbb4417dc84ff9d531"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/lang/en_au.json"
+file = "config/paxi/resourcepacks/sl_assets/assets/minecraft/lang/en_au.json"
 hash = "50139c936ec069cba08e9e306774a034e8074b87e0e88c30588de117d34630cf"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/lang/en_ca.json"
+file = "config/paxi/resourcepacks/sl_assets/assets/minecraft/lang/en_ca.json"
 hash = "56a46257be52bc059a29b19a7fc393c4b548191a1698474d7a81379c7d1c3728"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/lang/en_gb.json"
+file = "config/paxi/resourcepacks/sl_assets/assets/minecraft/lang/en_gb.json"
 hash = "50139c936ec069cba08e9e306774a034e8074b87e0e88c30588de117d34630cf"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/lang/en_nz.json"
+file = "config/paxi/resourcepacks/sl_assets/assets/minecraft/lang/en_nz.json"
 hash = "50139c936ec069cba08e9e306774a034e8074b87e0e88c30588de117d34630cf"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/lang/en_us.json"
+file = "config/paxi/resourcepacks/sl_assets/assets/minecraft/lang/en_us.json"
 hash = "762bd5c32e9726d6956cb541d9381a0056d0d3ef3c700ed4d78f9a95c757ab8b"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/models/block/honey_block.json"
+file = "config/paxi/resourcepacks/sl_assets/assets/minecraft/models/block/honey_block.json"
 hash = "588726b1792ae16b4fd9bade5ef4e8f8d75250273e283d2e425ff9bd0bbcdbc0"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/textures/block/honey_block_bottom.png"
+file = "config/paxi/resourcepacks/sl_assets/assets/minecraft/textures/block/honey_block_bottom.png"
 hash = "2e64210b1bd4837305479ccefa00fb1ed577baa0ccf5ae4e9264ca34be6cd7bf"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/textures/block/honey_block_side.png"
+file = "config/paxi/resourcepacks/sl_assets/assets/minecraft/textures/block/honey_block_side.png"
 hash = "0f60b0fd157b3128a7417ce5d6dd70ebde11d968d78e7c14f337876fd15b25b0"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/textures/block/honey_block_top.png"
+file = "config/paxi/resourcepacks/sl_assets/assets/minecraft/textures/block/honey_block_top.png"
 hash = "f54b4040e9758821214c1bfd8c820590f26b7c84c23f81ce26483ce6d893d3ce"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/textures/gui/title/background/panorama_0.png"
-hash = "25b261a7e759fa8ceca2e3a8f831da0c25f8e950a57b2f12a712b3315cfec682"
+file = "config/paxi/resourcepacks/sl_assets/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "dd496aef24816f1780de6fb746d4228c6c25186960026034606094e87fbadcc3"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/textures/gui/title/background/panorama_1.png"
-hash = "eaaff03dbe1f25e3d4f3d90aee96fe76d5730978b5989298c4a55c9e04afa7fd"
+file = "config/paxi/resourcepacks/sl_assets/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "dbf82800c259195367435204deb7232dd74039fb680f7ec5c6abaae2804f9997"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/textures/gui/title/background/panorama_2.png"
-hash = "a1d8a0c0ec0347c684b388248ae0e97b38f56f4bcdbab29c293b274363a61f5b"
+file = "config/paxi/resourcepacks/sl_assets/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "232628f37503da417178effeb55e656956960d2f807bb38c6055d2a647a7e1e4"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/textures/gui/title/background/panorama_3.png"
-hash = "6c10fef1e6f866dc163492ba80b4e0d68ed7f6c58a6234e5872c55dcf99ba0b6"
+file = "config/paxi/resourcepacks/sl_assets/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "0477014108b15888005c887f48535c3ab5b29237747d4019c329b77e2e4fc6c2"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/textures/gui/title/background/panorama_4.png"
-hash = "3f5a35413f2674b9172406eae9a47760569807fce556558505f2d56f7423e063"
+file = "config/paxi/resourcepacks/sl_assets/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "6413cbf7ae6068f1fc799a7f8bbc76db39be7dc39e2d22dba75678137ea049c0"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/textures/gui/title/background/panorama_5.png"
-hash = "d56f048dce8e948430a21ad58f077ef7efb73cec9909cde9a6b9148aa1520d58"
+file = "config/paxi/resourcepacks/sl_assets/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "55528cc1fbb937d92e30c43e2675a3b3d815a0dba8d57342ba56e3ff2b4e416f"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/textures/gui/title/background/panorama_overlay.png"
+file = "config/paxi/resourcepacks/sl_assets/assets/minecraft/textures/gui/title/background/panorama_overlay.png"
 hash = "6c30f7a19b0663b8cfbe94b933f09f1d2db83acd58f9af1526d569ab779be748"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/textures/gui/title/edition.png"
+file = "config/paxi/resourcepacks/sl_assets/assets/minecraft/textures/gui/title/edition.png"
 hash = "0730e9b420686a7f85ee721d3660d3650d19685a762e85fb09d27a005c4eef04"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/textures/gui/title/minecraft.png"
+file = "config/paxi/resourcepacks/sl_assets/assets/minecraft/textures/gui/title/minecraft.png"
 hash = "77c87607042c96535ca5c1631b77864ccc4af9163dad431bbf2b4e1059560646"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/minecraft/textures/item/honeycomb.png"
+file = "config/paxi/resourcepacks/sl_assets/assets/minecraft/textures/item/honeycomb.png"
 hash = "09376b452af0cf4c91b3f43335d80c3b1960fd700aeb4bc0b9e6cb0fdac86f38"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/silver_lining/polytone/particle_modifiers/slimecomb.json"
+file = "config/paxi/resourcepacks/sl_assets/assets/silver_lining/polytone/particle_modifiers/slimecomb.json"
 hash = "95a2cccc4acf87f4512becbaf48c99a79317af40289f0c3c7665817bc26ca2c7"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/traverse/lang/en_us.json"
+file = "config/paxi/resourcepacks/sl_assets/assets/traverse/lang/en_us.json"
 hash = "b01b38fba59a55752417fff1ad6b67b0b85be85e8e00c7b354ae8f23e6328fe0"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/traverse/lang/es_ar.json"
+file = "config/paxi/resourcepacks/sl_assets/assets/traverse/lang/es_ar.json"
 hash = "bb89744da346c4bb9515d465893b4be4926fa16c5465fddf7536044056b66a5d"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/traverse/lang/es_es.json"
+file = "config/paxi/resourcepacks/sl_assets/assets/traverse/lang/es_es.json"
 hash = "bb89744da346c4bb9515d465893b4be4926fa16c5465fddf7536044056b66a5d"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/traverse/lang/es_mx.json"
+file = "config/paxi/resourcepacks/sl_assets/assets/traverse/lang/es_mx.json"
 hash = "bb89744da346c4bb9515d465893b4be4926fa16c5465fddf7536044056b66a5d"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/traverse/lang/fr_fr.json"
+file = "config/paxi/resourcepacks/sl_assets/assets/traverse/lang/fr_fr.json"
 hash = "04afc2d1e479ea3edb0cfddff3dd45fc0df30dd7953225addea88b6e2f28f0a8"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/traverse/lang/it_it.json"
+file = "config/paxi/resourcepacks/sl_assets/assets/traverse/lang/it_it.json"
 hash = "7333ccf4cf681bdcdde621f7beeea894ba5c0be1d63527fa78d315f8615cfede"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/traverse/lang/ko_kr.json"
+file = "config/paxi/resourcepacks/sl_assets/assets/traverse/lang/ko_kr.json"
 hash = "449e488ed0477d75448a1c74bef467a82589524ea2922c033f01c415b1f77c1a"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/traverse/lang/pl_pl.json"
+file = "config/paxi/resourcepacks/sl_assets/assets/traverse/lang/pl_pl.json"
 hash = "2831050ebfb8e5962a3816c01d9f96ef3ef5d89d0efb588e3a50f3e6e927a9ff"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/traverse/lang/pt_br.json"
+file = "config/paxi/resourcepacks/sl_assets/assets/traverse/lang/pt_br.json"
 hash = "e076339951e81502f300f9b4799d69abac684c75bd7062d7a3d13ac1c946ea77"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/traverse/lang/ru_ru.json"
+file = "config/paxi/resourcepacks/sl_assets/assets/traverse/lang/ru_ru.json"
 hash = "073be0981999e8efe25d454eccb51eca976b8729b9e5dd400f3f3cd406df95b8"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/traverse/lang/uk_ua.json"
+file = "config/paxi/resourcepacks/sl_assets/assets/traverse/lang/uk_ua.json"
 hash = "564c79165d0cdc77e1ab76ff31e57cbe2133915b9cd11ce25e1f698ab255cf9c"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/traverse/lang/zh_cn.json"
+file = "config/paxi/resourcepacks/sl_assets/assets/traverse/lang/zh_cn.json"
 hash = "ca8752d4cc5899883e24f6a2f97aaf1f90f12f4172787b13df879c03fba7f70b"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/traverse/lang/zh_tw.json"
+file = "config/paxi/resourcepacks/sl_assets/assets/traverse/lang/zh_tw.json"
 hash = "f87f6c893ee1eaae3715ede882903bf1267af9d585994b0da287f64ba5470a5f"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/traverse/textures/block/brown_autumnal_leaves.png"
+file = "config/paxi/resourcepacks/sl_assets/assets/traverse/textures/block/brown_autumnal_leaves.png"
 hash = "da9d023a4b8ca851dd715cdb4dbf73ac55f5bc1ba6463c75c34d04d2700b681e"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/assets/traverse/textures/block/orange_autumnal_leaves.png"
+file = "config/paxi/resourcepacks/sl_assets/assets/traverse/textures/block/orange_autumnal_leaves.png"
 hash = "492364a51d239e9560220a211624cc39db1e117c4c69d61653ec248e3b0961bb"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/pack.mcmeta"
+file = "config/paxi/resourcepacks/sl_assets/pack.mcmeta"
 hash = "31b40e797816c09b7b3d6eb854e8dd7f2fc43685caac7fb7691c90f78aa1f68c"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_assets/pack.png"
+file = "config/paxi/resourcepacks/sl_assets/pack.png"
 hash = "575580a59b0c1e2da2f80deb66cf64c4390e979147bcbcbda1092fb2a43145fd"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/bedrock.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/blockstates/bedrock.json"
 hash = "0e19d0a43ab662dab051d76677636f745128bd35c762f5c4b0bee87743ec00c6"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/black_stained_glass_pane.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/blockstates/black_stained_glass_pane.json"
 hash = "0bd6b05218c6ceecfe1c0efcdc6985675311200dd094e9bbb15ce53ccc2197ba"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/blue_stained_glass_pane.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/blockstates/blue_stained_glass_pane.json"
 hash = "1c14c07533a5dfd9be7ffc0ce46c45cb7831545d363aca4eaa69f15e20e2d017"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/brown_stained_glass_pane.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/blockstates/brown_stained_glass_pane.json"
 hash = "d2bd698f1cdabdef6f2a2584186277a75ac73db78f4ef18c9731b03aaa946954"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/cyan_stained_glass_pane.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/blockstates/cyan_stained_glass_pane.json"
 hash = "ca78319bd0ca7fe9eb3f54f7ad2350b0f6edd7f940f3bccd0aa557259f40b4d4"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/deepslate.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/blockstates/deepslate.json"
 hash = "9f03270dd931fb08aab819b9a7b626f3e7b0ec06aebf9b8665a3603fed8122ac"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/dirt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/blockstates/dirt.json"
 hash = "8711bed9722ffc88b5d37f7243f0fd60ebfcff2f7fd311e7f6aadc02feabaafc"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/dirt_path.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/blockstates/dirt_path.json"
 hash = "1abaa00f144994f84adfa7fbc08f1577cca64fff0b115e46f8b5f6898308f0c3"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/glass_pane.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/blockstates/glass_pane.json"
 hash = "7e7b2e681ae7d38fc7bf8cdc6f698e2e7ad05799f08124837cee453121de0fa1"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/grass_block.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/blockstates/grass_block.json"
 hash = "83bb8a0b708c4a8f100764a20ad0a58d5e43fe03e82f18ce4fdd7f4776b77076"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/gray_stained_glass_pane.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/blockstates/gray_stained_glass_pane.json"
 hash = "b6be1bbcc3c19c690a97407fda26a7bb9627797c1fbb8830d18759e6380417a3"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/green_stained_glass_pane.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/blockstates/green_stained_glass_pane.json"
 hash = "d99d6450b1f0d0b6af2ae882559a75899d001b348fb951d17beeec17827fddf3"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/infested_deepslate.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/blockstates/infested_deepslate.json"
 hash = "9f03270dd931fb08aab819b9a7b626f3e7b0ec06aebf9b8665a3603fed8122ac"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/infested_stone.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/blockstates/infested_stone.json"
 hash = "a42f3d1e99301f10218a45cc261c67c960a2c44b4f52beb0a0e8ea46ccd5b58e"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/iron_bars.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/blockstates/iron_bars.json"
 hash = "718fae51b0bffae32f9eb2483c49975dc186e66fb2c9652b58ae0972b18bc7ea"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/light_blue_stained_glass_pane.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/blockstates/light_blue_stained_glass_pane.json"
 hash = "2ee1ebe3597b02c8059107f0754646db7e7ec84ce44b39b833ca6834ce98ec60"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/light_gray_stained_glass_pane.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/blockstates/light_gray_stained_glass_pane.json"
 hash = "40da3a1608c5f2f8849d2706751121e12de4f0925d0a59a736f687f6d0b711f0"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/lime_stained_glass_pane.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/blockstates/lime_stained_glass_pane.json"
 hash = "4727d54aad9e715d0fb4ede6a4c91c72f914ab46fa5c5e608a5359bdbbc1f5fc"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/magenta_stained_glass_pane.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/blockstates/magenta_stained_glass_pane.json"
 hash = "60294c00910cb3b2928cc672dc913c8a8ab5e9f51ffde62bfd56933ef63a7049"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/mycelium.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/blockstates/mycelium.json"
 hash = "5521ad308f89171bb6d1c12360618e682bf8d4e32ab2db04cb05642e7be5b47b"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/netherrack.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/blockstates/netherrack.json"
 hash = "32cc32e5fa2b56dfa4f6fb81049526405cdd87b0e6fccc3c7dbaa0fa9c75cb06"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/orange_stained_glass_pane.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/blockstates/orange_stained_glass_pane.json"
 hash = "499aa07e6bbfe1db550b79f89603c70efaae0dec9ad3fcdd61b243b21dde9b0d"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/pink_stained_glass_pane.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/blockstates/pink_stained_glass_pane.json"
 hash = "39fb73a79b1c3ad8bdbd833e9cd2e0379c75a55cb081a269433fc0eeb495ff79"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/podzol.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/blockstates/podzol.json"
 hash = "34ff5c4e186c43055a99168ebea0d6dace9cf83c08af5190d2eeb0bfe883817b"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/purple_stained_glass_pane.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/blockstates/purple_stained_glass_pane.json"
 hash = "1c1ce1a7f56e2dd254764570e6229ad57f8bfec1323abaf6ebda87dfd1db6f20"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/red_sand.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/blockstates/red_sand.json"
 hash = "eae95333eb945b505167e45e962f4b3aa8a3b22ce817569bc79c85ec523ae593"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/red_stained_glass_pane.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/blockstates/red_stained_glass_pane.json"
 hash = "c3f9d28481e47dac2f36c2843b968039e88db462dee467762b3ab19e2172849a"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/sand.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/blockstates/sand.json"
 hash = "2e6566a59fcc17039046b9d6751d8540d76dce573dd954c89aad94d6c306a757"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/sculk.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/blockstates/sculk.json"
 hash = "f021d46960c00f6fc1a92a69e57c806688f46089a8befee21fc35996f7369d38"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/stone.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/blockstates/stone.json"
 hash = "a42f3d1e99301f10218a45cc261c67c960a2c44b4f52beb0a0e8ea46ccd5b58e"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/white_stained_glass_pane.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/blockstates/white_stained_glass_pane.json"
 hash = "c43be1a17b6483a2cca587c0d0ce89585367e90e37040620102564d11025739e"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/blockstates/yellow_stained_glass_pane.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/blockstates/yellow_stained_glass_pane.json"
 hash = "f52ab8a1606e2155adcca4ba1b1f36ff55dcc83109ea51767f2e049f963a6b0b"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/lang/en_au.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/lang/en_au.json"
 hash = "78c98766066a97238c27d2e72b1dc4e121f561d8c01272f0a103c07a430b68d8"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/lang/en_ca.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/lang/en_ca.json"
 hash = "78c98766066a97238c27d2e72b1dc4e121f561d8c01272f0a103c07a430b68d8"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/lang/en_gb.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/lang/en_gb.json"
 hash = "78c98766066a97238c27d2e72b1dc4e121f561d8c01272f0a103c07a430b68d8"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/lang/en_nz.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/lang/en_nz.json"
 hash = "78c98766066a97238c27d2e72b1dc4e121f561d8c01272f0a103c07a430b68d8"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/lang/en_ud.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/lang/en_ud.json"
 hash = "78c98766066a97238c27d2e72b1dc4e121f561d8c01272f0a103c07a430b68d8"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/lang/en_us.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/lang/en_us.json"
 hash = "78c98766066a97238c27d2e72b1dc4e121f561d8c01272f0a103c07a430b68d8"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/black_stained_glass_pane_noside.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/black_stained_glass_pane_noside.json"
 hash = "0418fa632c2fea2e2f797b136939773393097bd70ba9df89a412a6ea24c3b2f7"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/black_stained_glass_pane_noside_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/black_stained_glass_pane_noside_alt.json"
 hash = "7d1ac081d288c96f6afb4df4d0d907878454203a73b33fcbd086272009f7df3a"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/black_stained_glass_pane_post.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/black_stained_glass_pane_post.json"
 hash = "b0e5a81c1954e81acbac958d134210af817267ab2f592290b124a1879895e6e4"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/black_stained_glass_pane_side.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/black_stained_glass_pane_side.json"
 hash = "0998713d3c6a308372107502b93cbce5532591e2dcec625afa0519fd7224123b"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/black_stained_glass_pane_side_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/black_stained_glass_pane_side_alt.json"
 hash = "31af72c07b7e688d4ec6858435e8d9ee08dd091940a96bbe5a811cc73e12b622"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/blue_stained_glass_pane_noside.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/blue_stained_glass_pane_noside.json"
 hash = "a803326523578e58bbebfeb6e6ca75fe775a074defd89406d4db64f939b705a0"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/blue_stained_glass_pane_noside_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/blue_stained_glass_pane_noside_alt.json"
 hash = "811605b91b9fda3ae0dc69f16e3d48436de28b13b26ce26bf6ad0c0a62a75448"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/blue_stained_glass_pane_post.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/blue_stained_glass_pane_post.json"
 hash = "0d4aee35ac20fd7959f8a83fbf1c19d3e759a9a397f81f9b0ae3bc99ae5c5ed8"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/blue_stained_glass_pane_side.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/blue_stained_glass_pane_side.json"
 hash = "bb3468ef826120de7e65a4570911b5fe589e35f8bc6e97f932f3aab5ec7a0d88"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/blue_stained_glass_pane_side_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/blue_stained_glass_pane_side_alt.json"
 hash = "40bd84bf72a5fb1232b8d9e746d774fa20a9217fd10ca23aceb121762b6d3d8b"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/brown_stained_glass_pane_noside.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/brown_stained_glass_pane_noside.json"
 hash = "a9e7537ce3eee808087f169aac981fe678039479106074da58c02549e86fd841"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/brown_stained_glass_pane_noside_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/brown_stained_glass_pane_noside_alt.json"
 hash = "a3de2200f439333ef8fc65b7c373701160bf5cbbffa40e2de4cabecf2adc1ca2"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/brown_stained_glass_pane_post.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/brown_stained_glass_pane_post.json"
 hash = "08803fd0d648da24040ed3b71ee07f465fe26147af0d9b0c9026e68587eae94d"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/brown_stained_glass_pane_side.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/brown_stained_glass_pane_side.json"
 hash = "0b2e7a8cd9cf02deecde7ac1dfc1bbebd34c4f1cd1fac3f1c97010a1746e3cb2"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/brown_stained_glass_pane_side_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/brown_stained_glass_pane_side_alt.json"
 hash = "16c2e4a01804f94a404a86518ecd2b22618cedbb753be45782ad7fecbe69ab53"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/cherry_leaves.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/cherry_leaves.json"
 hash = "e6134c9ad7b4075c6fac3ad1fb5ce03f31d638980ae7d919e8ead29d0509cd64"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/cyan_stained_glass_pane_noside.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/cyan_stained_glass_pane_noside.json"
 hash = "9e037cc3ca4f1bbec5cfa2f1a49ef650dd0cab2c13dfc8fb01e738f7be907699"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/cyan_stained_glass_pane_noside_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/cyan_stained_glass_pane_noside_alt.json"
 hash = "340cc1b28e26260f50969d40c0aef40663227b4f8138e98bede64d4a1f594c3e"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/cyan_stained_glass_pane_post.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/cyan_stained_glass_pane_post.json"
 hash = "d924836af5bdc9ab46cf2e92b72c91fe9bace678f29f28b3611cb1fb115280ed"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/cyan_stained_glass_pane_side.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/cyan_stained_glass_pane_side.json"
 hash = "6ab6931a5b9f92601cd8edb20a02f836a77e5573cfbbe3c32ad977e5c52d6d59"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/cyan_stained_glass_pane_side_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/cyan_stained_glass_pane_side_alt.json"
 hash = "6ba060f3958d19aa8968e43d9b669c671b5376e95382543ab40d1493d018bc9b"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/door_bottom_left.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/door_bottom_left.json"
 hash = "d5844e5c5929de98872c1c974bbda25999832363808bef4609047930169cdb9d"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/door_bottom_left_open.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/door_bottom_left_open.json"
 hash = "7c30536a0238226ecc1f01c33752867bb1c08fdfccbaac0e76ab1abb42bb7abe"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/door_bottom_right.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/door_bottom_right.json"
 hash = "a7ec7cd09fafcf585e5e85107ea992c0ab0a384a614c896fa4315ac83753675c"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/door_bottom_right_open.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/door_bottom_right_open.json"
 hash = "6ecf807420fb685ab3593f4f002f814f772dfeacec42166dfc4849000945eeb8"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/door_top_left.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/door_top_left.json"
 hash = "bf5d17c7098216aa2212a4c5ed78d32d59e4bac57b6d37265360bf25c258cc78"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/door_top_left_open.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/door_top_left_open.json"
 hash = "5a3e31ddc7e307341a675d6ab13ba1957da530539cf7685cd60a28fcaf34a87d"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/door_top_right.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/door_top_right.json"
 hash = "d99450acfd8959684817707a2f94aeb80589fa4384e6acebbf2151392addbbbf"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/door_top_right_open.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/door_top_right_open.json"
 hash = "bfdb199b6182a8d78609fb011e60f3489196d76ac36407e856b1cea7e3dc356e"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/glass_pane_noside.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/glass_pane_noside.json"
 hash = "99f8a258a5553283d803ee63fba903243284a1ef891b316411cb8acba9e6fa4c"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/glass_pane_noside_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/glass_pane_noside_alt.json"
 hash = "20e83e4047d18fba0a3f7faefc73d218471d94890398895b6fb8d28575be406f"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/glass_pane_post.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/glass_pane_post.json"
 hash = "0b4d99c409cb5551abfaeb668639b06778f8f3b6ab5d353d79bea99608871e05"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/glass_pane_side.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/glass_pane_side.json"
 hash = "8f6d95c7798dc7f7774e0bc843272ac49d8fb36257cf744c603091c19c1a2333"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/glass_pane_side_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/glass_pane_side_alt.json"
 hash = "1c11e626c2a2562bc7eb6175321d8e350c9265354766c7a7beb8b21d18c78d9c"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/gray_stained_glass_pane_noside.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/gray_stained_glass_pane_noside.json"
 hash = "5a6d8fda701c40b2fa8edec471c47f0df3191f551988254b09b81a47390cee08"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/gray_stained_glass_pane_noside_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/gray_stained_glass_pane_noside_alt.json"
 hash = "5b9202b87806964ac77086862463615f96afdf5b4f0768ebc90814f0ea228c75"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/gray_stained_glass_pane_post.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/gray_stained_glass_pane_post.json"
 hash = "46e13e453f9bb218f3dd2d825eecdff144584766ce66c7a3a42023394d7d2c1e"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/gray_stained_glass_pane_side.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/gray_stained_glass_pane_side.json"
 hash = "90ede6bd072e3a9a35f4abf20cd7fd4d3dfaaca936363d88953c013206e05314"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/gray_stained_glass_pane_side_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/gray_stained_glass_pane_side_alt.json"
 hash = "bd9df23e621a55201a9f209ec2f4fc24f3d7737c15a9c5d868ed0304eb91070d"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/green_stained_glass_pane_noside.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/green_stained_glass_pane_noside.json"
 hash = "1fa85056aa77266cff60d1b8f32e0ec148e0d2b75befb10025c516744a72ad28"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/green_stained_glass_pane_noside_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/green_stained_glass_pane_noside_alt.json"
 hash = "7a58e942dba5252b69c272c52499294aec6d62214f63dcd62839659ad77caedc"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/green_stained_glass_pane_post.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/green_stained_glass_pane_post.json"
 hash = "d7a9895fb4a64a971c1f161b7d4f307a9c97404fce0bb84992f42146fe4f744d"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/green_stained_glass_pane_side.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/green_stained_glass_pane_side.json"
 hash = "8a8a7eb04df5a6f34f59ca81b2185dfc0f3ec9b4f741183f771cc130f473ad1f"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/green_stained_glass_pane_side_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/green_stained_glass_pane_side_alt.json"
 hash = "dac9367eaeead7f5d60bcb98d35363d25d1685c728e54861a3fef9c3e5507bfd"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/iron_bars_noside.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/iron_bars_noside.json"
 hash = "4d98c1372f7d48f107f57a4c486eb0b8c257306fc4fc017fcf2f3d435798aff9"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/iron_bars_noside_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/iron_bars_noside_alt.json"
 hash = "f5a9a7998394f34e0736bf535538e359c1e88e11d6b89163708dca0bb08c57e0"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/iron_bars_post.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/iron_bars_post.json"
 hash = "e067c9005df0b76ffae94b831e20b4dd8bca023dbaf5ce0aa12533bf17a4ce5b"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/iron_bars_side.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/iron_bars_side.json"
 hash = "f47fcebbc4f27735507fe06655d3c2b9642395fb4edb0f0ab3b8ec81cafa81f3"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/iron_bars_side_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/iron_bars_side_alt.json"
 hash = "0407a8170c8795982bd03fee71cc6bc4204f2d5780f954413ee3d03142833924"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/light_blue_stained_glass_pane_noside.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/light_blue_stained_glass_pane_noside.json"
 hash = "41a93bee47f3ba895c546bfecc2e0dc00f75feeda0f3bd048e89de26b43d0af9"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/light_blue_stained_glass_pane_noside_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/light_blue_stained_glass_pane_noside_alt.json"
 hash = "76a28de5ab19b0d7d0f46af87b10b01511be4903a64dae8b0b14f0227b3bad07"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/light_blue_stained_glass_pane_post.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/light_blue_stained_glass_pane_post.json"
 hash = "6eb27e517bbef1c0e73fad92ff57b0a2b5dd8a8dde1df7e12ae1d6f34cc793bc"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/light_blue_stained_glass_pane_side.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/light_blue_stained_glass_pane_side.json"
 hash = "87a43bd210acf8212b7a4dbab67cc237c1de288751146d759dc47fa776e70def"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/light_blue_stained_glass_pane_side_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/light_blue_stained_glass_pane_side_alt.json"
 hash = "ac11b59719d1327271334a493c852bca503e271171b458de7fc4eb845d4a5082"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/light_gray_stained_glass_pane_noside.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/light_gray_stained_glass_pane_noside.json"
 hash = "e6558456a23cc44f3e1385f40e27b52b00d6ed8d3ab791ef2a722a2c4c0ab794"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/light_gray_stained_glass_pane_noside_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/light_gray_stained_glass_pane_noside_alt.json"
 hash = "2fc32cfbc18840d492abe51317227ad451b794104b883137a4c70c73dca855f0"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/light_gray_stained_glass_pane_post.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/light_gray_stained_glass_pane_post.json"
 hash = "6c69aca17c2b29002dec417377106557a82af6076c6e9b37e024fdb53fb6af77"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/light_gray_stained_glass_pane_side.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/light_gray_stained_glass_pane_side.json"
 hash = "77b6ab24d1c9225a7eb7c9a43ebe5fb00b1ae7c815bf5f81064bb5683ebe269c"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/light_gray_stained_glass_pane_side_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/light_gray_stained_glass_pane_side_alt.json"
 hash = "13f05cbee008e77283ed14b7e0840a31192c9f42c508b315602cbcd9e5569d05"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/lime_stained_glass_pane_noside.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/lime_stained_glass_pane_noside.json"
 hash = "3828ac2514f602eb1a7e33016fd56c948929286e3f3f8d9fcab43f6c71178360"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/lime_stained_glass_pane_noside_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/lime_stained_glass_pane_noside_alt.json"
 hash = "46683d8fa7ec7cea1095ed83e62e64cae5f25e6be346bc7fa78022df8a00c584"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/lime_stained_glass_pane_post.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/lime_stained_glass_pane_post.json"
 hash = "ccb9c9fa2e696140721fcba43bdebd949c9cb1f9646f59e3d126c8e10e3a656b"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/lime_stained_glass_pane_side.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/lime_stained_glass_pane_side.json"
 hash = "fbf8cc0ba23860a9ec295c102fecaadd436681b39810d94118e6e101478b2c52"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/lime_stained_glass_pane_side_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/lime_stained_glass_pane_side_alt.json"
 hash = "6910d85216795e8b231a3ff442945817a7c31a1d4de8f31e4b69cad94e64dc97"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/magenta_stained_glass_pane_noside.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/magenta_stained_glass_pane_noside.json"
 hash = "d2daeb557d2ea3981aec46d30d59bc15fc6b3b3978c916d2e4c103e9b92c5e40"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/magenta_stained_glass_pane_noside_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/magenta_stained_glass_pane_noside_alt.json"
 hash = "15d305810fb3e70589a465836fbde0b75b4c47816c398ef72cdb4d2fd934e814"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/magenta_stained_glass_pane_post.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/magenta_stained_glass_pane_post.json"
 hash = "801cbb273c2cb336ac1873e097724b1cab4ac48c2887a01ebeef4aa7bf94376d"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/magenta_stained_glass_pane_side.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/magenta_stained_glass_pane_side.json"
 hash = "2000eb66c1824a40b4e91c5e1ba0f2ce102c473c1ae8037ee2d354cee0073bd2"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/magenta_stained_glass_pane_side_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/magenta_stained_glass_pane_side_alt.json"
 hash = "62c4c89a4d56a9b3d478f452ffdfc7fb14efa283050f16bb13b89dc7c98eb75b"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/orange_stained_glass_pane_noside.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/orange_stained_glass_pane_noside.json"
 hash = "a7711acdf1a82f72bc386c6136e3f47015bf1648f8f1aa7e9df129662eb8469a"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/orange_stained_glass_pane_noside_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/orange_stained_glass_pane_noside_alt.json"
 hash = "d625ba2d107b2b254d520e24abc10cbd77e61da7c1fc028cc9502a3b5949aaf0"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/orange_stained_glass_pane_post.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/orange_stained_glass_pane_post.json"
 hash = "e4d236f5107f20d6846c6413e14609be6f4b2ed4bd15b931dd50442462ddfc31"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/orange_stained_glass_pane_side.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/orange_stained_glass_pane_side.json"
 hash = "0ced60608c9ea5be63c93dc3dd0283c6ab320d790f2c3def880b84098d623635"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/orange_stained_glass_pane_side_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/orange_stained_glass_pane_side_alt.json"
 hash = "8b31ce73963b20a24e891e0879de752990571482aa4bf2648df9ec9d8e113379"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/pink_stained_glass_pane_noside.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/pink_stained_glass_pane_noside.json"
 hash = "dc33420d2b69fdeadcceaa1a50307eeffa91fc6d677d12a78a30cff9d3b97047"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/pink_stained_glass_pane_noside_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/pink_stained_glass_pane_noside_alt.json"
 hash = "abead6a1ceb85a7b00edb8fa3599d07a6c9369e0a7a3a449d085bd397756d06f"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/pink_stained_glass_pane_post.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/pink_stained_glass_pane_post.json"
 hash = "7bb1ddb70c9e12e772ec67f140e3b9e04f43eca511dbe779f1a58f3f99c00ef2"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/pink_stained_glass_pane_side.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/pink_stained_glass_pane_side.json"
 hash = "bdadf6ffcdcb54a980b9c8148131df85c59d761693b20a7690a3a394eb31c412"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/pink_stained_glass_pane_side_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/pink_stained_glass_pane_side_alt.json"
 hash = "ffe0ffed2c2b5a35cf2eaad7fcce03199a982465d7867dc5b2768f1b8248f516"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/purple_stained_glass_pane_noside.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/purple_stained_glass_pane_noside.json"
 hash = "bdf907b52710b0dc6b020b5ef3ad906b0f99a07d5ba150e032082abf218d9a6b"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/purple_stained_glass_pane_noside_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/purple_stained_glass_pane_noside_alt.json"
 hash = "1328482df184968738c7c4d46ed0d3e3e9ccacc26d340a8d49e2ea56678cc76a"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/purple_stained_glass_pane_post.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/purple_stained_glass_pane_post.json"
 hash = "8641485449b0df67e714e7d29c2d42eda05b9f30deff14e7c8ecda149c9f7e26"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/purple_stained_glass_pane_side.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/purple_stained_glass_pane_side.json"
 hash = "3e213c10b706d58bed57dc36fe7d6825c5376aeaa6609ffc81d759f417e62fe3"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/purple_stained_glass_pane_side_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/purple_stained_glass_pane_side_alt.json"
 hash = "efc54905af1643c3832231d2fe0107557e9ddb696b272f0947ce64778111434c"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/red_stained_glass_pane_noside.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/red_stained_glass_pane_noside.json"
 hash = "e40ea74bf948cafcc1c22c709658b775251f9eb73f3eab687a616f29ccf2ce74"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/red_stained_glass_pane_noside_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/red_stained_glass_pane_noside_alt.json"
 hash = "8fe15f8db57a85efe04e3115a679f3a36ac729f28e203287fdc67c55bb9056a3"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/red_stained_glass_pane_post.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/red_stained_glass_pane_post.json"
 hash = "aebbc9e513ffd93e20a7a9a379545039ceb9dbf515c9314b81604a551f018add"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/red_stained_glass_pane_side.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/red_stained_glass_pane_side.json"
 hash = "e38149dac5d41d18da606a7f80cf9815bbf59dc2cb933020657cdc3cbc49053b"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/red_stained_glass_pane_side_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/red_stained_glass_pane_side_alt.json"
 hash = "0afbabfd37c9084fa3d36f1d1d86ba5295aac2f768c89a3eeb37b26ab567e0bc"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/sugar_cane.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/sugar_cane.json"
 hash = "66e755e46dd8af8c2c08d04db2ed9b5ae0c6859f5a94c2e90af3ae49c42e8d28"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/template_glass_pane_noside.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/template_glass_pane_noside.json"
 hash = "0557cb699a1aea7647e828347b5f1ebe64dc3ea4018d2cbf5d406410aa9bf09f"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/template_glass_pane_noside_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/template_glass_pane_noside_alt.json"
 hash = "04e6295045c67a7aede85e4c95d226add3e7c3d8e2193de4b3dc7b7c172dfe99"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/template_glass_pane_post.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/template_glass_pane_post.json"
 hash = "caf7e13e2c530b652ab7d80bb210f389ee690926b0a27ec1aa0f577e701255cd"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/template_glass_pane_side.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/template_glass_pane_side.json"
 hash = "84db27a90d6b5316015ca983d86b0b5857800b60d7051a081dcbd53cdb24e39f"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/template_glass_pane_side_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/template_glass_pane_side_alt.json"
 hash = "ad8731760e727b66d35d0c5b74168272813e1d11f8f97090deeccdaf7e4fc47c"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/white_stained_glass_pane_noside.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/white_stained_glass_pane_noside.json"
 hash = "2f1d45e4a0f693343e5a4de58b486725f0d5d9baf9906a92cc9784f3bc320671"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/white_stained_glass_pane_noside_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/white_stained_glass_pane_noside_alt.json"
 hash = "6fed143c7a6cba33e77a511c1acf0622dbc031ce6248e3a74ce71c5b5874bc89"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/white_stained_glass_pane_post.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/white_stained_glass_pane_post.json"
 hash = "a75545298d7bc002c6816e45f1007cee35be9e493e117f9080c6e265c7b255c7"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/white_stained_glass_pane_side.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/white_stained_glass_pane_side.json"
 hash = "6a97c5a8726e93a36a4e14b64831e0d85c30789227f0ad476b9af1917085bcf1"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/white_stained_glass_pane_side_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/white_stained_glass_pane_side_alt.json"
 hash = "7934b289e62c65bdc04c2795d9711b78730c01bdc934f140de64d2064b61fa0b"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/yellow_stained_glass_pane_noside.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/yellow_stained_glass_pane_noside.json"
 hash = "65d4adb9120eaebc7ce166f4ee62d432b038589a6046acfae9914514422054a2"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/yellow_stained_glass_pane_noside_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/yellow_stained_glass_pane_noside_alt.json"
 hash = "344e5b53b21d3e0a03ef3b313c5ae190b047ab8d35a4a68f828c13ccbda05956"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/yellow_stained_glass_pane_post.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/yellow_stained_glass_pane_post.json"
 hash = "b275620a57102684c233a5f3bb7ed56c8ff855676069eeb569a81a8e340b9d90"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/yellow_stained_glass_pane_side.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/yellow_stained_glass_pane_side.json"
 hash = "5df37ae6d01eb8cf3b1cc6174ae9899db501aa44b24d5d7488d6c49d772bc84d"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/block/yellow_stained_glass_pane_side_alt.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/block/yellow_stained_glass_pane_side_alt.json"
 hash = "9f6ba353f20af2907ac9bf5dd07b3119a17555ad20e69abe79665f1982414edc"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/item/glass_pane.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/item/glass_pane.json"
 hash = "8199780e0ea77eef728d016e21db86a00c3e9908854da54a913a350b38fe758d"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/models/item/iron_bars.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/models/item/iron_bars.json"
 hash = "ce83fb225c460919b813ece0cecaebbb56edca8b96dbde00484b89498ee4a9db"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/panepain.py"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/panepain.py"
 hash = "2265948c419bfedd638ce2629a3aac0494f79bca0f3a5cc8835e5c2275f91160"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/sounds.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/sounds.json"
 hash = "7aac9ca043bbc5db167ab980d58ac3978b071ce159e34cea9d5f596d1746f457"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/sounds/entity/player/attack/sweep1.ogg"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/sounds/entity/player/attack/sweep1.ogg"
 hash = "a809928e33f04227362b6f2f0f5f90955caa65867742acaaf963192aeb6bea3a"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/sounds/entity/player/attack/sweep2.ogg"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/sounds/entity/player/attack/sweep2.ogg"
 hash = "a809928e33f04227362b6f2f0f5f90955caa65867742acaaf963192aeb6bea3a"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/sounds/entity/player/attack/sweep3.ogg"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/sounds/entity/player/attack/sweep3.ogg"
 hash = "a809928e33f04227362b6f2f0f5f90955caa65867742acaaf963192aeb6bea3a"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/sounds/entity/player/attack/sweep4.ogg"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/sounds/entity/player/attack/sweep4.ogg"
 hash = "a809928e33f04227362b6f2f0f5f90955caa65867742acaaf963192aeb6bea3a"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/sounds/entity/player/attack/sweep5.ogg"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/sounds/entity/player/attack/sweep5.ogg"
 hash = "a809928e33f04227362b6f2f0f5f90955caa65867742acaaf963192aeb6bea3a"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/sounds/entity/player/attack/sweep6.ogg"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/sounds/entity/player/attack/sweep6.ogg"
 hash = "a809928e33f04227362b6f2f0f5f90955caa65867742acaaf963192aeb6bea3a"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/sounds/entity/player/attack/sweep7.ogg"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/sounds/entity/player/attack/sweep7.ogg"
 hash = "a809928e33f04227362b6f2f0f5f90955caa65867742acaaf963192aeb6bea3a"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/sounds/random/levelup.ogg"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/sounds/random/levelup.ogg"
 hash = "550ca1fecca230f6dfea6ecab62a617b4b7a6d0ac9cdd371ea9085caf0e9097a"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/sounds/random/orb.ogg"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/sounds/random/orb.ogg"
 hash = "5998bf8ee2eecc2779ef896f04a540f9d48d4e96cc9227aae4646f4d9b817749"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/block/cornflower.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/block/cornflower.png"
 hash = "3c347cc122ef20b36a978de0a1010e57eef5b940f3ce6d8991b1f583bef6243f"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/block/gravel.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/block/gravel.png"
 hash = "9dcbe41346a712f86d90ed2d0eb9a1145dd104d6b2daf6688290d5e46c8f26e8"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/block/lapis_block.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/block/lapis_block.png"
 hash = "57ca932b906f81ccf76275180744247c124c77e228cb1711598bad10cbd51bd2"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/block/lava_flow.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/block/lava_flow.png"
 hash = "ec1c66fe517471a59e850c21c9ab04aa5d4c5cab4c2882580f61482b22e61acc"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/block/lava_flow.png.mcmeta"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/block/lava_flow.png.mcmeta"
 hash = "802acdb8f55f30146d5ed18414b21ba35650d4e550f81825ea104131c12dc4fc"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/block/lava_still.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/block/lava_still.png"
 hash = "a08110e8aed6ef4c4d7babe8a35600ef15a01f4d8b66831869072a986b6dd8e7"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/block/lava_still.png.mcmeta"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/block/lava_still.png.mcmeta"
 hash = "802acdb8f55f30146d5ed18414b21ba35650d4e550f81825ea104131c12dc4fc"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/block/orange_tulip.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/block/orange_tulip.png"
 hash = "dd27d2ac69caeb3557f08a441743721c116b04e080d2f5b938267c4264a24828"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/block/pink_tulip.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/block/pink_tulip.png"
 hash = "bd23f32c0844ec1e3b8109ac69798771c26032761ef7c5100184ad2610d5a404"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/block/poppy.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/block/poppy.png"
 hash = "66b57a60ef11964172cbbc03b9f14bd1d299b55359f27d1d632230615fcbe51f"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/block/red_tulip.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/block/red_tulip.png"
 hash = "2c28400a44b121c30feedf920ae8612f3b72073b2230360c9aab97450adeb6d6"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/block/short_grass.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/block/short_grass.png"
 hash = "0d878898cc51180758ab3b999b7641bd1a14c363e7ab05a489b5317ce9db7827"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/block/tall_grass_bottom.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/block/tall_grass_bottom.png"
 hash = "8922e3882486778264370aacd9ca714e578e607cd0c8cf23251424c987d4884c"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/block/tall_grass_top.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/block/tall_grass_top.png"
 hash = "187f7e9c1ab4b5c1b23582b213d9d4c3f04ea2b6503f719f59d21c3f8703dc7e"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/block/water_flow.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/block/water_flow.png"
 hash = "400376bf32fb49a3587f67d9d1d9bd33c50054eb7bc3a2ab25cbe576d3fb36c8"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/block/water_flow.png.mcmeta"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/block/water_flow.png.mcmeta"
 hash = "802acdb8f55f30146d5ed18414b21ba35650d4e550f81825ea104131c12dc4fc"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/block/water_overlay.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/block/water_overlay.png"
 hash = "88e22ede4f1fe553db0b507b1c50e5cd45ddc9b15b43610476dfc5e0c3f480b3"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/block/water_overlay.png.mcmeta"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/block/water_overlay.png.mcmeta"
 hash = "3f03bc3c7581277ee6a85d91276cc795c189e73ee234148eaf4bedcd96588c30"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/block/water_still.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/block/water_still.png"
 hash = "4a50e74a64231a691489d3927af9502f80d70c17bb1b49c9e13fdc78b6301106"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/block/water_still.png.mcmeta"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/block/water_still.png.mcmeta"
 hash = "802acdb8f55f30146d5ed18414b21ba35650d4e550f81825ea104131c12dc4fc"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/block/white_tulip.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/block/white_tulip.png"
 hash = "3c957dfc85112dd47d5c42462948b19014a3e4abed54019cc4703bf1c243d26a"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/gui/sprites/container/bundle/background.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/gui/sprites/container/bundle/background.png"
 hash = "11b77263a0d2cdb253895bb98c14849efc01cbaf41201cfe0ca5c1995e57d42d"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/gui/sprites/container/bundle/background.png.mcmeta"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/gui/sprites/container/bundle/background.png.mcmeta"
 hash = "1d490688369c1bd7b79fcd6b38e9f8af3ac5d88abe226624c0e27569030c52f5"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/gui/sprites/container/bundle/blocked_slot.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/gui/sprites/container/bundle/blocked_slot.png"
 hash = "ed77412d607083ab25ba194befe6d62cb03ebbf2f79664cc691e037e305632d2"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/gui/sprites/container/bundle/slot.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/gui/sprites/container/bundle/slot.png"
 hash = "f6b602c57f33ed6893638acbf404c10acd2d03fa85f64fd31f75686aff36b434"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/apple.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/apple.png"
 hash = "64e62b8643f4d767d4a3d86b6d9629f05df8556768de985330507bad7f29eee1"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/beef.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/beef.png"
 hash = "a372e4bfe201d70872192451a05bcb8639297666ba42658e9eb610fa7a538d31"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/bread.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/bread.png"
 hash = "c7627cded1df66de4ca43e17b35ebdcea4e126c286e1342e613ede9acaac1191"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/chicken.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/chicken.png"
 hash = "e234deb3c0552d82c81090f38a81b4c8eee47ca5341ae8a214c81e2de2b5f60f"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/cooked_beef.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/cooked_beef.png"
 hash = "aa62926cc5acdbc803ce14fe7d038af905222d7fcce926a99fc486e1d14b00c2"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/cooked_chicken.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/cooked_chicken.png"
 hash = "52da3b84f26cd22687fac92252419733d15558ccaf6ebadd7f690c1707324842"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/cooked_mutton.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/cooked_mutton.png"
 hash = "368f67c7c62e6e31d39d477dcfe767bb1f464a3500f9b9d2368a384227cb8351"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/cooked_porkchop.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/cooked_porkchop.png"
 hash = "44e0cd78bba5afe2977e2fcc1c9a1fe11625c34e784875d210ae62363c68cd28"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/cooked_rabbit.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/cooked_rabbit.png"
 hash = "7213626be7bb6609d0204c4587968904f5f26323f60cc569683ed57158de5a34"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/empty_armor_slot_boots.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/empty_armor_slot_boots.png"
 hash = "4af75c3f875b62b98ba82972235145b746d819630eb24b02283dbfeba0526709"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/empty_armor_slot_chestplate.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/empty_armor_slot_chestplate.png"
 hash = "44e88e6113174d35d77bcce6b934538933a663a4cf0581242ae7fd9473987830"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/empty_armor_slot_helmet.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/empty_armor_slot_helmet.png"
 hash = "27d270dcb56c168f7c36e0cb7a2cac2fbd94f8fc61a127559426ccbc7b1cedce"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/empty_armor_slot_leggings.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/empty_armor_slot_leggings.png"
 hash = "764cb2947d0fb376ee5265028ecbedc09dc446caf79d5773a72942def187ef81"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/empty_armor_slot_shield.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/empty_armor_slot_shield.png"
 hash = "f41d3fb32a21580816ff3fbe04e5bab0787129b0a6d2dcf509923cb0a7d85cf9"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/empty_slot_amethyst_shard.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/empty_slot_amethyst_shard.png"
 hash = "8f796be91d4a25a1b35e1d1d0b8f7d7b4c4d42db89559a7fe1bc01c81962cca5"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/empty_slot_axe.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/empty_slot_axe.png"
 hash = "21cd9afed3ccd0041cdc8b1d7e59907291bbad5bb0c9b904e4da04df601afed5"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/empty_slot_diamond.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/empty_slot_diamond.png"
 hash = "a39322adbc150c9e2a8fc29cae7e030fe94ec6e54ea314b6a2176fdf46799554"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/empty_slot_emerald.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/empty_slot_emerald.png"
 hash = "4eaef6b91aba7531bdf6ed66df2591a07c0902375faa5f89ee70673ab3ffbc7b"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/empty_slot_hoe.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/empty_slot_hoe.png"
 hash = "8e7aca76c67d55a9fd670778cdcd6c3b062a0bc1df158137fe2086f55f8e1e0c"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/empty_slot_ingot.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/empty_slot_ingot.png"
 hash = "c1a8899339fef615d109690b7a6df1562539f92beb95e8bc3f9e0fc5c66c9b16"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/empty_slot_lapis_lazuli.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/empty_slot_lapis_lazuli.png"
 hash = "dd47942f322c231703f11050e36a2fe821ef12306e4c33b5d2d83a9b810c70dc"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/empty_slot_pickaxe.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/empty_slot_pickaxe.png"
 hash = "e0c2c66bad7b13929b233a78b04a6c1c0f205e6e07b11bdc5bec69173648f9cd"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/empty_slot_quartz.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/empty_slot_quartz.png"
 hash = "6947a586c3114d8c1b6621fd2a1a178e884588b646d73a5287e67c87a56dca8a"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/empty_slot_redstone_dust.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/empty_slot_redstone_dust.png"
 hash = "8250b9fd94103d816096a4e47fc0e38be21b2fc911ffe3b1746bf447eb7f0806"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/empty_slot_shovel.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/empty_slot_shovel.png"
 hash = "326e86312b58d59b7adb8e4c01e1115e043e1a03957c479e9ca5adad12c46291"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/empty_slot_smithing_template_armor_trim.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/empty_slot_smithing_template_armor_trim.png"
 hash = "772f72624a720225ff00adac941077d83aa80ff2c6e7f4c9830c45fb391eaf0e"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/empty_slot_smithing_template_netherite_upgrade.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/empty_slot_smithing_template_netherite_upgrade.png"
 hash = "f386347b3d3beb4b085fcbe613a476d70c778de47dc8a5afdf34ee9d5b1c90a1"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/empty_slot_sword.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/empty_slot_sword.png"
 hash = "192599e840100923ee824a770185e9692c9da1af069d5051cf2af2d68230dc51"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/leather_boots.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/leather_boots.png"
 hash = "7afa2b6c0835f212a18255d89c7cf96008567edaa076d166791e432d4b2a1d2b"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/leather_boots_overlay.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/leather_boots_overlay.png"
 hash = "047f2be8c9a6d9dbec8a3f43e6348129c1fcaf46235dca4f55c53b16fc273f7a"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/leather_chestplate.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/leather_chestplate.png"
 hash = "0ff25f9cc5ce52717dc8624b7ce9870f4e70d1dfa3ee34334ed74014f2dc7b34"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/leather_helmet.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/leather_helmet.png"
 hash = "0f5c72c98809ac708986c3489278b92d3212cf2c68c891f2d2c59da02ca0e405"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/leather_helmet_overlay.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/leather_helmet_overlay.png"
 hash = "711d3f4844532cf00eea312332e9dacd898c2684b343f06084e00882c201fade"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/leather_leggings.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/leather_leggings.png"
 hash = "2e40c23ef22ef767abf8ddb00e74b9f38418f4d13639306fe3310a1bf3edc407"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/leather_leggings_overlay.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/leather_leggings_overlay.png"
 hash = "4afe10e22590504c7f1f56cf99aabee66c05533c56ef60bff41ef9f7b52fd184"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/mutton.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/mutton.png"
 hash = "3d63a147a1d1d6892a9c2e6202aab03edbbabfb3b1fe098fc3a125648ac11e41"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/porkchop.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/porkchop.png"
 hash = "9119240d468eb44cd68e401db4b04b0fbe4c6c43a524a336b8f61cf9bfbf4baa"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/item/rabbit.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/item/rabbit.png"
 hash = "0ab644eda40b135b34d099823a3e1c4437faacb4a7f1727f53fb881d4f081cf4"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/misc/enchanted_glint_entity.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/misc/enchanted_glint_entity.png"
 hash = "3731a4d8b33b4d8c40a0b3a6350fd266061493bc589524b7ae03a1abcb136df1"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/misc/enchanted_glint_item.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/misc/enchanted_glint_item.png"
 hash = "3731a4d8b33b4d8c40a0b3a6350fd266061493bc589524b7ae03a1abcb136df1"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/models/armor/leather_layer_1.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/models/armor/leather_layer_1.png"
 hash = "374a7397935072557c0743325e127229930aecc9ad3c10204e527dd9ce0ca567"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/models/armor/leather_layer_1_overlay.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/models/armor/leather_layer_1_overlay.png"
 hash = "2c98372ed89a7ba221a479e2cb9c35040aedf68dfccf7cca9215c58aa7c6a8f2"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/models/armor/leather_layer_2.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/models/armor/leather_layer_2.png"
 hash = "8b799061eb330761ad1c04abc2cb7d5c7738ace0f9a769f64b59df2f8d61bf0f"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/minecraft/textures/models/armor/leather_layer_2_overlay.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/models/armor/leather_layer_2_overlay.png"
 hash = "60c10d4fb479a0d975526e010e333dea0a9a97cd2eddb26b29a2803e5446e39c"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/rosegoldequipment/textures/block/raw_rosegold_block.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/rosegoldequipment/textures/block/raw_rosegold_block.png"
 hash = "0796d776edd17b0a086cddda262d83e07f1c31f237167928c40f2e3ea3b092e6"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/rosegoldequipment/textures/block/rosegold_block.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/rosegoldequipment/textures/block/rosegold_block.png"
 hash = "35951a749874eb2da55458c32dffbf3504389635e31e145665ff2ffbcb10d9ed"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/rosegoldequipment/textures/item/raw_rosegold.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/rosegoldequipment/textures/item/raw_rosegold.png"
 hash = "5024bef52ef59471c6e3496c055f57a6a49927846a2d2996bb60443b968dbc30"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/rosegoldequipment/textures/item/rose_golden_boots.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/rosegoldequipment/textures/item/rose_golden_boots.png"
 hash = "fa05303d0b92c50e62bfe437fc37e608d4da0e3c19df56f791a46a3af1827ff5"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/rosegoldequipment/textures/item/rose_golden_chestplate.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/rosegoldequipment/textures/item/rose_golden_chestplate.png"
 hash = "da1b3fb4bcaa9aaa1e1d85d915895d9f6ca928341ed3fb0b43566dd7e77d1cab"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/rosegoldequipment/textures/item/rose_golden_helmet.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/rosegoldequipment/textures/item/rose_golden_helmet.png"
 hash = "2910a5c3edc779fa364eb0ac0d327775e375e45f8aeb77f7d749e2aeb2654661"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/rosegoldequipment/textures/item/rose_golden_leggings.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/rosegoldequipment/textures/item/rose_golden_leggings.png"
 hash = "cc7086156d6e49f6e765a8839488c5f61b936d6ad2588d7bc918f2c3ca433be0"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/rosegoldequipment/textures/item/rosegold_ingot.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/rosegoldequipment/textures/item/rosegold_ingot.png"
 hash = "4bf6e0996cc8548475700c4f943a558b51ba6b7e88003acbacca9c36965eb531"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/rosegoldequipment/textures/item/rosegolden_axe.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/rosegoldequipment/textures/item/rosegolden_axe.png"
 hash = "935eae884e01e50027058aefe6cd8f7ebbd09be1e02980d8ec216642376e378e"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/rosegoldequipment/textures/item/rosegolden_hoe.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/rosegoldequipment/textures/item/rosegolden_hoe.png"
 hash = "2f15e42092d39659387ad796726baa8dc56f79c30ae52ce872a9faf817880b0d"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/rosegoldequipment/textures/item/rosegolden_pickaxe.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/rosegoldequipment/textures/item/rosegolden_pickaxe.png"
 hash = "78cb289aaef54ac5e812d1878fdc12e7c350509102d39af0b5d3bd1a361e3de4"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/rosegoldequipment/textures/item/rosegolden_shovel.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/rosegoldequipment/textures/item/rosegolden_shovel.png"
 hash = "ecbf05c064bfbac73b19bb6219a8fb5b6db07e60d457796f955dd183ea5ead30"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/rosegoldequipment/textures/item/rosegolden_sword.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/rosegoldequipment/textures/item/rosegolden_sword.png"
 hash = "7b84078b1b68d29fea0001a124ce241ac6f7bc4ae1a6835495e913cf00244d48"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/rosegoldequipment/textures/models/armor/rose_gold_layer_1.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/rosegoldequipment/textures/models/armor/rose_gold_layer_1.png"
 hash = "edae30e9a5771be7c9a552ce4506b368e06294fa05dfc0015d8d92f2dd08e6e9"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/rosegoldequipment/textures/models/armor/rose_gold_layer_2.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/rosegoldequipment/textures/models/armor/rose_gold_layer_2.png"
 hash = "66871172fc723563d5086758110b2e637ab151d8b1c4b61ba69c133888dd3da3"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/silver_lining/polytone/biome_modifiers/swamp_water.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/silver_lining/polytone/biome_modifiers/swamp_water.json"
 hash = "e6338817feb9dca27b00dcfce23eda81b87dc8736f2669d48b01e1073ed4ce91"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/silver_lining/polytone/biome_modifiers/uniform_nether_fog.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/silver_lining/polytone/biome_modifiers/uniform_nether_fog.json"
 hash = "4c2cbfc20ce85ea1ba276c4aef3344ddc0566c814c47f03782759074b535c5fd"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/silver_lining/polytone/biome_modifiers/untinted_water.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/silver_lining/polytone/biome_modifiers/untinted_water.json"
 hash = "c521c37177c3362455159afc73a8a69ab98c5ddc787c21c82e6f6891d66bb8cf"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/models/block/dead_grass.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/terrestria/models/block/dead_grass.json"
 hash = "64acc338087a2cbdd40b500a828a8f9da761f7be92f860fe4afce3a26fcd591c"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/models/block/sakura_leaves.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/terrestria/models/block/sakura_leaves.json"
 hash = "e0890d9d78d68350ceb6c6a9c8b7cf30f5078a2eb16dd735bfe6a0b1b4161bb1"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/models/item/dead_grass.json"
+file = "config/paxi/resourcepacks/sl_extras/assets/terrestria/models/item/dead_grass.json"
 hash = "e3d8325b4be4902cd690f5974425aaa1b8526ad1888d0b42046f7301d397894a"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/textures/block/andisol_farmland.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/terrestria/textures/block/andisol_farmland.png"
 hash = "4524617a53d5294393e228f2db76b2d7068252faadbae6e3de6e19d474401007"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/textures/block/andisol_farmland_moist.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/terrestria/textures/block/andisol_farmland_moist.png"
 hash = "13189e20de275a59babce1c082d9c79e9ac22a06c41de81966d68ccf2fc396d0"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/textures/block/basalt_bricks.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/terrestria/textures/block/basalt_bricks.png"
 hash = "8f3eacab9d42419cb7f4137190e576a0aa9325cc8b8d5a7a6bf594c74c4c2703"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/textures/block/basalt_cobblestone.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/terrestria/textures/block/basalt_cobblestone.png"
 hash = "e734ecad88ce4651d1ed9df85475b620c017e7c1e9416ccb22d51fd8e9a79a97"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/textures/block/chiseled_basalt_bricks.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/terrestria/textures/block/chiseled_basalt_bricks.png"
 hash = "3c04ecb14995f535369244e49b7109f6c898ce05936e220ff9c7b6d40d45e6f4"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/textures/block/cracked_basalt_bricks.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/terrestria/textures/block/cracked_basalt_bricks.png"
 hash = "7c88d3ff872d9c09efb0c86a217c207b6162d2ff923d41181d5f0a7fb870d9a5"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/textures/block/cypress_planks.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/terrestria/textures/block/cypress_planks.png"
 hash = "ceb5f8bfd2a3f0f89e8151f14418a8356063fc189089acbcc765dcafdc8b41d9"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/textures/block/hemlock_planks.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/terrestria/textures/block/hemlock_planks.png"
 hash = "b45157a94ef1f86860e9ca5734248c0f34d64d445916ead111e06ee976ae184d"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/textures/block/japanese_maple_planks.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/terrestria/textures/block/japanese_maple_planks.png"
 hash = "4418f5785c25b7dcabb5bf95d44f64c954431b8dad5cf8fd38cafb9835e5118b"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/textures/block/mossy_basalt_bricks.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/terrestria/textures/block/mossy_basalt_bricks.png"
 hash = "f0d928f77175793ac39844d7fc8a9b1c463dd3643518383de1b329cbb7e60683"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/textures/block/mossy_basalt_cobblestone.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/terrestria/textures/block/mossy_basalt_cobblestone.png"
 hash = "2ad959656097cdb9e501fd0ee7a4baface7afa3add74f143e87b919a0d97bbf0"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/textures/block/redwood_planks.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/terrestria/textures/block/redwood_planks.png"
 hash = "52fb8d8168fe9b1135b98b5cb4375cc562959debefaa211c65990c09149c922b"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/textures/block/rubber_planks.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/terrestria/textures/block/rubber_planks.png"
 hash = "fe5094e325ac1c99aee2b971a1f77396b37f9dba3cc79658808839a2618d5ac5"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/textures/block/saguaro_cactus.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/terrestria/textures/block/saguaro_cactus.png"
 hash = "862cedeca7f05fa2414c399607d3d67efbfe88e71689af87040bebeadddd5387"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/textures/block/saguaro_cactus_section.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/terrestria/textures/block/saguaro_cactus_section.png"
 hash = "5adfea49ced5a30bba11c0121d36cf9347c75b124bd798cdd5cc5809546d1dad"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/textures/block/smooth_basalt.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/terrestria/textures/block/smooth_basalt.png"
 hash = "8a57aaeb91a6e7023ed9328a27d5bcece8340b0de661463beca83d9265893b88"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/textures/block/smooth_basalt_slab_side.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/terrestria/textures/block/smooth_basalt_slab_side.png"
 hash = "522ef69b795d6b6a805a4537cc5fb522b5fc81bc3a2566e3c5cf502ecb97cce6"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/terrestria/textures/block/willow_planks.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/terrestria/textures/block/willow_planks.png"
 hash = "ebbb50ff0573235893ac2f6f4f45296d06ba711f4922105f834bf86dd77fab3f"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/block/andesite_waystone.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/waystones/textures/block/andesite_waystone.png"
 hash = "d1ffcd221d2616e6ed9fc0a966285aa767c8a25326db8f3c510200ccb7580b8c"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/block/blackstone_waystone.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/waystones/textures/block/blackstone_waystone.png"
 hash = "3af468f6a92900d6f71accaf988f1f264a264c5c2ec0209ab59e753c88d4a9b7"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/block/chiseled_sandstone_waystone.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/waystones/textures/block/chiseled_sandstone_waystone.png"
 hash = "ec1b527ed9552273278abcb05f995f444d55a95888abc743e005fec537898823"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/block/deepslate_waystone.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/waystones/textures/block/deepslate_waystone.png"
 hash = "f6676f2d2c865b477000dad393df1e8e32631f24d84d6924d1c6e78b4b97702e"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/block/end_stone_waystone.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/waystones/textures/block/end_stone_waystone.png"
 hash = "45399c5f4645d75a19db07ef8447f79fef2c29c6487009c54aa0b61fb5c939a2"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/block/moss_template.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/waystones/textures/block/moss_template.png"
 hash = "1ec7bba2ef1eb7d529e9f2a2cae4130088d4bc905b832835feee23a8d1e9d2d5"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/block/mossy_andesite_waystone.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/waystones/textures/block/mossy_andesite_waystone.png"
 hash = "2eb31e01dc63d1efc41f7c56a0e6ec0754fede1af57960834508356b53ac91c2"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/block/portstone_runes.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/waystones/textures/block/portstone_runes.png"
 hash = "ecb2b09317bb29e7aea775c0da251efcdc50fb19eccebbd907af6e7100f142fa"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/block/warp_plate.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/waystones/textures/block/warp_plate.png"
 hash = "e8a8f8d1128b7ebd589c1e56c72e46e69333d7d9d4eb2a289984381188bd600f"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/block/warp_plate_base.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/waystones/textures/block/warp_plate_base.png"
 hash = "13cd97d52d960f7a9705def0a390ad08ca014e49d836f6b005fb2047e654c35f"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/block/warp_plate_inner.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/waystones/textures/block/warp_plate_inner.png"
 hash = "0059f1aa9cd16aa2f601c1d89795f0ce1d222a3b2c1615e8316855da48f927e1"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/block/warp_plate_lock.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/waystones/textures/block/warp_plate_lock.png"
 hash = "61b9ef494e8832206bfb09adce556c486356a7ae5c3cd4a95e060f038ee83b68"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/block/warp_plate_runes.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/waystones/textures/block/warp_plate_runes.png"
 hash = "d36183be12ebff978bee0e147761864594e52a6c16bb5755b16114bd3c71dbcf"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/item/attuned_shard.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/waystones/textures/item/attuned_shard.png"
 hash = "723fa1df75ad013912feee1219271dbe5a778a3a9f6ebff7592ee320c2b64b7d"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/item/crumbling_attuned_shard.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/waystones/textures/item/crumbling_attuned_shard.png"
 hash = "7e10234b0e02f13c90fafb5ea7afe7ba9366447b6dbe667f6100196de3368ab7"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/item/deepslate_shard.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/waystones/textures/item/deepslate_shard.png"
 hash = "25e70bb0e3c0f836561d183e4e6c834090a6c52b82c21c9415e4bb6ca8c416e8"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/item/dormant_shard.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/waystones/textures/item/dormant_shard.png"
 hash = "bb8d20bcb7b2c16d30656f7dceb6976418b5a3117b5fef255e282eed6fd81ee6"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/assets/waystones/textures/item/warp_dust.png"
+file = "config/paxi/resourcepacks/sl_extras/assets/waystones/textures/item/warp_dust.png"
 hash = "27001495c45efdb219ec8e274a41ddb3bb4719fb2c6bab3959d9a973cad91a18"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/pack.mcmeta"
+file = "config/paxi/resourcepacks/sl_extras/pack.mcmeta"
 hash = "33ce4295b5f863c1809b709bcd54cb34b3d686ccb0eb0f6c6b844c8905b5081a"
 
 [[files]]
-file = "config/paxi/resourcepacks/wow_extras/pack.png"
+file = "config/paxi/resourcepacks/sl_extras/pack.png"
 hash = "575580a59b0c1e2da2f80deb66cf64c4390e979147bcbcbda1092fb2a43145fd"
 
 [[files]]
@@ -4218,7 +4218,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "b30bf3e10fdb43cb451091d4cc8ff88081895686c492c1bbff50ce0c74a3e85b"
+hash = "7ec6e5aab74e9427df771c614be3c01ecc156af653104693387387ce033934fa"
 metafile = true
 
 [[files]]
@@ -4238,7 +4238,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "d1bc6032d9cabed26e855835eb1546b3dc00d09f1c4c72b85927a356e8e34e65"
+hash = "2698144a67da5e59ff485b025f8afb06b2ff7d7b94fb8cc13bc5de0d5cef1634"
 metafile = true
 
 [[files]]
@@ -4278,7 +4278,7 @@ metafile = true
 
 [[files]]
 file = "mods/skeleton-ai-fix.pw.toml"
-hash = "708c7f5029460cfe077d8dd861cc61411842fc9baae11744b5a4a10e7e21fc4b"
+hash = "96e51a1ab6e2c52235f335c20bee2051128de204437f80ada89c599c267fe86a"
 metafile = true
 
 [[files]]
@@ -4303,7 +4303,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "b30b2c3d587184eab4896dc66204e1a27883f34016b6cba573449abf936c06f8"
+hash = "c2fa5c0a9f3d91bed92bdb2a8434b617747f77b28cad60abfd47ca0215fcbda5"
 metafile = true
 
 [[files]]
