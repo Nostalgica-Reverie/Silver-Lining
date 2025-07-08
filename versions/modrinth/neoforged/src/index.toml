@@ -3605,6 +3605,22 @@ file = "config/paxi/resourcepacks/sl_extras/assets/simplest_copper_gear/textures
 hash = "19991c8999d56bcc3cc9364f1e032b9e09e8e7aaf1918b9687c97124f2560429"
 
 [[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/item/way_signs/mask.png"
+hash = "200e26fc90bf3c344997972c0d211dbb578ac0ff62a7c4c7509c7bdb0fa766ad"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/item/way_signs/scribbles_template.png"
+hash = "ce311f91460af4841884d1efdfc695415b93c9c1d2a9c94a96cba6183270f820"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/item/way_signs/template.png"
+hash = "7f19a278a7309570ee5f3fcd9a6b50c3af1ce872f96aad2993aef39e60131dc4"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/item/way_signs/way_sign_oak.png"
+hash = "f9ef0a3637e6a99804b8e4c38f7a1e04248558637340ff343e672e2fa6f29fba"
+
+[[files]]
 file = "config/paxi/resourcepacks/sl_extras/assets/terrestria/models/block/dead_grass.json"
 hash = "64acc338087a2cbdd40b500a828a8f9da761f7be92f860fe4afce3a26fcd591c"
 
@@ -3773,6 +3789,10 @@ file = "configureddefaults/README.md"
 hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
 
 [[files]]
+file = "configureddefaults/config/amendments-client.toml"
+hash = "c7c836c0bfe6c3363daaf85092f4a320c375136a1410c3211742e0020ab58b62"
+
+[[files]]
 file = "configureddefaults/config/badoptimizations.txt"
 hash = "f043b31a1fd029cbcd999a9ba184a1f66b4a8a8f020881c59b870436d8de1103"
 
@@ -3863,6 +3883,10 @@ hash = "c1347aa983b02f5e59fcbd4f931501e2705330c5cf25e723d3239b85e6b6e262"
 [[files]]
 file = "configureddefaults/config/sodium-options.json"
 hash = "1570d389b7f47caa8256fcf023243cd510d37eda62a611c8e27936c12d93d806"
+
+[[files]]
+file = "configureddefaults/config/supplementaries-common.toml"
+hash = "b4f6cd2df0123a62d5ee388b52e616eeb04b964d8e599ae6532ad172ec3b408f"
 
 [[files]]
 file = "configureddefaults/config/terrestria/client.json"
