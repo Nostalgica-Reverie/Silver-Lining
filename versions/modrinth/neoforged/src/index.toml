@@ -3605,6 +3605,70 @@ file = "config/paxi/resourcepacks/sl_extras/assets/simplest_copper_gear/textures
 hash = "19991c8999d56bcc3cc9364f1e032b9e09e8e7aaf1918b9687c97124f2560429"
 
 [[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/ash.png"
+hash = "687746bdefe9a5f211b6567c2ee94d4070d52ded0e91bfdcfec8ad102cc1540e"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/ash_bricks.png"
+hash = "ed6b4e840546b39381a82fd5b4898687e48b3f2ff7ca413693239395ebdd84aa"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/bamboo_spikes_base.png"
+hash = "6c4b54e5768a9403b24edc694293df7c7ec605a3f3229a9edc2f5ed15ca65ce1"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/bamboo_spikes_base_tipped.png"
+hash = "f350c1c47738b96051d8d6eeb39e6d7fed20370fa7d1a3ffcdfbb0d5cef2dd0e"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/blackboard_back.png"
+hash = "faf0232feb867a806b2ae503b9808ec3a77b725bd74c91e8f62505375dad8f17"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/blackboard_side.png"
+hash = "5da8b9afa98d52785d1c89c9de4c65b64003308a708ce58ad492914396bec4ee"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/blackstone_tiles.png"
+hash = "541e5a94cf814a292a8054dec27de26dd17b21c7f53bb1c5d002c86643397d5b"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/gold_door_bottom.png"
+hash = "5c51030636608b277ac4623764261ae750731bbacfe88b29723cc628e52bf97a"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/gold_door_top.png"
+hash = "69073137b78cd216b50bf2b88bb015c4327be43e97ee05ef137510c455c487b9"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/gold_gate_bottom.png"
+hash = "1c4f2a9867ad9a86f94e128f91210290ff32aec04f3733f5f45b520d2e34158a"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/gold_gate_top.png"
+hash = "12d8bb8d42f3c33cd715e67b7e510ea0c3e4df2b00934d25e647a08c2f4177c4"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/gold_trapdoor.png"
+hash = "5789c219cfad5c80436372a4d80691fafb7aef3e16c1a81420e016f086799472"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/iron_gate_bottom.png"
+hash = "6e0c0d186fe3bb54f96c90d2b92ecfbc7c624ce6de3640c9b81cd900d102c9a0"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/iron_gate_top.png"
+hash = "5ba735dada3191c06f0faa99c4fe88e66209f1a1029d651925552ab9a19fa60c"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/item_shelf.png"
+hash = "56376ceab316e5e5e9a324f1ca9071bebee3c030a28d702f0c0330987c73fa72"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/long_bricks.png"
+hash = "764af2575abae197ab04490458577ca121dcf5b0aebd550d427785fdac33b58f"
+
+[[files]]
 file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/item/way_signs/mask.png"
 hash = "200e26fc90bf3c344997972c0d211dbb578ac0ff62a7c4c7509c7bdb0fa766ad"
 
