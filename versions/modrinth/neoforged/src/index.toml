@@ -1490,7 +1490,7 @@ hash = "5dcf906ec4e89b44c4ab84d2318be81095c35517e6ba6f8d08291dc32388a7a4"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/supplementaries/recipe/way_sign_oak.json"
-hash = "b2db8c3e383c96d3da71cc75ccc39628ce29ee3b4759bca0eb97e0d0bdb27ccc"
+hash = "591e374e13a7d57f0916ed4fd3d082823c47ae0f0546bd1b7189445c9927a8ce"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/terrestria/recipe/cypress_boat.json"
@@ -3950,7 +3950,7 @@ hash = "1570d389b7f47caa8256fcf023243cd510d37eda62a611c8e27936c12d93d806"
 
 [[files]]
 file = "configureddefaults/config/supplementaries-common.toml"
-hash = "cd720947c69797e5848cfa19be8d1a1b6dd9688bb2b26fa9bae27938fca32631"
+hash = "f915b0bad01cdbce4ef1075f492ab4dda89d7f79255928c7ac4dd68fd9f4620e"
 
 [[files]]
 file = "configureddefaults/config/terrestria/client.json"

@@ -99,7 +99,7 @@
 		chaining = true
 
 [functional]
-	fodder = false
+	fodder = true
 	hourglass = true
 
 	[functional.rope]
@@ -243,8 +243,8 @@
 		trapped_present = false
 
 	[functional.flax]
-		enabled = false
-		wild_flax = false
+		enabled = true
+		wild_flax = true
 
 	[functional.lumisene]
 		enabled = false
