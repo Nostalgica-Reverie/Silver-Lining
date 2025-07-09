@@ -1490,7 +1490,7 @@ hash = "5dcf906ec4e89b44c4ab84d2318be81095c35517e6ba6f8d08291dc32388a7a4"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/supplementaries/recipe/way_sign_oak.json"
-hash = "591e374e13a7d57f0916ed4fd3d082823c47ae0f0546bd1b7189445c9927a8ce"
+hash = "b2db8c3e383c96d3da71cc75ccc39628ce29ee3b4759bca0eb97e0d0bdb27ccc"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/terrestria/recipe/cypress_boat.json"
@@ -4024,7 +4024,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "37a218f4aa85b545cc95b0a5c16d2da12c093c8a1a5a3bad60be72a4bf86a01a"
+hash = "c92c73551dc3ba9f116e0cef1e90bb553bf59f34530c7c281af28ac624a3a9d6"
 metafile = true
 
 [[files]]
@@ -4244,7 +4244,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d102275300c327312e3ea9afd6844d4627637cffa68525af69951fe2eeca33b0"
+hash = "a55fe659bff4772919b0e3f7a64d79df053556cb16cf8e5a186e20d6b3945dc1"
 metafile = true
 
 [[files]]
@@ -4269,7 +4269,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "2cc8c6cc5ed8b1673fce0341736017e026e5f877bf18e05d0d874675fe23dd06"
+hash = "c18ca4f4035e67182ea949ee2d6cd2c31409306ffc404c0c14bc5c1c212747a8"
 metafile = true
 
 [[files]]
