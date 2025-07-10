@@ -1,0 +1,13 @@
+name = "End's Phantasm"
+filename = "phantasm-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JGfljjtd/versions/E6Su33vz/phantasm-1.0.3.jar"
+hash-format = "sha512"
+hash = "45398d9cb3805c68e7d54a4333960482c0e67780e8d7f1267bbedc65629cc4f64e54d852f33728004f6aaffa2532330fed127b0e99cdfa2193f3f5344a3bfc0f"
+
+[update]
+[update.modrinth]
+mod-id = "JGfljjtd"
+version = "E6Su33vz"

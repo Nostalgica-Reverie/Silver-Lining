@@ -4178,6 +4178,11 @@ hash = "0b380e24e46e328c362bda7cff892c5b0e471789ca8c429fd2a588eaf63b8712"
 metafile = true
 
 [[files]]
+file = "mods/ends-phantasm.pw.toml"
+hash = "e99bc192266affa7203e3536f96a9a584e2fb348a20d780a7c0afcb60623fa7d"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-celestials.pw.toml"
 hash = "cf98bf888f5f7c0a900bcb8d4277a63c22ad7d11d97eb99f826101a457fb4093"
 metafile = true
