@@ -4288,6 +4288,11 @@ hash = "bb039470d6643b00dca912699715ba1c7264c2e7f5a617c4417b0aee53bf24a8"
 metafile = true
 
 [[files]]
+file = "mods/mob-ai-tweaks.pw.toml"
+hash = "85b94d10d0608629cccbc109fa303a54b22d5b144e8948106f00f03785fdd6c6"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "6f0dcbcffd4400c6cef07f1eeb48cdc25bac0fa01270936feab4c549aff4738e"
 metafile = true
