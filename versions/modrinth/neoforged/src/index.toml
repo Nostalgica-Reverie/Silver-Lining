@@ -4388,6 +4388,11 @@ hash = "b27fedf73ce2b829db06bf18fea5afd33f0a001b75465301c7f5bafe7e3c04d8"
 metafile = true
 
 [[files]]
+file = "mods/pyrellium.pw.toml"
+hash = "893ab123e91dda51e08de4f684f3bd210fd49e6bfa71008c7f744b64bbac4d77"
+metafile = true
+
+[[files]]
 file = "mods/redirected.pw.toml"
 hash = "b0038c775e22fa883d474eb1ef0f686cc544091844e24a8a4b5774838059e808"
 metafile = true
