@@ -1490,7 +1490,7 @@ hash = "5dcf906ec4e89b44c4ab84d2318be81095c35517e6ba6f8d08291dc32388a7a4"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/supplementaries/recipe/way_sign_oak.json"
-hash = "591e374e13a7d57f0916ed4fd3d082823c47ae0f0546bd1b7189445c9927a8ce"
+hash = "b2db8c3e383c96d3da71cc75ccc39628ce29ee3b4759bca0eb97e0d0bdb27ccc"
 
 [[files]]
 file = "config/paxi/datapacks/Recipes/data/terrestria/recipe/cypress_boat.json"
@@ -4374,7 +4374,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "2698144a67da5e59ff485b025f8afb06b2ff7d7b94fb8cc13bc5de0d5cef1634"
+hash = "c62e6ef79ac50a77788e61ce4b21d676456a758d6032c9e35bc912927d4214b7"
 metafile = true
 
 [[files]]
