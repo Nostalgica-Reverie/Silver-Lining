@@ -1369,10 +1369,6 @@ file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/arrow.json"
 hash = "cfc2bdb24f1830b23c72187a48fada580d8a40cdb9e416939053a5c1814969cf"
 
 [[files]]
-file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/barrel.json"
-hash = "4e75c23f61276481139662b62f6a0d4fb455a10510223f262b92eb61fb731f8e"
-
-[[files]]
 file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/beetroot_soup.json"
 hash = "1584bdff72b820727647ac8acb32f5f0ecc87ba5c3d58baf0c7d4597f30564a5"
 
@@ -4228,11 +4224,6 @@ metafile = true
 [[files]]
 file = "mods/enderscape.pw.toml"
 hash = "792b74f63e49dfc2c92a7173e42b7355eaef01e5bcd3e09ec9088638dc2c1161"
-metafile = true
-
-[[files]]
-file = "mods/ends-phantasm.pw.toml"
-hash = "e99bc192266affa7203e3536f96a9a584e2fb348a20d780a7c0afcb60623fa7d"
 metafile = true
 
 [[files]]
