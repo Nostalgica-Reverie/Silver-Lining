@@ -4226,6 +4226,11 @@ hash = "0b380e24e46e328c362bda7cff892c5b0e471789ca8c429fd2a588eaf63b8712"
 metafile = true
 
 [[files]]
+file = "mods/enderscape.pw.toml"
+hash = "792b74f63e49dfc2c92a7173e42b7355eaef01e5bcd3e09ec9088638dc2c1161"
+metafile = true
+
+[[files]]
 file = "mods/ends-phantasm.pw.toml"
 hash = "e99bc192266affa7203e3536f96a9a584e2fb348a20d780a7c0afcb60623fa7d"
 metafile = true
@@ -4526,6 +4531,11 @@ hash = "284f90816cf98b50dbeef5bc187dfc9d2e41904465b40b0a65358e000672efb5"
 metafile = true
 
 [[files]]
+file = "mods/trimmed.pw.toml"
+hash = "48a3d2303e013e2c5ce4cbfec4d797a0066719434f795f564b7489b63c7b817e"
+metafile = true
+
+[[files]]
 file = "mods/txnilib.pw.toml"
 hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
 metafile = true
@@ -4572,7 +4582,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "077124b4342695ede01668748f99a6819576f64cc3b61fb59387c1a189c221c7"
+hash = "aa9070a0e763f00f0d0b325e9bb980e53faabe9854bae25f2e542a7b81b7492e"
 metafile = true
 
 [[files]]
