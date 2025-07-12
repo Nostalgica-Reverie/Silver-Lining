@@ -3661,6 +3661,34 @@ file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/bloc
 hash = "6f33ab5b5a821e7a5ecde0eb44b39407f88d80729790e6ac7df9c0f489d0bee5"
 
 [[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/daub.png"
+hash = "e39d2d0e5d8a39cb5ea7bdacd969dba4a087fc7facff144175c288d7267f04ff"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/daub_brace.png"
+hash = "8e681ad53a4467adfcbdc19fe3a141793e65a263868715aef6b393aa5aeb4efc"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/daub_brace_f.png"
+hash = "69067d9f9beca30b5e2d96681e0d286e8009e2633d03805f01a82473223e3788"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/daub_cross_brace.png"
+hash = "b73e87fd48d57154367e518195568a9fc8f07a80a7d039d4ac58ba2adc3288e3"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/daub_frame.png"
+hash = "aab2614128eb50666869c7bfbdc6aa8e05b033c03c75d5ccc013c7778fbfda49"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/deepslate_lamp.png"
+hash = "9e8d6cd4a9e0d9df46ce21dbb9e3802c6da52876e4bd8eeb19f0d1d8d05c5378"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/deepslate_lamp_top.png"
+hash = "87e9593757f739247ecb1920807259e0d23c180f6894c5cb7251b0a2d787d10f"
+
+[[files]]
 file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/display_back.png"
 hash = "d95c29d94d7bf839215690fb4ff5f6131f29546a7c34d436d560e7bebe7336b1"
 
@@ -3697,6 +3725,14 @@ file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/bloc
 hash = "5789c219cfad5c80436372a4d80691fafb7aef3e16c1a81420e016f086799472"
 
 [[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/gravel_bricks.png"
+hash = "4066ea1e18d8728f9981373cbf852f6c4450b07d789f503854a715886a02584e"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/gravel_bricks.png~"
+hash = "4066ea1e18d8728f9981373cbf852f6c4450b07d789f503854a715886a02584e"
+
+[[files]]
 file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/iron_gate_bottom.png"
 hash = "6e0c0d186fe3bb54f96c90d2b92ecfbc7c624ce6de3640c9b81cd900d102c9a0"
 
@@ -3709,8 +3745,124 @@ file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/bloc
 hash = "56376ceab316e5e5e9a324f1ca9071bebee3c030a28d702f0c0330987c73fa72"
 
 [[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/jar_bottom.png"
+hash = "213a5e14182979f9931b7104726e20381b6f75d863954101ecbeadf0af56cb94"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/jar_side.png"
+hash = "90be61cce00cbad580cc9387bba42568768103e97c0def6577eaaf889ec71f30"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/jar_top.png"
+hash = "6b3f08e83a1bbe1c9bcc4b1937d93f23436a2c950e011e9d86789487467caa40"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/lapis_bricks.png"
+hash = "c39ac24eab899b90f89e1c9333adcd0b85e3d47089b6b65bd52b65b6daed32ce"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/laser_bottom.png"
+hash = "567c786f6249006ad3d29e192631d02f0369b088dd9742477e18b4c81792ad9c"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/laser_side_off.png"
+hash = "9b65562e7c2e5d9f5a14ee0b4df101367270e041acf1dd9a8cb99268d11a4903"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/laser_side_on.png"
+hash = "572df216532b134222cb59a8658380726766e30518fc77f547821da4b5eb14ea"
+
+[[files]]
 file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/long_bricks.png"
 hash = "764af2575abae197ab04490458577ca121dcf5b0aebd550d427785fdac33b58f"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/pedestal_bottom.png"
+hash = "196641bd49f53fe52a9050e6814a462635367031db73c4cf8ecd08dffe6ee990"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/pedestal_full.png"
+hash = "4ed1c55be9f39b6c79d4b7b53dfb0290827a9f758c92ccc1fb5ab502091c018e"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/pedestal_side.png"
+hash = "6aa3f2af36166dafe7b95793057c676c02d8112c7890f8e4659e02a21cc936bc"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/pedestal_side_bottom.png"
+hash = "84a0f602530f7d0487f929a1c877820c0169227af997db375031497d7d270e78"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/pedestal_side_top.png"
+hash = "fa0b59ebdd7e01cbfd649cd474ec1e64524bc3d19894fb10d5396ebaadcd057e"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/raked_gravel.png"
+hash = "f618cabbe7ae22711cd4d80c32d7c4000c05580623358951b48cb90bdc5d8780"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/raked_gravel_curved.png"
+hash = "f2fa77cf02af105961253ed6bd6b4644347a0d762eb510e01a45fcc69b6ffa0a"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/speaker_bottom.png"
+hash = "1c50c6279b2824d998f623cdda99dec088d6b2c6070f9d42fd247f7370f3f52b"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/speaker_front.png"
+hash = "c50a89fe45668e6767e509c53d203c0d72461e95209b098bd44d129e071b236a"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/speaker_side.png"
+hash = "1c50c6279b2824d998f623cdda99dec088d6b2c6070f9d42fd247f7370f3f52b"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/stone_tiles.png"
+hash = "010803364495719aad4e5cfc169c57c3432ee034ee979dc66a4931ba8987384e"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/suspicious_gravel_bricks.png"
+hash = "03f3a755d5a898315f9af7469e84fe41f5fc11a300b7fc6ebed831f7d7bdcc56"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/timber_brace.png"
+hash = "3d570b7e313177b8948923e6b9cb956b92d05c35d6bc203fc55cfdc7a165c767"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/timber_brace_f.png"
+hash = "6453d438d849fa69b697da37273706f51f321bf559ab9d47ca4fc6fd8c3a6ca2"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/timber_cross_brace.png"
+hash = "064da97e66c000f17723d42d5542fe7e5dcd2cd35411e50cac92e77b142a2b8b"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/timber_frame.png"
+hash = "3d19c1eb0e604ef663f95b51657111e392b2a34efa68d0316cf4e1f8d46a5900"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/turn_table_bottom.png"
+hash = "0840cf8b0c6021f97be165b70faf9b6c1af137ffc2b6b0eaad640e137423e9c4"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/turn_table_side_left.png"
+hash = "1f9fafcbab5affd375bd07b8bbb50076901ad44078dab78f34f958228b4f58a7"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/turn_table_side_left_on.png"
+hash = "75a0a9da9a0efda0582de53bdc8d246e03a0ce73b7c1ecdc3ca9f86ecbb0e041"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/turn_table_side_right.png"
+hash = "41b1fd742bf9141d0b31dd1c664de547810e410942c06972802213da2b126bf7"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/turn_table_side_right_on.png"
+hash = "dd2ea73da294374f632f4247434f41038e8bd707401762b3e09631a986835736"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/turn_table_top.png"
+hash = "4c1b22640d55602fcdf9663987e86a6e90c3a2a32498ef696751de85afb743ef"
 
 [[files]]
 file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/item/way_signs/mask.png"
