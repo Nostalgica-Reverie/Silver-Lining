@@ -4485,7 +4485,7 @@ metafile = true
 
 [[files]]
 file = "mods/mob-ai-tweaks.pw.toml"
-hash = "52bb8a02d678a83ab3416c36cd6558c1ac0a4cdf1f98bed2de4fcdb8b5bd1ee9"
+hash = "72db866ea093f288fa971e1bf5ca11ff50ac2dbbd40bf24306fc3673a51461f2"
 metafile = true
 
 [[files]]
