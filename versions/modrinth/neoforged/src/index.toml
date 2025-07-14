@@ -3485,6 +3485,146 @@ file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/models/arm
 hash = "60c10d4fb479a0d975526e010e333dea0a9a97cd2eddb26b29a2803e5446e39c"
 
 [[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/bomb_plant_0.png"
+hash = "6b2f7f6df15c15d732595e56f1836e274bde9ada31a9acdacd6c17f6864220be"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/bomb_plant_1.png"
+hash = "1b20a81b0a5673b86e0261a66dd26095b029d9b874c129d1f3190e15eb6e5c32"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/bomb_plant_2.png"
+hash = "37845007ac49e156aae6088f5e2cfd44be7e02591ad850c8a5cbe1dae3ca26c6"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/bomb_plant_3.png"
+hash = "ea16f5895d4f2dd86036d202aa900a9132f2a6043e5fdbf8b63eeae747189827"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/bone_1.png"
+hash = "94b7d1cb290f2797b193bfcd4806021f4165ba3b47bdb41bce5a2682acb329ac"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/bone_2.png"
+hash = "5b52c41a9f7ef784d1831a46ccfd1ca82a4111ce21c02ae75041dcc631130ca0"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/bone_3.png"
+hash = "3b1e82857d4e2e971b7b844ef7284bcc4489302130d08bb1b2951d08e5bb618e"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/bone_4.png"
+hash = "b191027ec4cceef1152c620a76e551b3b5be80b2215d0734be799685e28d082b"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/brown_bounceshroom.png"
+hash = "cf9d6faed6cf598923bb536bb9595db2c45e28cf8c9010ddfd6c037ef3ee9860"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/brown_shelf_mushroom_bottom.png"
+hash = "fbd9bb71b5735f59b0d1ba09ce2cfde450a8780e83f85940842d9cabc0d3df50"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/brown_shelf_mushroom_top.png"
+hash = "a0500a12e5458c4a95b51c43f994ec4d30ea87c6283c1f5f128bf68ff9cf65fe"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/brown_wall_mushroom.png"
+hash = "6df5a45c9d182fd4f3df50533dfff7be89a1617b27fdc137826743b72e76f1ad"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/burning_log_top.png"
+hash = "d444e62050efac22847452c9924f6a7f066133474245d176b99de90c1998b616"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/burning_planks.png"
+hash = "bb26722adcf2670cfec34cbb0f8a4c5e24b3dc601acd934a42b31dffc779fc65"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/freezing_ice.png"
+hash = "87e15ad140bd8e1a4f6ba0f06b8cb487b56e758206f34d9d8e7337c9f411191a"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/red_bounceshroom.png"
+hash = "17b2861ad6b08ceb219461089a82ecd8593c2bc369a6b619aefc438ae885e199"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/red_shelf_mushroom.png"
+hash = "082991039abbfff7a1d6bf911b7bb08029adefda2adcb825cf348e284196dcc9"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/red_wall_mushroom.png"
+hash = "8dfbf3c6f0f016939db77be176e6b13858a49c79cc80c91cdc29db313b8d619a"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/silk_block.png"
+hash = "69dff3b217938a48be1e0d5ee09c76e44e8a96c26c9e3d9916c6dfd4a99fba8b"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/stripped_burning_log_top.png"
+hash = "e79351386453eb277b9a2ba357a3c0e4d4d02688632bf5b4a584924154a68cf7"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/entity/amethyst_arrow.png"
+hash = "dbb2390cb4be73f22e9ff2751eca1db451266657a4f3204aeb19614b4b3ba52e"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/entity/boat/burning.png"
+hash = "185fef998fc40bf534520f4dc4c7085d59e427ef48fcf105c3088f7a8d045ee0"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/entity/chest_boat/burning.png"
+hash = "836cd0658ce609ccddf5c28370681888c6c209f52897a161763924463b23ff90"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/entity/opal_arrow.png"
+hash = "68f6942fba07848d6924210bdd5e230a36cb535f189130e99b4c0c2df6e80e32"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/entity/signs/burning.png"
+hash = "d7b0781f15c7f6bfb5b9919c859f3519bdecc7c52094f8b2a3d359729d324cb5"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/entity/signs/hanging/burning.png"
+hash = "173ce546a626dd8243f49c3a31d6f8a7e57b3e5a77f8e37ab3f54e4dad592a73"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/gui/hanging_signs/burning.png"
+hash = "d9bf5dc646ffe333f907e370873a98e4bf3835fc9ae539e260a01f81394e5ab8"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/item/amethyst_arrow.png"
+hash = "6cbcb992cbd1dca0d6454ce9f758adade26cc32896d353b46d2c4806ec563273"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/item/bomb_flower.png"
+hash = "b05b23ed1b47d9290f765e32ddcca5008dd0ba2f59cd4098e82aa2b9d20942da"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/item/burning_boat.png"
+hash = "8a0c15cfda971e820c8fe2eb81992331a657611f8a017ff139e0eb2628ca24bb"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/item/burning_chest_boat.png"
+hash = "66b067d19880fd1bd920db447491c273492ef931a8a93e1fc7553718a4538dae"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/item/burning_hanging_sign.png"
+hash = "7bf5a52f88833bd70302aa8484ad9ff8f64dda560792c1c496c52c74125954f2"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/item/burning_sign.png"
+hash = "377962c8fcbab75a25beef46b369a84d5ce9a9699db6e43ee598447805f11fb7"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/item/opal_arrow.png"
+hash = "e3c0d231a105b576a02c98ccfcceedfe7e5a6654131dd2116c628a37f98b1e6b"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/item/spores.png"
+hash = "5bad43e7a548e8f02f7642b7180f448031e5917338cbba66ea97ae4e4cb6189e"
+
+[[files]]
 file = "config/paxi/resourcepacks/sl_extras/assets/rosegoldequipment/textures/block/raw_rosegold_block.png"
 hash = "0796d776edd17b0a086cddda262d83e07f1c31f237167928c40f2e3ea3b092e6"
 
