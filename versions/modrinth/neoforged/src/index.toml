@@ -4500,7 +4500,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "f3f5f631ee96a2b701c5f396f887a33a96955387e8c5085e8ebd72cb6996605c"
+hash = "a9593968393bae08257ba9aae887ad60fc49991f676b637006b2bcd89907f09a"
 metafile = true
 
 [[files]]
@@ -4740,7 +4740,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/pacp.pw.toml"
-hash = "6028c3b643ae7c1c6be69c994371256fba5a7401c299356e91a8be80c743247c"
+hash = "6c863af9d3705655b0ed7963e3367c0acede5ead408502c73b2401935187b228"
 metafile = true
 
 [[files]]
