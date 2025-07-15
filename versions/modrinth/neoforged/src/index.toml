@@ -4760,7 +4760,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-snowy-fix-(forge-fabric).pw.toml"
-hash = "a06bf9e74c4f8b6a1080ab43c04030add98378e1d4596103ea91db322309bad7"
+hash = "de4d51c921f112aa8b236381f7b03dbd618145dfd7953cc2f2dc9e6dec80c747"
 metafile = true
 
 [[files]]
