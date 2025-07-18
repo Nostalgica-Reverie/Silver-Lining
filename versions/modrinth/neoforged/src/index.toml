@@ -4365,7 +4365,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "9605764353450757f20e153abdcedf770b4affab703869724b17454d23a45039"
+hash = "6daabd128a0eb9ecce4e68b80b5b931994ac00d2bb2ac84a1372221f4845caec"
 metafile = true
 
 [[files]]
@@ -4530,7 +4530,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "4870aa7f9f54ec5e33ff4a3b29437c19bc7f1430a8d7d2b994f3b5e3697ebd39"
+hash = "1e4b7192224b12dc888469c38c308001e44d4beda40f58e99aa7a76f0935add9"
 metafile = true
 
 [[files]]
@@ -4635,7 +4635,7 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "1b559b7398ad56803f71ff76c2932dbbf06bc385552e1f1d84ee06a0823ee2ec"
+hash = "21a498b744c9bde6fa9dc36cc128d7711b219fdaf10d468d465e738bcad347c4"
 metafile = true
 
 [[files]]
@@ -4840,7 +4840,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "892cf7902f5d3795a1a3d576e4cc24d51654f29ac0d39215e5e3adf262778562"
+hash = "588c54fc33f63da25e6e5b70c914606a2638bc89b6f27d3cbc115c8f82fb34e5"
 metafile = true
 
 [[files]]
@@ -4850,12 +4850,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "874e30e629a4d32dc35b37fae6ab6996f63a9f5f6fa3acb10a89d96a7ac6f740"
+hash = "208b2e2baac76e9a7385d6d8cae777dd41d251dee3b68f7fbcd85f11a2481d5e"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "4853035723ad5005425f408601ad878b1a6c28bf20ca9ab9c1ec0997e60c348e"
+hash = "9703fd3d469cd29248eab476027ce855a404e2508cd234ed4e5c75beb2592061"
 metafile = true
 
 [[files]]
