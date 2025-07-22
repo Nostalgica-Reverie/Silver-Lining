@@ -4610,7 +4610,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "c18ca4f4035e67182ea949ee2d6cd2c31409306ffc404c0c14bc5c1c212747a8"
+hash = "63ef02ab873349645b5796341f1935603e7356a9c91fa8799e158ef447ddb2bb"
 metafile = true
 
 [[files]]
@@ -4680,7 +4680,7 @@ metafile = true
 
 [[files]]
 file = "mods/nostalgic-tweaks.pw.toml"
-hash = "a47ebe5a7e1d33cb2b9ee28ed1699de9c6281d3c7c2aeda437371ff00c26bd2e"
+hash = "25c5b9eb1e1e85b60fc24f21b1fb9518e1ab4f5a154aad187d8c154261f0a712"
 metafile = true
 
 [[files]]
