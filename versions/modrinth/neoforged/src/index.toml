@@ -4440,7 +4440,7 @@ metafile = true
 
 [[files]]
 file = "mods/corgilib.pw.toml"
-hash = "efeb3367326190b105f2d885db31ae68399d8a6cdab81f215faed995bb473c74"
+hash = "e78c5ddbd8486538ddf91870c5917d570272182bc2f397c299bb24ee4e21d6ad"
 metafile = true
 
 [[files]]
@@ -4520,7 +4520,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-celestials.pw.toml"
-hash = "cf98bf888f5f7c0a900bcb8d4277a63c22ad7d11d97eb99f826101a457fb4093"
+hash = "3e79566bc57a86b74a7c647c0f6237a1bb1bbd442ad3d0a73e827e0841bb412e"
 metafile = true
 
 [[files]]
@@ -4610,7 +4610,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "63ef02ab873349645b5796341f1935603e7356a9c91fa8799e158ef447ddb2bb"
+hash = "c18ca4f4035e67182ea949ee2d6cd2c31409306ffc404c0c14bc5c1c212747a8"
 metafile = true
 
 [[files]]
@@ -4650,7 +4650,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "95d33b7b3566eb54d99be7084a1f2903e670ab376e5c50ad4fa566b53e2987ff"
+hash = "f7976f15929ccf3bbc738cf07f3cd9451908faeb73cc00bd64672965619a8ae1"
 metafile = true
 
 [[files]]
@@ -4680,7 +4680,7 @@ metafile = true
 
 [[files]]
 file = "mods/nostalgic-tweaks.pw.toml"
-hash = "25c5b9eb1e1e85b60fc24f21b1fb9518e1ab4f5a154aad187d8c154261f0a712"
+hash = "5b1da8ab43cb31ba57c1b705b00e12f2e7e029285b67bf851a81f94a4d69202f"
 metafile = true
 
 [[files]]
@@ -4830,7 +4830,7 @@ metafile = true
 
 [[files]]
 file = "mods/visual-workbench.pw.toml"
-hash = "fcc4e00f37493f6292af7fbef7be6ea27e1a0cb4185d010e17db67e4ac61da15"
+hash = "baba208274c2694de645628138244a4316942cfbf9cf67b8c8dd656013fcbc54"
 metafile = true
 
 [[files]]

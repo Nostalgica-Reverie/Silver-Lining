@@ -1,13 +1,13 @@
 name = "Enhanced Celestials"
-filename = "Enhanced-Celestials-NeoForge-6.0.2.0.jar"
+filename = "Enhanced-Celestials-NeoForge-1.21.1-6.0.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2rL16t1O/versions/CJiTDt1r/Enhanced-Celestials-NeoForge-6.0.2.0.jar"
+url = "https://cdn.modrinth.com/data/2rL16t1O/versions/VkBT2hJa/Enhanced-Celestials-NeoForge-1.21.1-6.0.2.1.jar"
 hash-format = "sha512"
-hash = "c86dc4437a4e853794a5a9cc3eedde171e2bec36437785d6982feea6f5c09489515ec65d7be55986b15e80d3e6122adbc266c678434c9eb9a8f54951fa071a50"
+hash = "dc47794c48ccd459283722e120c54ae09e8dd6e6141ba54ce6ec7657334807263fd4ca5df6d1f0ea4c7683bd9e692d9bc9a2c42bae82cf0e6126ba15de483a09"
 
 [update]
 [update.modrinth]
 mod-id = "2rL16t1O"
-version = "CJiTDt1r"
+version = "VkBT2hJa"
