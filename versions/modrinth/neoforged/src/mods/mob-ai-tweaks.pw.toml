@@ -1,13 +1,13 @@
 name = "Mob AI Tweaks"
-filename = "mob-ai-tweaks-1.8.3-1.21.jar"
+filename = "mob-ai-tweaks-1.8.4-1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/egIM2bKK/versions/vQCO00km/mob-ai-tweaks-1.8.3-1.21.jar"
+url = "https://cdn.modrinth.com/data/egIM2bKK/versions/spRw6Ald/mob-ai-tweaks-1.8.4-1.21.jar"
 hash-format = "sha512"
-hash = "c6260f3049544b910f3aefb5b647c0d7bd73f5e52bbbe284df718c89ffcf422be4039d16e463924b36e2670e71cfcdfd85cb100d827e5e4b16814dc01b49feaa"
+hash = "d7998cbe1138e305c5a52901263e2a2a778f29af9c6d42b7d2fd7ae950758f74fc7ad86516202a8c69f8f781d8249d06f6a57c2d67c6ae20ec5ade22d4ce3d6d"
 
 [update]
 [update.modrinth]
 mod-id = "egIM2bKK"
-version = "vQCO00km"
+version = "spRw6Ald"
