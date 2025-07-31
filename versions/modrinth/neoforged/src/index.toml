@@ -4745,7 +4745,7 @@ metafile = true
 
 [[files]]
 file = "mods/seasonhud.pw.toml"
-hash = "b70445c50cb4d8a078374f9c4b1fd08660811539a6854dfcfc3ee9e2bfbc2ffc"
+hash = "416c1dd099e24d19f061cf1c0e3b00991b571f1eba0cee565b906511085a6824"
 metafile = true
 
 [[files]]
@@ -4795,7 +4795,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "3876d38179b2d9f60a6a900005909a2568146916f8dfedd8294ec33302f5fb4a"
+hash = "4698af1776eeaafe2fe51c47dde3ae9bf4cd4793633cdb8abe65f67dfaa4eea8"
 metafile = true
 
 [[files]]
