@@ -4520,7 +4520,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-celestials.pw.toml"
-hash = "3e79566bc57a86b74a7c647c0f6237a1bb1bbd442ad3d0a73e827e0841bb412e"
+hash = "8dd0caf22ae0efe5c7c8f7f516beeb122e0637a663585dc11b3a5c3e28c89f20"
 metafile = true
 
 [[files]]
@@ -4795,7 +4795,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "33d563df5299798b0f4c96f5d0c094a59121b25da182787431611cbde88a1c84"
+hash = "0854c75fe54f9e023afb6b52582fde7f272e5db01f2c6d77872cd5581773f8a6"
 metafile = true
 
 [[files]]
