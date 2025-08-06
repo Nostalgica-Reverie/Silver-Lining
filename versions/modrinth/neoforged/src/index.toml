@@ -4730,7 +4730,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "b27fedf73ce2b829db06bf18fea5afd33f0a001b75465301c7f5bafe7e3c04d8"
+hash = "e91052ce0d9999e7a1a62ebbe9fe5f347a7cd0b0bfd3b4395ae33e5efa164773"
 metafile = true
 
 [[files]]
@@ -4825,7 +4825,7 @@ metafile = true
 
 [[files]]
 file = "mods/villagerconfig.pw.toml"
-hash = "6a24f29dfef614a62249f7a278ae42f6492e1d95c68e9bd8d562fcc905d11567"
+hash = "91b9ba575425303ab55e3849a930a8dd91e28390d29fbdc5b1882b9a798a63ea"
 metafile = true
 
 [[files]]
@@ -4840,7 +4840,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "588c54fc33f63da25e6e5b70c914606a2638bc89b6f27d3cbc115c8f82fb34e5"
+hash = "555eb967840f3b3f3f264422f5b65d8a33709eeea75b4763ecdf11b86d95674a"
 metafile = true
 
 [[files]]
