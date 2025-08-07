@@ -4795,7 +4795,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "0854c75fe54f9e023afb6b52582fde7f272e5db01f2c6d77872cd5581773f8a6"
+hash = "287cc4856941e606fcaada93ca7cc1f0732bbc22e1d4db4e87254cb110dd6ca9"
 metafile = true
 
 [[files]]
@@ -4840,7 +4840,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "555eb967840f3b3f3f264422f5b65d8a33709eeea75b4763ecdf11b86d95674a"
+hash = "d22f84a9928003c087d33012a9ac8f9d6b2fcf87b2178344e7680221f659db02"
 metafile = true
 
 [[files]]
