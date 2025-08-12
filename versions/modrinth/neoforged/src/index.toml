@@ -4515,7 +4515,7 @@ metafile = true
 
 [[files]]
 file = "mods/enderscape.pw.toml"
-hash = "792b74f63e49dfc2c92a7173e42b7355eaef01e5bcd3e09ec9088638dc2c1161"
+hash = "dee101b4695257c023df362ae0e99f9ed7ca0f43bf943016f398e301b1678be4"
 metafile = true
 
 [[files]]
@@ -4730,7 +4730,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "e91052ce0d9999e7a1a62ebbe9fe5f347a7cd0b0bfd3b4395ae33e5efa164773"
+hash = "989b2aeb18f4004fb9b7932951de4b38ffa0fc6bf5360ac32ffe9af08391d04d"
 metafile = true
 
 [[files]]

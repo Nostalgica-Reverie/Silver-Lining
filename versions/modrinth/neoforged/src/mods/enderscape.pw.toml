@@ -1,13 +1,13 @@
 name = "Enderscape"
-filename = "enderscape-neoforge-1.0.8+mc1.21.1.jar"
+filename = "enderscape-neoforge-1.0.9+mc1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/btCrWvHr/versions/GyZTtYRy/enderscape-neoforge-1.0.8%2Bmc1.21.1.jar"
+url = "https://cdn.modrinth.com/data/btCrWvHr/versions/K3Vz3uXn/enderscape-neoforge-1.0.9%2Bmc1.21.1.jar"
 hash-format = "sha512"
-hash = "b80e1ffae625c9b36c0367ee39dd8f93ebc7664351d5295bbddac8db9eaa3917b52fdec3488bb435c165b8d060a99c6f07a59fef9b9c7610d9f643c8116f36bd"
+hash = "8225a4e7873fe5cf336ca82aa9a2f01b18e169e59e160c033fdc0d80922e3abe270f50c9758adc6a70063b3d53e7e61da2eef029eb2320ee016d3ffeff15b917"
 
 [update]
 [update.modrinth]
 mod-id = "btCrWvHr"
-version = "GyZTtYRy"
+version = "K3Vz3uXn"
