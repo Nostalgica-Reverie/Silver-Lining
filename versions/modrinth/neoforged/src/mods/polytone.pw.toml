@@ -1,13 +1,13 @@
 name = "Polytone"
-filename = "polytone-1.21-3.5.4.jar"
+filename = "polytone-1.21-3.5.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/3qAYkBMB/versions/B0109WgG/polytone-1.21-3.5.4.jar"
+url = "https://cdn.modrinth.com/data/3qAYkBMB/versions/7XQzQ6wF/polytone-1.21-3.5.5.jar"
 hash-format = "sha512"
-hash = "09f9dae30ff57371c35248f7bfb85ac9f4606e81d36d85288451e3d6965f1457e2f91e1ea595177dd2669fc13919c0ba62c1d22f77f75647e6ebd0018616037f"
+hash = "7e1e03d23e1a0aeb04c4c9539d089c72b971d31be16a7b3409b6aecc68de7d2d94586621c395dffcc07ec30aba1fe71fdd77c08a43473e56068ad8c9adae0ec0"
 
 [update]
 [update.modrinth]
 mod-id = "3qAYkBMB"
-version = "B0109WgG"
+version = "7XQzQ6wF"
