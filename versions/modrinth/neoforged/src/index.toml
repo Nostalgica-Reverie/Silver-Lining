@@ -4625,7 +4625,7 @@ metafile = true
 
 [[files]]
 file = "mods/mob-ai-tweaks.pw.toml"
-hash = "63b162f6a27e2f7209e2882774ecb07f7f9d63af6aa828abb13329d435a15305"
+hash = "400149f85bd8174d41e673128607b040f29f96c25f13dcb576ac540bf95559f9"
 metafile = true
 
 [[files]]
@@ -4825,7 +4825,7 @@ metafile = true
 
 [[files]]
 file = "mods/villagerconfig.pw.toml"
-hash = "91b9ba575425303ab55e3849a930a8dd91e28390d29fbdc5b1882b9a798a63ea"
+hash = "ea09b9d041a3e0030b1fc6a74b735b900e0f896210d03066e37a4f10347c54cb"
 metafile = true
 
 [[files]]
