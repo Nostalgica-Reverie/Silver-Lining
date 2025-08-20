@@ -1,13 +1,13 @@
 name = "Moonlight Lib"
-filename = "moonlight-1.21-2.20.7-neoforge.jar"
+filename = "moonlight-1.21-2.22.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/twkfQtEc/versions/cMfBtPs2/moonlight-1.21-2.20.7-neoforge.jar"
+url = "https://cdn.modrinth.com/data/twkfQtEc/versions/kvSKX3BL/moonlight-1.21-2.22.1-neoforge.jar"
 hash-format = "sha512"
-hash = "7d7704aea1b98a017010cb0e15a6aa3048430e99fa136236069bbccd7a743ad23d3eeb15f10d70f75bee0406a5a62945f905a8e5fe9c20cc8c6bb407ecbebd87"
+hash = "dcbefbdd8ef4dfede49aefe704ca80e990a6cc11b3fb02d0683cccf0c0a8db995c55654e588e455a4f3a15e469fe00a69811c1817a3312d3d79482710fef4d9a"
 
 [update]
 [update.modrinth]
 mod-id = "twkfQtEc"
-version = "cMfBtPs2"
+version = "kvSKX3BL"
