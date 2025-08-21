@@ -4385,7 +4385,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "293ec22e4e8342a9bd0f338505a14e3794b44cd7ca1e5278a86f41f99c69a3af"
+hash = "8614268ae009f49372cb267a0cea77f75625a9c797501df13aa95ac9bfb5fc7f"
 metafile = true
 
 [[files]]
@@ -4725,7 +4725,7 @@ metafile = true
 
 [[files]]
 file = "mods/prickle.pw.toml"
-hash = "a69a8ba0d9e52361b1853cf59b2cf2a38b668b1d508a565f315f2fa30407f546"
+hash = "c81cdac68db336237210bd5e8c7bb1bc9cc141e184e246eefdfe034bf0761160"
 metafile = true
 
 [[files]]
