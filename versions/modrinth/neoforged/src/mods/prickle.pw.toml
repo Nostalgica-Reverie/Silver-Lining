@@ -1,13 +1,13 @@
 name = "Prickle"
-filename = "prickle-neoforge-1.21.1-21.1.9.jar"
+filename = "prickle-neoforge-1.21.1-21.1.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/aaRl8GiW/versions/6PUPR9D7/prickle-neoforge-1.21.1-21.1.9.jar"
+url = "https://cdn.modrinth.com/data/aaRl8GiW/versions/jGBdTRi5/prickle-neoforge-1.21.1-21.1.10.jar"
 hash-format = "sha512"
-hash = "e218294f298333994b1efb066d765c470c09e39008a267b3f4f5d453f41b0cad19225cfc31adde165a28e09c75dc96fecced23baeae0e6e2c7b73b954bec90cd"
+hash = "26a441f853cd3a7f2fee1456921f8afff88eeb7e4e332cda8e6cd934fa9c2214792533302b0eec2abbea555e9f49f21e2e0246888811f7a3a15d3f467e84b293"
 
 [update]
 [update.modrinth]
 mod-id = "aaRl8GiW"
-version = "6PUPR9D7"
+version = "jGBdTRi5"

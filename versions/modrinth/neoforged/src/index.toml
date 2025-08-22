@@ -4340,7 +4340,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "a0453123a545c46c3f36e1f3909de6c91c72e757f8fbc7521555dd70d0024466"
+hash = "2bdd7bbbd62aac12f67f8ae55f2b1d42c38f0322812c02355725880199e5e544"
 metafile = true
 
 [[files]]
@@ -4510,7 +4510,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "0b380e24e46e328c362bda7cff892c5b0e471789ca8c429fd2a588eaf63b8712"
+hash = "c3dd8540dfffbe9f6249d47dd759b79e12152b74306d3a226ac13e444f3d03e3"
 metafile = true
 
 [[files]]
@@ -4725,7 +4725,7 @@ metafile = true
 
 [[files]]
 file = "mods/prickle.pw.toml"
-hash = "c81cdac68db336237210bd5e8c7bb1bc9cc141e184e246eefdfe034bf0761160"
+hash = "e4c289b0be8f0aa41c81765933b76a0fcf02ead89540f88eff2e472e4e66a166"
 metafile = true
 
 [[files]]
