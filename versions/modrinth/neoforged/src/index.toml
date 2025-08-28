@@ -4445,7 +4445,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "31052dd5c490071cf02e0aa34af9e7599ea4911f88275b26fff89b913441034b"
+hash = "747082ee248ce62937f772423cfd184b5f38b4eef346c8abaa012805c77150de"
 metafile = true
 
 [[files]]
@@ -4650,7 +4650,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "5c6d12d8c577babd20233ed8d00c2e2db931b75dc5685aded16eb01f404ea0a1"
+hash = "ce13ec6c9038592714b55318f0ff5b93400f639b64fbe5d196507f65a2dcdb6a"
 metafile = true
 
 [[files]]
@@ -4720,7 +4720,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "3d6719f4e042d24c76c4b96586b997f10a8038df2355227bb79c5edc01ce993d"
+hash = "b1b258c5b7436ce2909686508565a83e8a9432369dc448396c4f8c785f741a67"
 metafile = true
 
 [[files]]
@@ -4745,7 +4745,7 @@ metafile = true
 
 [[files]]
 file = "mods/seasonhud.pw.toml"
-hash = "1eed5a2872c7c26b00f6f677fe0050507e284aefe1e520fc8c5989d7454b6b4f"
+hash = "0d76c3447376b041bbb834aabb3ae4f0a7d5810970fa931ea383af26941ebf11"
 metafile = true
 
 [[files]]
@@ -4795,7 +4795,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "7ae94feb12c30ee5d80659e4386c0e40aeb512fb9144860d882ec27d2b16bd14"
+hash = "489cfc28628c32983d6432199dbf0a2e272ddf238b321fd4278c5799933775d0"
 metafile = true
 
 [[files]]
