@@ -4,7 +4,7 @@
 
 \## What is Silver Lining?
 
-Silver Lining is an alternate timeline modpack for Early Release (b1.8-r1.6.4) Minecraft. Inspired by Reminiscence, Better Than Adventure and Minecraft Diverge.
+Silver Lining is an alternate timeline modpack based on Early Release (b1.8-r1.6.4) Minecraft. Inspired by Reminiscence, Better Than Adventure and Authentic Adventure.
 
 
 
