@@ -4430,7 +4430,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "9f920c5f1df2577cf374285e4aad4f2982a30ea2a3da1cf7ddaf25e04b3a2e31"
+hash = "1cfa183bba77b45e4ae2abea9449c5f4f33b1af56e8b87166525fc56216daba4"
 metafile = true
 
 [[files]]
@@ -4610,7 +4610,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "c18ca4f4035e67182ea949ee2d6cd2c31409306ffc404c0c14bc5c1c212747a8"
+hash = "3bece4fb14b2cbbddcaa43a05aa48bd08f14e7bd4a403f22e75a038835bc0128"
 metafile = true
 
 [[files]]
@@ -4795,7 +4795,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "489cfc28628c32983d6432199dbf0a2e272ddf238b321fd4278c5799933775d0"
+hash = "8af5a7b79004a68c35a876bab7febd04d4b25c1c31c5b4a8aba8c4ef48afa242"
 metafile = true
 
 [[files]]
