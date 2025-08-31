@@ -4814,6 +4814,11 @@ hash = "eb6e313b6a62aeb69488a2c0d8daaacdd42e1b4df367fdfee0c0f010a02ccec5"
 metafile = true
 
 [[files]]
+file = "mods/tweaked-creative-menu.pw.toml"
+hash = "7bf33b750c138837139c12670858f6d9485468e14720182355c857ba8d29173e"
+metafile = true
+
+[[files]]
 file = "mods/txnilib.pw.toml"
 hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
 metafile = true
