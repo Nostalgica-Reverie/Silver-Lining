@@ -1,6 +1,6 @@
 name = "Silver Lining"
 author = "omo50, Adrenix, BlueStaggo, icanttellyou"
-version = "0.1.5+beta+mc1.21.1"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,4 +10,4 @@ hash = "ac619310171dcc9a6afc57f300002d07185987edfb7d71cdbb1ef60d857796a0"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.174"
+neoforge = "21.1.206"
