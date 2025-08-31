@@ -1369,10 +1369,6 @@ file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/arrow.json"
 hash = "cfc2bdb24f1830b23c72187a48fada580d8a40cdb9e416939053a5c1814969cf"
 
 [[files]]
-file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/barrel.json"
-hash = "4e75c23f61276481139662b62f6a0d4fb455a10510223f262b92eb61fb731f8e"
-
-[[files]]
 file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/beetroot_soup.json"
 hash = "1584bdff72b820727647ac8acb32f5f0ecc87ba5c3d58baf0c7d4597f30564a5"
 
@@ -3489,6 +3485,146 @@ file = "config/paxi/resourcepacks/sl_extras/assets/minecraft/textures/models/arm
 hash = "60c10d4fb479a0d975526e010e333dea0a9a97cd2eddb26b29a2803e5446e39c"
 
 [[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/bomb_plant_0.png"
+hash = "6b2f7f6df15c15d732595e56f1836e274bde9ada31a9acdacd6c17f6864220be"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/bomb_plant_1.png"
+hash = "1b20a81b0a5673b86e0261a66dd26095b029d9b874c129d1f3190e15eb6e5c32"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/bomb_plant_2.png"
+hash = "37845007ac49e156aae6088f5e2cfd44be7e02591ad850c8a5cbe1dae3ca26c6"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/bomb_plant_3.png"
+hash = "ea16f5895d4f2dd86036d202aa900a9132f2a6043e5fdbf8b63eeae747189827"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/bone_1.png"
+hash = "94b7d1cb290f2797b193bfcd4806021f4165ba3b47bdb41bce5a2682acb329ac"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/bone_2.png"
+hash = "5b52c41a9f7ef784d1831a46ccfd1ca82a4111ce21c02ae75041dcc631130ca0"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/bone_3.png"
+hash = "3b1e82857d4e2e971b7b844ef7284bcc4489302130d08bb1b2951d08e5bb618e"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/bone_4.png"
+hash = "b191027ec4cceef1152c620a76e551b3b5be80b2215d0734be799685e28d082b"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/brown_bounceshroom.png"
+hash = "cf9d6faed6cf598923bb536bb9595db2c45e28cf8c9010ddfd6c037ef3ee9860"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/brown_shelf_mushroom_bottom.png"
+hash = "fbd9bb71b5735f59b0d1ba09ce2cfde450a8780e83f85940842d9cabc0d3df50"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/brown_shelf_mushroom_top.png"
+hash = "a0500a12e5458c4a95b51c43f994ec4d30ea87c6283c1f5f128bf68ff9cf65fe"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/brown_wall_mushroom.png"
+hash = "6df5a45c9d182fd4f3df50533dfff7be89a1617b27fdc137826743b72e76f1ad"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/burning_log_top.png"
+hash = "d444e62050efac22847452c9924f6a7f066133474245d176b99de90c1998b616"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/burning_planks.png"
+hash = "bb26722adcf2670cfec34cbb0f8a4c5e24b3dc601acd934a42b31dffc779fc65"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/freezing_ice.png"
+hash = "87e15ad140bd8e1a4f6ba0f06b8cb487b56e758206f34d9d8e7337c9f411191a"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/red_bounceshroom.png"
+hash = "17b2861ad6b08ceb219461089a82ecd8593c2bc369a6b619aefc438ae885e199"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/red_shelf_mushroom.png"
+hash = "082991039abbfff7a1d6bf911b7bb08029adefda2adcb825cf348e284196dcc9"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/red_wall_mushroom.png"
+hash = "8dfbf3c6f0f016939db77be176e6b13858a49c79cc80c91cdc29db313b8d619a"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/silk_block.png"
+hash = "69dff3b217938a48be1e0d5ee09c76e44e8a96c26c9e3d9916c6dfd4a99fba8b"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/block/stripped_burning_log_top.png"
+hash = "e79351386453eb277b9a2ba357a3c0e4d4d02688632bf5b4a584924154a68cf7"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/entity/amethyst_arrow.png"
+hash = "dbb2390cb4be73f22e9ff2751eca1db451266657a4f3204aeb19614b4b3ba52e"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/entity/boat/burning.png"
+hash = "185fef998fc40bf534520f4dc4c7085d59e427ef48fcf105c3088f7a8d045ee0"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/entity/chest_boat/burning.png"
+hash = "836cd0658ce609ccddf5c28370681888c6c209f52897a161763924463b23ff90"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/entity/opal_arrow.png"
+hash = "68f6942fba07848d6924210bdd5e230a36cb535f189130e99b4c0c2df6e80e32"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/entity/signs/burning.png"
+hash = "d7b0781f15c7f6bfb5b9919c859f3519bdecc7c52094f8b2a3d359729d324cb5"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/entity/signs/hanging/burning.png"
+hash = "173ce546a626dd8243f49c3a31d6f8a7e57b3e5a77f8e37ab3f54e4dad592a73"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/gui/hanging_signs/burning.png"
+hash = "d9bf5dc646ffe333f907e370873a98e4bf3835fc9ae539e260a01f81394e5ab8"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/item/amethyst_arrow.png"
+hash = "6cbcb992cbd1dca0d6454ce9f758adade26cc32896d353b46d2c4806ec563273"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/item/bomb_flower.png"
+hash = "b05b23ed1b47d9290f765e32ddcca5008dd0ba2f59cd4098e82aa2b9d20942da"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/item/burning_boat.png"
+hash = "8a0c15cfda971e820c8fe2eb81992331a657611f8a017ff139e0eb2628ca24bb"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/item/burning_chest_boat.png"
+hash = "66b067d19880fd1bd920db447491c273492ef931a8a93e1fc7553718a4538dae"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/item/burning_hanging_sign.png"
+hash = "7bf5a52f88833bd70302aa8484ad9ff8f64dda560792c1c496c52c74125954f2"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/item/burning_sign.png"
+hash = "377962c8fcbab75a25beef46b369a84d5ce9a9699db6e43ee598447805f11fb7"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/item/opal_arrow.png"
+hash = "e3c0d231a105b576a02c98ccfcceedfe7e5a6654131dd2116c628a37f98b1e6b"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/pyrellium/textures/item/spores.png"
+hash = "5bad43e7a548e8f02f7642b7180f448031e5917338cbba66ea97ae4e4cb6189e"
+
+[[files]]
 file = "config/paxi/resourcepacks/sl_extras/assets/rosegoldequipment/textures/block/raw_rosegold_block.png"
 hash = "0796d776edd17b0a086cddda262d83e07f1c31f237167928c40f2e3ea3b092e6"
 
@@ -3665,6 +3801,34 @@ file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/bloc
 hash = "6f33ab5b5a821e7a5ecde0eb44b39407f88d80729790e6ac7df9c0f489d0bee5"
 
 [[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/daub.png"
+hash = "e39d2d0e5d8a39cb5ea7bdacd969dba4a087fc7facff144175c288d7267f04ff"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/daub_brace.png"
+hash = "8e681ad53a4467adfcbdc19fe3a141793e65a263868715aef6b393aa5aeb4efc"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/daub_brace_f.png"
+hash = "69067d9f9beca30b5e2d96681e0d286e8009e2633d03805f01a82473223e3788"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/daub_cross_brace.png"
+hash = "b73e87fd48d57154367e518195568a9fc8f07a80a7d039d4ac58ba2adc3288e3"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/daub_frame.png"
+hash = "aab2614128eb50666869c7bfbdc6aa8e05b033c03c75d5ccc013c7778fbfda49"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/deepslate_lamp.png"
+hash = "9e8d6cd4a9e0d9df46ce21dbb9e3802c6da52876e4bd8eeb19f0d1d8d05c5378"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/deepslate_lamp_top.png"
+hash = "87e9593757f739247ecb1920807259e0d23c180f6894c5cb7251b0a2d787d10f"
+
+[[files]]
 file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/display_back.png"
 hash = "d95c29d94d7bf839215690fb4ff5f6131f29546a7c34d436d560e7bebe7336b1"
 
@@ -3701,6 +3865,14 @@ file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/bloc
 hash = "5789c219cfad5c80436372a4d80691fafb7aef3e16c1a81420e016f086799472"
 
 [[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/gravel_bricks.png"
+hash = "4066ea1e18d8728f9981373cbf852f6c4450b07d789f503854a715886a02584e"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/gravel_bricks.png~"
+hash = "4066ea1e18d8728f9981373cbf852f6c4450b07d789f503854a715886a02584e"
+
+[[files]]
 file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/iron_gate_bottom.png"
 hash = "6e0c0d186fe3bb54f96c90d2b92ecfbc7c624ce6de3640c9b81cd900d102c9a0"
 
@@ -3713,8 +3885,124 @@ file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/bloc
 hash = "56376ceab316e5e5e9a324f1ca9071bebee3c030a28d702f0c0330987c73fa72"
 
 [[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/jar_bottom.png"
+hash = "213a5e14182979f9931b7104726e20381b6f75d863954101ecbeadf0af56cb94"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/jar_side.png"
+hash = "90be61cce00cbad580cc9387bba42568768103e97c0def6577eaaf889ec71f30"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/jar_top.png"
+hash = "6b3f08e83a1bbe1c9bcc4b1937d93f23436a2c950e011e9d86789487467caa40"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/lapis_bricks.png"
+hash = "c39ac24eab899b90f89e1c9333adcd0b85e3d47089b6b65bd52b65b6daed32ce"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/laser_bottom.png"
+hash = "567c786f6249006ad3d29e192631d02f0369b088dd9742477e18b4c81792ad9c"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/laser_side_off.png"
+hash = "9b65562e7c2e5d9f5a14ee0b4df101367270e041acf1dd9a8cb99268d11a4903"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/laser_side_on.png"
+hash = "572df216532b134222cb59a8658380726766e30518fc77f547821da4b5eb14ea"
+
+[[files]]
 file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/long_bricks.png"
 hash = "764af2575abae197ab04490458577ca121dcf5b0aebd550d427785fdac33b58f"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/pedestal_bottom.png"
+hash = "196641bd49f53fe52a9050e6814a462635367031db73c4cf8ecd08dffe6ee990"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/pedestal_full.png"
+hash = "4ed1c55be9f39b6c79d4b7b53dfb0290827a9f758c92ccc1fb5ab502091c018e"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/pedestal_side.png"
+hash = "6aa3f2af36166dafe7b95793057c676c02d8112c7890f8e4659e02a21cc936bc"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/pedestal_side_bottom.png"
+hash = "84a0f602530f7d0487f929a1c877820c0169227af997db375031497d7d270e78"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/pedestal_side_top.png"
+hash = "fa0b59ebdd7e01cbfd649cd474ec1e64524bc3d19894fb10d5396ebaadcd057e"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/raked_gravel.png"
+hash = "f618cabbe7ae22711cd4d80c32d7c4000c05580623358951b48cb90bdc5d8780"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/raked_gravel_curved.png"
+hash = "f2fa77cf02af105961253ed6bd6b4644347a0d762eb510e01a45fcc69b6ffa0a"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/speaker_bottom.png"
+hash = "1c50c6279b2824d998f623cdda99dec088d6b2c6070f9d42fd247f7370f3f52b"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/speaker_front.png"
+hash = "c50a89fe45668e6767e509c53d203c0d72461e95209b098bd44d129e071b236a"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/speaker_side.png"
+hash = "1c50c6279b2824d998f623cdda99dec088d6b2c6070f9d42fd247f7370f3f52b"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/stone_tiles.png"
+hash = "010803364495719aad4e5cfc169c57c3432ee034ee979dc66a4931ba8987384e"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/suspicious_gravel_bricks.png"
+hash = "03f3a755d5a898315f9af7469e84fe41f5fc11a300b7fc6ebed831f7d7bdcc56"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/timber_brace.png"
+hash = "3d570b7e313177b8948923e6b9cb956b92d05c35d6bc203fc55cfdc7a165c767"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/timber_brace_f.png"
+hash = "6453d438d849fa69b697da37273706f51f321bf559ab9d47ca4fc6fd8c3a6ca2"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/timber_cross_brace.png"
+hash = "064da97e66c000f17723d42d5542fe7e5dcd2cd35411e50cac92e77b142a2b8b"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/timber_frame.png"
+hash = "3d19c1eb0e604ef663f95b51657111e392b2a34efa68d0316cf4e1f8d46a5900"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/turn_table_bottom.png"
+hash = "0840cf8b0c6021f97be165b70faf9b6c1af137ffc2b6b0eaad640e137423e9c4"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/turn_table_side_left.png"
+hash = "1f9fafcbab5affd375bd07b8bbb50076901ad44078dab78f34f958228b4f58a7"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/turn_table_side_left_on.png"
+hash = "75a0a9da9a0efda0582de53bdc8d246e03a0ce73b7c1ecdc3ca9f86ecbb0e041"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/turn_table_side_right.png"
+hash = "41b1fd742bf9141d0b31dd1c664de547810e410942c06972802213da2b126bf7"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/turn_table_side_right_on.png"
+hash = "dd2ea73da294374f632f4247434f41038e8bd707401762b3e09631a986835736"
+
+[[files]]
+file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/block/turn_table_top.png"
+hash = "4c1b22640d55602fcdf9663987e86a6e90c3a2a32498ef696751de85afb743ef"
 
 [[files]]
 file = "config/paxi/resourcepacks/sl_extras/assets/supplementaries/textures/item/way_signs/mask.png"
@@ -4052,7 +4340,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "1fa5075c1ebd310416d705674d6ae90975fa8971ce6cf04478f548a18c58d0da"
+hash = "4a17b94185b5ec445085170c8c339dfb6337f4235deb5f721436386551669bc7"
 metafile = true
 
 [[files]]
@@ -4077,7 +4365,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "9605764353450757f20e153abdcedf770b4affab703869724b17454d23a45039"
+hash = "c51f5bc71fff2b0df7420b1c3df9f68cadb2572f6d8df239734db83c186b6715"
 metafile = true
 
 [[files]]
@@ -4097,7 +4385,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "293ec22e4e8342a9bd0f338505a14e3794b44cd7ca1e5278a86f41f99c69a3af"
+hash = "8614268ae009f49372cb267a0cea77f75625a9c797501df13aa95ac9bfb5fc7f"
 metafile = true
 
 [[files]]
@@ -4142,7 +4430,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "9f920c5f1df2577cf374285e4aad4f2982a30ea2a3da1cf7ddaf25e04b3a2e31"
+hash = "1cfa183bba77b45e4ae2abea9449c5f4f33b1af56e8b87166525fc56216daba4"
 metafile = true
 
 [[files]]
@@ -4152,12 +4440,12 @@ metafile = true
 
 [[files]]
 file = "mods/corgilib.pw.toml"
-hash = "efeb3367326190b105f2d885db31ae68399d8a6cdab81f215faed995bb473c74"
+hash = "7cd10de618c7f46c1877d9d3e597699a7fcc02cf3982bba439ccbec95a37d0de"
 metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "6028668d5c1c5e49797eb97bb597d818be33a67a939d0cc356a702460b504675"
+hash = "0f549e18a1a7fa4ef7370bab5ddf6e9bfa373c45c086507161e030ccd4e9ac69"
 metafile = true
 
 [[files]]
@@ -4222,32 +4510,32 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "0b380e24e46e328c362bda7cff892c5b0e471789ca8c429fd2a588eaf63b8712"
+hash = "c3dd8540dfffbe9f6249d47dd759b79e12152b74306d3a226ac13e444f3d03e3"
 metafile = true
 
 [[files]]
-file = "mods/ends-phantasm.pw.toml"
-hash = "e99bc192266affa7203e3536f96a9a584e2fb348a20d780a7c0afcb60623fa7d"
+file = "mods/enderscape.pw.toml"
+hash = "dee101b4695257c023df362ae0e99f9ed7ca0f43bf943016f398e301b1678be4"
 metafile = true
 
 [[files]]
 file = "mods/enhanced-celestials.pw.toml"
-hash = "cf98bf888f5f7c0a900bcb8d4277a63c22ad7d11d97eb99f826101a457fb4093"
+hash = "8dd0caf22ae0efe5c7c8f7f516beeb122e0637a663585dc11b3a5c3e28c89f20"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "a55a0530d723bdd87d002cb1224d102492017387aad3eb69f60ee1bfaa6da2fb"
+hash = "7f103230955af4ec60633c625e054a4aa93a87ca9313d1a52351961896737456"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "4870aa7f9f54ec5e33ff4a3b29437c19bc7f1430a8d7d2b994f3b5e3697ebd39"
+hash = "1e4b7192224b12dc888469c38c308001e44d4beda40f58e99aa7a76f0935add9"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "475d649729d31e1ba8a7f2783e77d4baf5ebd78d23c1b8956a61840969a3e6d6"
+hash = "d4ab34599447cced4c9c1380b64d2c2b380df0c0c5e0725b01f9d11c3940b448"
 metafile = true
 
 [[files]]
@@ -4287,7 +4575,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "1eca834248d3420fd44ffb6cc17194c94c974e331e324f579ed5ae9a649a2526"
+hash = "79d8c527a416d0dfe54695701e13456580981084195ef4888bb1b61dcfa12e32"
 metafile = true
 
 [[files]]
@@ -4322,7 +4610,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "c18ca4f4035e67182ea949ee2d6cd2c31409306ffc404c0c14bc5c1c212747a8"
+hash = "3bece4fb14b2cbbddcaa43a05aa48bd08f14e7bd4a403f22e75a038835bc0128"
 metafile = true
 
 [[files]]
@@ -4337,7 +4625,7 @@ metafile = true
 
 [[files]]
 file = "mods/mob-ai-tweaks.pw.toml"
-hash = "52bb8a02d678a83ab3416c36cd6558c1ac0a4cdf1f98bed2de4fcdb8b5bd1ee9"
+hash = "400149f85bd8174d41e673128607b040f29f96c25f13dcb576ac540bf95559f9"
 metafile = true
 
 [[files]]
@@ -4347,12 +4635,12 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "1b559b7398ad56803f71ff76c2932dbbf06bc385552e1f1d84ee06a0823ee2ec"
+hash = "21a498b744c9bde6fa9dc36cc128d7711b219fdaf10d468d465e738bcad347c4"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "f3f5f631ee96a2b701c5f396f887a33a96955387e8c5085e8ebd72cb6996605c"
+hash = "a9593968393bae08257ba9aae887ad60fc49991f676b637006b2bcd89907f09a"
 metafile = true
 
 [[files]]
@@ -4362,7 +4650,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "2bd1220d157ebe5c3a15a222840bc05739de0c797e1847e6a82ed41960a9f203"
+hash = "4d1ab868ca7542d8490f2d42864c877fc5f38661f69dfa421ebddc9c53449471"
 metafile = true
 
 [[files]]
@@ -4392,7 +4680,7 @@ metafile = true
 
 [[files]]
 file = "mods/nostalgic-tweaks.pw.toml"
-hash = "ec62869c93dfd5e9af0926dc689a440644ee59031335955588ac09c9576f2306"
+hash = "5b1da8ab43cb31ba57c1b705b00e12f2e7e029285b67bf851a81f94a4d69202f"
 metafile = true
 
 [[files]]
@@ -4412,7 +4700,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "7ec6e5aab74e9427df771c614be3c01ecc156af653104693387387ce033934fa"
+hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
 
 [[files]]
@@ -4432,17 +4720,17 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "c62e6ef79ac50a77788e61ce4b21d676456a758d6032c9e35bc912927d4214b7"
+hash = "b1b258c5b7436ce2909686508565a83e8a9432369dc448396c4f8c785f741a67"
 metafile = true
 
 [[files]]
 file = "mods/prickle.pw.toml"
-hash = "a69a8ba0d9e52361b1853cf59b2cf2a38b668b1d508a565f315f2fa30407f546"
+hash = "e4c289b0be8f0aa41c81765933b76a0fcf02ead89540f88eff2e472e4e66a166"
 metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "b27fedf73ce2b829db06bf18fea5afd33f0a001b75465301c7f5bafe7e3c04d8"
+hash = "989b2aeb18f4004fb9b7932951de4b38ffa0fc6bf5360ac32ffe9af08391d04d"
 metafile = true
 
 [[files]]
@@ -4457,7 +4745,7 @@ metafile = true
 
 [[files]]
 file = "mods/seasonhud.pw.toml"
-hash = "840c8adddee0965dbcf0387b7c253f415a08dc923935a272b64d7b339447d8a6"
+hash = "0d76c3447376b041bbb834aabb3ae4f0a7d5810970fa931ea383af26941ebf11"
 metafile = true
 
 [[files]]
@@ -4472,7 +4760,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-snowy-fix-(forge-fabric).pw.toml"
-hash = "a06bf9e74c4f8b6a1080ab43c04030add98378e1d4596103ea91db322309bad7"
+hash = "de4d51c921f112aa8b236381f7b03dbd618145dfd7953cc2f2dc9e6dec80c747"
 metafile = true
 
 [[files]]
@@ -4507,7 +4795,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "c2fa5c0a9f3d91bed92bdb2a8434b617747f77b28cad60abfd47ca0215fcbda5"
+hash = "8af5a7b79004a68c35a876bab7febd04d4b25c1c31c5b4a8aba8c4ef48afa242"
 metafile = true
 
 [[files]]
@@ -4526,18 +4814,23 @@ hash = "284f90816cf98b50dbeef5bc187dfc9d2e41904465b40b0a65358e000672efb5"
 metafile = true
 
 [[files]]
+file = "mods/trimmed.pw.toml"
+hash = "48a3d2303e013e2c5ce4cbfec4d797a0066719434f795f564b7489b63c7b817e"
+metafile = true
+
+[[files]]
 file = "mods/txnilib.pw.toml"
 hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
 metafile = true
 
 [[files]]
 file = "mods/villagerconfig.pw.toml"
-hash = "6a24f29dfef614a62249f7a278ae42f6492e1d95c68e9bd8d562fcc905d11567"
+hash = "ea09b9d041a3e0030b1fc6a74b735b900e0f896210d03066e37a4f10347c54cb"
 metafile = true
 
 [[files]]
 file = "mods/visual-workbench.pw.toml"
-hash = "fcc4e00f37493f6292af7fbef7be6ea27e1a0cb4185d010e17db67e4ac61da15"
+hash = "baba208274c2694de645628138244a4316942cfbf9cf67b8c8dd656013fcbc54"
 metafile = true
 
 [[files]]
@@ -4547,7 +4840,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "892cf7902f5d3795a1a3d576e4cc24d51654f29ac0d39215e5e3adf262778562"
+hash = "d22f84a9928003c087d33012a9ac8f9d6b2fcf87b2178344e7680221f659db02"
 metafile = true
 
 [[files]]
@@ -4557,12 +4850,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "874e30e629a4d32dc35b37fae6ab6996f63a9f5f6fa3acb10a89d96a7ac6f740"
+hash = "208b2e2baac76e9a7385d6d8cae777dd41d251dee3b68f7fbcd85f11a2481d5e"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "4853035723ad5005425f408601ad878b1a6c28bf20ca9ab9c1ec0997e60c348e"
+hash = "9703fd3d469cd29248eab476027ce855a404e2508cd234ed4e5c75beb2592061"
 metafile = true
 
 [[files]]
@@ -4572,7 +4865,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "077124b4342695ede01668748f99a6819576f64cc3b61fb59387c1a189c221c7"
+hash = "aa9070a0e763f00f0d0b325e9bb980e53faabe9854bae25f2e542a7b81b7492e"
 metafile = true
 
 [[files]]
@@ -4587,7 +4880,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/pacp.pw.toml"
-hash = "6028c3b643ae7c1c6be69c994371256fba5a7401c299356e91a8be80c743247c"
+hash = "6c863af9d3705655b0ed7963e3367c0acede5ead408502c73b2401935187b228"
 metafile = true
 
 [[files]]

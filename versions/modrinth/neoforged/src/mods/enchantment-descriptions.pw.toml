@@ -1,13 +1,13 @@
 name = "Enchantment Descriptions"
-filename = "enchdesc-neoforge-1.21.1-21.1.7.jar"
+filename = "enchdesc-neoforge-1.21.1-21.1.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/UVtY3ZAC/versions/pNpo2TdS/enchdesc-neoforge-1.21.1-21.1.7.jar"
+url = "https://cdn.modrinth.com/data/UVtY3ZAC/versions/2J8rg8A0/enchdesc-neoforge-1.21.1-21.1.8.jar"
 hash-format = "sha512"
-hash = "0a7e582189a5946c1f813e66ee54f887e33576868c9752ad0cdc25707599cf00670ae87b7e4d26711d541becc23524bff4c5ffd6cf87afcb690e9131222d664d"
+hash = "d7cf56fb95e4f0ea7bc4c7dbe0774d9d7528ef43a291bcea74946b7817a2534ef7e18717781cc9ac298af0a14c3f5a129c84831f5a5fbd1acd99e86d34d63e23"
 
 [update]
 [update.modrinth]
 mod-id = "UVtY3ZAC"
-version = "pNpo2TdS"
+version = "2J8rg8A0"
