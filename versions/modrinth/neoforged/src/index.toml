@@ -4257,10 +4257,6 @@ file = "configureddefaults/config/modmenu.json"
 hash = "ee8d1a6f11ea009f37abba6325d97766910e1786b0de848aa307771d8a87ed72"
 
 [[files]]
-file = "configureddefaults/config/nostalgic_tweaks/backup/nostalgic_tweaks-client-startup_backup.json"
-hash = "a7b38f77ea53c1a5d9416615572807187df7b819a4bd9121069de03f05b71293"
-
-[[files]]
 file = "configureddefaults/config/nostalgic_tweaks/nostalgic_tweaks-server.json"
 hash = "b4b45b01444228b31bfc2c92f72ef10168e37a486c49823c705784301078c36e"
 
@@ -4299,6 +4295,10 @@ hash = "c6c5d188f9d5285ec99e004d8f205437c82d393353f28bb5d2be5a2f9af6901a"
 [[files]]
 file = "configureddefaults/config/threadtweak.json"
 hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
+
+[[files]]
+file = "configureddefaults/config/tweaked_creative_menu.json"
+hash = "f664f8916f37563b1969e786d96c28bc63887ec3b0ffda609069fc45e8592464"
 
 [[files]]
 file = "configureddefaults/config/vmp.properties"
