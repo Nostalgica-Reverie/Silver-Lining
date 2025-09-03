@@ -4539,7 +4539,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "d4ab34599447cced4c9c1380b64d2c2b380df0c0c5e0725b01f9d11c3940b448"
+hash = "4cd50ec391981d743902554ce1b6bc133476abda4ade46141333d6746e4a586e"
 metafile = true
 
 [[files]]
@@ -4614,7 +4614,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "6bc87d290554223ae9ca88f366464f32fba045d9e562700c35eab83cbd777d52"
+hash = "af02f8be14b08503b29c94ae613ed2317202ff32e56df45038184e1725673984"
 metafile = true
 
 [[files]]
@@ -4654,7 +4654,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "4d1ab868ca7542d8490f2d42864c877fc5f38661f69dfa421ebddc9c53449471"
+hash = "05f4e54ebaa52fe52dca7e6f2157bc8b2a51a42cafe915fceccdea41a9ceb5b5"
 metafile = true
 
 [[files]]
@@ -4884,7 +4884,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/pacp.pw.toml"
-hash = "6c863af9d3705655b0ed7963e3367c0acede5ead408502c73b2401935187b228"
+hash = "6dfe57ae000a50b1b129022f33c77aa4b3551714a89edbb77b90f22a2e6d98bc"
 metafile = true
 
 [[files]]
