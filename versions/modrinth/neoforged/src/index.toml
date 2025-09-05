@@ -4654,7 +4654,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "8fef77d60125f5e03da63a195e4aab776ccc4c21e5cbf4baa499a0a196f4d686"
+hash = "d45c890983f931a351b7caaab6d1f8caec5dcda24834af89f5865961c9275081"
 metafile = true
 
 [[files]]
@@ -4729,7 +4729,7 @@ metafile = true
 
 [[files]]
 file = "mods/prickle.pw.toml"
-hash = "e4c289b0be8f0aa41c81765933b76a0fcf02ead89540f88eff2e472e4e66a166"
+hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
 metafile = true
 
 [[files]]
