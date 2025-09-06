@@ -4379,7 +4379,7 @@ metafile = true
 
 [[files]]
 file = "mods/blueprint.pw.toml"
-hash = "02c2891e2548adf5c59d0ef237ed01ffd89632b4908290269b513c4958ca9043"
+hash = "f45bde04c8cc141077ebea59194d9dd9327917223206c70346589bd4cd466254"
 metafile = true
 
 [[files]]
