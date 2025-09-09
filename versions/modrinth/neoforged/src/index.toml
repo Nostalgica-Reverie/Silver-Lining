@@ -4369,7 +4369,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "c51f5bc71fff2b0df7420b1c3df9f68cadb2572f6d8df239734db83c186b6715"
+hash = "3f547b77df4069e4f1ab37d3672f2cc666f07b37af56718a7ba3b7187f78f08d"
 metafile = true
 
 [[files]]
@@ -4654,7 +4654,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "d35363ccbfc12edb6c02ef59675cc7db138a0343f2fd6be3dc82cb5f105f2506"
+hash = "3431a08960546d802945d981ffddc5d4f5b29b7ab694e4df4d77d961214141b7"
 metafile = true
 
 [[files]]
@@ -4844,7 +4844,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "d22f84a9928003c087d33012a9ac8f9d6b2fcf87b2178344e7680221f659db02"
+hash = "735bae0e4736022f33f59f85fae837549d19992b387fe38d92af613bbe101eea"
 metafile = true
 
 [[files]]
