@@ -4544,7 +4544,7 @@ metafile = true
 
 [[files]]
 file = "mods/esf.pw.toml"
-hash = "4edb61b6874c784e1743e01c31aa9719ee0f957053bc0b0b6c5fcd4ec6c0507c"
+hash = "18e6869e7b42841227824563fc774e2e268040d88167b0ab47187298f29b0bb6"
 metafile = true
 
 [[files]]
@@ -4629,7 +4629,7 @@ metafile = true
 
 [[files]]
 file = "mods/mob-ai-tweaks.pw.toml"
-hash = "7dbdbc586f1da176e1285055643379c0e7557ab61cfcd9a28df2dc1c68662e40"
+hash = "0bf382e64ea2c3f47f3d1146248056501aba8f0701d7a48f0e4e9f609b349959"
 metafile = true
 
 [[files]]
