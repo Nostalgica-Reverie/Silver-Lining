@@ -4574,7 +4574,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "5b34f5aff5000de94ed9e132315bad7288a72a9cbb8f902df2799a579433b7af"
+hash = "7afdc4a1e9619ea434e5c5a05819dd12653978d0781eaeb1fa6257086c79e827"
 metafile = true
 
 [[files]]
@@ -4794,7 +4794,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "ac109600ce7674bbbb4b5b9c404669d60a0a2393a1b0396b5af8cfa0996d00f7"
+hash = "b58d586a0560ceab0ab47d7e3e8b738cf2bec7c5df5ed8f94e95326c61a8b792"
 metafile = true
 
 [[files]]
