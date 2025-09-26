@@ -4589,7 +4589,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "a55fe659bff4772919b0e3f7a64d79df053556cb16cf8e5a186e20d6b3945dc1"
+hash = "6bdf101d3d5ec8729a8095d5853f80eb925a47c889cd10de6704b20cc7f3c73e"
 metafile = true
 
 [[files]]
@@ -4614,7 +4614,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "af02f8be14b08503b29c94ae613ed2317202ff32e56df45038184e1725673984"
+hash = "c2056a15775c8db6b8ed455eb490059e0a1a0c9c68b324e7056477af8b756446"
 metafile = true
 
 [[files]]
