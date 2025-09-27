@@ -4724,7 +4724,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "ea55b172a32811c6b032560293576149b696db3c929a7ddc0fc168eac602d7f9"
+hash = "f43dc710d1a35ddad173ef7ac96464c53bf01c1966d607c442e17f4d108e98da"
 metafile = true
 
 [[files]]
@@ -4744,7 +4744,7 @@ metafile = true
 
 [[files]]
 file = "mods/seasonhud.pw.toml"
-hash = "211f72f6402447765e1171939e4d8b5d94659adce01dee5a9814a912aa58cc31"
+hash = "ac9b2206846c2c1fe177565ac8dc151e1712350260250c025870e60ec9b0e4a7"
 metafile = true
 
 [[files]]
@@ -4869,7 +4869,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "aa9070a0e763f00f0d0b325e9bb980e53faabe9854bae25f2e542a7b81b7492e"
+hash = "64eaf7478e42d5143f4feeee87c56f779f4c3523f9fb06d8342484d36aa4442b"
 metafile = true
 
 [[files]]
