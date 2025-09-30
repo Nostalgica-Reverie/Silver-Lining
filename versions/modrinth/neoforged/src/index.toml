@@ -4344,7 +4344,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "4a17b94185b5ec445085170c8c339dfb6337f4235deb5f721436386551669bc7"
+hash = "4988d4033a10b548ec23ecf6a8f3d00358f032d31147fa7bf524f800b351f75b"
 metafile = true
 
 [[files]]
@@ -4434,7 +4434,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "1cfa183bba77b45e4ae2abea9449c5f4f33b1af56e8b87166525fc56216daba4"
+hash = "097a2a9f31c3cccc019c63e412e6dd7d561e133a0c9117a7b32fdae11579fd56"
 metafile = true
 
 [[files]]
