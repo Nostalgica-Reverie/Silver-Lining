@@ -1,13 +1,13 @@
 name = "Amendments"
-filename = "amendments-1.21-2.0.7-neoforge.jar"
+filename = "amendments-1.21-2.0.8-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6iTJugQR/versions/N5pgrmrK/amendments-1.21-2.0.7-neoforge.jar"
+url = "https://cdn.modrinth.com/data/6iTJugQR/versions/i7GV5VYK/amendments-1.21-2.0.8-neoforge.jar"
 hash-format = "sha512"
-hash = "1279eb7b3e6866fdcb8ff1d4bb6b7b672eab1dbe41230d28b4aa9883fa88093583b1c63e72497ea08908afbe70f62ae23ec9e00451e4848db3aad434bb09c042"
+hash = "185c6cc49694db792aee0e329831f037e4157f3c5e5e766a15ac534deef0b78467d31c2e71c060a7c0d922acd2a2402c1b1ba33e5f7fe8ad9d0fccb0c6f7dc1e"
 
 [update]
 [update.modrinth]
 mod-id = "6iTJugQR"
-version = "N5pgrmrK"
+version = "i7GV5VYK"
