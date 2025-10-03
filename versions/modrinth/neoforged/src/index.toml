@@ -4829,7 +4829,7 @@ metafile = true
 
 [[files]]
 file = "mods/villagerconfig.pw.toml"
-hash = "ea09b9d041a3e0030b1fc6a74b735b900e0f896210d03066e37a4f10347c54cb"
+hash = "b650ccd6738180342e548e6f13fea56361384204be62e6553b214252773e1963"
 metafile = true
 
 [[files]]
