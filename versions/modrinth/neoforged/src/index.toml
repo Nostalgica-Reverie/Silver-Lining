@@ -4614,7 +4614,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "d238a2c586765e24ca3385940220869f39c25fa402e0e802db446674977db7c5"
+hash = "f199fe36b913131dfa2d31ec4a03186aa00be227f7fe2e34c4c3064b8601bb99"
 metafile = true
 
 [[files]]
@@ -4829,7 +4829,7 @@ metafile = true
 
 [[files]]
 file = "mods/villagerconfig.pw.toml"
-hash = "b650ccd6738180342e548e6f13fea56361384204be62e6553b214252773e1963"
+hash = "8a13be1cb53eac4d19f3dbe4a2e74f8c7756b4d44c4a6f9ff158e876897679ca"
 metafile = true
 
 [[files]]
