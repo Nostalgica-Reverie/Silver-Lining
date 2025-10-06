@@ -4579,7 +4579,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "79d8c527a416d0dfe54695701e13456580981084195ef4888bb1b61dcfa12e32"
+hash = "b8fe9e74e322076dbecdc93be50d5ba6f66015580f44d6ec77510c71fdcff304"
 metafile = true
 
 [[files]]
@@ -4654,7 +4654,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "ce8de1f8dc6ad4a6e0735e22245231202702658937c05a79d608c4bd92ac8358"
+hash = "bcdf2b7b2e4648346526c576824ff02f6d519edf406f8fbcf6d6d73fc1de507d"
 metafile = true
 
 [[files]]
