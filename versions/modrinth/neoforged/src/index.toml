@@ -4574,7 +4574,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "7afdc4a1e9619ea434e5c5a05819dd12653978d0781eaeb1fa6257086c79e827"
+hash = "ec1bd5b80399287ca33a113086bee9d5697b7e673c9f593e5a1aeca4c9bad4c9"
 metafile = true
 
 [[files]]
@@ -4889,5 +4889,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/restored-brightness.pw.toml"
-hash = "af1694250599b75e44064c9301eaf7df00d5357f3421d6e9488f12134346e6ae"
+hash = "165b0a7d90f50d9b80512ae0429da7d80cf0a72d31a1ee806ad8fd82d2da87a1"
 metafile = true
