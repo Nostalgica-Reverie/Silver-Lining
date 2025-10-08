@@ -1,13 +1,13 @@
 name = "Villager Config"
-filename = "villagerconfig-neoforge-4.4.9+1.21.1.jar"
+filename = "villagerconfig-neoforge-4.4.11+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OClpEDe3/versions/v9xxRrPa/villagerconfig-neoforge-4.4.9%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/OClpEDe3/versions/XUyPjJPm/villagerconfig-neoforge-4.4.11%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "381b6d117f46add1e195aa21cacdd28f547d49677f23d6947b38de37ceff081759554d943daf38cfa879ed296bfa823b1fbe3806c424a394cb1b9cf24ee9f432"
+hash = "ed8ce282562a29b2bdb95daa6ea177239251a515c6ff05f940ebdb68e7b06b17ac452c4509b5cdacf65784b01af2e4ee7f5a3ef93b305b8c166df0453368f333"
 
 [update]
 [update.modrinth]
 mod-id = "OClpEDe3"
-version = "v9xxRrPa"
+version = "XUyPjJPm"
