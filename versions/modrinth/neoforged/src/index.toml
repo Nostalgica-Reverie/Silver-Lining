@@ -4364,7 +4364,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "62278b071518aca2e75d1cb25542c82cee2dd053df7d28afe6682ef9ca62ed0d"
+hash = "5ea9fb9ea7bf0fed99866d9dc20ffc907c6f6cf203dddeca9dda01ee475cfc37"
 metafile = true
 
 [[files]]
@@ -4624,7 +4624,7 @@ metafile = true
 
 [[files]]
 file = "mods/mob-ai-tweaks.pw.toml"
-hash = "ea9d732ffc9f4bc741df3e31ea7ea833e66d055dfac32813b926b319c7011404"
+hash = "4d26118c886b2d2bdc7ff99e5db13456f3fdbd44d5aec656d86236c852535108"
 metafile = true
 
 [[files]]
