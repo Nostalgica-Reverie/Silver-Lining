@@ -4519,7 +4519,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-celestials.pw.toml"
-hash = "8dd0caf22ae0efe5c7c8f7f516beeb122e0637a663585dc11b3a5c3e28c89f20"
+hash = "36b1bfa4292d1ba3dfe05badf5686f51eaa388ee1ada210690241cc45a9b20aa"
 metafile = true
 
 [[files]]
