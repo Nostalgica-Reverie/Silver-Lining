@@ -4719,7 +4719,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "f43dc710d1a35ddad173ef7ac96464c53bf01c1966d607c442e17f4d108e98da"
+hash = "d735e9cc5652e654cfa85bd42c43b5f91d9ed96f008cdefe258f827dbda195c5"
 metafile = true
 
 [[files]]
@@ -4874,7 +4874,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/pacp.pw.toml"
-hash = "5efcbc40fb07d120ab5e6d9d747742da7df257d4827c9cdfbcb8a49c19215f50"
+hash = "6d5d7ec730da9321df1ed448d643e844657197926a4a273e3dabe3e09cab4c65"
 metafile = true
 
 [[files]]
