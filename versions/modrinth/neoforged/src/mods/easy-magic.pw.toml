@@ -1,13 +1,13 @@
 name = "Easy Magic"
-filename = "EasyMagic-v21.1.0-1.21.1-NeoForge.jar"
+filename = "EasyMagic-v21.1.2-1.21.1-NeoForge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9hx3AbJM/versions/hQ2X894I/EasyMagic-v21.1.0-1.21.1-NeoForge.jar"
+url = "https://cdn.modrinth.com/data/9hx3AbJM/versions/kladR4Mf/EasyMagic-v21.1.2-1.21.1-NeoForge.jar"
 hash-format = "sha512"
-hash = "a6ab2f488e9d515269847fc145de7bce5f5b20ec3a21c258bf61cf5e476fe80fbd72568d29ecdcf0ba640030b918b9268a82404d828ac6faea89c4c253b7f6cb"
+hash = "0758b5309df59e87ee55506bb2e928f94ba157f6c0201eae1d32a813f6dc5e04efaa11a826d8d549dec82ee99ca44395762665a86d000b710770f503b62c625c"
 
 [update]
 [update.modrinth]
 mod-id = "9hx3AbJM"
-version = "hQ2X894I"
+version = "kladR4Mf"
