@@ -4374,7 +4374,7 @@ metafile = true
 
 [[files]]
 file = "mods/blueprint.pw.toml"
-hash = "03853eaa4dd93cbefd33f129742306a174ac7cdce497d9e3cb590cf29ce569ad"
+hash = "a5122c5ecc0e36da4f60474cc8ecaff590aaeae8be545ffddfe2c25db89816e7"
 metafile = true
 
 [[files]]
@@ -4494,7 +4494,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-magic.pw.toml"
-hash = "1581c28c9367fe5b82e121f87327c9e0caea1aea5be3ea000652ee6662182a42"
+hash = "5b0b2c07a3e8d544af418e1beda9b5ca4d8152b1e932a6f029a77a028658c62e"
 metafile = true
 
 [[files]]
@@ -4529,7 +4529,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "02f3bb1f25eb9e15b92aebde1a3189e7f57435476423ea7611241cab479202ee"
+hash = "ac41aee87c68974f644e948ee2cdc879598b1e93b3346550788b6b31337a20dc"
 metafile = true
 
 [[files]]
@@ -4649,7 +4649,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "64fc5f01ab1b1bc5481281f282cbb5f4ce79647d59711eda5720442c916b04d2"
+hash = "de40420d2d28944b97b84100a15c9f9afba561c1e8805dfbd2d1f84cbaa9fc22"
 metafile = true
 
 [[files]]
@@ -4729,7 +4729,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "989b2aeb18f4004fb9b7932951de4b38ffa0fc6bf5360ac32ffe9af08391d04d"
+hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
 metafile = true
 
 [[files]]
@@ -4739,7 +4739,7 @@ metafile = true
 
 [[files]]
 file = "mods/seasonhud.pw.toml"
-hash = "51aba0f8f9e8498b80ae13d0dc730bea839e1bb19f1f0bb95f1841c9310c42a1"
+hash = "abec54ca3b7998df226da3791c706fa28e1780c859399c4234ed7f90c232c564"
 metafile = true
 
 [[files]]
