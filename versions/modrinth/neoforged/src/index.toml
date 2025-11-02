@@ -4384,7 +4384,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "34b9ccfc5e13dc8c89c502495a29d2c0cf66e9b3c5fec3c86262976fe1dff3f9"
+hash = "6cd235030774b3cfab54145cf616ab47b0afa57cacab75ede94c2682c9450ce9"
 metafile = true
 
 [[files]]
@@ -4429,7 +4429,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "097a2a9f31c3cccc019c63e412e6dd7d561e133a0c9117a7b32fdae11579fd56"
+hash = "c27af69a7c64206beff3e59c671934d4eb9a3dc65fd589609c5e6f6bb60421bb"
 metafile = true
 
 [[files]]
@@ -4494,7 +4494,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-magic.pw.toml"
-hash = "5b0b2c07a3e8d544af418e1beda9b5ca4d8152b1e932a6f029a77a028658c62e"
+hash = "1aa75105514780685caab9b945db2a2ea7c0594ced8c01e12f2a3e331f1af4e6"
 metafile = true
 
 [[files]]
@@ -4529,7 +4529,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "ac41aee87c68974f644e948ee2cdc879598b1e93b3346550788b6b31337a20dc"
+hash = "465eeb9d8419c3fc471e899066120d0535baa16499e131ef71ff1d8edf0bbe50"
 metafile = true
 
 [[files]]
@@ -4624,7 +4624,7 @@ metafile = true
 
 [[files]]
 file = "mods/mob-ai-tweaks.pw.toml"
-hash = "4d26118c886b2d2bdc7ff99e5db13456f3fdbd44d5aec656d86236c852535108"
+hash = "0425a75b57d7d4c101e5ebd13e9148b377344ee4768c813442d5d5c444c3e89e"
 metafile = true
 
 [[files]]
@@ -4649,7 +4649,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "de40420d2d28944b97b84100a15c9f9afba561c1e8805dfbd2d1f84cbaa9fc22"
+hash = "f8080690eb60f050db45b1f3a1400c2b0ff5614912344a1ab9e8b80d3d2fa4dd"
 metafile = true
 
 [[files]]
