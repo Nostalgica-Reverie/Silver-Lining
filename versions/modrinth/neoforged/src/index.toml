@@ -4624,7 +4624,7 @@ metafile = true
 
 [[files]]
 file = "mods/mob-ai-tweaks.pw.toml"
-hash = "0425a75b57d7d4c101e5ebd13e9148b377344ee4768c813442d5d5c444c3e89e"
+hash = "c49343967d870ddbc21375c9c097e1b40fb165b96c70cfbe13f86ecb2eddf57d"
 metafile = true
 
 [[files]]
@@ -4639,7 +4639,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a9593968393bae08257ba9aae887ad60fc49991f676b637006b2bcd89907f09a"
+hash = "eae3c14c915400de36bf547550f630de727bbf48ae0ce719b99b2ff50ceaab0d"
 metafile = true
 
 [[files]]
@@ -4649,7 +4649,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "f8080690eb60f050db45b1f3a1400c2b0ff5614912344a1ab9e8b80d3d2fa4dd"
+hash = "f438b2c5e6e4ac46cfe40c21b277ec273fdcc1290ff609d2bc832a328a6272ea"
 metafile = true
 
 [[files]]
