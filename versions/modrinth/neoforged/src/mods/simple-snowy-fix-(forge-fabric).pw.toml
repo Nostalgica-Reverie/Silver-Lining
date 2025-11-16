@@ -1,13 +1,13 @@
 name = "Simple Snowy Fix (Forge / Fabric)"
-filename = "simple_snowy_fix-neoforge-2.1.4.jar"
+filename = "simple_snowy_fix-1.21.1-1.21.10-2.1.5-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/3WP3HZRG/versions/JUMPWGJ2/simple_snowy_fix-neoforge-2.1.4.jar"
+url = "https://cdn.modrinth.com/data/3WP3HZRG/versions/9gMSq9py/simple_snowy_fix-1.21.1-1.21.10-2.1.5-neoforge.jar"
 hash-format = "sha512"
-hash = "e8a6c2aa6824a98967086d53b06358614e3412a110ed0a6aa1491aae68753ae0fee62a7a4501c072c909fe8a16f2114adf9d8ebf3d5d9a2e0d63da33ab29cfe4"
+hash = "fdb4fc5575725a972f11f0483559227e64498374af7c716d55b91257e9ec9e75fb09320f25ff6d668c4003869b57af75ced5343d13190cfcaefb46b11dff014f"
 
 [update]
 [update.modrinth]
 mod-id = "3WP3HZRG"
-version = "JUMPWGJ2"
+version = "9gMSq9py"

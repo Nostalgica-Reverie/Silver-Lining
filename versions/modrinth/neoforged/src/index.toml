@@ -4444,7 +4444,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "36fe638633083667b1fd66b53fd1e0d76467dec3a58062fede8207350bd6771d"
+hash = "48cbc3da595efc9c3e04fb06bf9ba71861fcbd2e70dc1596a38ccb14b5179edc"
 metafile = true
 
 [[files]]
@@ -4649,7 +4649,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "f438b2c5e6e4ac46cfe40c21b277ec273fdcc1290ff609d2bc832a328a6272ea"
+hash = "6f978589d682f22a6a9e62a08964400b8a1649cdf6e2b86c6bc6fe2cb01fd5ba"
 metafile = true
 
 [[files]]
@@ -4754,7 +4754,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-snowy-fix-(forge-fabric).pw.toml"
-hash = "de4d51c921f112aa8b236381f7b03dbd618145dfd7953cc2f2dc9e6dec80c747"
+hash = "c9d4051dc915f85104ea89eb203684cd9e2bb49172ebfd507b695f37d0a28a2a"
 metafile = true
 
 [[files]]
