@@ -64,7 +64,8 @@
         "minecraft:jungle*lake": "-0.75;0.25",
         "minecraft:swamp*lake": "-0.75;0.25",
         "traverse:lush_swamp*lake": "-0.75;0.25"
-      }
+      },
+      "modifyOnlyPositiveDepth": true
     }
   },
   "biomeSettings": {
