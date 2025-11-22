@@ -4009,7 +4009,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "c27af69a7c64206beff3e59c671934d4eb9a3dc65fd589609c5e6f6bb60421bb"
+hash = "b14ecd66565f07ae95f06772262a6d0013522d81d3fc4136f570a81de9468f30"
 metafile = true
 
 [[files]]
@@ -4104,7 +4104,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "7f103230955af4ec60633c625e054a4aa93a87ca9313d1a52351961896737456"
+hash = "ea923297dfed832d6fb4e666e9309f63859f44cff719b83fda03f7133995b9b9"
 metafile = true
 
 [[files]]
@@ -4114,7 +4114,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "4cd50ec391981d743902554ce1b6bc133476abda4ade46141333d6746e4a586e"
+hash = "0ca0a7d2f6b6aac671c40710e2943caee10e9dc447bae02206c064b43578d021"
 metafile = true
 
 [[files]]
@@ -4184,7 +4184,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
+hash = "7b8e8af83e8583adc91b2d859e5355f1bd0516a346d2584b8b01c004467d18af"
 metafile = true
 
 [[files]]
@@ -4204,7 +4204,7 @@ metafile = true
 
 [[files]]
 file = "mods/mob-ai-tweaks.pw.toml"
-hash = "c49343967d870ddbc21375c9c097e1b40fb165b96c70cfbe13f86ecb2eddf57d"
+hash = "2a7852ca75ff11dbe43f001f532a438c5ea722cf0d6a4af3800d1934dda34a3e"
 metafile = true
 
 [[files]]
@@ -4229,7 +4229,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "6f978589d682f22a6a9e62a08964400b8a1649cdf6e2b86c6bc6fe2cb01fd5ba"
+hash = "34af73fbc06558118a046d6c4c26a555337f5e971ba59b42ca13471c57127f1f"
 metafile = true
 
 [[files]]
@@ -4294,7 +4294,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "d735e9cc5652e654cfa85bd42c43b5f91d9ed96f008cdefe258f827dbda195c5"
+hash = "f9b03a8d6466455294d823b23712e43bb9f26cb621d27b6134c150cf64cd671b"
 metafile = true
 
 [[files]]
