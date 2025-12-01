@@ -2270,7 +2270,7 @@ hash = "e491231d749bb17c3dd8bcf202c5418eac7cf97e20d62018a718ef0cee928625"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset/normal.json"
-hash = "c3c8822eed18119f67f5f7ee3bbf062f62bd7d16f69c3e5a853593a7ce4a705e"
+hash = "a8cb3abadb63a9f8b6be89dcd53bf671f8597dfe475b7a108a99a6cb717bc66b"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset/small_biomes.json"
@@ -3835,6 +3835,10 @@ hash = "22caf99f6531254b612c35bc12aff9c2b6d121b038b2e418a1a429049d16c9e0"
 [[files]]
 file = "configureddefaults/config/modmenu.json"
 hash = "ee8d1a6f11ea009f37abba6325d97766910e1786b0de848aa307771d8a87ed72"
+
+[[files]]
+file = "configureddefaults/config/naturescompass-common.toml"
+hash = "c30202e4a82bd6cb85342357352c3915e2c8ce31f19c50749717180069cb97a6"
 
 [[files]]
 file = "configureddefaults/config/nostalgic_tweaks/nostalgic_tweaks-server.json"
