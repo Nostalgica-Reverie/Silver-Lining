@@ -3873,12 +3873,20 @@ file = "configureddefaults/config/supplementaries-common.toml"
 hash = "f915b0bad01cdbce4ef1075f492ab4dda89d7f79255928c7ac4dd68fd9f4620e"
 
 [[files]]
+file = "configureddefaults/config/terrestria/biome.json"
+hash = "95f31c4d389bf7dae2bbdb08b07f76b7a8d7639ed45ac1bd8387f28d9599bffc"
+
+[[files]]
 file = "configureddefaults/config/terrestria/client.json"
 hash = "c6c5d188f9d5285ec99e004d8f205437c82d393353f28bb5d2be5a2f9af6901a"
 
 [[files]]
 file = "configureddefaults/config/threadtweak.json"
 hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
+
+[[files]]
+file = "configureddefaults/config/traverse/biome.json"
+hash = "d694136e919857a7132f668113103ef742bbeccbfcfb9beef4135a380da7da2b"
 
 [[files]]
 file = "configureddefaults/config/tweaked_creative_menu.json"
@@ -4368,12 +4376,12 @@ metafile = true
 
 [[files]]
 file = "mods/terrestria.pw.toml"
-hash = "52b52f26024490fd7036085733edb78771becd6930c4787627fbddca45d9fbad"
+hash = "0fb825812a8c1cd99e21d887225ecf6ff6f8ac8b53d289d933d3949978f91d3f"
 metafile = true
 
 [[files]]
 file = "mods/traverse.pw.toml"
-hash = "6d8236f7e73cf2403b8566005378fc42e0d986b93e0c0832de955c7cb6316c3a"
+hash = "311afceeee78edf527323b5110cd3e8d53a7e45530dbe6905c46956b93034404"
 metafile = true
 
 [[files]]
