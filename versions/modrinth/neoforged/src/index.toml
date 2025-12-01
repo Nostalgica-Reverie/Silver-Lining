@@ -3943,12 +3943,12 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "be28a9ff89c60140b2983eb91089e77bec90bc5a0379c25472be01cb14dcbb97"
+hash = "39f761298d831e49308b1507c2ac1e524f4ad07f220621e45290c810deb1c497"
 metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "5ea9fb9ea7bf0fed99866d9dc20ffc907c6f6cf203dddeca9dda01ee475cfc37"
+hash = "95322b6e88dbeba91b5e7a30d6bd011629124ae8aef5bf1b7d1304f12bd4619c"
 metafile = true
 
 [[files]]
@@ -3983,7 +3983,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
-hash = "8167495862ab369dc2dbc651ccedd74c14bd99691713aab6517c4353116fba25"
+hash = "ef25acde70c7c22ce326c032a5aaaaf93e7f2c3d40e9e7d4d9e11167b1167b1b"
 metafile = true
 
 [[files]]
@@ -4048,7 +4048,7 @@ metafile = true
 
 [[files]]
 file = "mods/data-anchor.pw.toml"
-hash = "7b7a61e6724eab42b13f406d235c9665e69425a182283dbba35fdd7bdfbd8745"
+hash = "24f9fbd2a4862eb469a582734a97e1e6ab3d3ed1645421b0cf98a23e25ac25ca"
 metafile = true
 
 [[files]]
@@ -4108,7 +4108,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "ea923297dfed832d6fb4e666e9309f63859f44cff719b83fda03f7133995b9b9"
+hash = "9440e2864fe84a5acd3ac2344f0cbb17f43819be1658a3e77a577cd1522362c7"
 metafile = true
 
 [[files]]
@@ -4233,7 +4233,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "34af73fbc06558118a046d6c4c26a555337f5e971ba59b42ca13471c57127f1f"
+hash = "fdd3e68ff962be188ee0b96cf5082f137ecee9b419cc0d0d7ad9bae124e13e45"
 metafile = true
 
 [[files]]
@@ -4318,7 +4318,7 @@ metafile = true
 
 [[files]]
 file = "mods/seasonhud.pw.toml"
-hash = "abec54ca3b7998df226da3791c706fa28e1780c859399c4234ed7f90c232c564"
+hash = "9109da4ac73ebc6ffd284ff3895d4953a76a8e4b4e7ac0c5b3ce58e1935045c3"
 metafile = true
 
 [[files]]
@@ -4413,7 +4413,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "735bae0e4736022f33f59f85fae837549d19992b387fe38d92af613bbe101eea"
+hash = "12d9283f643e9b8f85368fccf82f328c471c043fcf06fe08dea6c034be3b0c22"
 metafile = true
 
 [[files]]

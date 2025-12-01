@@ -1,13 +1,13 @@
 name = "Chunks fade in"
-filename = "chunksfadein-neoforge-2.0.3-1.21.jar"
+filename = "chunksfadein-neoforge-3.0.11-1.21.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/JaNmzvA8/versions/M5qDBlDo/chunksfadein-neoforge-2.0.3-1.21.jar"
+url = "https://cdn.modrinth.com/data/JaNmzvA8/versions/cXuKLqCE/chunksfadein-neoforge-3.0.11-1.21.jar"
 hash-format = "sha512"
-hash = "e3ba599fe4b0dfc932762c98ab8ab8238e90f52a4cf6467da52ec0fbfde03277ab42df723f089eca071a511705f1135a902102ec80fd576875f3aaac6f67de31"
+hash = "63b269df08dfed6264a187541a7d8510aac107359987c9a46069aef7d0a8a1fe4ac6edd08e06aafb83f60051b8946fa6c5e5fd64f4195ff53f1561456ed59760"
 
 [update]
 [update.modrinth]
 mod-id = "JaNmzvA8"
-version = "M5qDBlDo"
+version = "cXuKLqCE"
