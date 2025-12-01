@@ -1,13 +1,14 @@
 name = "Restored Brightness"
 filename = "restored-brightness-sodium-0.6.zip"
 side = "client"
+pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/XRG5dAQx/versions/3Hhn3duw/restored-brightness-sodium-0.6.zip"
+url = "https://cdn.modrinth.com/data/XRG5dAQx/versions/PunMKFvp/restored-brightness-sodium-0.6.zip"
 hash-format = "sha512"
-hash = "b8561b74ac662ab81e219014b90f192175d14c5466c37ffe5682f35799a29500d4295ce80cff27d30bf17fa27a679cb8a922add71f9e12ff6a745dff54bba1a7"
+hash = "a2fef60d52785a29f8071c83a6b2287bf0003745c91514a4a5d21c949d7faeb037ca7fcc9ee9e9a470a61dd9d473d0c7348b75e6e55309273384611f3f7d100e"
 
 [update]
 [update.modrinth]
 mod-id = "XRG5dAQx"
-version = "3Hhn3duw"
+version = "PunMKFvp"
