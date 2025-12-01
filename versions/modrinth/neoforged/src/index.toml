@@ -3781,6 +3781,10 @@ file = "configureddefaults/config/bettergrass.json5"
 hash = "5ba4ad8c50ca8715fe648e7e68e8b5df0fe05acac0f9b152cedd93a6250ae386"
 
 [[files]]
+file = "configureddefaults/config/boring_default_game_rules/config.json"
+hash = "33c2785ae818c10a63957a02c07cd3ea49d999a166af7db49a57eb1411187135"
+
+[[files]]
 file = "configureddefaults/config/capes.json5"
 hash = "dda5b7b8f667e02c239390c96f2a6f84d2224c7be2449e2a75a2a7fc5a96e636"
 
@@ -3977,6 +3981,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "6cd235030774b3cfab54145cf616ab47b0afa57cacab75ede94c2682c9450ce9"
+metafile = true
+
+[[files]]
+file = "mods/boring-default-game-rules.pw.toml"
+hash = "1feb93084f2e7455cae81aad533ebd7627bff57af9996046f52e89fb9b05a428"
 metafile = true
 
 [[files]]
