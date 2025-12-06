@@ -3786,7 +3786,7 @@ hash = "dda5b7b8f667e02c239390c96f2a6f84d2224c7be2449e2a75a2a7fc5a96e636"
 
 [[files]]
 file = "configureddefaults/config/chunksfadein.properties"
-hash = "750804fdb18177bc5f55fc4ed0752e1727dd6b3862e406723beeb57333e195ae"
+hash = "c8016d9178ad71c606101562e997f34fab019b0ee965c1ec17ad205c8072104f"
 
 [[files]]
 file = "configureddefaults/config/citresewn.json"
@@ -3991,7 +3991,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
-hash = "ef25acde70c7c22ce326c032a5aaaaf93e7f2c3d40e9e7d4d9e11167b1167b1b"
+hash = "a4f66a44c80e7be7ea5045fb1a5ec90c6f547920428862436cc4510dab2eac5f"
 metafile = true
 
 [[files]]
