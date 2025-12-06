@@ -3781,6 +3781,10 @@ file = "configureddefaults/config/bettergrass.json5"
 hash = "5ba4ad8c50ca8715fe648e7e68e8b5df0fe05acac0f9b152cedd93a6250ae386"
 
 [[files]]
+file = "configureddefaults/config/blueprint-client.toml"
+hash = "935b58e8905e46c638ad7ddd8e6f3553589a7e440293517fb09f44550f14b883"
+
+[[files]]
 file = "configureddefaults/config/boring_default_game_rules/config.json"
 hash = "33c2785ae818c10a63957a02c07cd3ea49d999a166af7db49a57eb1411187135"
 
@@ -3827,6 +3831,10 @@ hash = "fe6551b3aa77d3b624acff41ed6bf65b3d6d5c8821b7bda8875ff7b6b75e0c43"
 [[files]]
 file = "configureddefaults/config/iris.properties"
 hash = "4b404c16b82563e05e0cc8dc1218eb6194b2aa4473f348ff0c0c7a8655d9b5ff"
+
+[[files]]
+file = "configureddefaults/config/mixinblacklist.json"
+hash = "8a9b21fd2c8e4b0468abf1a342d829c03bbf268656f593d623789e1217b2f4e6"
 
 [[files]]
 file = "configureddefaults/config/moderner_beta.json"
@@ -4221,6 +4229,11 @@ metafile = true
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "fa3e6df3d222c94014c840673aa92455210d404eadceb05dd5ab3ae5a3eab6db"
+metafile = true
+
+[[files]]
+file = "mods/mixin-blacklist.pw.toml"
+hash = "0919f87ae3c694631256e580315460b6b70d6683eec9749869fe0d477b031589"
 metafile = true
 
 [[files]]
