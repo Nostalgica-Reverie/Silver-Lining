@@ -4053,7 +4053,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "48cbc3da595efc9c3e04fb06bf9ba71861fcbd2e70dc1596a38ccb14b5179edc"
+hash = "3680775e45f0de5615ce42ab84bfae6c3799998c10f2ba2ad73f3b3fbc95f52c"
 metafile = true
 
 [[files]]
@@ -4263,7 +4263,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "fdd3e68ff962be188ee0b96cf5082f137ecee9b419cc0d0d7ad9bae124e13e45"
+hash = "b2062526afe3f3c55ad508247fc25246f0b3087ac21890ff29fea2b521e289cd"
 metafile = true
 
 [[files]]
@@ -4328,7 +4328,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "f9b03a8d6466455294d823b23712e43bb9f26cb621d27b6134c150cf64cd671b"
+hash = "358f4fff14d3a9894c3c262fcce30d5a69eb45e09a7f91422863e3c73b8b407d"
 metafile = true
 
 [[files]]
@@ -4428,7 +4428,7 @@ metafile = true
 
 [[files]]
 file = "mods/villagerconfig.pw.toml"
-hash = "3b1e122661f7a508d66cf2be70c93fd8b84dc0adf7442c420de10f2f42815e69"
+hash = "1dcc9459a867f5029443eedb4a67a850d98cc3c67ba7afd0547320c8b57bc83f"
 metafile = true
 
 [[files]]
