@@ -2098,23 +2098,23 @@ hash = "c6a78cf036579488cdab8eda083034af989050e094031803526f6bdfc112ff67"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/world_preset/amplified.json"
-hash = "56cc40a59d2bba6fc43ecfb91c97e4b7b4787c0416ab0a3c5b2f3c0ce44b7e1e"
+hash = "36ddca8b6a30138955ec0b227e51cca880a331392b3d76a2aed5ffd2d7469829"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/world_preset/classic.json"
-hash = "41461c9341a64a42aba9b3eb73ec5c8db0aefb15c6a144c5231ee7fc7cc5ea70"
+hash = "d68234d46363710d10df90099db275cc95995ef3fcc30fcd3c2a61da196e39dc"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/world_preset/large_biomes.json"
-hash = "2e876d91903f943c3b66ab933c91d59a10c5b9c60f608fe825f1e066e3cd82cf"
+hash = "aeb07b392640387b129be720cedf42d34a6be19c3e43714b9333869f54d25b25"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/world_preset/normal.json"
-hash = "13908f40065e52ccca8161e401f02e6f6fe2d986bb3156649d0f5f7b5828a1a7"
+hash = "8e0401a49fa59a851f091bdeb66c105a14a0cdb0bfdcab402581b433d6b69f30"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/worldgen/world_preset/small_biomes.json"
-hash = "21fd54efa4a207f3427f8f7bc9635cd85966ef539a7ba4d33be6346652b4e9c2"
+hash = "b68c05e14d62c4f2f847c833be35012a99b49d3eab971f71bf5e50a668a096e8"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/moderner_beta/tags/moderner_beta/settings_preset_category/selectable.json"
@@ -2141,48 +2141,16 @@ file = "config/paxi/datapacks/WorldGen/data/moderner_beta/worldgen/configured_fe
 hash = "61aed361ac75fac3491c4790c3fcb9a324b3a523f6a6d1d0ada734d97c41ff7b"
 
 [[files]]
-file = "config/paxi/datapacks/WorldGen/data/moderner_beta/worldgen/noise_settings/alpha.json"
-hash = "426dc99d906bd50977360bb566518526a3535ef268d7bb12ca13698b4bcb56b6"
-
-[[files]]
-file = "config/paxi/datapacks/WorldGen/data/moderner_beta/worldgen/noise_settings/beta.json"
-hash = "426dc99d906bd50977360bb566518526a3535ef268d7bb12ca13698b4bcb56b6"
-
-[[files]]
-file = "config/paxi/datapacks/WorldGen/data/moderner_beta/worldgen/noise_settings/early_bedrock.json"
-hash = "ce9680e4e1f63a1227d7e6fff4c03dc5159fa747f8a6ea987ab2c753f3af7519"
-
-[[files]]
-file = "config/paxi/datapacks/WorldGen/data/moderner_beta/worldgen/noise_settings/early_release.json"
-hash = "254a9acb2f7ce2cbd726c14ff32b9b83effd4bc9cb5ce80eb0fcaaa72ca313cc"
-
-[[files]]
-file = "config/paxi/datapacks/WorldGen/data/moderner_beta/worldgen/noise_settings/early_release_256.json"
-hash = "9a8dd5dfec0d2787552357d8c623e3624b42eb73a9ebb6312260ec88968f4f54"
-
-[[files]]
-file = "config/paxi/datapacks/WorldGen/data/moderner_beta/worldgen/noise_settings/infdev_227.json"
-hash = "426dc99d906bd50977360bb566518526a3535ef268d7bb12ca13698b4bcb56b6"
-
-[[files]]
 file = "config/paxi/datapacks/WorldGen/data/moderner_beta/worldgen/noise_settings/infdev_415.json"
-hash = "2bb681864742d1947da9865450fbfc13627833b689f832f8ace71708a6d1c499"
+hash = "8ce23aa7f96a696982637115ef072e611913a0510db35dbe67c9d791ba77e2d9"
 
 [[files]]
-file = "config/paxi/datapacks/WorldGen/data/moderner_beta/worldgen/noise_settings/infdev_420.json"
-hash = "426dc99d906bd50977360bb566518526a3535ef268d7bb12ca13698b4bcb56b6"
+file = "config/paxi/datapacks/WorldGen/data/moderner_beta/worldgen/noise_settings/overworld_128.json"
+hash = "c6bc88ac0f22dcb4d9068af72e3f5cd99650bf098e68c5cca5afdba09a2a1327"
 
 [[files]]
-file = "config/paxi/datapacks/WorldGen/data/moderner_beta/worldgen/noise_settings/infdev_611.json"
-hash = "426dc99d906bd50977360bb566518526a3535ef268d7bb12ca13698b4bcb56b6"
-
-[[files]]
-file = "config/paxi/datapacks/WorldGen/data/moderner_beta/worldgen/noise_settings/major_release.json"
-hash = "c6a697623ed6ac8121cc9c28013ca21434a578b7a3ad4acd69935187b9b18bfe"
-
-[[files]]
-file = "config/paxi/datapacks/WorldGen/data/moderner_beta/worldgen/noise_settings/pe.json"
-hash = "426dc99d906bd50977360bb566518526a3535ef268d7bb12ca13698b4bcb56b6"
+file = "config/paxi/datapacks/WorldGen/data/moderner_beta/worldgen/noise_settings/overworld_256.json"
+hash = "dc8091fa61d4f4c52f679c9d00b770e38c2cf4602b203e63575a8f20a694e7aa"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/sereneseasons/tags/worldgen/biome/lesser_color_change_biomes.json"
@@ -2246,7 +2214,7 @@ hash = "153df5ae6c5c1b14e07175f73fc5aa95f8eba08c5ce03cbdfb46daed91e09a99"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset/amplified.json"
-hash = "a507849c1bc32219fa10e4c16b8e488069ccca546bfb8e5ffd2bc4276ce15a99"
+hash = "11d23e2aa6738d76889eb3347f7789451ce0efe753a3ddf679bf6ead8bf15199"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset/large_biomes.json"
@@ -2254,7 +2222,7 @@ hash = "e491231d749bb17c3dd8bcf202c5418eac7cf97e20d62018a718ef0cee928625"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset/normal.json"
-hash = "a8cb3abadb63a9f8b6be89dcd53bf671f8597dfe475b7a108a99a6cb717bc66b"
+hash = "e22a1c2954e049ea737e56ff224072a95295f35853065669370fb52e24bbad72"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset/small_biomes.json"
@@ -2262,7 +2230,11 @@ hash = "55b904905c9a1d38040f7b0040fcfab100ffddaa265fe98d2b520169c9a3aa93"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/moderner_beta/settings_preset_category/silver_lining.json"
-hash = "deb79efb65a862aa459ebcc329cb855c366a4b216ceca666765b4d015ec189ac"
+hash = "1e809cf0336df2ac3d0c1eb17a7995f0bbbcd177561cb3df7caeed80b9de9fdd"
+
+[[files]]
+file = "config/paxi/datapacks/WorldGen/data/silver_lining/tags/moderner_beta/settings_preset/silver_lining.json"
+hash = "fb626ada6179a4c72f20418a9377b1d9ac76aa859f5467fe6187bc2ea1ca1b6a"
 
 [[files]]
 file = "config/paxi/datapacks/WorldGen/data/silver_lining/worldgen/biome/birch_grove.json"
@@ -4037,7 +4009,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "3680775e45f0de5615ce42ab84bfae6c3799998c10f2ba2ad73f3b3fbc95f52c"
+hash = "7edc400a3de94b810a697611c6fba5ff62e126ff3bfa6cdaa1f747d5cc1b31d6"
 metafile = true
 
 [[files]]
@@ -4202,7 +4174,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "f199fe36b913131dfa2d31ec4a03186aa00be227f7fe2e34c4c3064b8601bb99"
+hash = "4d27596894102cbf06785a37e659fcd19175537966224801a0b0d98aa78d9546"
 metafile = true
 
 [[files]]
@@ -4232,7 +4204,7 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "2df852f35129817ce8e94c918a2703ec19c0e5817940a14e7d65a0098a65cc1a"
+hash = "86888f9d28516f7fe349e6c65f310c1c1a8fa20aefdc6449e5fd618f6354af16"
 metafile = true
 
 [[files]]
@@ -4412,7 +4384,7 @@ metafile = true
 
 [[files]]
 file = "mods/villagerconfig.pw.toml"
-hash = "1dcc9459a867f5029443eedb4a67a850d98cc3c67ba7afd0547320c8b57bc83f"
+hash = "51e64dc81691951a9626261837349b2c3ee8e3e7a2ae3a4b4c5444d169c1b3a4"
 metafile = true
 
 [[files]]
@@ -4452,7 +4424,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "64eaf7478e42d5143f4feeee87c56f779f4c3523f9fb06d8342484d36aa4442b"
+hash = "9a89a97f142873b9ab62d2c7c807ac22e6f16c828282052b416a6f3f7f785a48"
 metafile = true
 
 [[files]]
@@ -4467,7 +4439,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/pacp.pw.toml"
-hash = "6d5d7ec730da9321df1ed448d643e844657197926a4a273e3dabe3e09cab4c65"
+hash = "4de1a31b5368c311d1a6d6bea0fe1abf7ffa65a66eaa7b906a507be7a361a862"
 metafile = true
 
 [[files]]

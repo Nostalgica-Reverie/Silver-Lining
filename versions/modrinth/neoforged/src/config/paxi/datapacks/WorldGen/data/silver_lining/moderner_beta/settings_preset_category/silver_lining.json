@@ -1,9 +1,4 @@
 {
   "defaultIcon": "silver_lining:silver_lining",
-  "presets": [
-    "silver_lining:normal",
-    "silver_lining:large_biomes",
-    "silver_lining:small_biomes",
-    "silver_lining:amplified"
-  ]
+  "presetTag": "silver_lining:silver_lining"
 }

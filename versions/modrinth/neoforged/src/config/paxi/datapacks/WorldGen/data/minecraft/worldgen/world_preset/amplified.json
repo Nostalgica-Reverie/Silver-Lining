@@ -15,8 +15,7 @@
         },
         "provider_settings": {
           "moderner_beta:preset": "silver_lining:amplified"
-        },
-        "settings": "moderner_beta:early_release_256"
+        }
       }
     },
     "minecraft:the_end": {

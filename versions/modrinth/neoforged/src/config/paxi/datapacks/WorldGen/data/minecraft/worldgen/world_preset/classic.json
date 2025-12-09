@@ -21,8 +21,7 @@
         },
         "provider_settings": {
           "moderner_beta:preset": "moderner_beta:release_1_6_4"
-        },
-        "settings": "moderner_beta:early_release"
+        }
       }
     },
     "minecraft:the_end": {

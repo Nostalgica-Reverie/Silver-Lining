@@ -17,6 +17,7 @@
     "moderner_beta:forced_biome_height": {
       "depthOffset": 0.0,
       "depthWeight": 1.0,
+      "enabled": true,
       "heightOverrides": {
         "minecraft:snowy_plains*hills": "0.3;1.3",
         "minecraft:jungle*hills": "1.8;0.5",
@@ -75,19 +76,55 @@
       "scaleOffset": 0.0,
       "scaleWeight": 1.0
     },
+    "moderner_beta:noise_3d_settings": {
+      "arraySurfaceNoise": true,
+      "climateHeightScaling": false,
+      "monoliths": false,
+      "oldInfdevTerrainNoise": false,
+      "pocketEditionRng": false,
+      "simplexSurfaceNoise": false
+    },
+    "moderner_beta:noise_generator_settings": "moderner_beta:overworld_256",
+    "moderner_beta:noise_landmass": {
+      "alphaSampling": false,
+      "depth": {
+        "enabled": true,
+        "influence": 0.2,
+        "maxValue": 0.125,
+        "minValue": -0.35714287,
+        "negativeDampening": 5.6,
+        "negativeFlattening": false,
+        "negativeInfluence": 0.3,
+        "offset": -2.0,
+        "positiveDampening": 8.0,
+        "sample": true,
+        "stretch": 3.0
+      },
+      "scale": {
+        "enabled": true,
+        "influence": 0.0,
+        "offset": 0.0,
+        "sample": false,
+        "variation": 1.121
+      }
+    },
     "moderner_beta:noise_scale": {
       "baseSize": 8.5,
       "coordinate": 684.412,
+      "densityUnderdamp": 4.0,
       "depthNoiseX": 200.0,
       "depthNoiseZ": 200.0,
-      "farlands": false,
+      "fixedOffset": 1.0,
+      "forestNoiseOctaves": 8,
       "height": 684.412,
+      "limitBlending": 10.0,
       "lowerLimit": 512.0,
       "mainNoiseX": 80.0,
       "mainNoiseY": 160.0,
       "mainNoiseZ": 80.0,
       "stretchY": 12.0,
-      "upperLimit": 512.0
+      "upperLimit": 512.0,
+      "useFixedOffset": false
     },
     "moderner_beta:noise_slide": {
       "bottomOffset": 0,
@@ -97,8 +134,29 @@
       "topSize": 3,
       "topTarget": -10
     },
-    "moderner_beta:provider": "moderner_beta:early_release",
-    "moderner_beta:sea_level_offset": 0,
+    "moderner_beta:perlin_noise_settings": {
+      "alpha2DSampling": false,
+      "failurePoint": 2147483647,
+      "infdevNoiseScaling": false,
+      "randomNoiseOffsets": true,
+      "wrapped": true
+    },
+    "moderner_beta:provider": "moderner_beta:noise_3d",
+    "moderner_beta:sea_level": 63,
+    "moderner_beta:surface_properties": {
+      "bedrockHoles": false,
+      "enableBeaches": false,
+      "erosion": true,
+      "flipNoiseCoordinates": false,
+      "generateBeaches": false,
+      "generateBedrock": true,
+      "generateLiquids": true,
+      "generateSandstone": true,
+      "gravelBeachScale": 0.03125,
+      "gravelOceanBed": false,
+      "sandBeachScale": 0.03125,
+      "surfaceNoiseScale": 0.0625
+    },
     "moderner_beta:use_surface_rules": true
   },
   "biomeSettings": {

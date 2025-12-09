@@ -6,6 +6,7 @@
       "depthOffset": 1.0,
       "scaleWeight": 4.0,
       "scaleOffset": 1.0,
+      "enabled": true,
       "heightOverrides": {
         "moderner_beta:early_release_extreme_hills": "0.2;1.8",
         "minecraft:snowy_plains*hills": "0.3;1.3",
