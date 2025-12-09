@@ -1745,22 +1745,6 @@ file = "config/paxi/datapacks/WorldGen/data/minecraft/sapling_overrides/single/m
 hash = "9152d1d35a424fe1ad05b8e1db0d56ba9ea744743cfa289ef4a3f2d5cdda8076"
 
 [[files]]
-file = "config/paxi/datapacks/WorldGen/data/minecraft/tags/worldgen/biome/has_structure/_end_city.json"
-hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
-
-[[files]]
-file = "config/paxi/datapacks/WorldGen/data/minecraft/tags/worldgen/biome/has_structure/_mineshaft_mesa.json"
-hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
-
-[[files]]
-file = "config/paxi/datapacks/WorldGen/data/minecraft/tags/worldgen/biome/has_structure/_nether_fortress.json"
-hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
-
-[[files]]
-file = "config/paxi/datapacks/WorldGen/data/minecraft/tags/worldgen/biome/has_structure/_stronghold.json"
-hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
-
-[[files]]
 file = "config/paxi/datapacks/WorldGen/data/minecraft/tags/worldgen/biome/has_structure/ancient_city.json"
 hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
 
