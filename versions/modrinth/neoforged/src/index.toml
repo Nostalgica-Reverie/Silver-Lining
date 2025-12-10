@@ -3893,6 +3893,42 @@ file = "configureddefaults/options.txt"
 hash = "c7948280e763830f5407389cb0da490fc96c7f030fd333bd6c7fb7c3d87bea16"
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/client_scripts/jsconfig.json"
+hash = "d8fe8ee16e1c6ca46e21f9b28fa84a5bad473f4cdfc5f3e29a9b5060e9f7e198"
+
+[[files]]
+file = "kubejs/client_scripts/main.js"
+hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
+
+[[files]]
+file = "kubejs/config/client.json"
+hash = "f38d326943014d6906916a9387c75e2bfd609fce10e92049d76a395c5775b6f1"
+
+[[files]]
+file = "kubejs/config/common.json"
+hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
+
+[[files]]
+file = "kubejs/config/web_server.json"
+hash = "f37922687c5bfd761c5c15a3ada2cf48129a4346127c51619f838d56f99d71ef"
+
+[[files]]
+file = "kubejs/server_scripts/jsconfig.json"
+hash = "0d767c9a2f344f41fd036d31d26c398f2009ae4c86ad2a59484adc7d81ee35c3"
+
+[[files]]
+file = "kubejs/server_scripts/main.js"
+hash = "c312ac97ce5f92338a73f6ad0d30f43468f4f04657656a5309e1c16a8265b150"
+
+[[files]]
+file = "kubejs/startup_scripts/jsconfig.json"
+hash = "53b7d1271065826634a3dbd0f2004669bd9093142f2416e1e4052cde77bc6397"
+
+[[files]]
 file = "mods/air-hop.pw.toml"
 hash = "af86231a539b7c7a2e6deaf457b8ee4f239f6fa7467f1e064d562ec7f773a5bc"
 metafile = true
@@ -4163,6 +4199,11 @@ hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "e8c20c0c77e5df58d1386d8190ee16a957d78d62d361469db0b0c29458bf1e84"
+metafile = true
+
+[[files]]
 file = "mods/language-reload.pw.toml"
 hash = "c4979573d20136f27e33bb176ebafe84dfcc2670bf6e4407965c208f96cd0be4"
 metafile = true
@@ -4300,6 +4341,11 @@ metafile = true
 [[files]]
 file = "mods/redirected.pw.toml"
 hash = "b0038c775e22fa883d474eb1ef0f686cc544091844e24a8a4b5774838059e808"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "6b91f46291891e725189b0bd54d0db0f66925b1e785bdfa737592dfcf41a79a3"
 metafile = true
 
 [[files]]
