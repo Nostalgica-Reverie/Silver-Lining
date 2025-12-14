@@ -3980,7 +3980,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "6cd235030774b3cfab54145cf616ab47b0afa57cacab75ede94c2682c9450ce9"
+hash = "bb3c95ec2011f508ad0f13eec389f5e1835ca14e452f76b7db2f76753a3acdaf"
 metafile = true
 
 [[files]]
@@ -4010,7 +4010,7 @@ metafile = true
 
 [[files]]
 file = "mods/classic-minecraft-icon.pw.toml"
-hash = "5cd37a18baabc5ca7a0ab7d32ad23997e74ed0b4ac4432008717de1fcb4c11f9"
+hash = "504745165308ab0359896d172b7919ba1c76e1ca44ecdb30b024e852e04b0d3d"
 metafile = true
 
 [[files]]
@@ -4045,7 +4045,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "7edc400a3de94b810a697611c6fba5ff62e126ff3bfa6cdaa1f747d5cc1b31d6"
+hash = "5e9d6a7acf9a4940fdd36a86b03cf0bb060487ea4ad9d7ee18538dab91e5b43b"
 metafile = true
 
 [[files]]
@@ -4130,7 +4130,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "465eeb9d8419c3fc471e899066120d0535baa16499e131ef71ff1d8edf0bbe50"
+hash = "cb00aacb5a027456dba04e473458559d7f0bada39f7b7524a5e6aae91a87ca46"
 metafile = true
 
 [[files]]
@@ -4175,7 +4175,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "b8fe9e74e322076dbecdc93be50d5ba6f66015580f44d6ec77510c71fdcff304"
+hash = "17a39f71985dd963c15fe6ed5acf7cff675c7d5d0a8508a2664767c911faea51"
 metafile = true
 
 [[files]]
@@ -4185,7 +4185,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "6bdf101d3d5ec8729a8095d5853f80eb925a47c889cd10de6704b20cc7f3c73e"
+hash = "13fbb52e608aa8da64456aaacef6f8011510a38e540acbddb497ec94250d676b"
 metafile = true
 
 [[files]]
@@ -4260,7 +4260,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "b2062526afe3f3c55ad508247fc25246f0b3087ac21890ff29fea2b521e289cd"
+hash = "80c0d9b10a22bfb81f7664043c67bef9b78f95a1c8ba62efae4335658a0c72e0"
 metafile = true
 
 [[files]]
@@ -4325,7 +4325,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "358f4fff14d3a9894c3c262fcce30d5a69eb45e09a7f91422863e3c73b8b407d"
+hash = "bc912698606d1067f428fb9e8313514019a3f9fe4d4b75094e2cdf7fe6e8f0e1"
 metafile = true
 
 [[files]]
