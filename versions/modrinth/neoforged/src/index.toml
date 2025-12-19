@@ -1357,6 +1357,74 @@ file = "config/paxi/datapacks/Recipes/data/silver_lining/advancement/recipes/red
 hash = "01f41f2d25b6b85e979d05975c61ea9a0d8d5c14bef3446260f1186ba672db4a"
 
 [[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/itemgroups/cinderscapes_items.json"
+hash = "e2d7fc9449f6eeabe171af68a6f1c783ad5a7cff043cd74d44041a21b6d49062"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/itemgroups/enderscape_enderscape.json"
+hash = "d28411a2efdf238f2dec5236abd78a3a02e79f89f05421b78bdc8405dce4e072"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/itemgroups/kubejs_tab.json"
+hash = "9bada58e2c31115dabbddd05dcc94d13c15b1b595227deb438761394ffb0899d"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/itemgroups/minecraft_building_blocks.json"
+hash = "c7ea9702d87a0d01d76789808415e6aa73c14384737c771cff36ad4d900bd018"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/itemgroups/minecraft_colored_blocks.json"
+hash = "4ef2ed69b132ddc7e2e7eceab05bd8d48441a8bc6c83d033067a06610eb31cea"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/itemgroups/minecraft_combat.json"
+hash = "8f744ce7cf603cbbdc51a1b091ea48028fdb6967521d42119dac95c215709f1e"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/itemgroups/minecraft_food_and_drinks.json"
+hash = "02e0f8a59a71796607dede76e8750a9848f2453767f9ccd818515205eda51964"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/itemgroups/minecraft_functional_blocks.json"
+hash = "39492c0bfdad3c63e5493d6aa709b60b73df1392f7ef038ffac64e393cb54165"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/itemgroups/minecraft_ingredients.json"
+hash = "0e32e6efe112176e7d2d31d226cd15544a8678e52fef240536b23e7b04f49d45"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/itemgroups/minecraft_natural_blocks.json"
+hash = "44678267dbfb07029bb4bdf75f804831329a118c9ae0bac1212dc1dcb6ae89b4"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/itemgroups/minecraft_redstone_blocks.json"
+hash = "956d3377cd9469feb2545ce50a8d150235e5d9436152f9ed08b1c2d53f654c50"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/itemgroups/minecraft_spawn_eggs.json"
+hash = "74e1eb8c36b967b48a8b03fdd649403834f6b91ad7a578afb91a985e158d288b"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/itemgroups/minecraft_tools_and_utilities.json"
+hash = "657aee698a64a65fdd733b780307d95ffa3195d2d7873779d09102ef60ef1ae8"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/itemgroups/sereneseasons_main.json"
+hash = "e388dea9eebd7ec1c9a2f83d1f3ff1058f4eb5303a08b8b6ed624cc407187d0b"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/itemgroups/terrestria_items.json"
+hash = "5c2fa697ededaf9c221037ceb1c522f618b2ca3f5bb47879b07cdf5c669bfe87"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/itemgroups/traverse_items.json"
+hash = "54cd9363a9d568d51e44340047370b810d9f51a335e2f49ea1bd87b5201bb030"
+
+[[files]]
+file = "config/paxi/datapacks/Recipes/data/silver_lining/itemgroups/waystones_waystones.json"
+hash = "6a226ef976aca4be7dd8ceeb8acd86ca9ffe8802c59257873472572c61c6ccee"
+
+[[files]]
 file = "config/paxi/datapacks/Recipes/data/silver_lining/recipe/activator_rail.json"
 hash = "124b5bade920ebaaf5198ebbf06d799fda4305a7b65314422261afad255eb8d6"
 
