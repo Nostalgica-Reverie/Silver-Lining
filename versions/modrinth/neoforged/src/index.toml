@@ -4023,7 +4023,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "39f761298d831e49308b1507c2ac1e524f4ad07f220621e45290c810deb1c497"
+hash = "dd56ff2bcc4253d1d70c08333632743fb56cdc4cf5518dc6afc024164633145d"
 metafile = true
 
 [[files]]
@@ -4033,7 +4033,7 @@ metafile = true
 
 [[files]]
 file = "mods/battle-towers.pw.toml"
-hash = "49f861d426ed46dca894d87c94d43c315ce5b93015a317a51d9dd6e6e6175250"
+hash = "25eb630708d7504972548017e3b5016547435b8ec0bf95433b3e4c6c6df0dcc3"
 metafile = true
 
 [[files]]
@@ -4048,7 +4048,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "bb3c95ec2011f508ad0f13eec389f5e1835ca14e452f76b7db2f76753a3acdaf"
+hash = "91b81c2bf3b64e458a1fd5100c574244428424da770835f9f4dc3349ab18997b"
 metafile = true
 
 [[files]]
@@ -4113,7 +4113,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "5e9d6a7acf9a4940fdd36a86b03cf0bb060487ea4ad9d7ee18538dab91e5b43b"
+hash = "4252858199f6d7854cd4612f8b345fe4486676f6e057d64d199239c05f9ae0a8"
 metafile = true
 
 [[files]]
@@ -4133,7 +4133,7 @@ metafile = true
 
 [[files]]
 file = "mods/data-anchor.pw.toml"
-hash = "24f9fbd2a4862eb469a582734a97e1e6ab3d3ed1645421b0cf98a23e25ac25ca"
+hash = "bd6e5a7a9e97014a895f1b4c2c93f277bfe9dda92e3386483ab46a1bd739362d"
 metafile = true
 
 [[files]]
@@ -4253,7 +4253,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "13fbb52e608aa8da64456aaacef6f8011510a38e540acbddb497ec94250d676b"
+hash = "5f1dc2d965a2764f1d9fa02d34932898593de140a4243d83f2e43f4663f2ed7e"
 metafile = true
 
 [[files]]
@@ -4283,7 +4283,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "4d27596894102cbf06785a37e659fcd19175537966224801a0b0d98aa78d9546"
+hash = "92034e181912b22e6fad965c22dec692480663961cc5f3c2252e1b792fce0081"
 metafile = true
 
 [[files]]
@@ -4313,7 +4313,7 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "86888f9d28516f7fe349e6c65f310c1c1a8fa20aefdc6449e5fd618f6354af16"
+hash = "9a7e4ce14b688eefa2d0f910bf0a255eb62cf1aeaae0178834ff9f7ea00218e6"
 metafile = true
 
 [[files]]
@@ -4328,7 +4328,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "80c0d9b10a22bfb81f7664043c67bef9b78f95a1c8ba62efae4335658a0c72e0"
+hash = "56f90779687daa9101ae4dc2730a3b44b07ed3a5113eb4f4b41e36143b297f56"
 metafile = true
 
 [[files]]
@@ -4418,7 +4418,7 @@ metafile = true
 
 [[files]]
 file = "mods/seasonhud.pw.toml"
-hash = "9109da4ac73ebc6ffd284ff3895d4953a76a8e4b4e7ac0c5b3ce58e1935045c3"
+hash = "3e585348e46a6e873b41459d46d8a30cbf3b6ba5ecad4ceb3d4862f94da6c199"
 metafile = true
 
 [[files]]
@@ -4498,7 +4498,7 @@ metafile = true
 
 [[files]]
 file = "mods/villagerconfig.pw.toml"
-hash = "51e64dc81691951a9626261837349b2c3ee8e3e7a2ae3a4b4c5444d169c1b3a4"
+hash = "495915cea0e02b76cf4f6fd1aeaf36d05a15bbfe2e170d768e03f6c31071c599"
 metafile = true
 
 [[files]]
@@ -4513,7 +4513,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "12d9283f643e9b8f85368fccf82f328c471c043fcf06fe08dea6c034be3b0c22"
+hash = "c02af11f10e1f939de401d5cfe250f92c623c034adf90220df0be6e23f202621"
 metafile = true
 
 [[files]]
@@ -4553,7 +4553,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/pacp.pw.toml"
-hash = "4de1a31b5368c311d1a6d6bea0fe1abf7ffa65a66eaa7b906a507be7a361a862"
+hash = "a293158595c142acaf88c3d88e62ac7d76b51a5c0045c7cee5a69c640ea64bd9"
 metafile = true
 
 [[files]]
