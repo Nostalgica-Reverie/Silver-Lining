@@ -4068,7 +4068,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
-hash = "a4f66a44c80e7be7ea5045fb1a5ec90c6f547920428862436cc4510dab2eac5f"
+hash = "a88ee80a7a9dfb643d229d98daedcb9ac092caf22c109a8463ba3178b79f013a"
 metafile = true
 
 [[files]]
@@ -4238,7 +4238,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "ec1bd5b80399287ca33a113086bee9d5697b7e673c9f593e5a1aeca4c9bad4c9"
+hash = "b5d7571bff8454770fcbba30a4c90d8f020e84d626c731f92d46dc9ecea34d85"
 metafile = true
 
 [[files]]
@@ -4283,7 +4283,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "92034e181912b22e6fad965c22dec692480663961cc5f3c2252e1b792fce0081"
+hash = "cc56cc3645487e911575163d2b7ec7089d05ba8d54183769a05ca2464e322313"
 metafile = true
 
 [[files]]
@@ -4313,7 +4313,7 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "9a7e4ce14b688eefa2d0f910bf0a255eb62cf1aeaae0178834ff9f7ea00218e6"
+hash = "66dd38bc15b9a29bb25455f67bfee94cad388b9d93b89ae874988414b852d9a5"
 metafile = true
 
 [[files]]
@@ -4328,7 +4328,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "56f90779687daa9101ae4dc2730a3b44b07ed3a5113eb4f4b41e36143b297f56"
+hash = "6223a822cff51f25d555ea2dfa8a476e9b987ec38a16188a384136771a53d728"
 metafile = true
 
 [[files]]
@@ -4393,7 +4393,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "bc912698606d1067f428fb9e8313514019a3f9fe4d4b75094e2cdf7fe6e8f0e1"
+hash = "0d6eb665baffc6a7a34c81ba58665a267529debf9132d6f5bd9167cf36188363"
 metafile = true
 
 [[files]]
