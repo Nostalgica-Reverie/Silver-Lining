@@ -4068,7 +4068,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
-hash = "a88ee80a7a9dfb643d229d98daedcb9ac092caf22c109a8463ba3178b79f013a"
+hash = "e990c75ec434f8ab51b58b17cfe79bec447ee0eab65d55a53e3e57e564515165"
 metafile = true
 
 [[files]]
@@ -4113,7 +4113,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "4252858199f6d7854cd4612f8b345fe4486676f6e057d64d199239c05f9ae0a8"
+hash = "e4e3ddf6fe5125378ffd090374bcaeed96b0ae462cb3cc0104798a3a87f25482"
 metafile = true
 
 [[files]]
@@ -4193,17 +4193,17 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "9440e2864fe84a5acd3ac2344f0cbb17f43819be1658a3e77a577cd1522362c7"
+hash = "50e958e2ae29a87f5df6346a060bbe7dad9b4ca379c2255502ee7764c258dc57"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "cb00aacb5a027456dba04e473458559d7f0bada39f7b7524a5e6aae91a87ca46"
+hash = "4cd35c49af924af84f832aca56a5efc6130a24780cd25c631b12407860a796ab"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "0ca0a7d2f6b6aac671c40710e2943caee10e9dc447bae02206c064b43578d021"
+hash = "97279489806e2a5f0e0f788ebecd979bfd1dc4ddf786530d8bff864b790a23d5"
 metafile = true
 
 [[files]]
@@ -4283,7 +4283,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "cc56cc3645487e911575163d2b7ec7089d05ba8d54183769a05ca2464e322313"
+hash = "64ccab25e470f544aa1bb0cb388ac5c66dbaf80c0136141250e2256a860894a6"
 metafile = true
 
 [[files]]
@@ -4313,7 +4313,7 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "66dd38bc15b9a29bb25455f67bfee94cad388b9d93b89ae874988414b852d9a5"
+hash = "ad5fe1f98750c6a2513805621084b44410d487b7762af4bc0987b1755d6a0da9"
 metafile = true
 
 [[files]]
@@ -4328,7 +4328,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "6223a822cff51f25d555ea2dfa8a476e9b987ec38a16188a384136771a53d728"
+hash = "d8e50f6f8d06a69381f1435d7d4bbf218e7896d8325bcf2bcd62f295714a0591"
 metafile = true
 
 [[files]]
@@ -4418,7 +4418,7 @@ metafile = true
 
 [[files]]
 file = "mods/seasonhud.pw.toml"
-hash = "3e585348e46a6e873b41459d46d8a30cbf3b6ba5ecad4ceb3d4862f94da6c199"
+hash = "6b324b78e46852cad087ef936faf1f330f35a5e4aaf39b0c7c3821c2cd5b0ae6"
 metafile = true
 
 [[files]]
@@ -4523,12 +4523,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "208b2e2baac76e9a7385d6d8cae777dd41d251dee3b68f7fbcd85f11a2481d5e"
+hash = "9d2038a71aca0eb91088da10a9cafdcf204aba02c97c2c52b485246233e734ba"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "9703fd3d469cd29248eab476027ce855a404e2508cd234ed4e5c75beb2592061"
+hash = "a291c109d6d40460758e0e16fa9349d86622904456fb892f6f6c27cc80aa754d"
 metafile = true
 
 [[files]]
