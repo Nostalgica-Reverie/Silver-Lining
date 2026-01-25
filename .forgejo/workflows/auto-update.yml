@@ -32,5 +32,5 @@ jobs:
         uses: https://github.com/EndBug/add-and-commit@v9.1.4
         with:
           author_name: forgejo-actions[bot]
-          author_email: actions@noreply.codeberg.org
+          author_email: icanttellyou@noreply.codeberg.org
           message: 'Commit from Forgejo Actions (${{forgejo.workflow}})'
