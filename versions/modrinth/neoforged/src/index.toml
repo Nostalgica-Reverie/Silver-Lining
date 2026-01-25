@@ -4392,6 +4392,11 @@ hash = "f54003416e887882952b9a07e339829362c2c597ccd2d651c0a03d2120fb8a3a"
 metafile = true
 
 [[files]]
+file = "mods/picture-mode.pw.toml"
+hash = "6ff2ba692f26cb1158302ab59dfbcccc0bc1ea05fad98648526b8dac3275ef92"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
 hash = "880e51166c531f473f9bdef251a6c42c6d13f4283bcc8e27d66999aef57c9a59"
 metafile = true
