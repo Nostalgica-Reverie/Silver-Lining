@@ -7,7 +7,7 @@ on:
 
 jobs:
   auto-update:
-    runs-on: codeberg-small
+    runs-on: codeberg-small-lazy
 
     steps:
       - uses: actions/checkout@v4
@@ -31,4 +31,6 @@ jobs:
       - name: Commit Updates
         uses: https://github.com/EndBug/add-and-commit@v9.1.4
         with:
-          default_author: github_actions
+          author_name: forgejo-actions[bot]
+          author_email: actions@noreply.codeberg.org
+          message: 'Commit from Forgejo Actions (${{forgejo.workflow}})'
