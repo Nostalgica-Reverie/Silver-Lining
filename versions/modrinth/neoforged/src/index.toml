@@ -4113,7 +4113,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "14c9c8de75528a9322c3c96b7f706e5057bc5c1bd339f421f208ff6206f90898"
+hash = "deb34b621cacd843fa2bfc4ee9d54f9312224a4c2bcc2c024f730908873e7942"
 metafile = true
 
 [[files]]
@@ -4193,7 +4193,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "50e958e2ae29a87f5df6346a060bbe7dad9b4ca379c2255502ee7764c258dc57"
+hash = "3018631609f1fba9333b9997178fe746770dd026baa76e2640bad3b5b8f20ffb"
 metafile = true
 
 [[files]]
@@ -4253,7 +4253,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "5f1dc2d965a2764f1d9fa02d34932898593de140a4243d83f2e43f4663f2ed7e"
+hash = "3d47b1d933d04934a606be1cbb67481860c3d68c9ed4efc387c7745d23b732a7"
 metafile = true
 
 [[files]]
