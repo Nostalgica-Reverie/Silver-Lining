@@ -4113,7 +4113,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "deb34b621cacd843fa2bfc4ee9d54f9312224a4c2bcc2c024f730908873e7942"
+hash = "8d1819609f574250bfaae1d90de8fc0a2ce531b0a166cd93130299d5410bba05"
 metafile = true
 
 [[files]]
@@ -4238,7 +4238,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "b5d7571bff8454770fcbba30a4c90d8f020e84d626c731f92d46dc9ecea34d85"
+hash = "e7d3ceeeace4ddfb8c2e3912609170e22999824d899167b9f224afd0655fdfb8"
 metafile = true
 
 [[files]]
@@ -4278,7 +4278,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "7b8e8af83e8583adc91b2d859e5355f1bd0516a346d2584b8b01c004467d18af"
+hash = "e7544296d2cdd85e43a60cf3e7a8f3e036782e14abc4efeea7f064d980d59dd5"
 metafile = true
 
 [[files]]
@@ -4438,7 +4438,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-snowy-fix-(forge-fabric).pw.toml"
-hash = "c9d4051dc915f85104ea89eb203684cd9e2bb49172ebfd507b695f37d0a28a2a"
+hash = "916d78964442a58fedfa0880accb016cd01757ebfe68e7f497d0d95babd7ba48"
 metafile = true
 
 [[files]]
@@ -4528,12 +4528,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "9d2038a71aca0eb91088da10a9cafdcf204aba02c97c2c52b485246233e734ba"
+hash = "be2e6946f798fa151df48d9d9e8b0c8850201914fe3f9468123b295cf8f293a4"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "95fbcd74600490b7a6a658f9004f905bbcaeebbce25e23762d7cf06ce5193aab"
+hash = "ec645a2bd3871a8b9b09e6574930c03de87193b3b94ff0d78cef9cd8af41e003"
 metafile = true
 
 [[files]]
