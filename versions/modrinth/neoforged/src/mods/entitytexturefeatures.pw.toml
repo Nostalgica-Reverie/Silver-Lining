@@ -1,13 +1,13 @@
 name = "Entity Texture Features"
-filename = "entity_texture_features_1.21-neoforge-7.0.8.jar"
+filename = "entity_texture_features_1.21-neoforge-7.0.9.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/p7wtsUSV/entity_texture_features_1.21-neoforge-7.0.8.jar"
+url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/Z10hRNc9/entity_texture_features_1.21-neoforge-7.0.9.jar"
 hash-format = "sha512"
-hash = "f07da56e0b6c2ea6a02da41efb157fad3fc2d797bd6ee3170f3e8f2f5a5b91930d610015034a467eb042561b3e6d976d4ea4a491957063e56c2f1ef1bf77890c"
+hash = "ffe8cabdda7647ce5362a835fd28446516656e20541fd32f0c985603fd896a7b3fe5ee73680d6bdefb208786532bb0c0d3ecc5275e7acfef2c06b0a620ca21cb"
 
 [update]
 [update.modrinth]
 mod-id = "BVzZfTc1"
-version = "p7wtsUSV"
+version = "Z10hRNc9"

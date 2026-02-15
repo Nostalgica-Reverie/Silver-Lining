@@ -4048,7 +4048,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "91b81c2bf3b64e458a1fd5100c574244428424da770835f9f4dc3349ab18997b"
+hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
 metafile = true
 
 [[files]]
@@ -4113,7 +4113,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "8d1819609f574250bfaae1d90de8fc0a2ce531b0a166cd93130299d5410bba05"
+hash = "43628e26e592a841915076d238fe93c3bbbf247ee5203d0d0fbce96983e72ef0"
 metafile = true
 
 [[files]]
@@ -4203,7 +4203,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "97279489806e2a5f0e0f788ebecd979bfd1dc4ddf786530d8bff864b790a23d5"
+hash = "211a344f283587885ded3d3d0374b7463a24479bcfad2137593fec3324094a8b"
 metafile = true
 
 [[files]]
@@ -4313,7 +4313,7 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "08cefcbbda363a7778339714ff9ae8cc2b2aa08dcb6b4f6da9c33485509b4797"
+hash = "2f7d24dd70645bcce8771646126c8d960055535da94bb70a3cfe18f2468a0cfb"
 metafile = true
 
 [[files]]
@@ -4528,12 +4528,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "be2e6946f798fa151df48d9d9e8b0c8850201914fe3f9468123b295cf8f293a4"
+hash = "974c70cb83d75b39a3b0a49fc56db06423d7343b74f80c3cf5437951d743c8e8"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "ec645a2bd3871a8b9b09e6574930c03de87193b3b94ff0d78cef9cd8af41e003"
+hash = "f750250b94b5ae4bb453951c80aab690b3993c0547cf4496b591286694c5ad81"
 metafile = true
 
 [[files]]
