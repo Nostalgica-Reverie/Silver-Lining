@@ -4113,7 +4113,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "43628e26e592a841915076d238fe93c3bbbf247ee5203d0d0fbce96983e72ef0"
+hash = "6531e1c22dafe5afb016d9aac8a3bff3cdc238b06e7ea939dd20fb173a476276"
 metafile = true
 
 [[files]]
@@ -4193,7 +4193,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "3018631609f1fba9333b9997178fe746770dd026baa76e2640bad3b5b8f20ffb"
+hash = "ce6310033715c6e42cd1ef653d91a701f35909346500ed83d7ed4fe961e85666"
 metafile = true
 
 [[files]]
@@ -4238,7 +4238,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "e7d3ceeeace4ddfb8c2e3912609170e22999824d899167b9f224afd0655fdfb8"
+hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
 metafile = true
 
 [[files]]
@@ -4518,7 +4518,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "c02af11f10e1f939de401d5cfe250f92c623c034adf90220df0be6e23f202621"
+hash = "90636b75638eaa7102b6d6098299ea500887a708130df081ba5aa9c7ba5d8927"
 metafile = true
 
 [[files]]

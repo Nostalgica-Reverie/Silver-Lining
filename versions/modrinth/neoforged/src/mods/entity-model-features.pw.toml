@@ -1,13 +1,13 @@
 name = "Entity Model Features [CEM]"
-filename = "entity_model_features_1.21-neoforge-3.0.11.jar"
+filename = "entity_model_features_1.21-neoforge-3.0.12.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/eWEQjNfI/entity_model_features_1.21-neoforge-3.0.11.jar"
+url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/JHa6X5M3/entity_model_features_1.21-neoforge-3.0.12.jar"
 hash-format = "sha512"
-hash = "2f4be1e9d53858f80ccabfb06e5825dbdb859e68e18d15cb5ec98ecba82c35095b030699213c57356b12bc2091fe3f741952b72fd0b749ed2832d678f3044c7b"
+hash = "a8bf41309d8606dfc513271d6f25cfe0bc8493aa055a3a922c6ce4b766bd371eb54c24a9446aab4d59f6507f5280b6a0cba79173d9e828b3871ba5ab381890b5"
 
 [update]
 [update.modrinth]
 mod-id = "4I1XuqiY"
-version = "eWEQjNfI"
+version = "JHa6X5M3"
