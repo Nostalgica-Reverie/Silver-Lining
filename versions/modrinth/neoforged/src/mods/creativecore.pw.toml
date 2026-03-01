@@ -1,13 +1,13 @@
 name = "CreativeCore"
-filename = "CreativeCore_NEOFORGE_v2.13.31_mc1.21.1.jar"
+filename = "CreativeCore_NEOFORGE_v2.13.34_mc1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OsZiaDHq/versions/1vGOcdnx/CreativeCore_NEOFORGE_v2.13.31_mc1.21.1.jar"
+url = "https://cdn.modrinth.com/data/OsZiaDHq/versions/fEMKr02l/CreativeCore_NEOFORGE_v2.13.34_mc1.21.1.jar"
 hash-format = "sha512"
-hash = "44e20caa10e519f87ce60d960290a2801c1845b2e5b923ced846c7b02ac49834a7ba0fa799ed87c009f3693ee3938dfcce74c8c839ec8f5278066cf9ddac803f"
+hash = "9ae623dda0e0aacc4fb6beef78794e7312da1675fff464b8ea77fb84e4ed39f272c0a18150f7b4243cd80752214254d9b6c130b45c419a1e8a50621939f86a08"
 
 [update]
 [update.modrinth]
 mod-id = "OsZiaDHq"
-version = "1vGOcdnx"
+version = "fEMKr02l"

@@ -4113,7 +4113,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "6531e1c22dafe5afb016d9aac8a3bff3cdc238b06e7ea939dd20fb173a476276"
+hash = "f196dbf63c5417261c99f601acdbea77922e57bcb96e03e58490a92e18c5ff68"
 metafile = true
 
 [[files]]
@@ -4328,7 +4328,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "427e48f685c2af70f0fda07648073379f3b343436b038c7289d98c56b55c322c"
+hash = "1d81d4abc3a687ce413d4aa82398893147093ce0cf0a4686bceadc802590fc44"
 metafile = true
 
 [[files]]
@@ -4358,7 +4358,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
-hash = "8a5b280bcfbbb9a6682108d873ad152737f4cc1bc34d0c30be4714039ca19bf2"
+hash = "1121ffc2012bbbf0b619a16b953d5951c41a9ef545285d01f31995b3ba6b2b8c"
 metafile = true
 
 [[files]]
@@ -4393,7 +4393,7 @@ metafile = true
 
 [[files]]
 file = "mods/picture-mode.pw.toml"
-hash = "6ff2ba692f26cb1158302ab59dfbcccc0bc1ea05fad98648526b8dac3275ef92"
+hash = "33f394e9aff1b6ffb9c5c33e2b04fffc0513752c32a6680fb9f35c7ccb7981ed"
 metafile = true
 
 [[files]]
@@ -4423,7 +4423,7 @@ metafile = true
 
 [[files]]
 file = "mods/seasonhud.pw.toml"
-hash = "6b324b78e46852cad087ef936faf1f330f35a5e4aaf39b0c7c3821c2cd5b0ae6"
+hash = "1d6c94b697a5f72039c2b020107e8cb566de95964806f1f9047f55c9b48bc25e"
 metafile = true
 
 [[files]]
@@ -4518,7 +4518,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "90636b75638eaa7102b6d6098299ea500887a708130df081ba5aa9c7ba5d8927"
+hash = "4e848b8be831395dd52f7028b4aa8a0599f03ddfbd44c16808f3c5cc28fe12ec"
 metafile = true
 
 [[files]]
