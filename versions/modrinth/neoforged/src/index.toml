@@ -4113,7 +4113,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "f196dbf63c5417261c99f601acdbea77922e57bcb96e03e58490a92e18c5ff68"
+hash = "b14bcd48c425ac24b5435f79d7c3b262bdacc635b6de86974a41aa55216a28cd"
 metafile = true
 
 [[files]]
@@ -4283,7 +4283,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "64ccab25e470f544aa1bb0cb388ac5c66dbaf80c0136141250e2256a860894a6"
+hash = "4938df12efb521463114135f453e82eeca8469493b359f07414f51a78da20735"
 metafile = true
 
 [[files]]
@@ -4328,7 +4328,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "1d81d4abc3a687ce413d4aa82398893147093ce0cf0a4686bceadc802590fc44"
+hash = "1965658333e46f8a375d3efee20cbfc49400d576f7051e81da832a70da79e3c0"
 metafile = true
 
 [[files]]
@@ -4423,7 +4423,7 @@ metafile = true
 
 [[files]]
 file = "mods/seasonhud.pw.toml"
-hash = "1d6c94b697a5f72039c2b020107e8cb566de95964806f1f9047f55c9b48bc25e"
+hash = "8c8134d245bf4cd2619a7e0d1ecdaf6beb20379ee1680e90d934386a1d28ad64"
 metafile = true
 
 [[files]]
