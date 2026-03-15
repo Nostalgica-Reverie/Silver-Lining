@@ -1,13 +1,13 @@
 name = "Picture Mode"
-filename = "picturemode-neoforge-1.1.1+1.21.1.jar"
+filename = "picturemode-neoforge-1.1.2+1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/kFU5UCQz/versions/oHy7evVV/picturemode-neoforge-1.1.1%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/kFU5UCQz/versions/e1R6SHYK/picturemode-neoforge-1.1.2%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "371127d7e328359d04d37c7c3b29155250500988c9e7c083f0e491a10dae79448e5e8df77151a8516d25476a6434974f904f5d46429e303ba37900902e193288"
+hash = "8569167a5784a3372a963a84657d4264ea43206e7a69bc8eeba94afaa14054a4a8bdb8c6d73078efc4c7c062224964edd755d44ea5e18f8640da3a006bff9fee"
 
 [update]
 [update.modrinth]
 mod-id = "kFU5UCQz"
-version = "oHy7evVV"
+version = "e1R6SHYK"

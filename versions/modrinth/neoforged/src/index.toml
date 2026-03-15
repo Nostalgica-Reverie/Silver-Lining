@@ -4278,12 +4278,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "e7544296d2cdd85e43a60cf3e7a8f3e036782e14abc4efeea7f064d980d59dd5"
+hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
 metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "4938df12efb521463114135f453e82eeca8469493b359f07414f51a78da20735"
+hash = "efe57fac888f82b6be033ff5fed9b9a71095e1ee65da7e26d6081cba7174f617"
 metafile = true
 
 [[files]]
@@ -4393,7 +4393,7 @@ metafile = true
 
 [[files]]
 file = "mods/picture-mode.pw.toml"
-hash = "33f394e9aff1b6ffb9c5c33e2b04fffc0513752c32a6680fb9f35c7ccb7981ed"
+hash = "b7c2545ecdb354a5492ba86afb2c42343f7296d80a21bce9dfc4dcbd8cc24841"
 metafile = true
 
 [[files]]
@@ -4518,7 +4518,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "4e848b8be831395dd52f7028b4aa8a0599f03ddfbd44c16808f3c5cc28fe12ec"
+hash = "398300198f9c631bc6f300cb8cf8aa6a5a18c8f287ee5d7b5e8f85226d4c10b6"
 metafile = true
 
 [[files]]
